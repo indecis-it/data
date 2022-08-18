@@ -1,0 +1,253 @@
+[
+{
+  "id": 1,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Alloggi popolari",
+  "subject_slug": "alloggi-popolari",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "costruzione di 500mila alloggi popolari, nei prossimi 10 anni, utilizzando in modo massiccio interventi di rigenerazione urbana per limitare al massimo il consumo di suolo e allo stesso tempo per dare una nuova vita agli spazi meno curati delle nostre città."
+}
+,{
+  "id": 2,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Apprendistato retribuito",
+  "subject_slug": "apprendistato-retribuito",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Gli stage extra-curriculari non saranno più consentiti per legge; sarà invece possibile utilizzare contratti di apprendistato retribuito, le cui forme di attivazione saranno rese via via sempre più semplici."
+}
+,{
+  "id": 3,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Approvvigionamento energetico",
+  "subject_slug": "approvvigionamento-energetico",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "La guerra in Ucraina ha reso ancora più urgente la transizione energetica del nostro Paese. Abbiamo bisogno di produrre energia da fonti rinnovabili per ridurre l’inquinamento, per renderci più indipendenti a livello geopolitico e per pagare meno le bollette.\n\nProponiamo un piano nazionale per la costruzione di nuovi parchi rinnovabili che porterà alla creazione di 470mila ‘lavori verdi’ in 10 anni. Vogliamo azzerare la burocrazia per le imprese che vorranno installare pannelli solari nei propri stabilimenti e abbatteremo i costi della bolletta energetica attraverso un contratto luce sociale per famiglie con reddito medio basso."
+}
+,{
+  "id": 4,
+  "category": "Health",
+  "category_id": 7,
+  "subject": "Aumento medici di base",
+  "subject_slug": "aumento-medici-di-base",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Gli anni drammatici della pandemia hanno mostrato tutta la miopia di questa valutazione e hanno confermato, al contrario, la necessità di un supporto sanitario pubblico, di qualità e di prossimità, disponibile per tutta la popolazione e sull’intero territorio italiano.\n\nAttraverso un piano di assunzioni nella sanità ci impegniamo a colmare questa mancanza nell’assistenza di prossimità, avvertita da sempre più italiani, in modo da garantire a tutti l’accesso a questo diritto, oggi quanto mai indispensabile."
+}
+,{
+  "id": 5,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento posti lavoro medici",
+  "subject_slug": "aumento-posti-lavoro-medici",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Gli anni drammatici della pandemia hanno mostrato tutta la miopia di questa valutazione e hanno confermato, al contrario, la necessità di un supporto sanitario pubblico, di qualità e di prossimità, disponibile per tutta la popolazione e sull’intero territorio italiano.\n\nAttraverso un piano di assunzioni nella sanità ci impegniamo a colmare questa mancanza nell’assistenza di prossimità, avvertita da sempre più italiani, in modo da garantire a tutti l’accesso a questo diritto, oggi quanto mai indispensabile."
+}
+,{
+  "id": 6,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Contributo affitto giovani",
+  "subject_slug": "contributo-affitto-giovani",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "nel nostro programma abbiamo inserito un contributo da 2000 euro l’anno per studenti e lavoratori di età inferiore a 35 anni e che hanno un regolare contratto di affitto. Il contributo è pensato per coloro che hanno un ISEE fino a 20.000 euro. In concreto significa aiutare l’80% dei giovani che decidono di prendere una casa in affitto."
+}
+,{
+  "id": 7,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Promuoveremo un’agenda sui diritti civili, a partire dall’approvazione immediata di un nuovo DDL Zan, un matrimonio egualitario e l’estensione delle tutele antidiscriminatorie già operanti nell’ambito dell’accesso al lavoro e a beni e servizi anche alle discriminazioni fondate su orientamento sessuale e identità di genere."
+}
+,{
+  "id": 8,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Energia rinnovabile",
+  "subject_slug": "energia-rinnovabile",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "La guerra in Ucraina ha reso ancora più urgente la transizione energetica del nostro Paese. Abbiamo bisogno di produrre energia da fonti rinnovabili per ridurre l’inquinamento, per renderci più indipendenti a livello geopolitico e per pagare meno le bollette.\n\nProponiamo un piano nazionale per la costruzione di nuovi parchi rinnovabili che porterà alla creazione di 470mila ‘lavori verdi’ in 10 anni. Vogliamo azzerare la burocrazia per le imprese che vorranno installare pannelli solari nei propri stabilimenti e abbatteremo i costi della bolletta energetica attraverso un contratto luce sociale per famiglie con reddito medio basso."
+}
+,{
+  "id": 9,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius scholae",
+  "subject_slug": "ius-scholae",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Chi è figlio di genitori stranieri e completa un ciclo di studi in Italia diventa cittadino italiano: ne ha diritto, come ne ha diritto ciascuno di noi."
+}
+,{
+  "id": 10,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Promuoveremo un’agenda sui diritti civili, a partire dall’approvazione immediata di un nuovo DDL Zan, un matrimonio egualitario e l’estensione delle tutele antidiscriminatorie già operanti nell’ambito dell’accesso al lavoro e a beni e servizi anche alle discriminazioni fondate su orientamento sessuale e identità di genere."
+}
+,{
+  "id": 11,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Parità salariale",
+  "subject_slug": "parit-salariale",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Le lavoratrici italiane guadagnano mediamente il 20% in meno degli uomini a parità di mansione. Nonostante questo, continuano a subire il ricatto tra crescita professionale e scelte di vita come la maternità. Mentre l’accesso a ruoli apicali, per le donne è una chimera, o, peggio, una concessione.\n\nGrazie al PD, ora abbiamo una legge sulla parità salariale che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Grazie a meccanismi di trasparenza e una premialità per le aziende virtuose vogliamo accompagnare un cambiamento culturale vitale per il nostro paese. Per le donne e la loro piena realizzazione. Per l’Italia e la sua crescita.\n\nMa aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte. Non possiamo fermarci adesso."
+}
+,{
+  "id": 12,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Posti lavoro",
+  "subject_slug": "posti-lavoro",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Proponiamo un piano nazionale per la costruzione di nuovi parchi rinnovabili che porterà alla creazione di 470mila ‘lavori verdi’ in 10 anni."
+}
+,{
+  "id": 13,
+  "category": "General public services",
+  "category_id": 1,
+  "subject": "Presidenzialismo",
+  "subject_slug": "presidenzialismo",
+  "source_title": "Accordo elettorale tra PD e Alleanza Verdi e Sinistra (AVS)",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "red",
+  "description": "Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo"
+}
+,{
+  "id": 14,
+  "category": "General public services",
+  "category_id": 1,
+  "subject": "Presidenzialismo",
+  "subject_slug": "presidenzialismo",
+  "source_title": "Accordo elettorale tra PD e Alleanza Verdi e Sinistra (PD)",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "red",
+  "description": "Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo"
+}
+,{
+  "id": 15,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Riduzione bolletta energetica",
+  "subject_slug": "riduzione-bolletta-energetica",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Abbatteremo i costi della bolletta energetica attraverso un contratto luce sociale per famiglie con reddito medio basso"
+}
+,{
+  "id": 16,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Riduzione burocrazia verde",
+  "subject_slug": "riduzione-burocrazia-verde",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Vogliamo azzerare la burocrazia per le imprese che vorranno installare pannelli solari nei propri stabilimenti"
+}
+,{
+  "id": 17,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Salario minimo",
+  "subject_slug": "salario-minimo",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Introdurremo un salario minimo obbligatorio per le professioni che oggi non prevedono accordi collettivi, impediremo accordi-capestro e aumenteremo i controlli nei confronti di chi paga il lavoro senza contratto e senza tutele previdenziali."
+}
+,{
+  "id": 18,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Scuola infanzia gratuita",
+  "subject_slug": "scuola-infanzia-gratuita",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "obbligatoria la scuola dell’infanzia e garantendone la gratuità nell’accesso. Così vogliamo favorire l’uguaglianza già nei primi passi del percorso scolastico."
+}
+,{
+  "id": 19,
+  "category": "Education",
+  "category_id": 9,
+  "subject": "Scuola infanzia obbligatoria",
+  "subject_slug": "scuola-infanzia-obbligatoria",
+  "source_title": "Campagna elettorale 2022 PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "obbligatoria la scuola dell’infanzia e garantendone la gratuità nell’accesso. Così vogliamo favorire l’uguaglianza già nei primi passi del percorso scolastico."
+}
+,{
+  "id": 20,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Stipendio docenti",
+  "subject_slug": "stipendio-docenti",
+  "source_title": "Tweet 2022-08-09",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Letta: Gli insegnanti 🇮🇹 sono tra i meno pagati in 🇪🇺. Ci impegniamo nell’arco della prossima legislatura ad alzare gli stipendi dei nostri docenti per riportarli nella media europea"
+}
+,{
+  "id": 21,
+  "category": "Education",
+  "category_id": 9,
+  "subject": "Stipendio docenti",
+  "subject_slug": "stipendio-docenti",
+  "source_title": "Tweet 2022-08-09",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Letta: Gli insegnanti 🇮🇹 sono tra i meno pagati in 🇪🇺. Ci impegniamo nell’arco della prossima legislatura ad alzare gli stipendi dei nostri docenti per riportarli nella media europea"
+}
