@@ -12,20 +12,20 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: slug
-        - type: string
-          name: source
-        - type: string
-          name: name_en
-        - type: string
-          name: description_en
-        - type: string
-          name: name_it
-        - type: string
-          name: description_it
+        - name: id
+          type: integer
+        - name: slug
+          type: string
+        - name: source
+          type: string
+        - name: name_en
+          type: string
+        - name: description_en
+          type: string
+        - name: name_it
+          type: string
+        - name: description_it
+          type: string
   - path: coalitions.csv
     name: coalitions
     profile: tabular-data-resource
@@ -35,10 +35,10 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: coalition
+        - name: id
+          type: integer
+        - name: coalition
+          type: string 
   - path: endorsements.csv
     name: endorsements
     profile: tabular-data-resource
@@ -48,14 +48,14 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: description
-        - type: string
-          name: icon
-        - type: string
-          name: color_code
+        - name: id
+          type: integer
+        - name: description
+          type: string
+        - name: icon
+          type: string
+        - name: color_code
+          type: string
   - path: glossary.csv
     name: glossary
     profile: tabular-data-resource
@@ -82,26 +82,26 @@ resources:
     encoding: cp1252
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: category
-        - type: integer
-          name: category_id
-        - type: string
-          name: subject
-        - type: string
-          name: subject_slug
-        - type: string
-          name: source_title
-        - type: string
-          name: list
-        - type: integer
-          name: list_id
-        - type: string
-          name: endorsement
-        - type: string
-          name: description
+        - name: id
+          type: integer
+        - name: category
+          type: string
+        - name: category_id
+          type: integer
+        - name: subject
+          type: string
+        - name: subject_slug
+          type: string
+        - name: source_title
+          type: string
+        - name: list
+          type: string
+        - name: list_id
+          type: integer
+        - name: endorsement
+          type: string
+        - name: description
+          type: string
   - path: lists.csv
     name: lists
     profile: tabular-data-resource
@@ -111,16 +111,16 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: list
-        - type: string
-          name: slug
-        - type: string
-          name: symbol_name
-        - type: string
-          name: symbol_url
+        - name: id
+          type: integer
+        - name: list
+          type: string
+        - name: slug
+          type: string
+        - name: symbol_name
+          type: string
+        - name: symbol_url
+          type: string
   - path: parties.csv
     name: parties
     profile: tabular-data-resource
@@ -130,18 +130,18 @@ resources:
     encoding: utf-8
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: party
-        - type: integer
-          name: list_id
-        - type: string
-          name: list
-        - type: integer
-          name: coalition_id
-        - type: string
-          name: coalition
+        - name: id
+          type: integer
+        - name: party
+          type: string
+        - name: list_id
+          type: integer
+        - name: list
+          type: string
+        - name: coalition_id
+          type: integer
+        - name: coalition
+          type: string
   - path: sources.csv
     name: sources
     profile: tabular-data-resource
@@ -151,15 +151,15 @@ resources:
     encoding: cp1252
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: list
-        - type: string
-          name: title
-        - type: string
-          name: type
-        - type: string
-          name: url
+        - name: id
+          type: integer
+        - name: list
+          type: string
+        - name: title
+          type: string
+        - name: type
+          type: string
+        - name: url
+          type: string
 profile: data-package
 
