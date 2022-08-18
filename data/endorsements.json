@@ -4,14 +4,14 @@
   "description": "favorevole",
   "icon": "green",
   "color_code": "#50CEBB"
-}
-,{
+},
+{
   "id": 2,
   "description": "neutro",
   "icon": "yellow",
   "color_code": "#2331C5"
-}
-,{
+},
+{
   "id": 3,
   "description": "contrario",
   "icon": "red",
