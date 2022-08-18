@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,subject,subject_slug,URL
 1,Alloggi popolari,alloggi-popolari,www.google.com
 2,Apprendistato retribuito,apprendistato-retribuito,
@@ -19,3 +20,26 @@ id,subject,subject_slug,URL
 18,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,
 19,Stipendio docenti,stipendio-docenti,
 20,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,
+=======
+id,subject,subject_slug,URL
+1,Alloggi popolari,alloggi-popolari,
+1,Apprendistato retribuito,apprendistato-retribuito,
+1,Approvvigionamento energetico,approvvigionamento-energetico,
+1,Aumento medici di base,aumento-medici-di-base,
+1,Aumento posti lavoro medici,aumento-posti-lavoro-medici,
+1,Contributo affitto giovani,contributo-affitto-giovani,
+1,DDL Zan,ddl-zan,
+1,Energia rinnovabile,energia-rinnovabile,
+1,Ius scholae,ius-scholae,
+1,Matrimonio egualitario,matrimonio-egualitario,
+1,Parità salariale,parit-salariale,
+1,Posti lavoro,posti-lavoro,
+1,Presidenzialismo,presidenzialismo,
+1,Riduzione bolletta energetica,riduzione-bolletta-energetica,
+1,Riduzione burocrazia verde,riduzione-burocrazia-verde,
+1,Salario minimo,salario-minimo,
+1,Scuola infanzia gratuita,scuola-infanzia-gratuita,
+1,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,
+1,Stipendio docenti,stipendio-docenti,
+1,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,
+>>>>>>> d6bf275964b9b7967e8900e40d51be15d1a8bd67
