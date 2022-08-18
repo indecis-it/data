@@ -1,0 +1,165 @@
+# --------
+# metadata: categories.csv coalitions.csv endorsements.csv glossary.csv items.csv lists.csv parties.csv sources.csv
+# --------
+
+resources:
+  - path: categories.csv
+    name: categories
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: slug
+        - type: string
+          name: source
+        - type: string
+          name: name_en
+        - type: string
+          name: description_en
+        - type: string
+          name: name_it
+        - type: string
+          name: description_it
+  - path: coalitions.csv
+    name: coalitions
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: coalition
+  - path: endorsements.csv
+    name: endorsements
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: description
+        - type: string
+          name: icon
+        - type: string
+          name: color_code
+  - path: glossary.csv
+    name: glossary
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: iso8859-1
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: subject
+        - type: string
+          name: subject_slug
+        - type: string
+          name: URL
+  - path: items.csv
+    name: items
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: cp1252
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: category
+        - type: integer
+          name: category_id
+        - type: string
+          name: subject
+        - type: string
+          name: subject_slug
+        - type: string
+          name: source_title
+        - type: string
+          name: list
+        - type: integer
+          name: list_id
+        - type: string
+          name: endorsement
+        - type: string
+          name: description
+  - path: lists.csv
+    name: lists
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: list
+        - type: string
+          name: slug
+        - type: string
+          name: symbol_name
+        - type: string
+          name: symbol_url
+  - path: parties.csv
+    name: parties
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: party
+        - type: integer
+          name: list_id
+        - type: string
+          name: list
+        - type: integer
+          name: coalition_id
+        - type: string
+          name: coalition
+  - path: sources.csv
+    name: sources
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: cp1252
+    schema:
+      fields:
+        - type: integer
+          name: id
+        - type: string
+          name: list
+        - type: string
+          name: title
+        - type: string
+          name: type
+        - type: string
+          name: url
+profile: data-package
+
