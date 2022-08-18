@@ -27,8 +27,6 @@ echo "glossary.csv downloaded"
 curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v_x2EiVC-kxjtiLBJR_Gm2zmLqftenCTQqK7lwnEat1CyhBbec2r0czvsb/pub?gid=1842162450&single=true&output=csv" > ../data/endorsements.csv
 echo "endorsements.csv downloaded"
 
-
-
 # convert csv2json
 mlr --icsv --ojson --jlistwrap --jvstack cat ../data/categories.csv > ../data/categories.json
 echo "categories.csv converted to json"
