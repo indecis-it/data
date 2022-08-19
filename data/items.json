@@ -44,12 +44,12 @@
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
   "subject_slug": "aumento-assegno-unico-universale",
-  "source_title": "Programma elettorale AVS",
-  "list": "Alleanza Verdi e Sinistra",
-  "list_id": 8,
+  "source_title": "",
+  "list": "",
+  "list_id": "",
   "endorsement": "",
   "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": ""
 }
 ,{
   "id": 5,
@@ -57,15 +57,67 @@
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
   "subject_slug": "aumento-assegno-unico-universale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 6,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento assegno unico universale",
+  "subject_slug": "aumento-assegno-unico-universale",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-avs"
+}
+,{
+  "id": 7,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento assegno unico universale",
+  "subject_slug": "aumento-assegno-unico-universale",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 8,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento assegno unico universale",
+  "subject_slug": "aumento-assegno-unico-universale",
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 6,
+  "id": 9,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento assegno unico universale",
+  "subject_slug": "aumento-assegno-unico-universale",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 10,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
@@ -78,7 +130,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 7,
+  "id": 11,
   "category": "Health",
   "category_id": 7,
   "subject": "Aumento medici di base",
@@ -91,7 +143,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 8,
+  "id": 12,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento posti lavoro medici",
@@ -104,7 +156,33 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 9,
+  "id": 13,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 14,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 15,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Conto unico fiscale",
@@ -112,12 +190,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 10,
+  "id": 16,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 17,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Conto unico fiscale",
@@ -125,12 +216,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 11,
+  "id": 18,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 19,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Conto unico fiscale",
@@ -138,12 +242,12 @@
   "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 12,
+  "id": 20,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Contributo affitto giovani",
@@ -156,7 +260,85 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 13,
+  "id": 21,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 22,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 23,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "green",
+  "description": "Una legge sull’uguaglianza e la pari dignità familiare che dia risposte concrete e che spazzi via l’ipocrisia di voler mantenere le donne, i figli e le figlie delle famiglie arcobaleno e le persone lgbt+ un gradino sotto le altre.",
+  "source_slug": "programma-elettorale-avs"
+}
+,{
+  "id": 24,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 25,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 5,
+  "endorsement": "yellow",
+  "description": "Non se ne parla nel programma",
+  "source_slug": "programma-elettorale-lega"
+}
+,{
+  "id": 26,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "DDL Zan",
+  "subject_slug": "ddl-zan",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 27,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "DDL Zan",
@@ -169,7 +351,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 14,
+  "id": 28,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Energia rinnovabile",
@@ -182,7 +364,33 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 15,
+  "id": 29,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Flat tax",
+  "subject_slug": "flat-tax",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 30,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Flat tax",
+  "subject_slug": "flat-tax",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 31,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -190,12 +398,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "red",
+  "description": "Riforma dell’imposta sulle persone fisiche\nOggi in Italia chi vive di rendite finanziarie o immobiliari paga meno tasse di chi lavora.\n\nNoi crediamo invece che tutte le fonti di reddito debbano essere cumulate e tassate alla stessa maniera, con un’imposta unica e progressiva.\n\nVogliamo inoltre che il carico fiscale sia redistribuito, a vantaggio dei redditi più bassi.\n\nPer questo proponiamo di alzare a 1.000 euro la quota di reddito esente da imposte, per poi applicare un’aliquota mobile crescente sul modello tedesco, che arrivi al 65% per i redditi superiori ai 10 milioni di euro.",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 16,
+  "id": 32,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Flat tax",
+  "subject_slug": "flat-tax",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 33,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -203,12 +424,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "PROSEGUIRE IL PERCORSO VERSO LA FLAT TAX\nLa Legge di bilancio 2019 (L. 30 dicembre 2018, n. 145) ha introdotto la cosiddetta “mini flat tax”,\novvero l’estensione fino a € 65mila di fatturato del regime dei minimi per le partite Iva (persone\nfisiche esercenti attività d’impresa, arti o professioni). Questo regime ha incontrato e continua ad\nincontrare il favore dei contribuenti, soprattutto per la semplicità della sua applicazione. Secondo\nl’Osservatorio sulle partite Iva del Mef, nel 2021 hanno aderito a questo regime 239.203 contribuenti,\npari al 43,5% delle nuove aperture di partita Iva. La sua adozione ha dato un contributo\nsignificativo all’emersione del sommerso, determinando un notevole recupero di gettito.\nEstensione a € 100mila\nCome primo passo sul percorso della Flat tax è indispensabile portare a termine la sua\nfase 1 estendendola alle partite Iva con fatturato fino a € 100mila, come già previsto\ndalla legge di bilancio approvata nel 2019 (e successivamente abrogata dal governo\nConte II)\nFlat tax incrementale\nPer favorire la ripresa, e in attesa di una ridefinizione complessiva del sistema di imposizione\nsul reddito, proponiamo l’adozione del sistema di Flat tax cosiddetta incrementale,\nche assoggetta a imposta sostitutiva gli incrementi di Irpef e Ires, incentivando\nl’emersione dell’economia sommersa e non penalizzando la crescita delle aziende.\nLa proposta Lega, a prima firma Romeo, è depositata dal 2019 presso la Commissione\nFinanze del Senato come AS 1071\nFlat Tax fase 2\nLa seconda fase della realizzazione della Flat tax è normata dal disegno di legge AS\n1831 a prima firma Siri, depositato nel 2020, e viene attuata attraverso l’introduzione\ndella Flat Tax per le famiglie fiscali, l’ulteriore accorpamento delle ultime tre aliquote\ndell’imposta sul reddito delle persone fisiche (dopo quello disposto dalla legge di bilancio\n2022), l’introduzione per due anni della Flat Tax sul reddito incrementale Irpef\ne Ires e la riduzione dell’aliquota dell’Ires al 20%\nFlat Tax fase 3\nEstensione della Flat Tax a tutte le persone fisiche e giuridiche, senza limiti di reddito",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 17,
+  "id": 34,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Flat tax",
+  "subject_slug": "flat-tax",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 35,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -221,7 +455,85 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 18,
+  "id": 36,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Inceneritori",
+  "subject_slug": "inceneritori",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "red",
+  "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 37,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Inceneritori",
+  "subject_slug": "inceneritori",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "red",
+  "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 38,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Inceneritori",
+  "subject_slug": "inceneritori",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-pd"
+}
+,{
+  "id": 39,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Inceneritori",
+  "subject_slug": "inceneritori",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-pd"
+}
+,{
+  "id": 40,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Investimenti infrastrutture",
+  "subject_slug": "investimenti-infrastrutture",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 41,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Investimenti infrastrutture",
+  "subject_slug": "investimenti-infrastrutture",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 42,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -229,12 +541,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 19,
+  "id": 43,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Investimenti infrastrutture",
+  "subject_slug": "investimenti-infrastrutture",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 44,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -242,12 +567,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Occorre prevedere una «scossa» da 150 miliardi di euro per le infrastrutture del Paese, di cui\nmetà dal PNRR e metà da opportune forme di \"partnership fra pubblico e privato\" (Ppp).\nDobbiamo investire prioritariamente per attrezzare adeguatamente i nostri Porti con aree retro\nportuali capaci di garantire lo sdoganamento delle merci in loco per poi essere trasportate grazie\nall’Alta Portabilità nelle destinazioni finali.",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 20,
+  "id": 45,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Investimenti infrastrutture",
+  "subject_slug": "investimenti-infrastrutture",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 46,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -260,7 +598,33 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 21,
+  "id": 47,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius scholae",
+  "subject_slug": "ius-scholae",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 48,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius scholae",
+  "subject_slug": "ius-scholae",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 49,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -268,12 +632,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 22,
+  "id": 50,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius scholae",
+  "subject_slug": "ius-scholae",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 51,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -281,12 +658,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "red",
+  "description": "NO ALLO IUS SOLI\nNessuna modifica alla normativa sulla cittadinanza\nLa legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.\nL’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione\ndi cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.\nNon verrà prevista nessuna modifica rispetto a questo principio.\nNessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,\nIus Culturae o Ius Temperato.",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 23,
+  "id": 52,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius scholae",
+  "subject_slug": "ius-scholae",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "IUS SCHOLAE per riconoscere la cittadinanza al minore straniero, che sia nato in Italia o vi abbia\nfatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 53,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -299,7 +689,33 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 24,
+  "id": 54,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius soli",
+  "subject_slug": "ius-soli",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 55,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius soli",
+  "subject_slug": "ius-soli",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 56,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -307,12 +723,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 25,
+  "id": 57,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius soli",
+  "subject_slug": "ius-soli",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 58,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -320,12 +749,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "red",
+  "description": "NO ALLO IUS SOLI\nNessuna modifica alla normativa sulla cittadinanza\nLa legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.\nL’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione\ndi cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.\nNon verrà prevista nessuna modifica rispetto a questo principio.\nNessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,\nIus Culturae o Ius Temperato.",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 26,
+  "id": 59,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Ius soli",
+  "subject_slug": "ius-soli",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 60,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -338,7 +780,85 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 27,
+  "id": 61,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 62,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 63,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "green",
+  "description": "Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso.",
+  "source_slug": "programma-elettorale-avs"
+}
+,{
+  "id": 64,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 65,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 5,
+  "endorsement": "yellow",
+  "description": "Non se ne parla nel programma",
+  "source_slug": "programma-elettorale-lega"
+}
+,{
+  "id": 66,
+  "category": "Values and rights",
+  "category_id": 11,
+  "subject": "Matrimonio egualitario",
+  "subject_slug": "matrimonio-egualitario",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 67,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Matrimonio egualitario",
@@ -351,7 +871,59 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 28,
+  "id": 68,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 69,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 70,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 71,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 72,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -359,12 +931,12 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "red",
+  "description": "No al nucleare, come da mandato dei due referendum.\n\nFare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo.",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 29,
+  "id": 73,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -372,12 +944,38 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "red",
+  "description": "No al nucleare, come da mandato dei due referendum.\n\nFare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo.",
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 30,
+  "id": 74,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 75,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 76,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -385,12 +983,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Nucleare Pulito e Sicuro\nIn abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare\ndi ultima generazione, pulito e sicuro, riconosciuto nella tassonomia europea, per perseguire\ngli obiettivi di decarbonizzazione al 2050 e allo stesso tempo rispondere alla domanda sempre\ncrescente di energia elettrica, garantire un sistema energetico sicuro e stabile e ridurre la dipendenza\nenergetica dall’estero.",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 31,
+  "id": 77,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -398,12 +996,38 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Nucleare Pulito e Sicuro\nIn abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare\ndi ultima generazione, pulito e sicuro, riconosciuto nella tassonomia europea, per perseguire\ngli obiettivi di decarbonizzazione al 2050 e allo stesso tempo rispondere alla domanda sempre\ncrescente di energia elettrica, garantire un sistema energetico sicuro e stabile e ridurre la dipendenza\nenergetica dall’estero.",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 32,
+  "id": 78,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 79,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Nucleare",
+  "subject_slug": "nucleare",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 80,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -413,10 +1037,10 @@
   "list_id": 1,
   "endorsement": "red",
   "description": "Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 33,
+  "id": 81,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -426,10 +1050,10 @@
   "list_id": 1,
   "endorsement": "red",
   "description": "Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 34,
+  "id": 82,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Parità salariale",
@@ -439,10 +1063,36 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Grazie al nostro impegno, nella legislatura appena conclusa abbiamo approvato una legge sulla parità salariale (Legge Gribaudo 162/2021) che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Ma aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 35,
+  "id": 83,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Patrimoniale",
+  "subject_slug": "patrimoniale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 84,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Patrimoniale",
+  "subject_slug": "patrimoniale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 85,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -452,10 +1102,23 @@
   "list_id": 8,
   "endorsement": "green",
   "description": "Riforma dell’imposta patrimoniale\nOggi in Italia le imposte sui patrimoni sono fatte per gravare molto su chi ha poco e poco su chi ha molto.\n\nQuesto è particolarmente intollerabile in un paese dove il 5% più abbiente della popolazione possiede la stessa ricchezza dell’80% più povero.\n\nPer questo noi vogliamo abolire l’IMU e l’imposta di bollo sugli investimenti, per adottare un’imposta patrimoniale personale, unica e progressiva, che gravi sull’insieme di tutti i beni mobili e immobili, di qualsiasi natura.\n\nPrevediamo in questo modo di aumentare la tassazione sui patrimoni o superiori a 5 milioni di euro, con un’imposta progressiva che cresca fino al 2% oltre i 50 milioni.",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": ""
 }
 ,{
-  "id": 36,
+  "id": 86,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Patrimoniale",
+  "subject_slug": "patrimoniale",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 87,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -463,12 +1126,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "red",
+  "description": "Rafforzamenti o estensioni delle imposte sul patrimonio sono\ninique e inefficienti nella misura in cui scoraggiano il risparmio e quindi il livello di investimenti\ne il potenziale di crescita economica del Paese. In termini concreti, proponiamo l’abolizione di\nalcune imposte patrimoniali particolarmente penalizzanti per la piccola proprietà immobiliare e\ndell’IRAP, che per il suo peculiare meccanismo obbliga le imprese a pagare imposte anche quando\nsono in perdita.",
+  "source_slug": ""
 }
 ,{
-  "id": 37,
+  "id": 88,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Patrimoniale",
+  "subject_slug": "patrimoniale",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 89,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -476,12 +1152,38 @@
   "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 38,
+  "id": 90,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Ponte sullo Stretto",
+  "subject_slug": "ponte-sullo-stretto",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 91,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Ponte sullo Stretto",
+  "subject_slug": "ponte-sullo-stretto",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 92,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -489,12 +1191,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "endorsement": "red",
+  "description": "Ribadiamo il nostro no al ponte sullo stretto di Messina opera inutile, inserita in un contesto ad alto rischio sismico ed idrogeologico e che sottrarrebbe 10 miliardi di euro ad opere e infrastrutture socialmente utili.",
+  "source_slug": ""
 }
 ,{
-  "id": 39,
+  "id": 93,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Ponte sullo Stretto",
+  "subject_slug": "ponte-sullo-stretto",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 94,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -502,12 +1217,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità\nterritoriale tra Sicilia e Calabria (ponte sullo Stretto).",
+  "source_slug": ""
 }
 ,{
-  "id": 40,
+  "id": 95,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Ponte sullo Stretto",
+  "subject_slug": "ponte-sullo-stretto",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 96,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -515,12 +1243,12 @@
   "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 41,
+  "id": 97,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Posti lavoro",
@@ -530,10 +1258,36 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Introdurremo un piano nazionale per il risparmio energetico e interventi finalizzati ad aumentare drasticamente la quota di rinnovabili prodotte in Italia, anche attraverso lo sviluppo delle Comunità energetiche, con l'obiettivo di installare 85 GW di rinnovabili in più entro il 2030. Un obiettivo ambizioso ma realistico che porterà, secondo alcune stime, alla creazione di circa 500.000 nuovi posti di lavoro.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 42,
+  "id": 98,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Presidenzialismo",
+  "subject_slug": "presidenzialismo",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 99,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Presidenzialismo",
+  "subject_slug": "presidenzialismo",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 100,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -543,10 +1297,23 @@
   "list_id": 8,
   "endorsement": "red",
   "description": "Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo",
-  "source_slug": "accordo-elettorale-tra-pd-e-alleanza-verdi-e-sinistra-avs"
+  "source_slug": ""
 }
 ,{
-  "id": 43,
+  "id": 101,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Presidenzialismo",
+  "subject_slug": "presidenzialismo",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Proponiamo l’elezione diretta da parte dei cittadini del Presidente del Consiglio sul modello dei sindaci delle città più grandi.",
+  "source_slug": ""
+}
+,{
+  "id": 102,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -554,12 +1321,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "Il presidenzialismo, secondo il modello sperimentato in Francia con successo, è la risposta\nEleggere direttamente il Capo dello Stato, in un contesto di rafforzamento dei poteri\ndi controllo del Parlamento, consentirà ai cittadini di scegliere chi ha la responsabilità\ne i poteri per far rispettare la volontà espressa in occasione delle elezioni. Il Presidente\ndella Repubblica direttamente eletto vigilerà sui comportamenti delle forze politiche,\nguiderà la politica nazionale, rappresenterà l’Italia nei consessi internazionali per tutta\nla durata del suo mandato",
+  "source_slug": ""
 }
 ,{
-  "id": 44,
+  "id": 103,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Presidenzialismo",
+  "subject_slug": "presidenzialismo",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 104,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -569,10 +1349,36 @@
   "list_id": 1,
   "endorsement": "red",
   "description": "Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo",
-  "source_slug": "accordo-elettorale-tra-pd-e-alleanza-verdi-e-sinistra-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 45,
+  "id": 105,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Realizzazione grandi opere",
+  "subject_slug": "realizzazione-grandi-opere",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 106,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Realizzazione grandi opere",
+  "subject_slug": "realizzazione-grandi-opere",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 107,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -580,12 +1386,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "endorsement": "green",
+  "description": "Un “Piano straordinario per il trasporto pubblico locale”\nIl 74% degli spostamenti riguarda distanze entro i 10 km e viene soddisfatto per oltre il 62% ricorrendo all’auto privata.\n\nVogliamo affrontare le carenze organizzative, di infrastrutture e dotazione di mezzi per una più elevata qualità del servizio erogato; ampliare e mettere in sicurezza percorsi ciclabili e pedonali; digitalizzare tutti i servizi di mobilità; offrire tariffe agevolate e incentivi all’utilizzo delle alternative all’auto. Per raggiungere questi obiettivi si rende necessario rimodulare il fondo complementare del Pnrr pari a 30 miliardi di euro per destinarlo in via prioritaria agli investimenti sul trasporto pubblico. È necessario favorire lo smart working per tutti i lavoratori e lavoratrici la cui presenza non è richiesta fisicamente.\n\nProponiamo inoltre che i trasporti pubblici locali e i treni regionali siano resi gratuiti per gli Under 30, così da promuovere nuovi modelli di mobilità fra le giovani generazioni.",
+  "source_slug": ""
 }
 ,{
-  "id": 46,
+  "id": 108,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Realizzazione grandi opere",
+  "subject_slug": "realizzazione-grandi-opere",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 109,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -593,12 +1412,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "CORSIA PREFERENZIALE PER LE GRANDI OPERE\nSuperare le attuali barriere normative ancora vigenti nel Codice dei Contratti e nella\nlegislazione ambientale che determinano ritardi e tempi non accettabili per la progettazione\ne approvazione delle grandi opere. Superare con urgenza l’attuale processo\ndi progettazione e attuazione delle opere pubbliche in Italia, attraverso l’adozione a\nlivello generale del “modello Genova”",
+  "source_slug": ""
 }
 ,{
-  "id": 47,
+  "id": 110,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Realizzazione grandi opere",
+  "subject_slug": "realizzazione-grandi-opere",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 111,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -606,12 +1438,129 @@
   "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 48,
+  "id": 112,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 113,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 114,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "green",
+  "description": "Rompere il circolo della povertà:\nLa ripresa economica non potrà prescindere dalla lotta alla povertà, alle disuguaglianze e alla comune presa di coscienza che è insopportabile che queste condizioni creino disparità nelle opportunità di vita delle persone.\n\nIn questo contesto intendiamo difendere e rafforzare il reddito di cittadinanza, secondo le previsioni del rapporto elaborato dalla Commissione presieduta da Chiara Saraceno, con l’obiettivo strategico di arrivare ad un vero Reddito Universale di Base.",
+  "source_slug": ""
+}
+,{
+  "id": 115,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 116,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 5,
+  "endorsement": "yellow",
+  "description": "Con la riforma del Reddito di Cittadinanza si intende:\n• per i percettori inidonei al lavoro, mantenere il sostegno al reddito, rivedendo i criteri di\naccesso e la scala di equivalenza, dando maggior peso al quoziente familiare, rimodulando\ngli importi in funzione delle differenti soglie di povertà assoluta (e quindi del potere d'acquisto)\nregistrate sul territorio nazionale;\n• per i percettori idonei all'attività lavorativa, la misura viene invece riformata trasformandola\nin un vero e proprio ammortizzatore sociale finalizzato all'occupazione. Corso di formazione,\ntirocinio e contrattualizzazione dei percettori a fine percorso, attraverso il coinvolgimento\ndelle agenzie private del lavoro, delle associazioni datoriali e attraverso l'utilizzo di\nincentivi fiscali e contributivi per l'assunzione dei percettori.",
+  "source_slug": ""
+}
+,{
+  "id": 117,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "RAFFORZAMENTO DEL REDDITO DI CITTADINANZA\nMisure per rendere più efficiente il sistema delle politiche attive. Monitoraggio delle\nmisure antifrode",
+  "source_slug": ""
+}
+,{
+  "id": 118,
+  "category": "Social protection",
+  "category_id": 10,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Dopo l’introduzione del salario minimo e del Reddito di Cittadinanza (che andrà opportunamente ricalibrato secondo le indicazioni elaborate dalla Commissione Saraceno, a partire dall’ingiustificata penalizzazione delle famiglie numerose e/o con minori) è necessario completare il sistema con un altro meccanismo: l’integrazione pubblica alla retribuzione (in-work benefit) in favore dei lavoratori e delle lavoratrici a basso reddito, come proposto dalla Commissione sul lavoro povero. Questo tipo di integrazione introduce nel sistema opportuni incentivi di ricerca e permanenza di occupazione, permette l’emersione del lavoro nero e incentiva al lavoro. In questo quadro, appare utile favorire la cumulabilità tra sussidi e lavoro, senza disincentivare la partecipazione al mercato del lavoro, anche in questo caso secondo le indicazioni della Commissione Saraceno. Infine, proponiamo di ridurre il periodo minimo di residenza in Italia per accedere al Reddito di Cittadinanza, oggi fissato in 10 anni.",
+  "source_slug": ""
+}
+,{
+  "id": 119,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Revisione PNRR",
+  "subject_slug": "revisione-pnrr",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 120,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Revisione PNRR",
+  "subject_slug": "revisione-pnrr",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 121,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -621,10 +1570,23 @@
   "list_id": 8,
   "endorsement": "green",
   "description": "Serve partecipazione nel delineare il PNRR, nel definire i progetti, nell’esecuzione. Serve maggiore coerenza rispetto alle grandi sfide (transizione ecologica, economia circolare, lotta agli squilibri, salute pubblica) ponendo al centro la disponibilità, la diffusione e l’utilizzo dei saperi. Un intervento di queste dimensioni e questa complessità non può ridursi all’”acquisto” di tecnologia o alla realizzazione di infrastrutture: è urgente affermare un governo sociale dell’innovazione capace di coglierne ricadute, modelli alternativi, implicazioni sociali e ambientali. Se è vero, inoltre, che il PNRR è finalizzato a investimenti a termine, questa massa di risorse può, però, affiancarsi a una programmazione che tenga conto delle risorse che si liberano e possono essere investite. Le risorse che arriveranno e saranno usate spesso per adeguamenti infrastrutturali non possono riproporre le università come parte di operazioni urbanistiche che hanno cementificato le nostre città senza aumentarne la qualità sociale.",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": ""
 }
 ,{
-  "id": 49,
+  "id": 122,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Revisione PNRR",
+  "subject_slug": "revisione-pnrr",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 123,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -632,12 +1594,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "source_slug": ""
 }
 ,{
-  "id": 50,
+  "id": 124,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Revisione PNRR",
+  "subject_slug": "revisione-pnrr",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 125,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -647,10 +1622,10 @@
   "list_id": 1,
   "endorsement": "red",
   "description": "Gli strumenti li abbiamo e sono molteplici, ma tutti fondati su uno stesso prerequisito: la stabilità necessaria a pianificare investimenti e scelte strategiche che guardano al futuro. Questo a partire dal PNRR e dal suo percorso di riforme interrotto bruscamente per la caduta del governo Draghi. Ciò significa portare a termine nei tempi previsti le tante riforme che l'Italia aspetta da tempo - cominciando da Fisco, Giustizia, Pubblica Amministrazione e Concorrenza - e tutti gli investimenti previsti dal PNRR, per non perdere neanche una delle opportunità offerte dai finanziamenti europei.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 51,
+  "id": 126,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
@@ -660,10 +1635,36 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Partendo da qui, a dimostrazione di come sostenibilità ambientale e sociale si rafforzino a vicenda, introdurremo un nuovo contratto “luce sociale” per le famiglie con redditi medi e bassi. Si tratta di un contratto di fornitura energetica prodotta totalmente da fonti rinnovabili e acquistata direttamente dalla società pubblica Acquirente Unico. Il contratto di acquisto avrà durata decennale e ciò permetterà di ottenere prezzi dell’energia elettrica molto bassi a vantaggio delle famiglie: fino ad un massimo di 1.350 KWh/anno per famiglia (pari al 50% del consumo medio), l’energia elettrica verrà fornita a costo zero, mentre sulla parte di consumo eccedente i prezzi saranno comunque calmierati.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 52,
+  "id": 127,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Riduzione IVA",
+  "subject_slug": "riduzione-iva",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 128,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Riduzione IVA",
+  "subject_slug": "riduzione-iva",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 129,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -671,12 +1672,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "endorsement": "green",
+  "description": "riduzione dell’aliquota IVA su cibo per animali e prestazioni veterinarie, oggi soggetti a tassazione come “beni di lusso”, che aggrava le condizioni di difficoltà economica di chi ha accolto in casa degli animali come parte della famiglia",
+  "source_slug": ""
 }
 ,{
-  "id": 53,
+  "id": 130,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Riduzione IVA",
+  "subject_slug": "riduzione-iva",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "IVA\nPassaggio ad un sistema a due aliquote (una ridotta e una ordinaria) e contestuale riordino dei beni e servizi assoggettati a ciascuna aliquota e ad aliquota zero.",
+  "source_slug": ""
+}
+,{
+  "id": 131,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -684,12 +1698,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "ABBATTIMENTO DELL’IVA SUI BENI DI PRIMA NECESSITÀ\nPer incidere sull’incremento dei prezzi dei beni di prima necessità, la Lega propone di abbattere\nle relative aliquote Iva. La proposta Lega, a prima firma Salvini, è depositata dal 2020 presso la Commissione Finanze del Senato come AS 2036.",
+  "source_slug": ""
 }
 ,{
-  "id": 54,
+  "id": 132,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Riduzione IVA",
+  "subject_slug": "riduzione-iva",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 133,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -699,10 +1726,62 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Proponiamo forme di detraibilità delle spese sostenute per la partecipazione alle attività culturali, l’abbattimento dell’IVA per i prodotti culturali\n\nSempre nel mondo non profit, sotto il profilo poi degli oneri fiscali, proporremo l’eliminazione dei nuovi obblighi IVA previsti dal 2024 e il graduale superamento dell'IRAP.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 55,
+  "id": 134,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 135,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 136,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 137,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 138,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -710,12 +1789,12 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "endorsement": "yellow",
+  "description": "Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
+  "source_slug": ""
 }
 ,{
-  "id": 56,
+  "id": 139,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -723,12 +1802,38 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "endorsement": "yellow",
+  "description": "Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
+  "source_slug": ""
 }
 ,{
-  "id": 57,
+  "id": 140,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 141,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 142,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -736,12 +1841,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "Proseguire con la diversificazione degli\napprovvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per\nl’affrancamento dal gas russo e per garantire la sicurezza del sistema energetico e la competitività\ndel Paese.",
+  "source_slug": ""
 }
 ,{
-  "id": 58,
+  "id": 143,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -749,12 +1854,38 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "Proseguire con la diversificazione degli\napprovvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per\nl’affrancamento dal gas russo e per garantire la sicurezza del sistema energetico e la competitività\ndel Paese.",
+  "source_slug": ""
 }
 ,{
-  "id": 59,
+  "id": 144,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 145,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 146,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -764,10 +1895,10 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.\nIn particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 60,
+  "id": 147,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -777,10 +1908,36 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.\nIn particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 61,
+  "id": 148,
+  "category": "General public services",
+  "category_id": 1,
+  "subject": "Salario minimo",
+  "subject_slug": "salario-minimo",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 149,
+  "category": "General public services",
+  "category_id": 1,
+  "subject": "Salario minimo",
+  "subject_slug": "salario-minimo",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 150,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -788,12 +1945,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "endorsement": "green",
+  "description": "Salario minimo\nNon dovrebbe essere possibile in una Repubblica fondata sul Lavoro, ma oggi in Italia succede di firmare un contratto che preveda 4,4 euro l’ora di paga.\n\nÈ il risultato di anni di leggi penalizzanti per le lavoratrici e i lavoratori, soprattutto giovani, donne e migranti, divisi fra loro, precari, ricattati e costretti ad accettare salari da fame.\n\nNoi crediamo si debba rivoluzionare il sistema: serve una legge sulla rappresentanza nei luoghi di lavoro e l’estensione a tutte e tutti delle tabelle retributive previste per il settore dai sindacati maggiormente rappresentativi.\n\nSe questo non basta, tanto è lo sfruttamento in alcuni settori come la logistica, prevediamo che esista comunque un salario minimo di 10 euro all’ora, sotto cui nessuno possa andare.\n\nSono 1.200 euro al mese ed è il prezzo della dignità.",
+  "source_slug": ""
 }
 ,{
-  "id": 62,
+  "id": 151,
+  "category": "General public services",
+  "category_id": 1,
+  "subject": "Salario minimo",
+  "subject_slug": "salario-minimo",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 152,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -801,12 +1971,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "È riconosciuto ai lavoratori un salario minimo pari a quello stabilito dai CCNL più diffusi\nnel settore",
+  "source_slug": ""
 }
 ,{
-  "id": 63,
+  "id": 153,
+  "category": "General public services",
+  "category_id": 1,
+  "subject": "Salario minimo",
+  "subject_slug": "salario-minimo",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "SALARIO MINIMO\nNove euro lordi l’ora di salario minimo legale per dire stop alle paghe da fame e dare dignità\nai lavoratori che oggi percepiscono di meno",
+  "source_slug": ""
+}
+,{
+  "id": 154,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -816,10 +1999,10 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "una legge che riconosca il valore legale erga omnes del trattamento economico complessivo dei contratti collettivi firmati dalle organizzazioni maggiormente rappresentative per debellare i “contratti pirata” e che introduca un salario minimo contrattuale, seguendo il modello tedesco, nei settori a più alta incidenza di povertà lavorativa, con una soglia minima affidata alla proposta delle parti sociali e che comunque rispetti i parametri della direttiva europea (attualmente per l’Italia, secondo alcune stime pari a circa 9 euro lordi orari);",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 64,
+  "id": 155,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
@@ -829,10 +2012,10 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 65,
+  "id": 156,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
@@ -842,10 +2025,10 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 66,
+  "id": 157,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
@@ -855,10 +2038,10 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 67,
+  "id": 158,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
@@ -868,10 +2051,36 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 68,
+  "id": 159,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Super bonus",
+  "subject_slug": "super-bonus",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 160,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Super bonus",
+  "subject_slug": "super-bonus",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 161,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -879,12 +2088,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": ""
 }
 ,{
-  "id": 69,
+  "id": 162,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Super bonus",
+  "subject_slug": "super-bonus",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 163,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -892,12 +2114,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "SUPERBONUS\nSi prevede un intervento sulla misura del Superbonus che garantisca garanzie per l’accesso all’agevolazione\nfiscale per tutti i soggetti che hanno già maturato il diritto.\nRendere il Superbonus più coerente e applicabile, contemperando le esigenze di contenimento\ndegli oneri a carico dello Stato con quelle di riqualificazione energetica e adeguamento antisismico\ndegli edifici, rispondendo agli interessi e alle preoccupazioni di proprietari di casa, imprese\ne tecnici.",
+  "source_slug": ""
 }
 ,{
-  "id": 70,
+  "id": 164,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Super bonus",
+  "subject_slug": "super-bonus",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "SUPERBONUS E ALTRI BONUS EDILIZI STRUTTURALI\nStabilizzazione delle agevolazioni edilizie per permettere la pianificazione degli investimenti sugli\nimmobili e continuare a migliorare i livelli di risparmio energetico e di conseguenza risparmiare\nsulle bollette. Sbloccare e far circolare i crediti d’imposta per evitare il fallimento delle imprese\nche ancora oggi non riescono a trasformarli in liquidità per pagare fornitori e dipendenti",
+  "source_slug": ""
+}
+,{
+  "id": 165,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -907,10 +2142,36 @@
   "list_id": 1,
   "endorsement": "yellow",
   "description": "Non se ne parla nel programma",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 71,
+  "id": 166,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio cuneo fiscale",
+  "subject_slug": "taglio-cuneo-fiscale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 167,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio cuneo fiscale",
+  "subject_slug": "taglio-cuneo-fiscale",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 168,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -918,12 +2179,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": ""
 }
 ,{
-  "id": 72,
+  "id": 169,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio cuneo fiscale",
+  "subject_slug": "taglio-cuneo-fiscale",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 170,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -931,12 +2205,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "endorsement": "green",
+  "description": "riducendo il cuneo fiscale del 50% per start up e Pmi innovative che assumono laureati o con\ntitolo superiore per 5 anni a patto che siano contratti a tempo indeterminato;",
+  "source_slug": ""
 }
 ,{
-  "id": 73,
+  "id": 171,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio cuneo fiscale",
+  "subject_slug": "taglio-cuneo-fiscale",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "TAGLIO DEL CUNEO FISCALE PER IMPRESE E LAVORATORI, per ridurre più incisivamente\nla differenza fra il costo del lavoratore per l’impresa e il netto percepito in busta paga\ndallo stesso lavoratore",
+  "source_slug": ""
+}
+,{
+  "id": 172,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -944,12 +2231,38 @@
   "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 74,
+  "id": 173,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio tasse partite IVA",
+  "subject_slug": "taglio-tasse-partite-iva",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 174,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio tasse partite IVA",
+  "subject_slug": "taglio-tasse-partite-iva",
+  "source_title": "",
+  "list": "",
+  "list_id": "",
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 175,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -957,12 +2270,25 @@
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 8,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": ""
 }
 ,{
-  "id": 75,
+  "id": 176,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio tasse partite IVA",
+  "subject_slug": "taglio-tasse-partite-iva",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 3,
+  "endorsement": "",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 177,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -970,12 +2296,25 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 5,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "source_slug": ""
 }
 ,{
-  "id": 76,
+  "id": 178,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Taglio tasse partite IVA",
+  "subject_slug": "taglio-tasse-partite-iva",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 179,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -985,10 +2324,10 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "Dal lato fiscale, sosteniamo le attività di artigiani, piccole e medie imprese e professionisti, e proponiamo un pacchetto di ulteriori misure che mettiamo in campo per contrastare i maggiori costi derivanti dalla spinta inflattiva. Per esempio: un’opzione di autoliquidazione mensile delle imposte per partite IVA, autonomi e liberi professionisti e professioniste in alternativa al sistema saldo-acconto e l’estensione della detrazione IRPEF del 50% a tutte le tipologie di start-up per le persone fisiche under 35.",
-  "source_slug": "programma-elettorale-pd"
+  "source_slug": ""
 }
 ,{
-  "id": 77,
+  "id": 180,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",
@@ -998,6 +2337,58 @@
   "list_id": 1,
   "endorsement": "green",
   "description": "taglio sulle tasse sul lavoro, agendo sui contributi previdenziali. Per alzare immediatamente gli stipendi e affrontare con strumenti straordinari una situazione straordinaria. Per far sì che ne beneficino anche i contribuenti con redditi molto bassi che già hanno IRPEF azzerata.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "source_slug": ""
+}
+,{
+  "id": 181,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Trivelle",
+  "subject_slug": "trivelle",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "red",
+  "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
+  "source_slug": ""
+}
+,{
+  "id": 182,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Trivelle",
+  "subject_slug": "trivelle",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 10,
+  "endorsement": "red",
+  "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
+  "source_slug": ""
+}
+,{
+  "id": 183,
+  "category": "Environmental protection",
+  "category_id": 5,
+  "subject": "Trivelle",
+  "subject_slug": "trivelle",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 184,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Trivelle",
+  "subject_slug": "trivelle",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
 }
 ]

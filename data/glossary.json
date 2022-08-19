@@ -67,140 +67,158 @@
 }
 ,{
   "id": 12,
+  "subject": "Inceneritori",
+  "subject_slug": "inceneritori",
+  "url": ""
+}
+,{
+  "id": 13,
   "subject": "Investimenti infrastrutture",
   "subject_slug": "investimenti-infrastrutture",
   "url": ""
 }
 ,{
-  "id": 13,
+  "id": 14,
   "subject": "Ius scholae",
   "subject_slug": "ius-scholae",
   "url": ""
 }
 ,{
-  "id": 14,
+  "id": 15,
   "subject": "Ius soli",
   "subject_slug": "ius-soli",
   "url": ""
 }
 ,{
-  "id": 15,
+  "id": 16,
   "subject": "Matrimonio egualitario",
   "subject_slug": "matrimonio-egualitario",
   "url": ""
 }
 ,{
-  "id": 16,
+  "id": 17,
   "subject": "Nucleare",
   "subject_slug": "nucleare",
   "url": ""
 }
 ,{
-  "id": 17,
+  "id": 18,
   "subject": "Parità salariale",
   "subject_slug": "parit-salariale",
   "url": ""
 }
 ,{
-  "id": 18,
+  "id": 19,
   "subject": "Patrimoniale",
   "subject_slug": "patrimoniale",
   "url": ""
 }
 ,{
-  "id": 19,
+  "id": 20,
   "subject": "Ponte sullo Stretto",
   "subject_slug": "ponte-sullo-stretto",
   "url": ""
 }
 ,{
-  "id": 20,
+  "id": 21,
   "subject": "Posti lavoro",
   "subject_slug": "posti-lavoro",
   "url": ""
 }
 ,{
-  "id": 21,
+  "id": 22,
   "subject": "Presidenzialismo",
   "subject_slug": "presidenzialismo",
   "url": ""
 }
 ,{
-  "id": 22,
+  "id": 23,
   "subject": "Realizzazione grandi opere",
   "subject_slug": "realizzazione-grandi-opere",
   "url": ""
 }
 ,{
-  "id": 23,
+  "id": 24,
+  "subject": "Reddito di cittadinanza",
+  "subject_slug": "reddito-di-cittadinanza",
+  "url": ""
+}
+,{
+  "id": 25,
   "subject": "Revisione PNRR",
   "subject_slug": "revisione-pnrr",
   "url": ""
 }
 ,{
-  "id": 24,
+  "id": 26,
   "subject": "Riduzione bolletta energetica",
   "subject_slug": "riduzione-bolletta-energetica",
   "url": ""
 }
 ,{
-  "id": 25,
+  "id": 27,
   "subject": "Riduzione IVA",
   "subject_slug": "riduzione-iva",
   "url": ""
 }
 ,{
-  "id": 26,
+  "id": 28,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "url": ""
 }
 ,{
-  "id": 27,
+  "id": 29,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
   "url": ""
 }
 ,{
-  "id": 28,
+  "id": 30,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
   "url": ""
 }
 ,{
-  "id": 29,
+  "id": 31,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
   "url": ""
 }
 ,{
-  "id": 30,
+  "id": 32,
   "subject": "Stipendio docenti",
   "subject_slug": "stipendio-docenti",
   "url": ""
 }
 ,{
-  "id": 31,
+  "id": 33,
   "subject": "Super bonus",
   "subject_slug": "super-bonus",
   "url": ""
 }
 ,{
-  "id": 32,
+  "id": 34,
   "subject": "Taglio cuneo fiscale",
   "subject_slug": "taglio-cuneo-fiscale",
   "url": ""
 }
 ,{
-  "id": 33,
+  "id": 35,
   "subject": "Taglio tasse partite IVA",
   "subject_slug": "taglio-tasse-partite-iva",
   "url": ""
 }
 ,{
-  "id": 34,
+  "id": 36,
   "subject": "Taglio tasse sul lavoro",
   "subject_slug": "taglio-tasse-sul-lavoro",
+  "url": ""
+}
+,{
+  "id": 37,
+  "subject": "Trivelle",
+  "subject_slug": "trivelle",
   "url": ""
 }
 ]
