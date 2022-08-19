@@ -2,6 +2,24 @@
 # metadata: categories.csv coalitions.csv endorsements.csv glossary.csv items.csv lists.csv parties.csv sources.csv
 # --------
 
+name: indecis-it
+title: blabla
+description: blabla
+contributors:
+  - title: Chiara Adornetto
+    email: chiara.adornetto@tiscali.it
+  - title: Dennis Angemi
+    email: dennisangemi@gmail.com
+  - title: Angelo Gulina
+    email: gulina.angelo@gmail.com
+  - title: Vittorio Nicoletta
+    email: vittorio.nicoletta.1@gmail.com
+  - title: Lorenzo Ruffino
+    email: lorenzoruffino97@gmail.com
+licenses:
+  - name: CC-BY-4.0
+    title: Creative Commons Attribution 4.0
+    path: https://creativecommons.org/licenses/by/4.0/
 resources:
   - path: data/categories.csv
     name: categories
