@@ -21,6 +21,7 @@ licenses:
     title: Creative Commons Attribution 4.0
     path: https://creativecommons.org/licenses/by/4.0/
 resources:
+
   - path: data/categories.csv
     name: categories
     profile: tabular-data-resource
@@ -246,5 +247,61 @@ resources:
         - name: url
           type: string
           format: uri
+  - path: data/categories.json
+    name: categories-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/coalitions.json
+    name: coalitions-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/endorsements.json
+    name: endorsements-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/glossary.json
+    name: glossary-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/items.json
+    name: items-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/lists.json
+    name: lists-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/parties.json
+    name: parties-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/sources.json
+    name: sources-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
 profile: data-package
 
