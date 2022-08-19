@@ -3,23 +3,72 @@
 
 ## Repository structure
 ```
-blabla
-blabla
+root
+├── 📂 data
+│   ├── 📄 categories.csv
+│   ├── 📄 categories.json
+│   ├── 📄 file.csv
+│   └── 📄 file.json
+├── 📂 script
+│   └── 📄 download.sh
+├── 📄 datapackage.yaml
+├── 📄 README.md
+└── 📄 LICENSE
 ```
-
 
 ## Data dictionary
 
 ### blabla.csv
-field | sheet | type | description | example
--- | -- | -- | -- | --
-id | 📚 categories | integer |   |  
-slug | 📚 categories | string |   |  
-source | 📚 categories | string |   |  
-name_en | 📚 categories | string |   |  
-description_en | 📚 categories | string |   |  
-name_it | 📚 categories | string |   |  
-description_it | 📚 categories | string |   |  
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+slug  | string |   |  
+source  | string |   |  
+name_en  | string |   |  
+description_en  | string |   |  
+name_it  | string |   |  
+description_it  | string |   |  
+
+### [📚 categories.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [📄 sources.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [🗳️ lists.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [🏳️ parties.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [🙏 coalitions.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [✏️ items.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [🔎 glossary.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
+### [✅ endorsements.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv)
+field | type | description | example
+-- | -- | -- | --
+id  | integer |   |  
+
 
 ## License
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="150"/></a>
