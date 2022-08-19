@@ -3,210 +3,210 @@
   "id": 1,
   "subject": "Alloggi popolari",
   "subject_slug": "alloggi-popolari",
-  "URL": "www.google.com"
-},
-{
+  "url": "www.google.com"
+}
+,{
   "id": 2,
   "subject": "Apprendistato retribuito",
   "subject_slug": "apprendistato-retribuito",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 3,
   "subject": "Approvvigionamento energetico",
   "subject_slug": "approvvigionamento-energetico",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 4,
   "subject": "Aumento assegno unico universale",
   "subject_slug": "aumento-assegno-unico-universale",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 5,
   "subject": "Aumento medici di base",
   "subject_slug": "aumento-medici-di-base",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 6,
   "subject": "Aumento posti lavoro medici",
   "subject_slug": "aumento-posti-lavoro-medici",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 7,
   "subject": "Conto unico fiscale",
   "subject_slug": "conto-unico-fiscale",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 8,
   "subject": "Contributo affitto giovani",
   "subject_slug": "contributo-affitto-giovani",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 9,
   "subject": "DDL Zan",
   "subject_slug": "ddl-zan",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 10,
   "subject": "Energia rinnovabile",
   "subject_slug": "energia-rinnovabile",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 11,
   "subject": "Flat tax",
   "subject_slug": "flat-tax",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 12,
   "subject": "Investimenti infrastrutture",
   "subject_slug": "investimenti-infrastrutture",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 13,
   "subject": "Ius scholae",
   "subject_slug": "ius-scholae",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 14,
   "subject": "Ius soli",
   "subject_slug": "ius-soli",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 15,
   "subject": "Matrimonio egualitario",
   "subject_slug": "matrimonio-egualitario",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 16,
   "subject": "Nucleare",
   "subject_slug": "nucleare",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 17,
   "subject": "Parità salariale",
   "subject_slug": "parit-salariale",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 18,
   "subject": "Patrimoniale",
   "subject_slug": "patrimoniale",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 19,
   "subject": "Ponte sullo Stretto",
   "subject_slug": "ponte-sullo-stretto",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 20,
   "subject": "Posti lavoro",
   "subject_slug": "posti-lavoro",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 21,
   "subject": "Presidenzialismo",
   "subject_slug": "presidenzialismo",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 22,
   "subject": "Realizzazione grandi opere",
   "subject_slug": "realizzazione-grandi-opere",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 23,
   "subject": "Revisione PNRR",
   "subject_slug": "revisione-pnrr",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 24,
   "subject": "Riduzione bolletta energetica",
   "subject_slug": "riduzione-bolletta-energetica",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 25,
   "subject": "Riduzione burocrazia verde",
   "subject_slug": "riduzione-burocrazia-verde",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 26,
   "subject": "Riduzione IVA",
   "subject_slug": "riduzione-iva",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 27,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 28,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 29,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 30,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 31,
   "subject": "Stipendio docenti",
   "subject_slug": "stipendio-docenti",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 32,
   "subject": "Super bonus",
   "subject_slug": "super-bonus",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 33,
   "subject": "Taglio cuneo fiscale",
   "subject_slug": "taglio-cuneo-fiscale",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 34,
   "subject": "Taglio tasse partite IVA",
   "subject_slug": "taglio-tasse-partite-iva",
-  "URL": ""
-},
-{
+  "url": ""
+}
+,{
   "id": 35,
   "subject": "Taglio tasse sul lavoro",
   "subject_slug": "taglio-tasse-sul-lavoro",
-  "URL": ""
+  "url": ""
 }
 ]
