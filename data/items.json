@@ -5,12 +5,12 @@
   "category_id": 10,
   "subject": "Alloggi popolari",
   "subject_slug": "alloggi-popolari",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "costruzione di 500mila alloggi popolari, nei prossimi 10 anni, utilizzando in modo massiccio interventi di rigenerazione urbana per limitare al massimo il consumo di suolo e allo stesso tempo per dare una nuova vita agli spazi meno curati delle nostre città.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Lanceremo una nuova stagione di politiche abitative per garantire il diritto alla casa. Lo faremo realizzando 500.000 alloggi popolari nei prossimi 10 anni.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 2,
@@ -18,12 +18,12 @@
   "category_id": 4,
   "subject": "Apprendistato retribuito",
   "subject_slug": "apprendistato-retribuito",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Gli stage extra-curriculari non saranno più consentiti per legge; sarà invece possibile utilizzare contratti di apprendistato retribuito, le cui forme di attivazione saranno rese via via sempre più semplici.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "l’obbligo di retribuzione per stage curriculari e l’abolizione degli stage extra-curriculari, salvo quelli attivati nei 12 mesi successivi alla conclusione di un percorso di studi, così da assicurare che lo strumento torni a rappresentare un'occasione di formazione (e non più di lavoro mascherato, come è ora). Contemporaneamente incentiveremo l’apprendistato come principale strumento di ingresso nel mercato del lavoro;",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 3,
@@ -31,12 +31,12 @@
   "category_id": 5,
   "subject": "Approvvigionamento energetico",
   "subject_slug": "approvvigionamento-energetico",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "La guerra in Ucraina ha reso ancora più urgente la transizione energetica del nostro Paese. Abbiamo bisogno di produrre energia da fonti rinnovabili per ridurre l’inquinamento, per renderci più indipendenti a livello geopolitico e per pagare meno le bollette.\nProponiamo un piano nazionale per la costruzione di nuovi parchi rinnovabili che porterà alla creazione di 470mila \"lavori verdi\" in 10 anni. Vogliamo azzerare la burocrazia per le imprese che vorranno installare pannelli solari nei propri stabilimenti e abbatteremo i costi della bolletta energetica attraverso un contratto luce sociale per famiglie con reddito medio basso.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 4,
@@ -83,12 +83,12 @@
   "category_id": 7,
   "subject": "Aumento medici di base",
   "subject_slug": "aumento-medici-di-base",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Gli anni drammatici della pandemia hanno mostrato tutta la miopia di questa valutazione e hanno confermato, al contrario, la necessità di un supporto sanitario pubblico, di qualità e di prossimità, disponibile per tutta la popolazione e sull’intero territorio italiano.\n\nAttraverso un piano di assunzioni nella sanità ci impegniamo a colmare questa mancanza nell’assistenza di prossimità, avvertita da sempre più italiani, in modo da garantire a tutti l’accesso a questo diritto, oggi quanto mai indispensabile.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 8,
@@ -96,12 +96,12 @@
   "category_id": 4,
   "subject": "Aumento posti lavoro medici",
   "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Gli anni drammatici della pandemia hanno mostrato tutta la miopia di questa valutazione e hanno confermato, al contrario, la necessità di un supporto sanitario pubblico, di qualità e di prossimità, disponibile per tutta la popolazione e sull’intero territorio italiano.\n\nAttraverso un piano di assunzioni nella sanità ci impegniamo a colmare questa mancanza nell’assistenza di prossimità, avvertita da sempre più italiani, in modo da garantire a tutti l’accesso a questo diritto, oggi quanto mai indispensabile.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 9,
@@ -148,12 +148,12 @@
   "category_id": 10,
   "subject": "Contributo affitto giovani",
   "subject_slug": "contributo-affitto-giovani",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "nel nostro programma abbiamo inserito un contributo da 2000 euro l’anno per studenti e lavoratori di età inferiore a 35 anni e che hanno un regolare contratto di affitto. Il contributo è pensato per coloro che hanno un ISEE fino a 20.000 euro. In concreto significa aiutare l’80% dei giovani che decidono di prendere una casa in affitto.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Aiuteremo le ragazze e i ragazzi a uscire di casa, potenziando il Fondo di garanzia mutui per la prima casa e introducendo un contributo affitti di 2.000 € per studenti e lavoratori (under 35) in base al reddito.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 13,
@@ -161,12 +161,12 @@
   "category_id": 11,
   "subject": "DDL Zan",
   "subject_slug": "ddl-zan",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Promuoveremo un’agenda sui diritti civili, a partire dall’approvazione immediata di un nuovo DDL Zan, un matrimonio egualitario e l’estensione delle tutele antidiscriminatorie già operanti nell’ambito dell’accesso al lavoro e a beni e servizi anche alle discriminazioni fondate su orientamento sessuale e identità di genere.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 14,
@@ -174,12 +174,12 @@
   "category_id": 4,
   "subject": "Energia rinnovabile",
   "subject_slug": "energia-rinnovabile",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "La guerra in Ucraina ha reso ancora più urgente la transizione energetica del nostro Paese. Abbiamo bisogno di produrre energia da fonti rinnovabili per ridurre l’inquinamento, per renderci più indipendenti a livello geopolitico e per pagare meno le bollette.\nProponiamo un piano nazionale per la costruzione di nuovi parchi rinnovabili che porterà alla creazione di 470mila \"lavori verdi\" in 10 anni. Vogliamo azzerare la burocrazia per le imprese che vorranno installare pannelli solari nei propri stabilimenti e abbatteremo i costi della bolletta energetica attraverso un contratto luce sociale per famiglie con reddito medio basso.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 15,
@@ -343,12 +343,12 @@
   "category_id": 11,
   "subject": "Matrimonio egualitario",
   "subject_slug": "matrimonio-egualitario",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Promuoveremo un’agenda sui diritti civili, a partire dall’approvazione immediata di un nuovo DDL Zan, un matrimonio egualitario e l’estensione delle tutele antidiscriminatorie già operanti nell’ambito dell’accesso al lavoro e a beni e servizi anche alle discriminazioni fondate su orientamento sessuale e identità di genere.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 28,
@@ -434,12 +434,12 @@
   "category_id": 11,
   "subject": "Parità salariale",
   "subject_slug": "parit-salariale",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Le lavoratrici italiane guadagnano mediamente il 20% in meno degli uomini a parità di mansione. Nonostante questo, continuano a subire il ricatto tra crescita professionale e scelte di vita come la maternità. Mentre l’accesso a ruoli apicali, per le donne è una chimera, o, peggio, una concessione.\n\nGrazie al PD, ora abbiamo una legge sulla parità salariale che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Grazie a meccanismi di trasparenza e una premialità per le aziende virtuose vogliamo accompagnare un cambiamento culturale vitale per il nostro paese. Per le donne e la loro piena realizzazione. Per l’Italia e la sua crescita.\n\nMa aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte. Non possiamo fermarci adesso.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Grazie al nostro impegno, nella legislatura appena conclusa abbiamo approvato una legge sulla parità salariale (Legge Gribaudo 162/2021) che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Ma aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 35,
@@ -525,12 +525,12 @@
   "category_id": 4,
   "subject": "Posti lavoro",
   "subject_slug": "posti-lavoro",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Proponiamo un piano nazionale per la costruzione di nuovi parchi rinnovabili che porterà alla creazione di 470mila \"lavori verdi\" in 10 anni.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Introdurremo un piano nazionale per il risparmio energetico e interventi finalizzati ad aumentare drasticamente la quota di rinnovabili prodotte in Italia, anche attraverso lo sviluppo delle Comunità energetiche, con l'obiettivo di installare 85 GW di rinnovabili in più entro il 2030. Un obiettivo ambizioso ma realistico che porterà, secondo alcune stime, alla creazione di circa 500.000 nuovi posti di lavoro.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 42,
@@ -655,28 +655,15 @@
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
   "subject_slug": "riduzione-bolletta-energetica",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Abbatteremo i costi della bolletta energetica attraverso un contratto luce sociale per famiglie con reddito medio basso",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Partendo da qui, a dimostrazione di come sostenibilità ambientale e sociale si rafforzino a vicenda, introdurremo un nuovo contratto “luce sociale” per le famiglie con redditi medi e bassi. Si tratta di un contratto di fornitura energetica prodotta totalmente da fonti rinnovabili e acquistata direttamente dalla società pubblica Acquirente Unico. Il contratto di acquisto avrà durata decennale e ciò permetterà di ottenere prezzi dell’energia elettrica molto bassi a vantaggio delle famiglie: fino ad un massimo di 1.350 KWh/anno per famiglia (pari al 50% del consumo medio), l’energia elettrica verrà fornita a costo zero, mentre sulla parte di consumo eccedente i prezzi saranno comunque calmierati.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 52,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Riduzione burocrazia verde",
-  "subject_slug": "riduzione-burocrazia-verde",
-  "source_title": "Campagna elettorale 2022 PD",
-  "list": "Partito Democratico",
-  "list_id": 1,
-  "endorsement": "green",
-  "description": "Vogliamo azzerare la burocrazia per le imprese che vorranno installare pannelli solari nei propri stabilimenti",
-  "source_slug": "campagna-elettorale-2022-pd"
-}
-,{
-  "id": 53,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -689,7 +676,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 54,
+  "id": 53,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -702,7 +689,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 55,
+  "id": 54,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -715,9 +702,22 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 56,
+  "id": 55,
   "category": "Economic affairs",
   "category_id": 4,
+  "subject": "Rigassificatori",
+  "subject_slug": "rigassificatori",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-avs"
+}
+,{
+  "id": 56,
+  "category": "Environmental protection",
+  "category_id": 5,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "source_title": "Programma elettorale AVS",
@@ -729,21 +729,21 @@
 }
 ,{
   "id": 57,
-  "category": "Environmental protection",
-  "category_id": 5,
+  "category": "Economic affairs",
+  "category_id": 4,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
-  "source_title": "Programma elettorale AVS",
-  "list": "Alleanza Verdi e Sinistra",
-  "list_id": 8,
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 5,
   "endorsement": "",
   "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
   "id": 58,
-  "category": "Economic affairs",
-  "category_id": 4,
+  "category": "Environmental protection",
+  "category_id": 5,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "source_title": "Programma elettorale Lega",
@@ -755,21 +755,21 @@
 }
 ,{
   "id": 59,
-  "category": "Environmental protection",
-  "category_id": 5,
+  "category": "Economic affairs",
+  "category_id": 4,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
-  "source_title": "Programma elettorale Lega",
-  "list": "Lega",
-  "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.\nIn particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 60,
-  "category": "Economic affairs",
-  "category_id": 4,
+  "category": "Environmental protection",
+  "category_id": 5,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "source_title": "Programma elettorale PD",
@@ -781,16 +781,16 @@
 }
 ,{
   "id": 61,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Rigassificatori",
-  "subject_slug": "rigassificatori",
-  "source_title": "Programma elettorale PD",
-  "list": "Partito Democratico",
-  "list_id": 1,
-  "endorsement": "green",
-  "description": "Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.\nIn particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici.",
-  "source_slug": "programma-elettorale-pd"
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Salario minimo",
+  "subject_slug": "salario-minimo",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 8,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-avs"
 }
 ,{
   "id": 62,
@@ -798,12 +798,12 @@
   "category_id": 4,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
-  "source_title": "Programma elettorale AVS",
-  "list": "Alleanza Verdi e Sinistra",
-  "list_id": 8,
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 5,
   "endorsement": "",
   "description": "",
-  "source_slug": "programma-elettorale-avs"
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
   "id": 63,
@@ -811,80 +811,67 @@
   "category_id": 4,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
-  "source_title": "Programma elettorale Lega",
-  "list": "Lega",
-  "list_id": 5,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
-}
-,{
-  "id": 64,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Salario minimo",
-  "subject_slug": "salario-minimo",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Introdurremo un salario minimo obbligatorio per le professioni che oggi non prevedono accordi collettivi, impediremo accordi-capestro e aumenteremo i controlli nei confronti di chi paga il lavoro senza contratto e senza tutele previdenziali.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "una legge che riconosca il valore legale erga omnes del trattamento economico complessivo dei contratti collettivi firmati dalle organizzazioni maggiormente rappresentative per debellare i “contratti pirata” e che introduca un salario minimo contrattuale, seguendo il modello tedesco, nei settori a più alta incidenza di povertà lavorativa, con una soglia minima affidata alla proposta delle parti sociali e che comunque rispetti i parametri della direttiva europea (attualmente per l’Italia, secondo alcune stime pari a circa 9 euro lordi orari);",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 65,
+  "id": 64,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "obbligatoria la scuola dell’infanzia e garantendone la gratuità nell’accesso. Così vogliamo favorire l’uguaglianza già nei primi passi del percorso scolastico.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 66,
+  "id": 65,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
-  "source_title": "Campagna elettorale 2022 PD",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "obbligatoria la scuola dell’infanzia e garantendone la gratuità nell’accesso. Così vogliamo favorire l’uguaglianza già nei primi passi del percorso scolastico.",
-  "source_slug": "campagna-elettorale-2022-pd"
+  "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 67,
+  "id": 66,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
   "subject_slug": "stipendio-docenti",
-  "source_title": "Tweet 2022-08-09",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Letta: Gli insegnanti 🇮🇹 sono tra i meno pagati in 🇪🇺. Ci impegniamo nell’arco della prossima legislatura ad alzare gli stipendi dei nostri docenti per riportarli nella media europea",
-  "source_slug": "tweet-20220809"
+  "description": "Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 68,
+  "id": 67,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
   "subject_slug": "stipendio-docenti",
-  "source_title": "Tweet 2022-08-09",
+  "source_title": "Programma elettorale PD",
   "list": "Partito Democratico",
   "list_id": 1,
   "endorsement": "green",
-  "description": "Letta: Gli insegnanti 🇮🇹 sono tra i meno pagati in 🇪🇺. Ci impegniamo nell’arco della prossima legislatura ad alzare gli stipendi dei nostri docenti per riportarli nella media europea",
-  "source_slug": "tweet-20220809"
+  "description": "Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 69,
+  "id": 68,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -897,7 +884,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 70,
+  "id": 69,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -910,7 +897,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 71,
+  "id": 70,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -923,7 +910,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 72,
+  "id": 71,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -936,7 +923,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 73,
+  "id": 72,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -949,7 +936,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 74,
+  "id": 73,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -962,7 +949,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 75,
+  "id": 74,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -975,7 +962,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 76,
+  "id": 75,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -988,7 +975,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 77,
+  "id": 76,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -1001,7 +988,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 78,
+  "id": 77,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",

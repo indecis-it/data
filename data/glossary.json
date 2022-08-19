@@ -145,66 +145,60 @@
 }
 ,{
   "id": 25,
-  "subject": "Riduzione burocrazia verde",
-  "subject_slug": "riduzione-burocrazia-verde",
-  "url": ""
-}
-,{
-  "id": 26,
   "subject": "Riduzione IVA",
   "subject_slug": "riduzione-iva",
   "url": ""
 }
 ,{
-  "id": 27,
+  "id": 26,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "url": ""
 }
 ,{
-  "id": 28,
+  "id": 27,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
   "url": ""
 }
 ,{
-  "id": 29,
+  "id": 28,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
   "url": ""
 }
 ,{
-  "id": 30,
+  "id": 29,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
   "url": ""
 }
 ,{
-  "id": 31,
+  "id": 30,
   "subject": "Stipendio docenti",
   "subject_slug": "stipendio-docenti",
   "url": ""
 }
 ,{
-  "id": 32,
+  "id": 31,
   "subject": "Super bonus",
   "subject_slug": "super-bonus",
   "url": ""
 }
 ,{
-  "id": 33,
+  "id": 32,
   "subject": "Taglio cuneo fiscale",
   "subject_slug": "taglio-cuneo-fiscale",
   "url": ""
 }
 ,{
-  "id": 34,
+  "id": 33,
   "subject": "Taglio tasse partite IVA",
   "subject_slug": "taglio-tasse-partite-iva",
   "url": ""
 }
 ,{
-  "id": 35,
+  "id": 34,
   "subject": "Taglio tasse sul lavoro",
   "subject_slug": "taglio-tasse-sul-lavoro",
   "url": ""
