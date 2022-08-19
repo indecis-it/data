@@ -30,41 +30,89 @@ name_it  | string |   |  
 description_it  | string |   |  
 
 ### [📚 categories.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [📄 sources.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [🗳️ lists.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [🏳️ parties.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [🙏 coalitions.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [✏️ items.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [🔎 glossary.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
 
 ### [✅ endorsements.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
 field | type | description | example
 -- | -- | -- | --
 id  | integer |   |  
