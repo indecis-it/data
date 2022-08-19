@@ -3,7 +3,7 @@
 # --------
 
 resources:
-  - path: categories.csv
+  - path: data/categories.csv
     name: categories
     profile: tabular-data-resource
     scheme: file
@@ -26,7 +26,7 @@ resources:
           type: string
         - name: description_it
           type: string
-  - path: coalitions.csv
+  - path: data/coalitions.csv
     name: coalitions
     profile: tabular-data-resource
     scheme: file
@@ -39,7 +39,7 @@ resources:
           type: integer
         - name: coalition
           type: string 
-  - path: endorsements.csv
+  - path: data/endorsements.csv
     name: endorsements
     profile: tabular-data-resource
     scheme: file
@@ -56,30 +56,31 @@ resources:
           type: string
         - name: color_code
           type: string
-  - path: glossary.csv
+  - path: data/glossary.csv
     name: glossary
     profile: tabular-data-resource
     scheme: file
     format: csv
     hashing: md5
-    encoding: iso8859-1
+    encoding: utf-8
     schema:
       fields:
-        - type: integer
-          name: id
-        - type: string
-          name: subject
-        - type: string
-          name: subject_slug
-        - type: string
-          name: URL
-  - path: items.csv
+        - name: id
+          type: integer
+        - name: subject
+          type: string
+        - name: subject_slug
+          type: string
+        - name: url
+          type: string
+          format: uri
+  - path: data/items.csv
     name: items
     profile: tabular-data-resource
     scheme: file
     format: csv
     hashing: md5
-    encoding: cp1252
+    encoding: utf-8
     schema:
       fields:
         - name: id
@@ -100,9 +101,71 @@ resources:
           type: integer
         - name: endorsement
           type: string
+          constraints:
+            enum:
+              - green
+              - yellow
+              - red
         - name: description
           type: string
-  - path: lists.csv
+        - name: source_slug
+          type: string
+      foreignKeys:
+        - fields:
+            - category
+          reference:
+            fields:
+              - name_en
+            resource: categories
+        - fields:
+            - category_id
+          reference:
+            fields:
+              - id
+            resource: categories
+        - fields:
+            - subject
+          reference:
+            fields:
+              - subject
+            resource: glossary
+        - fields:
+            - subject_slug
+          reference:
+            fields:
+              - subject_slug
+            resource: glossary
+        - fields:
+            - source_title
+          reference:
+            fields:
+              - title
+            resource: sources
+        - fields:
+            - source_slug
+          reference:
+            fields:
+              - slug
+            resource: sources
+        - fields:
+            - list
+          reference:
+            fields:
+              - list
+            resource: lists
+        - fields:
+            - list_id
+          reference:
+            fields:
+              - id
+            resource: lists
+        - fields:
+            - endorsement
+          reference:
+            fields:
+              - icon
+            resource: endorsements
+  - path: data/lists.csv
     name: lists
     profile: tabular-data-resource
     scheme: file
@@ -121,7 +184,8 @@ resources:
           type: string
         - name: symbol_url
           type: string
-  - path: parties.csv
+          format: uri
+  - path: data/parties.csv
     name: parties
     profile: tabular-data-resource
     scheme: file
@@ -142,13 +206,13 @@ resources:
           type: integer
         - name: coalition
           type: string
-  - path: sources.csv
+  - path: data/sources.csv
     name: sources
     profile: tabular-data-resource
     scheme: file
     format: csv
     hashing: md5
-    encoding: cp1252
+    encoding: utf-8
     schema:
       fields:
         - name: id
@@ -157,9 +221,12 @@ resources:
           type: string
         - name: title
           type: string
+        - name: slug
+          type: string
         - name: type
           type: string
         - name: url
           type: string
+          format: uri
 profile: data-package
 
