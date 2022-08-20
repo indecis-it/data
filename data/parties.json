@@ -2,7 +2,7 @@
 {
   "id": 1,
   "party": "Partito Democratico",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -10,7 +10,7 @@
 ,{
   "id": 2,
   "party": "Articolo Uno",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -18,7 +18,7 @@
 ,{
   "id": 3,
   "party": "Partito Socialista Italiano",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -26,7 +26,7 @@
 ,{
   "id": 4,
   "party": "Moderati",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -34,7 +34,7 @@
 ,{
   "id": 5,
   "party": "DemoS",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -42,7 +42,7 @@
 ,{
   "id": 6,
   "party": "Movimento Repubblicani Europei",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -50,7 +50,7 @@
 ,{
   "id": 7,
   "party": "Radicali Italiani",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -58,7 +58,7 @@
 ,{
   "id": 8,
   "party": "Volt Italia",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -66,7 +66,7 @@
 ,{
   "id": 9,
   "party": "Emilia-Romagna Coraggiosa",
-  "list_id": 1,
+  "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -74,7 +74,7 @@
 ,{
   "id": 10,
   "party": "+Europa",
-  "list_id": 2,
+  "list_id": 7,
   "list": "+Europa",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -82,7 +82,7 @@
 ,{
   "id": 11,
   "party": "Azione",
-  "list_id": 3,
+  "list_id": 10,
   "list": "Azione-Italia Viva-Calenda",
   "coalition_id": 2,
   "coalition": "Centro"
@@ -90,7 +90,7 @@
 ,{
   "id": 12,
   "party": "Italia Viva",
-  "list_id": 3,
+  "list_id": 10,
   "list": "Azione-Italia Viva-Calenda",
   "coalition_id": 2,
   "coalition": "Centro"
@@ -98,7 +98,7 @@
 ,{
   "id": 13,
   "party": "Lista Civica Nazionale - L'Italia C'è",
-  "list_id": 3,
+  "list_id": 10,
   "list": "Azione-Italia Viva-Calenda",
   "coalition_id": 2,
   "coalition": "Centro"
@@ -106,7 +106,7 @@
 ,{
   "id": 14,
   "party": "La Buona Destra",
-  "list_id": 3,
+  "list_id": 10,
   "list": "Azione-Italia Viva-Calenda",
   "coalition_id": 2,
   "coalition": "Centro"
@@ -114,7 +114,7 @@
 ,{
   "id": 15,
   "party": "Partito Repubblicano Italiano",
-  "list_id": 3,
+  "list_id": 10,
   "list": "Azione-Italia Viva-Calenda",
   "coalition_id": 2,
   "coalition": "Centro"
@@ -122,7 +122,7 @@
 ,{
   "id": 16,
   "party": "Fratelli d'Italia",
-  "list_id": 4,
+  "list_id": 1,
   "list": "Fratelli d'Italia",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -130,7 +130,7 @@
 ,{
   "id": 17,
   "party": "Lega",
-  "list_id": 5,
+  "list_id": 2,
   "list": "Lega",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -138,7 +138,7 @@
 ,{
   "id": 18,
   "party": "Partito Sardo d'Azione",
-  "list_id": 5,
+  "list_id": 2,
   "list": "Lega",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -146,7 +146,7 @@
 ,{
   "id": 19,
   "party": "Forza Italia",
-  "list_id": 6,
+  "list_id": 3,
   "list": "Forza Italia",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -154,7 +154,7 @@
 ,{
   "id": 20,
   "party": "Nuovo PSI",
-  "list_id": 6,
+  "list_id": 3,
   "list": "Forza Italia",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -162,7 +162,7 @@
 ,{
   "id": 21,
   "party": "Movimento Animalista",
-  "list_id": 6,
+  "list_id": 3,
   "list": "Forza Italia",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -170,7 +170,7 @@
 ,{
   "id": 22,
   "party": "Partito Pensionati",
-  "list_id": 6,
+  "list_id": 3,
   "list": "Forza Italia",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -178,7 +178,7 @@
 ,{
   "id": 23,
   "party": "Noi con l'Italia",
-  "list_id": 7,
+  "list_id": 4,
   "list": "Noi moderati",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -186,7 +186,7 @@
 ,{
   "id": 24,
   "party": "Italia al centro",
-  "list_id": 7,
+  "list_id": 4,
   "list": "Noi moderati",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -194,7 +194,7 @@
 ,{
   "id": 25,
   "party": "Coraggio Italia",
-  "list_id": 7,
+  "list_id": 4,
   "list": "Noi moderati",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -202,7 +202,7 @@
 ,{
   "id": 26,
   "party": "Unione di Centro",
-  "list_id": 7,
+  "list_id": 4,
   "list": "Noi moderati",
   "coalition_id": 3,
   "coalition": "Centro-destra"
@@ -210,7 +210,7 @@
 ,{
   "id": 27,
   "party": "Europa Verde",
-  "list_id": 8,
+  "list_id": 6,
   "list": "Alleanza Verdi e Sinistra",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -218,7 +218,7 @@
 ,{
   "id": 28,
   "party": "Sinistra Italiana",
-  "list_id": 8,
+  "list_id": 6,
   "list": "Alleanza Verdi e Sinistra",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -226,7 +226,7 @@
 ,{
   "id": 29,
   "party": "Possibile",
-  "list_id": 8,
+  "list_id": 6,
   "list": "Alleanza Verdi e Sinistra",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -234,7 +234,7 @@
 ,{
   "id": 30,
   "party": "Reti Civiche",
-  "list_id": 8,
+  "list_id": 6,
   "list": "Alleanza Verdi e Sinistra",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -242,7 +242,7 @@
 ,{
   "id": 31,
   "party": "Impegno Civico",
-  "list_id": 9,
+  "list_id": 8,
   "list": "Impegno Civico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -250,7 +250,7 @@
 ,{
   "id": 32,
   "party": "Centro Democratico",
-  "list_id": 9,
+  "list_id": 8,
   "list": "Impegno Civico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -258,7 +258,7 @@
 ,{
   "id": 33,
   "party": "Agenda Nazionale Civica",
-  "list_id": 9,
+  "list_id": 8,
   "list": "Impegno Civico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -266,7 +266,7 @@
 ,{
   "id": 34,
   "party": "Proposta Socialista Democratica Innovativa",
-  "list_id": 9,
+  "list_id": 8,
   "list": "Impegno Civico",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
@@ -274,7 +274,7 @@
 ,{
   "id": 35,
   "party": "Movimento 5 Stelle",
-  "list_id": 10,
+  "list_id": 9,
   "list": "Movimento 5 Stelle",
   "coalition_id": 4,
   "coalition": "Movimento 5 Stelle"

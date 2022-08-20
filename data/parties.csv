@@ -1,39 +1,39 @@
 id,party,list_id,list,coalition_id,coalition
-1,Partito Democratico,1,Partito Democratico,1,Centro-sinistra
-2,Articolo Uno,1,Partito Democratico,1,Centro-sinistra
-3,Partito Socialista Italiano,1,Partito Democratico,1,Centro-sinistra
-4,Moderati,1,Partito Democratico,1,Centro-sinistra
-5,DemoS,1,Partito Democratico,1,Centro-sinistra
-6,Movimento Repubblicani Europei,1,Partito Democratico,1,Centro-sinistra
-7,Radicali Italiani,1,Partito Democratico,1,Centro-sinistra
-8,Volt Italia,1,Partito Democratico,1,Centro-sinistra
-9,Emilia-Romagna Coraggiosa,1,Partito Democratico,1,Centro-sinistra
-10,+Europa,2,+Europa,1,Centro-sinistra
-11,Azione,3,Azione-Italia Viva-Calenda,2,Centro
-12,Italia Viva,3,Azione-Italia Viva-Calenda,2,Centro
-13,Lista Civica Nazionale - L'Italia C'è,3,Azione-Italia Viva-Calenda,2,Centro
-14,La Buona Destra,3,Azione-Italia Viva-Calenda,2,Centro
-15,Partito Repubblicano Italiano,3,Azione-Italia Viva-Calenda,2,Centro
-16,Fratelli d'Italia,4,Fratelli d'Italia,3,Centro-destra
-17,Lega,5,Lega,3,Centro-destra
-18,Partito Sardo d'Azione,5,Lega,3,Centro-destra
-19,Forza Italia,6,Forza Italia,3,Centro-destra
-20,Nuovo PSI,6,Forza Italia,3,Centro-destra
-21,Movimento Animalista,6,Forza Italia,3,Centro-destra
-22,Partito Pensionati,6,Forza Italia,3,Centro-destra
-23,Noi con l'Italia,7,Noi moderati,3,Centro-destra
-24,Italia al centro,7,Noi moderati,3,Centro-destra
-25,Coraggio Italia,7,Noi moderati,3,Centro-destra
-26,Unione di Centro,7,Noi moderati,3,Centro-destra
-27,Europa Verde,8,Alleanza Verdi e Sinistra,1,Centro-sinistra
-28,Sinistra Italiana,8,Alleanza Verdi e Sinistra,1,Centro-sinistra
-29,Possibile,8,Alleanza Verdi e Sinistra,1,Centro-sinistra
-30,Reti Civiche,8,Alleanza Verdi e Sinistra,1,Centro-sinistra
-31,Impegno Civico,9,Impegno Civico,1,Centro-sinistra
-32,Centro Democratico,9,Impegno Civico,1,Centro-sinistra
-33,Agenda Nazionale Civica,9,Impegno Civico,1,Centro-sinistra
-34,Proposta Socialista Democratica Innovativa,9,Impegno Civico,1,Centro-sinistra
-35,Movimento 5 Stelle,10,Movimento 5 Stelle,4,Movimento 5 Stelle
+1,Partito Democratico,5,Partito Democratico,1,Centro-sinistra
+2,Articolo Uno,5,Partito Democratico,1,Centro-sinistra
+3,Partito Socialista Italiano,5,Partito Democratico,1,Centro-sinistra
+4,Moderati,5,Partito Democratico,1,Centro-sinistra
+5,DemoS,5,Partito Democratico,1,Centro-sinistra
+6,Movimento Repubblicani Europei,5,Partito Democratico,1,Centro-sinistra
+7,Radicali Italiani,5,Partito Democratico,1,Centro-sinistra
+8,Volt Italia,5,Partito Democratico,1,Centro-sinistra
+9,Emilia-Romagna Coraggiosa,5,Partito Democratico,1,Centro-sinistra
+10,+Europa,7,+Europa,1,Centro-sinistra
+11,Azione,10,Azione-Italia Viva-Calenda,2,Centro
+12,Italia Viva,10,Azione-Italia Viva-Calenda,2,Centro
+13,Lista Civica Nazionale - L'Italia C'è,10,Azione-Italia Viva-Calenda,2,Centro
+14,La Buona Destra,10,Azione-Italia Viva-Calenda,2,Centro
+15,Partito Repubblicano Italiano,10,Azione-Italia Viva-Calenda,2,Centro
+16,Fratelli d'Italia,1,Fratelli d'Italia,3,Centro-destra
+17,Lega,2,Lega,3,Centro-destra
+18,Partito Sardo d'Azione,2,Lega,3,Centro-destra
+19,Forza Italia,3,Forza Italia,3,Centro-destra
+20,Nuovo PSI,3,Forza Italia,3,Centro-destra
+21,Movimento Animalista,3,Forza Italia,3,Centro-destra
+22,Partito Pensionati,3,Forza Italia,3,Centro-destra
+23,Noi con l'Italia,4,Noi moderati,3,Centro-destra
+24,Italia al centro,4,Noi moderati,3,Centro-destra
+25,Coraggio Italia,4,Noi moderati,3,Centro-destra
+26,Unione di Centro,4,Noi moderati,3,Centro-destra
+27,Europa Verde,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
+28,Sinistra Italiana,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
+29,Possibile,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
+30,Reti Civiche,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
+31,Impegno Civico,8,Impegno Civico,1,Centro-sinistra
+32,Centro Democratico,8,Impegno Civico,1,Centro-sinistra
+33,Agenda Nazionale Civica,8,Impegno Civico,1,Centro-sinistra
+34,Proposta Socialista Democratica Innovativa,8,Impegno Civico,1,Centro-sinistra
+35,Movimento 5 Stelle,9,Movimento 5 Stelle,4,Movimento 5 Stelle
 36,Il popolo della famiglia,11,Alternativa Per l'Italia,5,Alternativa Per l'Italia
 37,Exit,11,Alternativa Per l'Italia,5,Alternativa Per l'Italia
 38,Alternativa,12,Alternativa,6,Alternativa
