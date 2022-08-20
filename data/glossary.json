@@ -13,206 +13,206 @@
 }
 ,{
   "id": 3,
-  "subject": "Approvvigionamento energetico",
-  "subject_slug": "approvvigionamento-energetico",
-  "url": ""
-}
-,{
-  "id": 4,
   "subject": "Aumento assegno unico universale",
   "subject_slug": "aumento-assegno-unico-universale",
   "url": ""
 }
 ,{
-  "id": 5,
+  "id": 4,
   "subject": "Aumento medici di base",
   "subject_slug": "aumento-medici-di-base",
   "url": ""
 }
 ,{
-  "id": 6,
+  "id": 5,
   "subject": "Aumento posti lavoro medici",
   "subject_slug": "aumento-posti-lavoro-medici",
   "url": ""
 }
 ,{
-  "id": 7,
+  "id": 6,
   "subject": "Conto unico fiscale",
   "subject_slug": "conto-unico-fiscale",
   "url": ""
 }
 ,{
-  "id": 8,
+  "id": 7,
   "subject": "Contributo affitto giovani",
   "subject_slug": "contributo-affitto-giovani",
   "url": ""
 }
 ,{
-  "id": 9,
+  "id": 8,
   "subject": "DDL Zan",
   "subject_slug": "ddl-zan",
   "url": ""
 }
 ,{
-  "id": 10,
+  "id": 9,
   "subject": "Energia rinnovabile",
   "subject_slug": "energia-rinnovabile",
   "url": ""
 }
 ,{
-  "id": 11,
+  "id": 10,
   "subject": "Flat tax",
   "subject_slug": "flat-tax",
   "url": ""
 }
 ,{
-  "id": 12,
+  "id": 11,
   "subject": "Inceneritori-Termovalorizzatori",
   "subject_slug": "inceneritoritermovalorizzatori",
   "url": ""
 }
 ,{
-  "id": 13,
+  "id": 12,
   "subject": "Investimenti infrastrutture",
   "subject_slug": "investimenti-infrastrutture",
   "url": ""
 }
 ,{
-  "id": 14,
+  "id": 13,
   "subject": "Ius scholae",
   "subject_slug": "ius-scholae",
   "url": ""
 }
 ,{
-  "id": 15,
+  "id": 14,
   "subject": "Ius soli",
   "subject_slug": "ius-soli",
   "url": ""
 }
 ,{
-  "id": 16,
+  "id": 15,
   "subject": "Matrimonio egualitario",
   "subject_slug": "matrimonio-egualitario",
   "url": ""
 }
 ,{
-  "id": 17,
+  "id": 16,
   "subject": "Nucleare",
   "subject_slug": "nucleare",
   "url": ""
 }
 ,{
-  "id": 18,
+  "id": 17,
   "subject": "Parità salariale",
   "subject_slug": "parit-salariale",
   "url": ""
 }
 ,{
-  "id": 19,
+  "id": 18,
   "subject": "Patrimoniale",
   "subject_slug": "patrimoniale",
   "url": ""
 }
 ,{
-  "id": 20,
+  "id": 19,
   "subject": "Ponte sullo Stretto",
   "subject_slug": "ponte-sullo-stretto",
   "url": ""
 }
 ,{
-  "id": 21,
+  "id": 20,
   "subject": "Posti lavoro",
   "subject_slug": "posti-lavoro",
   "url": ""
 }
 ,{
-  "id": 22,
+  "id": 21,
   "subject": "Presidenzialismo",
   "subject_slug": "presidenzialismo",
   "url": ""
 }
 ,{
-  "id": 23,
+  "id": 22,
   "subject": "Realizzazione grandi opere",
   "subject_slug": "realizzazione-grandi-opere",
   "url": ""
 }
 ,{
-  "id": 24,
+  "id": 23,
   "subject": "Reddito di cittadinanza",
   "subject_slug": "reddito-di-cittadinanza",
   "url": ""
 }
 ,{
-  "id": 25,
+  "id": 24,
   "subject": "Revisione PNRR",
   "subject_slug": "revisione-pnrr",
   "url": ""
 }
 ,{
-  "id": 26,
+  "id": 25,
   "subject": "Riduzione bolletta energetica",
   "subject_slug": "riduzione-bolletta-energetica",
   "url": ""
 }
 ,{
-  "id": 27,
+  "id": 26,
   "subject": "Riduzione IVA",
   "subject_slug": "riduzione-iva",
   "url": ""
 }
 ,{
-  "id": 28,
+  "id": 27,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "url": ""
 }
 ,{
-  "id": 29,
+  "id": 28,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
   "url": ""
 }
 ,{
-  "id": 30,
+  "id": 29,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
   "url": ""
 }
 ,{
-  "id": 31,
+  "id": 30,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
   "url": ""
 }
 ,{
-  "id": 32,
+  "id": 31,
   "subject": "Stipendio docenti",
   "subject_slug": "stipendio-docenti",
   "url": ""
 }
 ,{
-  "id": 33,
+  "id": 32,
   "subject": "Super bonus",
   "subject_slug": "super-bonus",
   "url": ""
 }
 ,{
-  "id": 34,
+  "id": 33,
   "subject": "Taglio cuneo fiscale",
   "subject_slug": "taglio-cuneo-fiscale",
   "url": ""
 }
 ,{
-  "id": 35,
+  "id": 34,
   "subject": "Taglio tasse partite IVA",
   "subject_slug": "taglio-tasse-partite-iva",
   "url": ""
 }
 ,{
-  "id": 36,
+  "id": 35,
   "subject": "Taglio tasse sul lavoro",
   "subject_slug": "taglio-tasse-sul-lavoro",
+  "url": ""
+}
+,{
+  "id": 36,
+  "subject": "Tirocini gratuiti",
+  "subject_slug": "tirocini-gratuiti",
   "url": ""
 }
 ,{
