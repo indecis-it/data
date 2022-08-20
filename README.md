@@ -2,6 +2,8 @@
 [![Frictionless](https://github.com/indecis-it/data/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=indecis-it&repo=data&flow=frictionless) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> 
 
 ## ⚠️ WIP
+- link allo sheet https://docs.google.com/spreadsheets/d/13YKVLtayxu0m2keOi1KHsLJqoshc9P279RLJ_sdhnAk/edit#gid=734919268
+- link al sito http://indecis.it/
 
 ## Repository structure
 ```
