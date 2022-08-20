@@ -1,35 +1,77 @@
 id,category,category_id,subject,subject_slug,source_title,list,list_id,endorsement,description,source_slug
-1,Social protection,10,Alloggi popolari,alloggi-popolari,Programma elettorale PD,Partito Democratico,1,green,Lanceremo una nuova stagione di politiche abitative per garantire il diritto alla casa. Lo faremo realizzando 500.000 alloggi popolari nei prossimi 10 anni.,programma-elettorale-pd
-2,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,Programma elettorale PD,Partito Democratico,1,green,"l’obbligo di retribuzione per stage curriculari e l’abolizione degli stage extra-curriculari, salvo quelli attivati nei 12 mesi successivi alla conclusione di un percorso di studi, così da assicurare che lo strumento torni a rappresentare un'occasione di formazione (e non più di lavoro mascherato, come è ora). Contemporaneamente incentiveremo l’apprendistato come principale strumento di ingresso nel mercato del lavoro;",programma-elettorale-pd
-3,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,Programma elettorale PD,Partito Democratico,1,green,"La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero.",programma-elettorale-pd
-4,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,,,,,,
-5,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,,,,,,
-6,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,programma-elettorale-avs
-7,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-8,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale Lega,Lega,5,yellow,,programma-elettorale-lega
-9,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
-10,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale PD,Partito Democratico,1,green,"Promuoveremo politiche di sostegno per la famiglia, anche per affrontare il problema della povertà infantile, della denatalità e dell’inverno demografico. Ci impegniamo a migliorare ulteriormente l’Assegno unico e universale per i figli a carico, da noi fortemente voluto, potenziando le clausole di salvaguardia, in particolare per le persone con disabilità e le famiglie con figli disabili, e rivedendo il peso della prima casa nel calcolo dell’ISEE utilizzato per l’Assegno unico. Vogliamo valorizzare, adottando un approccio sistemico, le relazioni di prossimità tra comunità e famiglie in tutti i diversi ambiti della vita familiare.",programma-elettorale-pd
-11,Health,7,Aumento medici di base,aumento-medici-di-base,Programma elettorale PD,Partito Democratico,1,green,"Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",programma-elettorale-pd
-12,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,Programma elettorale PD,Partito Democratico,1,green,"Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",programma-elettorale-pd
-13,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,,,,,,
-14,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,,,,,,
-15,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,programma-elettorale-avs
-16,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-17,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale Lega,Lega,5,yellow,,programma-elettorale-lega
-18,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
-19,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale PD,Partito Democratico,1,yellow,,programma-elettorale-pd
-20,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,Programma elettorale PD,Partito Democratico,1,green,"Aiuteremo le ragazze e i ragazzi a uscire di casa, potenziando il Fondo di garanzia mutui per la prima casa e introducendo un contributo affitti di 2.000 € per studenti e lavoratori (under 35) in base al reddito.",programma-elettorale-pd
-21,Values and rights,11,DDL Zan,ddl-zan,,,,,,
-22,Values and rights,11,DDL Zan,ddl-zan,,,,,,
-23,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una legge sull’uguaglianza e la pari dignità familiare che dia risposte concrete e che spazzi via l’ipocrisia di voler mantenere le donne, i figli e le figlie delle famiglie arcobaleno e le persone lgbt+ un gradino sotto le altre.",programma-elettorale-avs
-24,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-25,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale Lega,Lega,5,yellow,Non se ne parla nel programma,programma-elettorale-lega
-26,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale M5S,Movimento 5 Stelle,10,green,MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA,programma-elettorale-m5s
-27,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale PD,Partito Democratico,1,green,Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario.,programma-elettorale-pd
-28,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,Programma elettorale PD,Partito Democratico,1,green,"La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero.",programma-elettorale-pd
-29,Economic affairs,4,Flat tax,flat-tax,,,,,,
-30,Economic affairs,4,Flat tax,flat-tax,,,,,,
-31,Economic affairs,4,Flat tax,flat-tax,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Riforma dell’imposta sulle persone fisiche
+1,Social protection,10,Alloggi popolari,alloggi-popolari,,,,,,
+2,Social protection,10,Alloggi popolari,alloggi-popolari,,,,,,
+3,Social protection,10,Alloggi popolari,alloggi-popolari,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Vogliamo inoltre che importanti risorse aggiuntive vengano messe a disposizione degli enti locali, perl’adeguamento e il ripristino dell’attuale dotazione di case popolari, con particolare attenzioneall’efficientamento energetico.",programma-elettorale-avs
+4,Social protection,10,Alloggi popolari,alloggi-popolari,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+5,Social protection,10,Alloggi popolari,alloggi-popolari,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+6,Social protection,10,Alloggi popolari,alloggi-popolari,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+7,Social protection,10,Alloggi popolari,alloggi-popolari,Programma elettorale PD,Partito Democratico,1,green,Lanceremo una nuova stagione di politiche abitative per garantire il diritto alla casa. Lo faremo realizzando 500.000 alloggi popolari nei prossimi 10 anni.,programma-elettorale-pd
+8,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,,,,,,
+9,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,,,,,,
+10,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,programma-elettorale-avs
+11,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+12,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+13,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+14,Economic affairs,4,Apprendistato retribuito,apprendistato-retribuito,Programma elettorale PD,Partito Democratico,1,green,"l’obbligo di retribuzione per stage curriculari e l’abolizione degli stage extra-curriculari, salvo quelli attivati nei 12 mesi successivi alla conclusione di un percorso di studi, così da assicurare che lo strumento torni a rappresentare un'occasione di formazione (e non più di lavoro mascherato, come è ora). Contemporaneamente incentiveremo l’apprendistato come principale strumento di ingresso nel mercato del lavoro;",programma-elettorale-pd
+15,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,,,,,,
+16,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,,,,,,
+17,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"È necessario che ognuno di noi sia messo nelle condizioni di produrre energia pulita e soprattutto di condividere e scambiare l’energia prodotta attraverso la rete elettrica e il relativo mercato,che devono essere riorganizzati per gestire il 100% di energia elettrica rinnovabile",programma-elettorale-avs
+18,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+19,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+20,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+21,Environmental protection,5,Approvvigionamento energetico,approvvigionamento-energetico,Programma elettorale PD,Partito Democratico,1,green,"La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero.",programma-elettorale-pd
+22,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,,,,,,
+23,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,,,,,,
+24,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,programma-elettorale-avs
+25,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+26,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale Lega,Lega,5,yellow,,programma-elettorale-lega
+27,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
+28,Economic affairs,4,Aumento assegno unico universale,aumento-assegno-unico-universale,Programma elettorale PD,Partito Democratico,1,green,"Promuoveremo politiche di sostegno per la famiglia, anche per affrontare il problema della povertà infantile, della denatalità e dell’inverno demografico. Ci impegniamo a migliorare ulteriormente l’Assegno unico e universale per i figli a carico, da noi fortemente voluto, potenziando le clausole di salvaguardia, in particolare per le persone con disabilità e le famiglie con figli disabili, e rivedendo il peso della prima casa nel calcolo dell’ISEE utilizzato per l’Assegno unico. Vogliamo valorizzare, adottando un approccio sistemico, le relazioni di prossimità tra comunità e famiglie in tutti i diversi ambiti della vita familiare.",programma-elettorale-pd
+29,Health,7,Aumento medici di base,aumento-medici-di-base,,,,,,
+30,Health,7,Aumento medici di base,aumento-medici-di-base,,,,,,
+31,Health,7,Aumento medici di base,aumento-medici-di-base,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Un Piano di rafforzamento strutturale del personale dipendente, con l’assunzione di complessivi 40 milaoperatori in tre anni, per riportare la dotazione di operatori ai livelli precedenti alla crisi, riducendocontestualmente la spesa per il lavoro precario, le collaborazioni esterne e le esternalizzazioni di servizi.",programma-elettorale-avs
+32,Health,7,Aumento medici di base,aumento-medici-di-base,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+33,Health,7,Aumento medici di base,aumento-medici-di-base,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+34,Health,7,Aumento medici di base,aumento-medici-di-base,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+35,Health,7,Aumento medici di base,aumento-medici-di-base,Programma elettorale PD,Partito Democratico,1,green,"Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",programma-elettorale-pd
+36,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,,,,,,
+37,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,,,,,,
+38,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Un Piano di rafforzamento strutturale del personale dipendente, con l’assunzione di complessivi 40 milaoperatori in tre anni, per riportare la dotazione di operatori ai livelli precedenti alla crisi, riducendocontestualmente la spesa per il lavoro precario, le collaborazioni esterne e le esternalizzazioni di servizi.",programma-elettorale-avs
+39,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+40,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+41,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+42,Economic affairs,4,Aumento posti lavoro medici,aumento-posti-lavoro-medici,Programma elettorale PD,Partito Democratico,1,green,"Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",programma-elettorale-pd
+43,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,,,,,,
+44,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,,,,,,
+45,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,programma-elettorale-avs
+46,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+47,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale Lega,Lega,5,yellow,,programma-elettorale-lega
+48,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
+49,Economic affairs,4,Conto unico fiscale,conto-unico-fiscale,Programma elettorale PD,Partito Democratico,1,yellow,,programma-elettorale-pd
+50,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,,,,,,
+51,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,,,,,,
+52,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Noi riteniamo che la migliore soluzione praticabile a questo problema sia il rilancio dell’edilizia residenzialepubblica, che le politiche degli ultimi decenni hanno di fatto smantellato nella sua dimensione di welfarediffuso, relegandola ad una dimensione meramente assistenziale ed emergenziale.",programma-elettorale-avs
+53,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+54,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+55,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+56,Social protection,10,Contributo affitto giovani,contributo-affitto-giovani,Programma elettorale PD,Partito Democratico,1,green,"Aiuteremo le ragazze e i ragazzi a uscire di casa, potenziando il Fondo di garanzia mutui per la prima casa e introducendo un contributo affitti di 2.000 € per studenti e lavoratori (under 35) in base al reddito.",programma-elettorale-pd
+57,Values and rights,11,DDL Zan,ddl-zan,,,,,,
+58,Values and rights,11,DDL Zan,ddl-zan,,,,,,
+59,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una legge sull’uguaglianza e la pari dignità familiare che dia risposte concrete e che spazzi via l’ipocrisia di voler mantenere le donne, i figli e le figlie delle famiglie arcobaleno e le persone lgbt+ un gradino sotto le altre.",programma-elettorale-avs
+60,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+61,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale Lega,Lega,5,yellow,Non se ne parla nel programma,programma-elettorale-lega
+62,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale M5S,Movimento 5 Stelle,10,green,MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA,programma-elettorale-m5s
+63,Values and rights,11,DDL Zan,ddl-zan,Programma elettorale PD,Partito Democratico,1,green,Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario.,programma-elettorale-pd
+64,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,,,,,,
+65,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,,,,,,
+66,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,Raggiungere per il fabbisogno elettrico 80% di penetrazione rinnovabile al 2030 e quasi 100% al 2035attraverso una programmazione annuale minima di sviluppo rinnovabili e sblocco autorizzazioni.Priorità ad energia solare ed eolico a terra e marino. A tal proposito è necessario realizzare 60GW dirinnovabili entro tre anni individuando anche figure di commissari e sub commissari regionali persbloccare le autorizzazioni.,programma-elettorale-avs
+67,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+68,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,Programma elettorale Lega,Lega,5,,,programma-elettorale-lega
+69,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,Programma elettorale M5S,Movimento 5 Stelle,10,,,programma-elettorale-m5s
+70,Economic affairs,4,Energia rinnovabile,energia-rinnovabile,Programma elettorale PD,Partito Democratico,1,green,"La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero.",programma-elettorale-pd
+71,Economic affairs,4,Flat tax,flat-tax,,,,,,
+72,Economic affairs,4,Flat tax,flat-tax,,,,,,
+73,Economic affairs,4,Flat tax,flat-tax,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Riforma dell’imposta sulle persone fisiche
 Oggi in Italia chi vive di rendite finanziarie o immobiliari paga meno tasse di chi lavora.
 
 Noi crediamo invece che tutte le fonti di reddito debbano essere cumulate e tassate alla stessa maniera, con un’imposta unica e progressiva.
@@ -37,8 +79,8 @@ Noi crediamo invece che tutte le fonti di reddito debbano essere cumulate e tass
 Vogliamo inoltre che il carico fiscale sia redistribuito, a vantaggio dei redditi più bassi.
 
 Per questo proponiamo di alzare a 1.000 euro la quota di reddito esente da imposte, per poi applicare un’aliquota mobile crescente sul modello tedesco, che arrivi al 65% per i redditi superiori ai 10 milioni di euro.",programma-elettorale-avs
-32,Economic affairs,4,Flat tax,flat-tax,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-33,Economic affairs,4,Flat tax,flat-tax,Programma elettorale Lega,Lega,5,green,"PROSEGUIRE IL PERCORSO VERSO LA FLAT TAX
+74,Economic affairs,4,Flat tax,flat-tax,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
+75,Economic affairs,4,Flat tax,flat-tax,Programma elettorale Lega,Lega,5,green,"PROSEGUIRE IL PERCORSO VERSO LA FLAT TAX
 La Legge di bilancio 2019 (L. 30 dicembre 2018, n. 145) ha introdotto la cosiddetta “mini flat tax”,
 ovvero l’estensione fino a € 65mila di fatturato del regime dei minimi per le partite Iva (persone
 fisiche esercenti attività d’impresa, arti o professioni). Questo regime ha incontrato e continua ad
@@ -67,91 +109,109 @@ dell’imposta sul reddito delle persone fisiche (dopo quello disposto dalla leg
 e Ires e la riduzione dell’aliquota dell’Ires al 20%
 Flat Tax fase 3
 Estensione della Flat Tax a tutte le persone fisiche e giuridiche, senza limiti di reddito",programma-elettorale-lega
-34,Economic affairs,4,Flat tax,flat-tax,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
-35,Economic affairs,4,Flat tax,flat-tax,Programma elettorale PD,Partito Democratico,1,red,Un sistema fiscale equo e progressivo è alla base del nostro patto di cittadinanza. Le flat tax proposte dalle destre sono propaganda elettorale sulla pelle di chi ha meno: avvantaggiano solo i redditi più alti e sottraggono risorse per il welfare.,programma-elettorale-pd
-36,Environmental protection,5,Inceneritori,inceneritori,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,programma-elettorale-m5s
-37,Economic affairs,4,Inceneritori,inceneritori,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,programma-elettorale-m5s
-38,Environmental protection,5,Inceneritori,inceneritori,Programma elettorale PD,Partito Democratico,1,yellow,,programma-elettorale-pd
-39,Economic affairs,4,Inceneritori,inceneritori,Programma elettorale PD,Partito Democratico,1,yellow,,programma-elettorale-pd
-40,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,,,,,,
-41,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,,,,,,
-42,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,programma-elettorale-avs
-43,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-44,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale Lega,Lega,5,green,"Occorre prevedere una «scossa» da 150 miliardi di euro per le infrastrutture del Paese, di cui
+76,Economic affairs,4,Flat tax,flat-tax,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
+77,Economic affairs,4,Flat tax,flat-tax,Programma elettorale PD,Partito Democratico,1,red,Un sistema fiscale equo e progressivo è alla base del nostro patto di cittadinanza. Le flat tax proposte dalle destre sono propaganda elettorale sulla pelle di chi ha meno: avvantaggiano solo i redditi più alti e sottraggono risorse per il welfare.,programma-elettorale-pd
+78,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,,,,,,
+79,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,,,,,,
+80,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,,,,,,
+81,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,,,,,,
+82,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Un piano nazionale per la gestione dei rifiuti
+deve considerare la termovalorizzazione solo come unasoluzione di ultima istanza perché l’incenerimento dei rifiuti non permette il recupero delle materie prime e iprodotti che potrebbero produrre ulteriore valore se riutilizzate o riciclate e reimmesse nel ciclo economico.L’impronta di carbonio dei termovalorizzatori è di 650-800 grammi di CO2 per ogni kWh prodotto, il doppiodi una centrale a gas e quasi quanto una centrale a carbone. Sono necessari gli impianti di compostaggioper il trattamento dell’umido per chiudere il ciclo dei rifiuti.",
+83,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Un piano nazionale per la gestione dei rifiuti
+deve considerare la termovalorizzazione solo come unasoluzione di ultima istanza perché l’incenerimento dei rifiuti non permette il recupero delle materie prime e iprodotti che potrebbero produrre ulteriore valore se riutilizzate o riciclate e reimmesse nel ciclo economico.L’impronta di carbonio dei termovalorizzatori è di 650-800 grammi di CO2 per ogni kWh prodotto, il doppiodi una centrale a gas e quasi quanto una centrale a carbone. Sono necessari gli impianti di compostaggioper il trattamento dell’umido per chiudere il ciclo dei rifiuti.",
+84,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+85,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+86,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale Lega,Lega,5,,,
+87,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale Lega,Lega,5,,,
+88,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,
+89,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,
+90,Environmental protection,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale PD,Partito Democratico,1,yellow,,
+91,Economic affairs,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,Programma elettorale PD,Partito Democratico,1,yellow,,
+92,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,,,,,,
+93,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,,,,,,
+94,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+95,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+96,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale Lega,Lega,5,green,"Occorre prevedere una «scossa» da 150 miliardi di euro per le infrastrutture del Paese, di cui
 metà dal PNRR e metà da opportune forme di ""partnership fra pubblico e privato"" (Ppp).
 Dobbiamo investire prioritariamente per attrezzare adeguatamente i nostri Porti con aree retro
 portuali capaci di garantire lo sdoganamento delle merci in loco per poi essere trasportate grazie
-all’Alta Portabilità nelle destinazioni finali.",programma-elettorale-lega
-45,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
-46,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale PD,Partito Democratico,1,green,"Introdurremo il monitoraggio e la messa in sicurezza delle infrastrutture esistenti – in particolare ponti, viadotti e gallerie – attraverso azioni programmate di manutenzione e adattamento alle pressioni indotte dai cambiamenti climatici.",programma-elettorale-pd
-47,Values and rights,11,Ius scholae,ius-scholae,,,,,,
-48,Values and rights,11,Ius scholae,ius-scholae,,,,,,
-49,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",programma-elettorale-avs
-50,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-51,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale Lega,Lega,5,red,"NO ALLO IUS SOLI
+all’Alta Portabilità nelle destinazioni finali.",
+97,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+98,Economic affairs,4,Investimenti infrastrutture,investimenti-infrastrutture,Programma elettorale PD,Partito Democratico,1,green,"Introdurremo il monitoraggio e la messa in sicurezza delle infrastrutture esistenti – in particolare ponti, viadotti e gallerie – attraverso azioni programmate di manutenzione e adattamento alle pressioni indotte dai cambiamenti climatici.",
+99,Values and rights,11,Ius scholae,ius-scholae,,,,,,
+100,Values and rights,11,Ius scholae,ius-scholae,,,,,,
+101,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",
+102,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+103,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale Lega,Lega,5,red,"NO ALLO IUS SOLI
 Nessuna modifica alla normativa sulla cittadinanza
 La legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.
 L’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione
 di cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.
 Non verrà prevista nessuna modifica rispetto a questo principio.
 Nessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,
-Ius Culturae o Ius Temperato.",programma-elettorale-lega
-52,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale M5S,Movimento 5 Stelle,10,green,"IUS SCHOLAE per riconoscere la cittadinanza al minore straniero, che sia nato in Italia o vi abbia
-fatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi",programma-elettorale-m5s
-53,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale PD,Partito Democratico,1,green,"Introdurremo lo Ius Scholae, per superare le ingiustificate discriminazioni che ancora oggi vediamo nelle classi italiane. A settembre, bambine e bambini torneranno nelle scuole. Studieranno insieme, mangeranno insieme, giocheranno insieme. Compagne e compagni di classe, che però per la legge non sono uguali. Neanche se parlano la stessa lingua, ascoltano la stessa musica e hanno gli stessi sogni. Perché ancora oggi i figli dei genitori stranieri incontrano barriere ingiustificate nell’accesso alla cittadinanza, anche quando sono nati in Italia, sono cresciuti in Italia e hanno studiato in Italia. È il momento di introdurre una norma che non è solo civiltà: è prima di tutto buonsenso. Chi è figlio di genitori stranieri e studia in Italia diventa cittadino italiano.",programma-elettorale-pd
-54,Values and rights,11,Ius soli,ius-soli,,,,,,
-55,Values and rights,11,Ius soli,ius-soli,,,,,,
-56,Values and rights,11,Ius soli,ius-soli,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",programma-elettorale-avs
-57,Values and rights,11,Ius soli,ius-soli,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-58,Values and rights,11,Ius soli,ius-soli,Programma elettorale Lega,Lega,5,red,"NO ALLO IUS SOLI
+Ius Culturae o Ius Temperato.",
+104,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale M5S,Movimento 5 Stelle,10,green,"IUS SCHOLAE per riconoscere la cittadinanza al minore straniero, che sia nato in Italia o vi abbia
+fatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi",
+105,Values and rights,11,Ius scholae,ius-scholae,Programma elettorale PD,Partito Democratico,1,green,"Introdurremo lo Ius Scholae, per superare le ingiustificate discriminazioni che ancora oggi vediamo nelle classi italiane. A settembre, bambine e bambini torneranno nelle scuole. Studieranno insieme, mangeranno insieme, giocheranno insieme. Compagne e compagni di classe, che però per la legge non sono uguali. Neanche se parlano la stessa lingua, ascoltano la stessa musica e hanno gli stessi sogni. Perché ancora oggi i figli dei genitori stranieri incontrano barriere ingiustificate nell’accesso alla cittadinanza, anche quando sono nati in Italia, sono cresciuti in Italia e hanno studiato in Italia. È il momento di introdurre una norma che non è solo civiltà: è prima di tutto buonsenso. Chi è figlio di genitori stranieri e studia in Italia diventa cittadino italiano.",
+106,Values and rights,11,Ius soli,ius-soli,,,,,,
+107,Values and rights,11,Ius soli,ius-soli,,,,,,
+108,Values and rights,11,Ius soli,ius-soli,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",
+109,Values and rights,11,Ius soli,ius-soli,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+110,Values and rights,11,Ius soli,ius-soli,Programma elettorale Lega,Lega,5,red,"NO ALLO IUS SOLI
 Nessuna modifica alla normativa sulla cittadinanza
 La legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.
 L’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione
 di cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.
 Non verrà prevista nessuna modifica rispetto a questo principio.
 Nessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,
-Ius Culturae o Ius Temperato.",programma-elettorale-lega
-59,Values and rights,11,Ius soli,ius-soli,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
-60,Values and rights,11,Ius soli,ius-soli,Programma elettorale PD,Partito Democratico,1,yellow,Non se ne parla nel programma,programma-elettorale-pd
-61,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,,,,,,
-62,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,,,,,,
-63,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso.",programma-elettorale-avs
-64,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-65,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale Lega,Lega,5,yellow,Non se ne parla nel programma,programma-elettorale-lega
-66,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale M5S,Movimento 5 Stelle,10,green,MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA,programma-elettorale-m5s
-67,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale PD,Partito Democratico,1,green,Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario.,programma-elettorale-pd
-68,Environmental protection,5,Nucleare,nucleare,,,,,,
-69,Economic affairs,4,Nucleare,nucleare,,,,,,
-70,Environmental protection,5,Nucleare,nucleare,,,,,,
-71,Economic affairs,4,Nucleare,nucleare,,,,,,
-72,Economic affairs,4,Nucleare,nucleare,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"No al nucleare, come da mandato dei due referendum.
+Ius Culturae o Ius Temperato.",
+111,Values and rights,11,Ius soli,ius-soli,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+112,Values and rights,11,Ius soli,ius-soli,Programma elettorale PD,Partito Democratico,1,yellow,Non se ne parla nel programma,
+113,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,,,,,,
+114,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,,,,,,
+115,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso.",
+116,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+117,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale Lega,Lega,5,yellow,Non se ne parla nel programma,
+118,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale M5S,Movimento 5 Stelle,10,green,MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA,
+119,Values and rights,11,Matrimonio egualitario,matrimonio-egualitario,Programma elettorale PD,Partito Democratico,1,green,Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario.,
+120,Environmental protection,5,Nucleare,nucleare,,,,,,
+121,Economic affairs,4,Nucleare,nucleare,,,,,,
+122,Environmental protection,5,Nucleare,nucleare,,,,,,
+123,Economic affairs,4,Nucleare,nucleare,,,,,,
+124,Economic affairs,4,Nucleare,nucleare,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"No al nucleare, come da mandato dei due referendum.
 
-Fare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo.",programma-elettorale-avs
-73,Environmental protection,5,Nucleare,nucleare,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"No al nucleare, come da mandato dei due referendum.
+Fare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo.",
+125,Environmental protection,5,Nucleare,nucleare,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"No al nucleare, come da mandato dei due referendum.
 
-Fare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo.",programma-elettorale-avs
-74,Environmental protection,5,Nucleare,nucleare,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-75,Economic affairs,4,Nucleare,nucleare,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,programma-elettorale-azione-italia-viva
-76,Economic affairs,4,Nucleare,nucleare,Programma elettorale Lega,Lega,5,green,"Nucleare Pulito e Sicuro
+Fare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo.",
+126,Environmental protection,5,Nucleare,nucleare,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+127,Economic affairs,4,Nucleare,nucleare,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+128,Economic affairs,4,Nucleare,nucleare,Programma elettorale Lega,Lega,5,green,"Nucleare Pulito e Sicuro
 In abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare
 di ultima generazione, pulito e sicuro, riconosciuto nella tassonomia europea, per perseguire
 gli obiettivi di decarbonizzazione al 2050 e allo stesso tempo rispondere alla domanda sempre
 crescente di energia elettrica, garantire un sistema energetico sicuro e stabile e ridurre la dipendenza
-energetica dall’estero.",programma-elettorale-lega
-77,Environmental protection,5,Nucleare,nucleare,Programma elettorale Lega,Lega,5,green,"Nucleare Pulito e Sicuro
+energetica dall’estero.",
+129,Environmental protection,5,Nucleare,nucleare,Programma elettorale Lega,Lega,5,green,"Nucleare Pulito e Sicuro
 In abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare
 di ultima generazione, pulito e sicuro, riconosciuto nella tassonomia europea, per perseguire
 gli obiettivi di decarbonizzazione al 2050 e allo stesso tempo rispondere alla domanda sempre
 crescente di energia elettrica, garantire un sistema energetico sicuro e stabile e ridurre la dipendenza
-energetica dall’estero.",programma-elettorale-lega
-78,Environmental protection,5,Nucleare,nucleare,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,programma-elettorale-m5s
-79,Economic affairs,4,Nucleare,nucleare,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-80,Economic affairs,4,Nucleare,nucleare,Programma elettorale PD,Partito Democratico,1,red,"Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati.",
-81,Environmental protection,5,Nucleare,nucleare,Programma elettorale PD,Partito Democratico,1,red,"Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati.",
-82,Values and rights,11,Parità salariale,parit-salariale,Programma elettorale PD,Partito Democratico,1,green,"Grazie al nostro impegno, nella legislatura appena conclusa abbiamo approvato una legge sulla parità salariale (Legge Gribaudo 162/2021) che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Ma aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte.",
-83,Economic affairs,4,Patrimoniale,patrimoniale,,,,,,
-84,Economic affairs,4,Patrimoniale,patrimoniale,,,,,,
-85,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Riforma dell’imposta patrimoniale
+energetica dall’estero.",
+130,Environmental protection,5,Nucleare,nucleare,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+131,Economic affairs,4,Nucleare,nucleare,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+132,Economic affairs,4,Nucleare,nucleare,Programma elettorale PD,Partito Democratico,1,red,"Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati.",
+133,Environmental protection,5,Nucleare,nucleare,Programma elettorale PD,Partito Democratico,1,red,"Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati.",
+134,Values and rights,11,Parità salariale,parit-salariale,,,,,,
+135,Values and rights,11,Parità salariale,parit-salariale,,,,,,
+136,Values and rights,11,Parità salariale,parit-salariale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,Siamo qui a lottare per la parità salariale e per creare le condizioni affinché le donne possano trovare ilgiusto riconoscimento in posizioni apicali e “ruoli decisionali”.,
+137,Values and rights,11,Parità salariale,parit-salariale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+138,Values and rights,11,Parità salariale,parit-salariale,Programma elettorale Lega,Lega,5,,,
+139,Values and rights,11,Parità salariale,parit-salariale,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+140,Values and rights,11,Parità salariale,parit-salariale,Programma elettorale PD,Partito Democratico,1,green,"Grazie al nostro impegno, nella legislatura appena conclusa abbiamo approvato una legge sulla parità salariale (Legge Gribaudo 162/2021) che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Ma aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte.",
+141,Economic affairs,4,Patrimoniale,patrimoniale,,,,,,
+142,Economic affairs,4,Patrimoniale,patrimoniale,,,,,,
+143,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Riforma dell’imposta patrimoniale
 Oggi in Italia le imposte sui patrimoni sono fatte per gravare molto su chi ha poco e poco su chi ha molto.
 
 Questo è particolarmente intollerabile in un paese dove il 5% più abbiente della popolazione possiede la stessa ricchezza dell’80% più povero.
@@ -159,62 +219,68 @@ Questo è particolarmente intollerabile in un paese dove il 5% più abbiente del
 Per questo noi vogliamo abolire l’IMU e l’imposta di bollo sugli investimenti, per adottare un’imposta patrimoniale personale, unica e progressiva, che gravi sull’insieme di tutti i beni mobili e immobili, di qualsiasi natura.
 
 Prevediamo in questo modo di aumentare la tassazione sui patrimoni o superiori a 5 milioni di euro, con un’imposta progressiva che cresca fino al 2% oltre i 50 milioni.",
-86,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-87,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale Lega,Lega,5,red,"Rafforzamenti o estensioni delle imposte sul patrimonio sono
+144,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+145,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale Lega,Lega,5,red,"Rafforzamenti o estensioni delle imposte sul patrimonio sono
 inique e inefficienti nella misura in cui scoraggiano il risparmio e quindi il livello di investimenti
 e il potenziale di crescita economica del Paese. In termini concreti, proponiamo l’abolizione di
 alcune imposte patrimoniali particolarmente penalizzanti per la piccola proprietà immobiliare e
 dell’IRAP, che per il suo peculiare meccanismo obbliga le imprese a pagare imposte anche quando
 sono in perdita.",
-88,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-89,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale PD,Partito Democratico,1,yellow,,
-90,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,,,,,,
-91,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,,,,,,
-92,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Ribadiamo il nostro no al ponte sullo stretto di Messina opera inutile, inserita in un contesto ad alto rischio sismico ed idrogeologico e che sottrarrebbe 10 miliardi di euro ad opere e infrastrutture socialmente utili.",
-93,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-94,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale Lega,Lega,5,green,"completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità
+146,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+147,Economic affairs,4,Patrimoniale,patrimoniale,Programma elettorale PD,Partito Democratico,1,yellow,,
+148,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,,,,,,
+149,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,,,,,,
+150,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Ribadiamo il nostro no al ponte sullo stretto di Messina opera inutile, inserita in un contesto ad alto rischio sismico ed idrogeologico e che sottrarrebbe 10 miliardi di euro ad opere e infrastrutture socialmente utili.",
+151,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+152,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale Lega,Lega,5,green,"completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità
 territoriale tra Sicilia e Calabria (ponte sullo Stretto).",
-95,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-96,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale PD,Partito Democratico,1,yellow,,
-97,Economic affairs,4,Posti lavoro,posti-lavoro,Programma elettorale PD,Partito Democratico,1,green,"Introdurremo un piano nazionale per il risparmio energetico e interventi finalizzati ad aumentare drasticamente la quota di rinnovabili prodotte in Italia, anche attraverso lo sviluppo delle Comunità energetiche, con l'obiettivo di installare 85 GW di rinnovabili in più entro il 2030. Un obiettivo ambizioso ma realistico che porterà, secondo alcune stime, alla creazione di circa 500.000 nuovi posti di lavoro.",
-98,Economic affairs,4,Presidenzialismo,presidenzialismo,,,,,,
-99,Economic affairs,4,Presidenzialismo,presidenzialismo,,,,,,
-100,General public services,1,Presidenzialismo,presidenzialismo,Accordo elettorale tra PD e Alleanza Verdi e Sinistra (AVS),Alleanza Verdi e Sinistra,8,red,Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo,
-101,Economic affairs,4,Presidenzialismo,presidenzialismo,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,green,Proponiamo l’elezione diretta da parte dei cittadini del Presidente del Consiglio sul modello dei sindaci delle città più grandi.,
-102,General public services,1,Presidenzialismo,presidenzialismo,Programma elettorale Lega,Lega,5,green,"Il presidenzialismo, secondo il modello sperimentato in Francia con successo, è la risposta
+153,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+154,Economic affairs,4,Ponte sullo Stretto,ponte-sullo-stretto,Programma elettorale PD,Partito Democratico,1,yellow,,
+155,Economic affairs,4,Posti lavoro,posti-lavoro,,,,,,
+156,Economic affairs,4,Posti lavoro,posti-lavoro,,,,,,
+157,Economic affairs,4,Posti lavoro,posti-lavoro,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+158,Economic affairs,4,Posti lavoro,posti-lavoro,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+159,Economic affairs,4,Posti lavoro,posti-lavoro,Programma elettorale Lega,Lega,5,,,
+160,Economic affairs,4,Posti lavoro,posti-lavoro,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+161,Economic affairs,4,Posti lavoro,posti-lavoro,Programma elettorale PD,Partito Democratico,1,green,"Introdurremo un piano nazionale per il risparmio energetico e interventi finalizzati ad aumentare drasticamente la quota di rinnovabili prodotte in Italia, anche attraverso lo sviluppo delle Comunità energetiche, con l'obiettivo di installare 85 GW di rinnovabili in più entro il 2030. Un obiettivo ambizioso ma realistico che porterà, secondo alcune stime, alla creazione di circa 500.000 nuovi posti di lavoro.",
+162,Economic affairs,4,Presidenzialismo,presidenzialismo,,,,,,
+163,Economic affairs,4,Presidenzialismo,presidenzialismo,,,,,,
+164,General public services,1,Presidenzialismo,presidenzialismo,Accordo elettorale tra PD e Alleanza Verdi e Sinistra (AVS),Alleanza Verdi e Sinistra,8,red,Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo,
+165,Economic affairs,4,Presidenzialismo,presidenzialismo,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,green,Proponiamo l’elezione diretta da parte dei cittadini del Presidente del Consiglio sul modello dei sindaci delle città più grandi.,
+166,General public services,1,Presidenzialismo,presidenzialismo,Programma elettorale Lega,Lega,5,green,"Il presidenzialismo, secondo il modello sperimentato in Francia con successo, è la risposta
 Eleggere direttamente il Capo dello Stato, in un contesto di rafforzamento dei poteri
 di controllo del Parlamento, consentirà ai cittadini di scegliere chi ha la responsabilità
 e i poteri per far rispettare la volontà espressa in occasione delle elezioni. Il Presidente
 della Repubblica direttamente eletto vigilerà sui comportamenti delle forze politiche,
 guiderà la politica nazionale, rappresenterà l’Italia nei consessi internazionali per tutta
 la durata del suo mandato",
-103,Economic affairs,4,Presidenzialismo,presidenzialismo,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-104,General public services,1,Presidenzialismo,presidenzialismo,Accordo elettorale tra PD e Alleanza Verdi e Sinistra (PD),Partito Democratico,1,red,Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo,
-105,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,,,,,,
-106,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,,,,,,
-107,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Un “Piano straordinario per il trasporto pubblico locale”
+167,Economic affairs,4,Presidenzialismo,presidenzialismo,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+168,General public services,1,Presidenzialismo,presidenzialismo,Accordo elettorale tra PD e Alleanza Verdi e Sinistra (PD),Partito Democratico,1,red,Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo,
+169,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,,,,,,
+170,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,,,,,,
+171,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Un “Piano straordinario per il trasporto pubblico locale”
 Il 74% degli spostamenti riguarda distanze entro i 10 km e viene soddisfatto per oltre il 62% ricorrendo all’auto privata.
 
 Vogliamo affrontare le carenze organizzative, di infrastrutture e dotazione di mezzi per una più elevata qualità del servizio erogato; ampliare e mettere in sicurezza percorsi ciclabili e pedonali; digitalizzare tutti i servizi di mobilità; offrire tariffe agevolate e incentivi all’utilizzo delle alternative all’auto. Per raggiungere questi obiettivi si rende necessario rimodulare il fondo complementare del Pnrr pari a 30 miliardi di euro per destinarlo in via prioritaria agli investimenti sul trasporto pubblico. È necessario favorire lo smart working per tutti i lavoratori e lavoratrici la cui presenza non è richiesta fisicamente.
 
 Proponiamo inoltre che i trasporti pubblici locali e i treni regionali siano resi gratuiti per gli Under 30, così da promuovere nuovi modelli di mobilità fra le giovani generazioni.",
-108,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-109,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale Lega,Lega,5,green,"CORSIA PREFERENZIALE PER LE GRANDI OPERE
+172,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+173,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale Lega,Lega,5,green,"CORSIA PREFERENZIALE PER LE GRANDI OPERE
 Superare le attuali barriere normative ancora vigenti nel Codice dei Contratti e nella
 legislazione ambientale che determinano ritardi e tempi non accettabili per la progettazione
 e approvazione delle grandi opere. Superare con urgenza l’attuale processo
 di progettazione e attuazione delle opere pubbliche in Italia, attraverso l’adozione a
 livello generale del “modello Genova”",
-110,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-111,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale PD,Partito Democratico,1,yellow,,
-112,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,,,,,,
-113,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,,,,,,
-114,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Rompere il circolo della povertà:
+174,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+175,Economic affairs,4,Realizzazione grandi opere,realizzazione-grandi-opere,Programma elettorale PD,Partito Democratico,1,yellow,,
+176,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,,,,,,
+177,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,,,,,,
+178,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Rompere il circolo della povertà:
 La ripresa economica non potrà prescindere dalla lotta alla povertà, alle disuguaglianze e alla comune presa di coscienza che è insopportabile che queste condizioni creino disparità nelle opportunità di vita delle persone.
 
 In questo contesto intendiamo difendere e rafforzare il reddito di cittadinanza, secondo le previsioni del rapporto elaborato dalla Commissione presieduta da Chiara Saraceno, con l’obiettivo strategico di arrivare ad un vero Reddito Universale di Base.",
-115,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-116,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale Lega,Lega,5,yellow,"Con la riforma del Reddito di Cittadinanza si intende:
+179,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+180,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale Lega,Lega,5,yellow,"Con la riforma del Reddito di Cittadinanza si intende:
 • per i percettori inidonei al lavoro, mantenere il sostegno al reddito, rivedendo i criteri di
 accesso e la scala di equivalenza, dando maggior peso al quoziente familiare, rimodulando
 gli importi in funzione delle differenti soglie di povertà assoluta (e quindi del potere d'acquisto)
@@ -224,55 +290,61 @@ in un vero e proprio ammortizzatore sociale finalizzato all'occupazione. Corso d
 tirocinio e contrattualizzazione dei percettori a fine percorso, attraverso il coinvolgimento
 delle agenzie private del lavoro, delle associazioni datoriali e attraverso l'utilizzo di
 incentivi fiscali e contributivi per l'assunzione dei percettori.",
-117,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale M5S,Movimento 5 Stelle,10,green,"RAFFORZAMENTO DEL REDDITO DI CITTADINANZA
+181,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale M5S,Movimento 5 Stelle,10,green,"RAFFORZAMENTO DEL REDDITO DI CITTADINANZA
 Misure per rendere più efficiente il sistema delle politiche attive. Monitoraggio delle
 misure antifrode",
-118,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale PD,Partito Democratico,1,green,"Dopo l’introduzione del salario minimo e del Reddito di Cittadinanza (che andrà opportunamente ricalibrato secondo le indicazioni elaborate dalla Commissione Saraceno, a partire dall’ingiustificata penalizzazione delle famiglie numerose e/o con minori) è necessario completare il sistema con un altro meccanismo: l’integrazione pubblica alla retribuzione (in-work benefit) in favore dei lavoratori e delle lavoratrici a basso reddito, come proposto dalla Commissione sul lavoro povero. Questo tipo di integrazione introduce nel sistema opportuni incentivi di ricerca e permanenza di occupazione, permette l’emersione del lavoro nero e incentiva al lavoro. In questo quadro, appare utile favorire la cumulabilità tra sussidi e lavoro, senza disincentivare la partecipazione al mercato del lavoro, anche in questo caso secondo le indicazioni della Commissione Saraceno. Infine, proponiamo di ridurre il periodo minimo di residenza in Italia per accedere al Reddito di Cittadinanza, oggi fissato in 10 anni.",
-119,Economic affairs,4,Revisione PNRR,revisione-pnrr,,,,,,
-120,Economic affairs,4,Revisione PNRR,revisione-pnrr,,,,,,
-121,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Serve partecipazione nel delineare il PNRR, nel definire i progetti, nell’esecuzione. Serve maggiore coerenza rispetto alle grandi sfide (transizione ecologica, economia circolare, lotta agli squilibri, salute pubblica) ponendo al centro la disponibilità, la diffusione e l’utilizzo dei saperi. Un intervento di queste dimensioni e questa complessità non può ridursi all’”acquisto” di tecnologia o alla realizzazione di infrastrutture: è urgente affermare un governo sociale dell’innovazione capace di coglierne ricadute, modelli alternativi, implicazioni sociali e ambientali. Se è vero, inoltre, che il PNRR è finalizzato a investimenti a termine, questa massa di risorse può, però, affiancarsi a una programmazione che tenga conto delle risorse che si liberano e possono essere investite. Le risorse che arriveranno e saranno usate spesso per adeguamenti infrastrutturali non possono riproporre le università come parte di operazioni urbanistiche che hanno cementificato le nostre città senza aumentarne la qualità sociale.",
-122,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-123,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale Lega,Lega,5,yellow,,
-124,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-125,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale PD,Partito Democratico,1,red,"Gli strumenti li abbiamo e sono molteplici, ma tutti fondati su uno stesso prerequisito: la stabilità necessaria a pianificare investimenti e scelte strategiche che guardano al futuro. Questo a partire dal PNRR e dal suo percorso di riforme interrotto bruscamente per la caduta del governo Draghi. Ciò significa portare a termine nei tempi previsti le tante riforme che l'Italia aspetta da tempo - cominciando da Fisco, Giustizia, Pubblica Amministrazione e Concorrenza - e tutti gli investimenti previsti dal PNRR, per non perdere neanche una delle opportunità offerte dai finanziamenti europei.",
-126,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,Programma elettorale PD,Partito Democratico,1,green,"Partendo da qui, a dimostrazione di come sostenibilità ambientale e sociale si rafforzino a vicenda, introdurremo un nuovo contratto “luce sociale” per le famiglie con redditi medi e bassi. Si tratta di un contratto di fornitura energetica prodotta totalmente da fonti rinnovabili e acquistata direttamente dalla società pubblica Acquirente Unico. Il contratto di acquisto avrà durata decennale e ciò permetterà di ottenere prezzi dell’energia elettrica molto bassi a vantaggio delle famiglie: fino ad un massimo di 1.350 KWh/anno per famiglia (pari al 50% del consumo medio), l’energia elettrica verrà fornita a costo zero, mentre sulla parte di consumo eccedente i prezzi saranno comunque calmierati.",
-127,Economic affairs,4,Riduzione IVA,riduzione-iva,,,,,,
-128,Economic affairs,4,Riduzione IVA,riduzione-iva,,,,,,
-129,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"riduzione dell’aliquota IVA su cibo per animali e prestazioni veterinarie, oggi soggetti a tassazione come “beni di lusso”, che aggrava le condizioni di difficoltà economica di chi ha accolto in casa degli animali come parte della famiglia",
-130,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,green,"IVA
+182,Social protection,10,Reddito di cittadinanza,reddito-di-cittadinanza,Programma elettorale PD,Partito Democratico,1,green,"Dopo l’introduzione del salario minimo e del Reddito di Cittadinanza (che andrà opportunamente ricalibrato secondo le indicazioni elaborate dalla Commissione Saraceno, a partire dall’ingiustificata penalizzazione delle famiglie numerose e/o con minori) è necessario completare il sistema con un altro meccanismo: l’integrazione pubblica alla retribuzione (in-work benefit) in favore dei lavoratori e delle lavoratrici a basso reddito, come proposto dalla Commissione sul lavoro povero. Questo tipo di integrazione introduce nel sistema opportuni incentivi di ricerca e permanenza di occupazione, permette l’emersione del lavoro nero e incentiva al lavoro. In questo quadro, appare utile favorire la cumulabilità tra sussidi e lavoro, senza disincentivare la partecipazione al mercato del lavoro, anche in questo caso secondo le indicazioni della Commissione Saraceno. Infine, proponiamo di ridurre il periodo minimo di residenza in Italia per accedere al Reddito di Cittadinanza, oggi fissato in 10 anni.",
+183,Economic affairs,4,Revisione PNRR,revisione-pnrr,,,,,,
+184,Economic affairs,4,Revisione PNRR,revisione-pnrr,,,,,,
+185,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Serve partecipazione nel delineare il PNRR, nel definire i progetti, nell’esecuzione. Serve maggiore coerenza rispetto alle grandi sfide (transizione ecologica, economia circolare, lotta agli squilibri, salute pubblica) ponendo al centro la disponibilità, la diffusione e l’utilizzo dei saperi. Un intervento di queste dimensioni e questa complessità non può ridursi all’”acquisto” di tecnologia o alla realizzazione di infrastrutture: è urgente affermare un governo sociale dell’innovazione capace di coglierne ricadute, modelli alternativi, implicazioni sociali e ambientali. Se è vero, inoltre, che il PNRR è finalizzato a investimenti a termine, questa massa di risorse può, però, affiancarsi a una programmazione che tenga conto delle risorse che si liberano e possono essere investite. Le risorse che arriveranno e saranno usate spesso per adeguamenti infrastrutturali non possono riproporre le università come parte di operazioni urbanistiche che hanno cementificato le nostre città senza aumentarne la qualità sociale.",
+186,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+187,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale Lega,Lega,5,yellow,,
+188,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+189,Economic affairs,4,Revisione PNRR,revisione-pnrr,Programma elettorale PD,Partito Democratico,1,red,"Gli strumenti li abbiamo e sono molteplici, ma tutti fondati su uno stesso prerequisito: la stabilità necessaria a pianificare investimenti e scelte strategiche che guardano al futuro. Questo a partire dal PNRR e dal suo percorso di riforme interrotto bruscamente per la caduta del governo Draghi. Ciò significa portare a termine nei tempi previsti le tante riforme che l'Italia aspetta da tempo - cominciando da Fisco, Giustizia, Pubblica Amministrazione e Concorrenza - e tutti gli investimenti previsti dal PNRR, per non perdere neanche una delle opportunità offerte dai finanziamenti europei.",
+190,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,,,,,,
+191,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,,,,,,
+192,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,,,
+193,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+194,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,Programma elettorale Lega,Lega,5,,,
+195,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+196,Social protection,10,Riduzione bolletta energetica,riduzione-bolletta-energetica,Programma elettorale PD,Partito Democratico,1,green,"Partendo da qui, a dimostrazione di come sostenibilità ambientale e sociale si rafforzino a vicenda, introdurremo un nuovo contratto “luce sociale” per le famiglie con redditi medi e bassi. Si tratta di un contratto di fornitura energetica prodotta totalmente da fonti rinnovabili e acquistata direttamente dalla società pubblica Acquirente Unico. Il contratto di acquisto avrà durata decennale e ciò permetterà di ottenere prezzi dell’energia elettrica molto bassi a vantaggio delle famiglie: fino ad un massimo di 1.350 KWh/anno per famiglia (pari al 50% del consumo medio), l’energia elettrica verrà fornita a costo zero, mentre sulla parte di consumo eccedente i prezzi saranno comunque calmierati.",
+197,Economic affairs,4,Riduzione IVA,riduzione-iva,,,,,,
+198,Economic affairs,4,Riduzione IVA,riduzione-iva,,,,,,
+199,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"riduzione dell’aliquota IVA su cibo per animali e prestazioni veterinarie, oggi soggetti a tassazione come “beni di lusso”, che aggrava le condizioni di difficoltà economica di chi ha accolto in casa degli animali come parte della famiglia",
+200,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,green,"IVA
 Passaggio ad un sistema a due aliquote (una ridotta e una ordinaria) e contestuale riordino dei beni e servizi assoggettati a ciascuna aliquota e ad aliquota zero.",
-131,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale Lega,Lega,5,green,"ABBATTIMENTO DELL’IVA SUI BENI DI PRIMA NECESSITÀ
+201,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale Lega,Lega,5,green,"ABBATTIMENTO DELL’IVA SUI BENI DI PRIMA NECESSITÀ
 Per incidere sull’incremento dei prezzi dei beni di prima necessità, la Lega propone di abbattere
 le relative aliquote Iva. La proposta Lega, a prima firma Salvini, è depositata dal 2020 presso la Commissione Finanze del Senato come AS 2036.",
-132,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-133,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale PD,Partito Democratico,1,green,"Proponiamo forme di detraibilità delle spese sostenute per la partecipazione alle attività culturali, l’abbattimento dell’IVA per i prodotti culturali
+202,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+203,Economic affairs,4,Riduzione IVA,riduzione-iva,Programma elettorale PD,Partito Democratico,1,green,"Proponiamo forme di detraibilità delle spese sostenute per la partecipazione alle attività culturali, l’abbattimento dell’IVA per i prodotti culturali
 
 Sempre nel mondo non profit, sotto il profilo poi degli oneri fiscali, proporremo l’eliminazione dei nuovi obblighi IVA previsti dal 2024 e il graduale superamento dell'IRAP.",
-134,Environmental protection,5,Rigassificatori,rigassificatori,,,,,,
-135,Economic affairs,4,Rigassificatori,rigassificatori,,,,,,
-136,Environmental protection,5,Rigassificatori,rigassificatori,,,,,,
-137,Economic affairs,4,Rigassificatori,rigassificatori,,,,,,
-138,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,"Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
-139,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,"Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
-140,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-141,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-142,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale Lega,Lega,5,green,"Proseguire con la diversificazione degli
+204,Environmental protection,5,Rigassificatori,rigassificatori,,,,,,
+205,Economic affairs,4,Rigassificatori,rigassificatori,,,,,,
+206,Environmental protection,5,Rigassificatori,rigassificatori,,,,,,
+207,Economic affairs,4,Rigassificatori,rigassificatori,,,,,,
+208,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,"Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
+209,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,"Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
+210,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+211,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+212,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale Lega,Lega,5,green,"Proseguire con la diversificazione degli
 approvvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per
 l’affrancamento dal gas russo e per garantire la sicurezza del sistema energetico e la competitività
 del Paese.",
-143,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale Lega,Lega,5,green,"Proseguire con la diversificazione degli
+213,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale Lega,Lega,5,green,"Proseguire con la diversificazione degli
 approvvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per
 l’affrancamento dal gas russo e per garantire la sicurezza del sistema energetico e la competitività
 del Paese.",
-144,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-145,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-146,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale PD,Partito Democratico,1,green,"Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.
+214,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+215,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+216,Economic affairs,4,Rigassificatori,rigassificatori,Programma elettorale PD,Partito Democratico,1,green,"Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.
 In particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici.",
-147,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale PD,Partito Democratico,1,green,"Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.
+217,Environmental protection,5,Rigassificatori,rigassificatori,Programma elettorale PD,Partito Democratico,1,green,"Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.
 In particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici.",
-148,General public services,1,Salario minimo,salario-minimo,,,,,,
-149,General public services,1,Salario minimo,salario-minimo,,,,,,
-150,Economic affairs,4,Salario minimo,salario-minimo,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Salario minimo
+218,General public services,1,Salario minimo,salario-minimo,,,,,,
+219,General public services,1,Salario minimo,salario-minimo,,,,,,
+220,Economic affairs,4,Salario minimo,salario-minimo,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"Salario minimo
 Non dovrebbe essere possibile in una Repubblica fondata sul Lavoro, ma oggi in Italia succede di firmare un contratto che preveda 4,4 euro l’ora di paga.
 
 È il risultato di anni di leggi penalizzanti per le lavoratrici e i lavoratori, soprattutto giovani, donne e migranti, divisi fra loro, precari, ricattati e costretti ad accettare salari da fame.
@@ -282,53 +354,93 @@ Noi crediamo si debba rivoluzionare il sistema: serve una legge sulla rappresent
 Se questo non basta, tanto è lo sfruttamento in alcuni settori come la logistica, prevediamo che esista comunque un salario minimo di 10 euro all’ora, sotto cui nessuno possa andare.
 
 Sono 1.200 euro al mese ed è il prezzo della dignità.",
-151,General public services,1,Salario minimo,salario-minimo,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-152,Economic affairs,4,Salario minimo,salario-minimo,Programma elettorale Lega,Lega,5,green,"È riconosciuto ai lavoratori un salario minimo pari a quello stabilito dai CCNL più diffusi
+221,General public services,1,Salario minimo,salario-minimo,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+222,Economic affairs,4,Salario minimo,salario-minimo,Programma elettorale Lega,Lega,5,green,"È riconosciuto ai lavoratori un salario minimo pari a quello stabilito dai CCNL più diffusi
 nel settore",
-153,General public services,1,Salario minimo,salario-minimo,Programma elettorale M5S,Movimento 5 Stelle,10,green,"SALARIO MINIMO
+223,General public services,1,Salario minimo,salario-minimo,Programma elettorale M5S,Movimento 5 Stelle,10,green,"SALARIO MINIMO
 Nove euro lordi l’ora di salario minimo legale per dire stop alle paghe da fame e dare dignità
 ai lavoratori che oggi percepiscono di meno",
-154,Economic affairs,4,Salario minimo,salario-minimo,Programma elettorale PD,Partito Democratico,1,green,"una legge che riconosca il valore legale erga omnes del trattamento economico complessivo dei contratti collettivi firmati dalle organizzazioni maggiormente rappresentative per debellare i “contratti pirata” e che introduca un salario minimo contrattuale, seguendo il modello tedesco, nei settori a più alta incidenza di povertà lavorativa, con una soglia minima affidata alla proposta delle parti sociali e che comunque rispetti i parametri della direttiva europea (attualmente per l’Italia, secondo alcune stime pari a circa 9 euro lordi orari);",
-155,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,Programma elettorale PD,Partito Democratico,1,green,"Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
-156,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,Programma elettorale PD,Partito Democratico,1,green,"Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
-157,Economic affairs,4,Stipendio docenti,stipendio-docenti,Programma elettorale PD,Partito Democratico,1,green,"Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
-158,Education,9,Stipendio docenti,stipendio-docenti,Programma elettorale PD,Partito Democratico,1,green,"Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
-159,Economic affairs,4,Super bonus,super-bonus,,,,,,
-160,Economic affairs,4,Super bonus,super-bonus,,,,,,
-161,Economic affairs,4,Super bonus,super-bonus,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
-162,Economic affairs,4,Super bonus,super-bonus,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-163,Economic affairs,4,Super bonus,super-bonus,Programma elettorale Lega,Lega,5,green,"SUPERBONUS
+224,Economic affairs,4,Salario minimo,salario-minimo,Programma elettorale PD,Partito Democratico,1,green,"una legge che riconosca il valore legale erga omnes del trattamento economico complessivo dei contratti collettivi firmati dalle organizzazioni maggiormente rappresentative per debellare i “contratti pirata” e che introduca un salario minimo contrattuale, seguendo il modello tedesco, nei settori a più alta incidenza di povertà lavorativa, con una soglia minima affidata alla proposta delle parti sociali e che comunque rispetti i parametri della direttiva europea (attualmente per l’Italia, secondo alcune stime pari a circa 9 euro lordi orari);",
+225,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,,,,,,
+226,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,,,,,,
+227,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"la gratuità dell’istruzione, dal nido all’università, per tutte e tutti; assumendo, cioè, il diritto universale alsapere come carico di una fiscalità generale realmente progressiva e come parte di un patto tra legenerazioni;",
+228,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+229,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,Programma elettorale Lega,Lega,5,,,
+230,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+231,Social protection,10,Scuola infanzia gratuita,scuola-infanzia-gratuita,Programma elettorale PD,Partito Democratico,1,green,"Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
+232,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,,,,,,
+233,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,,,,,,
+234,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,green,"l’estensione del tempo scuola (tempo pieno e tempo prolungato, a seconda dei diversi ordini di scuola) intutte le scuole del territorio nazionale; affinché sempre meno giovani e adolescenti siano lasciati soli con leproprie difficoltà; proponiamo, tra l’altro, di estendere, tra l’altro, l’obbligo scolastico a 18 anni.",
+235,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+236,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,Programma elettorale Lega,Lega,5,,,
+237,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+238,Education,9,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,Programma elettorale PD,Partito Democratico,1,green,"Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese.",
+239,Economic affairs,4,Stipendio docenti,stipendio-docenti,,,,,,
+240,Education,9,Stipendio docenti,stipendio-docenti,,,,,,
+241,Economic affairs,4,Stipendio docenti,stipendio-docenti,,,,,,
+242,Education,9,Stipendio docenti,stipendio-docenti,,,,,,
+243,Economic affairs,4,Stipendio docenti,stipendio-docenti,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+244,Education,9,Stipendio docenti,stipendio-docenti,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+245,Economic affairs,4,Stipendio docenti,stipendio-docenti,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+246,Education,9,Stipendio docenti,stipendio-docenti,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+247,Economic affairs,4,Stipendio docenti,stipendio-docenti,Programma elettorale Lega,Lega,5,,,
+248,Education,9,Stipendio docenti,stipendio-docenti,Programma elettorale Lega,Lega,5,,,
+249,Economic affairs,4,Stipendio docenti,stipendio-docenti,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+250,Education,9,Stipendio docenti,stipendio-docenti,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+251,Economic affairs,4,Stipendio docenti,stipendio-docenti,Programma elettorale PD,Partito Democratico,1,green,"Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
+252,Education,9,Stipendio docenti,stipendio-docenti,Programma elettorale PD,Partito Democratico,1,green,"Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea.",
+253,Economic affairs,4,Super bonus,super-bonus,,,,,,
+254,Economic affairs,4,Super bonus,super-bonus,,,,,,
+255,Economic affairs,4,Super bonus,super-bonus,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+256,Economic affairs,4,Super bonus,super-bonus,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+257,Economic affairs,4,Super bonus,super-bonus,Programma elettorale Lega,Lega,5,green,"SUPERBONUS
 Si prevede un intervento sulla misura del Superbonus che garantisca garanzie per l’accesso all’agevolazione
 fiscale per tutti i soggetti che hanno già maturato il diritto.
 Rendere il Superbonus più coerente e applicabile, contemperando le esigenze di contenimento
 degli oneri a carico dello Stato con quelle di riqualificazione energetica e adeguamento antisismico
 degli edifici, rispondendo agli interessi e alle preoccupazioni di proprietari di casa, imprese
 e tecnici.",
-164,Economic affairs,4,Super bonus,super-bonus,Programma elettorale M5S,Movimento 5 Stelle,10,green,"SUPERBONUS E ALTRI BONUS EDILIZI STRUTTURALI
+258,Economic affairs,4,Super bonus,super-bonus,Programma elettorale M5S,Movimento 5 Stelle,10,green,"SUPERBONUS E ALTRI BONUS EDILIZI STRUTTURALI
 Stabilizzazione delle agevolazioni edilizie per permettere la pianificazione degli investimenti sugli
 immobili e continuare a migliorare i livelli di risparmio energetico e di conseguenza risparmiare
 sulle bollette. Sbloccare e far circolare i crediti d’imposta per evitare il fallimento delle imprese
 che ancora oggi non riescono a trasformarli in liquidità per pagare fornitori e dipendenti",
-165,Economic affairs,4,Super bonus,super-bonus,Programma elettorale PD,Partito Democratico,1,yellow,Non se ne parla nel programma,
-166,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,,,,,,
-167,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,,,,,,
-168,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
-169,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-170,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale Lega,Lega,5,green,"riducendo il cuneo fiscale del 50% per start up e Pmi innovative che assumono laureati o con
+259,Economic affairs,4,Super bonus,super-bonus,Programma elettorale PD,Partito Democratico,1,yellow,Non se ne parla nel programma,
+260,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,,,,,,
+261,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,,,,,,
+262,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+263,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+264,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale Lega,Lega,5,green,"riducendo il cuneo fiscale del 50% per start up e Pmi innovative che assumono laureati o con
 titolo superiore per 5 anni a patto che siano contratti a tempo indeterminato;",
-171,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale M5S,Movimento 5 Stelle,10,green,"TAGLIO DEL CUNEO FISCALE PER IMPRESE E LAVORATORI, per ridurre più incisivamente
+265,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale M5S,Movimento 5 Stelle,10,green,"TAGLIO DEL CUNEO FISCALE PER IMPRESE E LAVORATORI, per ridurre più incisivamente
 la differenza fra il costo del lavoratore per l’impresa e il netto percepito in busta paga
 dallo stesso lavoratore",
-172,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale PD,Partito Democratico,1,yellow,,
-173,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,,,,,,
-174,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,,,,,,
-175,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
-176,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
-177,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale Lega,Lega,5,yellow,,
-178,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
-179,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale PD,Partito Democratico,1,green,"Dal lato fiscale, sosteniamo le attività di artigiani, piccole e medie imprese e professionisti, e proponiamo un pacchetto di ulteriori misure che mettiamo in campo per contrastare i maggiori costi derivanti dalla spinta inflattiva. Per esempio: un’opzione di autoliquidazione mensile delle imposte per partite IVA, autonomi e liberi professionisti e professioniste in alternativa al sistema saldo-acconto e l’estensione della detrazione IRPEF del 50% a tutte le tipologie di start-up per le persone fisiche under 35.",
-180,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,Campagna elettorale 2022 PD,Partito Democratico,1,green,"taglio sulle tasse sul lavoro, agendo sui contributi previdenziali. Per alzare immediatamente gli stipendi e affrontare con strumenti straordinari una situazione straordinaria. Per far sì che ne beneficino anche i contribuenti con redditi molto bassi che già hanno IRPEF azzerata.",
-181,Environmental protection,5,Trivelle,trivelle,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,
-182,Economic affairs,4,Trivelle,trivelle,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,
-183,Environmental protection,5,Trivelle,trivelle,Programma elettorale PD,Partito Democratico,1,yellow,,
-184,Economic affairs,4,Trivelle,trivelle,Programma elettorale PD,Partito Democratico,1,yellow,,
+266,Economic affairs,4,Taglio cuneo fiscale,taglio-cuneo-fiscale,Programma elettorale PD,Partito Democratico,1,yellow,,
+267,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,,,,,,
+268,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,,,,,,
+269,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,yellow,,
+270,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+271,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale Lega,Lega,5,yellow,,
+272,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale M5S,Movimento 5 Stelle,10,yellow,,
+273,Economic affairs,4,Taglio tasse partite IVA,taglio-tasse-partite-iva,Programma elettorale PD,Partito Democratico,1,green,"Dal lato fiscale, sosteniamo le attività di artigiani, piccole e medie imprese e professionisti, e proponiamo un pacchetto di ulteriori misure che mettiamo in campo per contrastare i maggiori costi derivanti dalla spinta inflattiva. Per esempio: un’opzione di autoliquidazione mensile delle imposte per partite IVA, autonomi e liberi professionisti e professioniste in alternativa al sistema saldo-acconto e l’estensione della detrazione IRPEF del 50% a tutte le tipologie di start-up per le persone fisiche under 35.",
+274,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,,,,,,
+275,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,,,,,,
+276,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,,,
+277,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+278,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,Programma elettorale Lega,Lega,5,,,
+279,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,Programma elettorale M5S,Movimento 5 Stelle,10,,,
+280,Social protection,10,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,Campagna elettorale 2022 PD,Partito Democratico,1,green,"taglio sulle tasse sul lavoro, agendo sui contributi previdenziali. Per alzare immediatamente gli stipendi e affrontare con strumenti straordinari una situazione straordinaria. Per far sì che ne beneficino anche i contribuenti con redditi molto bassi che già hanno IRPEF azzerata.",
+281,Environmental protection,5,Trivelle,trivelle,,,,,,
+282,Economic affairs,4,Trivelle,trivelle,,,,,,
+283,Environmental protection,5,Trivelle,trivelle,,,,,,
+284,Economic affairs,4,Trivelle,trivelle,,,,,,
+285,Environmental protection,5,Trivelle,trivelle,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Stop a nuove trivelle permanente e piano graduale di uscita dalla produzione fossile nazionale entroil 2045, unendosi in occasione della COP27 ai paesi dell’Alleanza oltre il Petrolio e il Gas (BOGA) guidata dalla Danimarca.",
+286,Economic affairs,4,Trivelle,trivelle,Programma elettorale AVS,Alleanza Verdi e Sinistra,8,red,"Stop a nuove trivelle permanente e piano graduale di uscita dalla produzione fossile nazionale entroil 2045, unendosi in occasione della COP27 ai paesi dell’Alleanza oltre il Petrolio e il Gas (BOGA) guidata dalla Danimarca.",
+287,Environmental protection,5,Trivelle,trivelle,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+288,Economic affairs,4,Trivelle,trivelle,Programma elettorale Azione Italia Viva,Azione-Italia Viva-Calenda,3,,,
+289,Environmental protection,5,Trivelle,trivelle,Programma elettorale Lega,Lega,5,,,
+290,Economic affairs,4,Trivelle,trivelle,Programma elettorale Lega,Lega,5,,,
+291,Environmental protection,5,Trivelle,trivelle,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,
+292,Economic affairs,4,Trivelle,trivelle,Programma elettorale M5S,Movimento 5 Stelle,10,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI,
+293,Environmental protection,5,Trivelle,trivelle,Programma elettorale PD,Partito Democratico,1,yellow,,
+294,Economic affairs,4,Trivelle,trivelle,Programma elettorale PD,Partito Democratico,1,yellow,,
