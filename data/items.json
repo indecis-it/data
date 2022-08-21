@@ -5,32 +5,6 @@
   "category_id": 10,
   "subject": "Alloggi popolari",
   "subject_slug": "alloggi-popolari",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 2,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Alloggi popolari",
-  "subject_slug": "alloggi-popolari",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 3,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Alloggi popolari",
-  "subject_slug": "alloggi-popolari",
   "source_title": "Programma elettorale AVS",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 6,
@@ -39,7 +13,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 4,
+  "id": 2,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Alloggi popolari",
@@ -52,7 +26,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 5,
+  "id": 3,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Alloggi popolari",
@@ -60,12 +34,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 6,
+  "id": 4,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Alloggi popolari",
@@ -73,12 +47,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "PIANO DI EDILIZIA RESIDENZIALE PUBBLICA con riqualificazione degli edifici esistenti senza consumo di suolo",
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 7,
+  "id": 5,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Alloggi popolari",
@@ -91,33 +65,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 8,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Apprendistato retribuito",
-  "subject_slug": "apprendistato-retribuito",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 9,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Apprendistato retribuito",
-  "subject_slug": "apprendistato-retribuito",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 10,
+  "id": 6,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Apprendistato retribuito",
@@ -130,7 +78,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 11,
+  "id": 7,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Apprendistato retribuito",
@@ -143,7 +91,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 12,
+  "id": 8,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Apprendistato retribuito",
@@ -151,12 +99,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 13,
+  "id": 9,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Apprendistato retribuito",
@@ -169,7 +117,7 @@
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 14,
+  "id": 10,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Apprendistato retribuito",
@@ -182,33 +130,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 15,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento assegno unico universale",
-  "subject_slug": "aumento-assegno-unico-universale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 16,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento assegno unico universale",
-  "subject_slug": "aumento-assegno-unico-universale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 17,
+  "id": 11,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
@@ -221,7 +143,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 18,
+  "id": 12,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
@@ -234,7 +156,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 19,
+  "id": 13,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
@@ -247,7 +169,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 20,
+  "id": 14,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
@@ -260,7 +182,7 @@
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 21,
+  "id": 15,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Aumento assegno unico universale",
@@ -273,33 +195,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 22,
-  "category": "Health",
-  "category_id": 7,
-  "subject": "Aumento medici di base",
-  "subject_slug": "aumento-medici-di-base",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 23,
-  "category": "Health",
-  "category_id": 7,
-  "subject": "Aumento medici di base",
-  "subject_slug": "aumento-medici-di-base",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 24,
+  "id": 16,
   "category": "Health",
   "category_id": 7,
   "subject": "Aumento medici di base",
@@ -312,7 +208,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 25,
+  "id": 17,
   "category": "Health",
   "category_id": 7,
   "subject": "Aumento medici di base",
@@ -325,7 +221,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 26,
+  "id": 18,
   "category": "Health",
   "category_id": 7,
   "subject": "Aumento medici di base",
@@ -333,12 +229,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "yellow",
+  "description": "Un’attenzione particolare merita la riforma e la riorganizzazione dei Medici di Medicina Generale. Va attualizzata rispetto alle necessità, che in prospettiva diventeranno sempre più pressanti, dato l’aumento dell’aspettativa di vita dei pazienti da curare sul territorio, evitando ospedalizzazioni inutili e inappropriate",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 27,
+  "id": 19,
   "category": "Health",
   "category_id": 7,
   "subject": "Aumento medici di base",
@@ -346,12 +242,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 28,
+  "id": 20,
   "category": "Health",
   "category_id": 7,
   "subject": "Aumento medici di base",
@@ -362,217 +258,139 @@
   "endorsement": "green",
   "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",
   "source_slug": "programma-elettorale-pd"
+}
+,{
+  "id": 21,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento posti lavoro medici",
+  "subject_slug": "aumento-posti-lavoro-medici",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Un Piano di rafforzamento strutturale del personale dipendente, con l’assunzione di complessivi 40 milaoperatori in tre anni, per riportare la dotazione di operatori ai livelli precedenti alla crisi, riducendocontestualmente la spesa per il lavoro precario, le collaborazioni esterne e le esternalizzazioni di servizi.",
+  "source_slug": "programma-elettorale-avs"
+}
+,{
+  "id": 22,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento posti lavoro medici",
+  "subject_slug": "aumento-posti-lavoro-medici",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 23,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento posti lavoro medici",
+  "subject_slug": "aumento-posti-lavoro-medici",
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "",
+  "description": "",
+  "source_slug": "programma-elettorale-lega"
+}
+,{
+  "id": 24,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento posti lavoro medici",
+  "subject_slug": "aumento-posti-lavoro-medici",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-m5s"
+}
+,{
+  "id": 25,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Aumento posti lavoro medici",
+  "subject_slug": "aumento-posti-lavoro-medici",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",
+  "source_slug": "programma-elettorale-pd"
+}
+,{
+  "id": 26,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale AVS",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-avs"
+}
+,{
+  "id": 27,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale Azione Italia Viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-azione-italia-viva"
+}
+,{
+  "id": 28,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
   "id": 29,
   "category": "Economic affairs",
   "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale M5S",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-m5s"
 }
 ,{
   "id": 30,
   "category": "Economic affairs",
   "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
+  "subject": "Conto unico fiscale",
+  "subject_slug": "conto-unico-fiscale",
+  "source_title": "Programma elettorale PD",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
   "id": 31,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "Programma elettorale AVS",
-  "list": "Alleanza Verdi e Sinistra",
-  "list_id": 6,
-  "endorsement": "green",
-  "description": "Un Piano di rafforzamento strutturale del personale dipendente, con l’assunzione di complessivi 40 milaoperatori in tre anni, per riportare la dotazione di operatori ai livelli precedenti alla crisi, riducendocontestualmente la spesa per il lavoro precario, le collaborazioni esterne e le esternalizzazioni di servizi.",
-  "source_slug": "programma-elettorale-avs"
-}
-,{
-  "id": 32,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "Programma elettorale Azione Italia Viva",
-  "list": "Azione-Italia Viva-Calenda",
-  "list_id": 10,
-  "endorsement": "yellow",
-  "description": "",
-  "source_slug": "programma-elettorale-azione-italia-viva"
-}
-,{
-  "id": 33,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "Programma elettorale Lega",
-  "list": "Lega",
-  "list_id": 2,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
-}
-,{
-  "id": 34,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "Programma elettorale M5S",
-  "list": "Movimento 5 Stelle",
-  "list_id": 9,
-  "endorsement": "",
-  "description": "",
-  "source_slug": "programma-elettorale-m5s"
-}
-,{
-  "id": 35,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Aumento posti lavoro medici",
-  "subject_slug": "aumento-posti-lavoro-medici",
-  "source_title": "Programma elettorale PD",
-  "list": "Partito Democratico",
-  "list_id": 5,
-  "endorsement": "green",
-  "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza.",
-  "source_slug": "programma-elettorale-pd"
-}
-,{
-  "id": 36,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 37,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 38,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "Programma elettorale AVS",
-  "list": "Alleanza Verdi e Sinistra",
-  "list_id": 6,
-  "endorsement": "yellow",
-  "description": "",
-  "source_slug": "programma-elettorale-avs"
-}
-,{
-  "id": 39,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "Programma elettorale Azione Italia Viva",
-  "list": "Azione-Italia Viva-Calenda",
-  "list_id": 10,
-  "endorsement": "yellow",
-  "description": "",
-  "source_slug": "programma-elettorale-azione-italia-viva"
-}
-,{
-  "id": 40,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "Programma elettorale Lega",
-  "list": "Lega",
-  "list_id": 2,
-  "endorsement": "yellow",
-  "description": "",
-  "source_slug": "programma-elettorale-lega"
-}
-,{
-  "id": 41,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "Programma elettorale M5S",
-  "list": "Movimento 5 Stelle",
-  "list_id": 9,
-  "endorsement": "yellow",
-  "description": "",
-  "source_slug": "programma-elettorale-m5s"
-}
-,{
-  "id": 42,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Conto unico fiscale",
-  "subject_slug": "conto-unico-fiscale",
-  "source_title": "Programma elettorale PD",
-  "list": "Partito Democratico",
-  "list_id": 5,
-  "endorsement": "yellow",
-  "description": "",
-  "source_slug": "programma-elettorale-pd"
-}
-,{
-  "id": 43,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Contributo affitto giovani",
-  "subject_slug": "contributo-affitto-giovani",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 44,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Contributo affitto giovani",
-  "subject_slug": "contributo-affitto-giovani",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 45,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Contributo affitto giovani",
@@ -585,7 +403,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 46,
+  "id": 32,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Contributo affitto giovani",
@@ -598,7 +416,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 47,
+  "id": 33,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Contributo affitto giovani",
@@ -606,12 +424,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Garantire un maggior numero di posti letto universitari, anche con misure di sostegno\nagli affitti",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 48,
+  "id": 34,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Contributo affitto giovani",
@@ -619,12 +437,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 49,
+  "id": 35,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Contributo affitto giovani",
@@ -637,33 +455,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 50,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "DDL Zan",
-  "subject_slug": "ddl-zan",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 51,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "DDL Zan",
-  "subject_slug": "ddl-zan",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 52,
+  "id": 36,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "DDL Zan",
@@ -676,7 +468,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 53,
+  "id": 37,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "DDL Zan",
@@ -689,7 +481,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 54,
+  "id": 38,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "DDL Zan",
@@ -702,7 +494,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 55,
+  "id": 39,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "DDL Zan",
@@ -715,7 +507,7 @@
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 56,
+  "id": 40,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "DDL Zan",
@@ -728,33 +520,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 57,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Energia rinnovabile",
-  "subject_slug": "energia-rinnovabile",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 58,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Energia rinnovabile",
-  "subject_slug": "energia-rinnovabile",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 59,
+  "id": 41,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Energia rinnovabile",
@@ -767,7 +533,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 60,
+  "id": 42,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Energia rinnovabile",
@@ -780,7 +546,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 61,
+  "id": 43,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Energia rinnovabile",
@@ -788,12 +554,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Semplificare le procedure e sviluppare, oltre a fotovoltaico ed eolico, le rinnovabili programmabili come idroelettrico, geotermia e biomassa, anche attraverso la realizzazione delle Comunità Energetiche, nonché adeguati sistemi di accumulo per bilanciare domanda e offerta di energia e dunque garantire la stabilità del sistema.",
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 62,
+  "id": 44,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Energia rinnovabile",
@@ -801,12 +567,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "SBUROCRATIZZAZIONE PER FAVORIRE LA CREAZIONE DI IMPIANTI DI ENERGIA RINNOVABILE\n",
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 63,
+  "id": 45,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Energia rinnovabile",
@@ -819,33 +585,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 64,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Flat tax",
-  "subject_slug": "flat-tax",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 65,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Flat tax",
-  "subject_slug": "flat-tax",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 66,
+  "id": 46,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -858,7 +598,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 67,
+  "id": 47,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -871,7 +611,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 68,
+  "id": 48,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -884,7 +624,7 @@
   "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 69,
+  "id": 49,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -897,7 +637,7 @@
   "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 70,
+  "id": 50,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Flat tax",
@@ -910,59 +650,7 @@
   "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 71,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Inceneritori-Termovalorizzatori",
-  "subject_slug": "inceneritoritermovalorizzatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 72,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Inceneritori-Termovalorizzatori",
-  "subject_slug": "inceneritoritermovalorizzatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 73,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Inceneritori-Termovalorizzatori",
-  "subject_slug": "inceneritoritermovalorizzatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 74,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Inceneritori-Termovalorizzatori",
-  "subject_slug": "inceneritoritermovalorizzatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 75,
+  "id": 51,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -975,7 +663,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 76,
+  "id": 52,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -988,7 +676,7 @@
   "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 77,
+  "id": 53,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1001,7 +689,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 78,
+  "id": 54,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1014,7 +702,7 @@
   "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 79,
+  "id": 55,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1022,12 +710,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
+  "endorsement": "green",
+  "description": "Adottare misure e realizzare impianti per consentire al settore rifiuti di esprimere il suo potenziale in termini di produzione e risparmio di energia, anche per ridurre la dipendenza energetica. Prevedere un piano di distribuzione sul territorio di termovalorizzatori ad alta efficienza energetica per soddisfare il fabbisogno locale e concorrere alla produzione di energia e teleriscaldamento.",
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 80,
+  "id": 56,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1035,12 +723,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
+  "endorsement": "green",
+  "description": "Adottare misure e realizzare impianti per consentire al settore rifiuti di esprimere il suo potenziale in termini di produzione e risparmio di energia, anche per ridurre la dipendenza energetica. Prevedere un piano di distribuzione sul territorio di termovalorizzatori ad alta efficienza energetica per soddisfare il fabbisogno locale e concorrere alla produzione di energia e teleriscaldamento.",
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 81,
+  "id": 57,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1050,10 +738,10 @@
   "list_id": 9,
   "endorsement": "red",
   "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 82,
+  "id": 58,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1063,10 +751,10 @@
   "list_id": 9,
   "endorsement": "red",
   "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 83,
+  "id": 59,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1076,10 +764,10 @@
   "list_id": 5,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 84,
+  "id": 60,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Inceneritori-Termovalorizzatori",
@@ -1089,36 +777,10 @@
   "list_id": 5,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 85,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Investimenti infrastrutture",
-  "subject_slug": "investimenti-infrastrutture",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 86,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Investimenti infrastrutture",
-  "subject_slug": "investimenti-infrastrutture",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 87,
+  "id": 61,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -1128,10 +790,10 @@
   "list_id": 6,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 88,
+  "id": 62,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -1141,10 +803,10 @@
   "list_id": 10,
   "endorsement": "",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 89,
+  "id": 63,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -1154,10 +816,10 @@
   "list_id": 2,
   "endorsement": "green",
   "description": "Occorre prevedere una «scossa» da 150 miliardi di euro per le infrastrutture del Paese, di cui\nmetà dal PNRR e metà da opportune forme di \"partnership fra pubblico e privato\" (Ppp).\nDobbiamo investire prioritariamente per attrezzare adeguatamente i nostri Porti con aree retro\nportuali capaci di garantire lo sdoganamento delle merci in loco per poi essere trasportate grazie\nall’Alta Portabilità nelle destinazioni finali.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 90,
+  "id": 64,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -1167,10 +829,10 @@
   "list_id": 9,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 91,
+  "id": 65,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Investimenti infrastrutture",
@@ -1180,36 +842,10 @@
   "list_id": 5,
   "endorsement": "green",
   "description": "Introdurremo il monitoraggio e la messa in sicurezza delle infrastrutture esistenti – in particolare ponti, viadotti e gallerie – attraverso azioni programmate di manutenzione e adattamento alle pressioni indotte dai cambiamenti climatici.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 92,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Ius scholae",
-  "subject_slug": "ius-scholae",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 93,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Ius scholae",
-  "subject_slug": "ius-scholae",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 94,
+  "id": 66,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -1219,10 +855,10 @@
   "list_id": 6,
   "endorsement": "green",
   "description": "Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 95,
+  "id": 67,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -1232,10 +868,10 @@
   "list_id": 10,
   "endorsement": "green",
   "description": "Ius Scholae (acquisizione della cittadinanza) per chi abbia frequentato per almeno 5 anni un percorso di formazione in Italia. Inoltre, proponiamo di concedere la cittadinanza a tutti gli studenti stranieri che hanno svolto e completato gli studi universitari in Italia.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 96,
+  "id": 68,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -1245,10 +881,10 @@
   "list_id": 2,
   "endorsement": "red",
   "description": "NO ALLO IUS SOLI\nNessuna modifica alla normativa sulla cittadinanza\nLa legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.\nL’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione\ndi cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.\nNon verrà prevista nessuna modifica rispetto a questo principio.\nNessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,\nIus Culturae o Ius Temperato.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 97,
+  "id": 69,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -1258,10 +894,10 @@
   "list_id": 9,
   "endorsement": "green",
   "description": "IUS SCHOLAE per riconoscere la cittadinanza al minore straniero, che sia nato in Italia o vi abbia\nfatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 98,
+  "id": 70,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius scholae",
@@ -1271,36 +907,10 @@
   "list_id": 5,
   "endorsement": "green",
   "description": "Introdurremo lo Ius Scholae, per superare le ingiustificate discriminazioni che ancora oggi vediamo nelle classi italiane. A settembre, bambine e bambini torneranno nelle scuole. Studieranno insieme, mangeranno insieme, giocheranno insieme. Compagne e compagni di classe, che però per la legge non sono uguali. Neanche se parlano la stessa lingua, ascoltano la stessa musica e hanno gli stessi sogni. Perché ancora oggi i figli dei genitori stranieri incontrano barriere ingiustificate nell’accesso alla cittadinanza, anche quando sono nati in Italia, sono cresciuti in Italia e hanno studiato in Italia. È il momento di introdurre una norma che non è solo civiltà: è prima di tutto buonsenso. Chi è figlio di genitori stranieri e studia in Italia diventa cittadino italiano.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 99,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Ius soli",
-  "subject_slug": "ius-soli",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 100,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Ius soli",
-  "subject_slug": "ius-soli",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 101,
+  "id": 71,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -1310,10 +920,10 @@
   "list_id": 6,
   "endorsement": "green",
   "description": "Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 102,
+  "id": 72,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -1323,10 +933,10 @@
   "list_id": 10,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 103,
+  "id": 73,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -1336,10 +946,10 @@
   "list_id": 2,
   "endorsement": "red",
   "description": "NO ALLO IUS SOLI\nNessuna modifica alla normativa sulla cittadinanza\nLa legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.\nL’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione\ndi cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.\nNon verrà prevista nessuna modifica rispetto a questo principio.\nNessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,\nIus Culturae o Ius Temperato.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 104,
+  "id": 74,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -1349,10 +959,10 @@
   "list_id": 9,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-m5s"
 }
 ,{
-  "id": 105,
+  "id": 75,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Ius soli",
@@ -1362,36 +972,10 @@
   "list_id": 5,
   "endorsement": "yellow",
   "description": "Non se ne parla nel programma",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-pd"
 }
 ,{
-  "id": 106,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Matrimonio egualitario",
-  "subject_slug": "matrimonio-egualitario",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 107,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Matrimonio egualitario",
-  "subject_slug": "matrimonio-egualitario",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 108,
+  "id": 76,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Matrimonio egualitario",
@@ -1401,10 +985,10 @@
   "list_id": 6,
   "endorsement": "green",
   "description": "Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso.",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-avs"
 }
 ,{
-  "id": 109,
+  "id": 77,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Matrimonio egualitario",
@@ -1414,10 +998,10 @@
   "list_id": 10,
   "endorsement": "yellow",
   "description": "",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-azione-italia-viva"
 }
 ,{
-  "id": 110,
+  "id": 78,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Matrimonio egualitario",
@@ -1427,10 +1011,10 @@
   "list_id": 2,
   "endorsement": "yellow",
   "description": "Non se ne parla nel programma",
-  "source_slug": ""
+  "source_slug": "programma-elettorale-lega"
 }
 ,{
-  "id": 111,
+  "id": 79,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Matrimonio egualitario",
@@ -1443,7 +1027,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 112,
+  "id": 80,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Matrimonio egualitario",
@@ -1456,59 +1040,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 113,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Nucleare",
-  "subject_slug": "nucleare",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 114,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Nucleare",
-  "subject_slug": "nucleare",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 115,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Nucleare",
-  "subject_slug": "nucleare",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 116,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Nucleare",
-  "subject_slug": "nucleare",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 117,
+  "id": 81,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -1521,7 +1053,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 118,
+  "id": 82,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -1534,7 +1066,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 119,
+  "id": 83,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -1547,7 +1079,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 120,
+  "id": 84,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -1560,7 +1092,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 121,
+  "id": 85,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -1573,7 +1105,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 122,
+  "id": 86,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -1586,7 +1118,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 123,
+  "id": 87,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -1599,7 +1131,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 124,
+  "id": 88,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -1612,7 +1144,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 125,
+  "id": 89,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Nucleare",
@@ -1625,7 +1157,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 126,
+  "id": 90,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Nucleare",
@@ -1638,33 +1170,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 127,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Parità salariale",
-  "subject_slug": "parit-salariale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 128,
-  "category": "Values and rights",
-  "category_id": 11,
-  "subject": "Parità salariale",
-  "subject_slug": "parit-salariale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 129,
+  "id": 91,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Parità salariale",
@@ -1677,7 +1183,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 130,
+  "id": 92,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Parità salariale",
@@ -1690,7 +1196,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 131,
+  "id": 93,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Parità salariale",
@@ -1698,12 +1204,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Misure volte al sostegno della parità salariale\n",
   "source_slug": ""
 }
 ,{
-  "id": 132,
+  "id": 94,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Parità salariale",
@@ -1711,12 +1217,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Introdurre misure per un’effettiva parità salariale tra uomini e donne, per fare in modo che di fronte alle stesse qualifiche e alle stesse mansioni le donne abbiano una retribuzione reale non inferiore a quella degli uomini\n",
   "source_slug": ""
 }
 ,{
-  "id": 133,
+  "id": 95,
   "category": "Values and rights",
   "category_id": 11,
   "subject": "Parità salariale",
@@ -1729,33 +1235,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 134,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Patrimoniale",
-  "subject_slug": "patrimoniale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 135,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Patrimoniale",
-  "subject_slug": "patrimoniale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 136,
+  "id": 96,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -1768,7 +1248,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 137,
+  "id": 97,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -1781,7 +1261,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 138,
+  "id": 98,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -1794,7 +1274,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 139,
+  "id": 99,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -1807,7 +1287,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 140,
+  "id": 100,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Patrimoniale",
@@ -1820,33 +1300,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 141,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Ponte sullo Stretto",
-  "subject_slug": "ponte-sullo-stretto",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 142,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Ponte sullo Stretto",
-  "subject_slug": "ponte-sullo-stretto",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 143,
+  "id": 101,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -1859,7 +1313,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 144,
+  "id": 102,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -1872,7 +1326,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 145,
+  "id": 103,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -1885,7 +1339,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 146,
+  "id": 104,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -1898,7 +1352,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 147,
+  "id": 105,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Ponte sullo Stretto",
@@ -1911,33 +1365,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 148,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Posti lavoro",
-  "subject_slug": "posti-lavoro",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 149,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Posti lavoro",
-  "subject_slug": "posti-lavoro",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 150,
+  "id": 106,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Posti lavoro",
@@ -1950,7 +1378,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 151,
+  "id": 107,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Posti lavoro",
@@ -1963,7 +1391,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 152,
+  "id": 108,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Posti lavoro",
@@ -1976,7 +1404,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 153,
+  "id": 109,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Posti lavoro",
@@ -1984,12 +1412,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": ""
 }
 ,{
-  "id": 154,
+  "id": 110,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Posti lavoro",
@@ -2002,33 +1430,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 155,
-  "category": "General public services",
-  "category_id": 1,
-  "subject": "Presidenzialismo",
-  "subject_slug": "presidenzialismo",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 156,
-  "category": "General public services",
-  "category_id": 1,
-  "subject": "Presidenzialismo",
-  "subject_slug": "presidenzialismo",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 157,
+  "id": 111,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -2041,7 +1443,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 158,
+  "id": 112,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -2054,7 +1456,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 159,
+  "id": 113,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -2067,7 +1469,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 160,
+  "id": 114,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -2080,7 +1482,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 161,
+  "id": 115,
   "category": "General public services",
   "category_id": 1,
   "subject": "Presidenzialismo",
@@ -2093,33 +1495,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 162,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Realizzazione grandi opere",
-  "subject_slug": "realizzazione-grandi-opere",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 163,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Realizzazione grandi opere",
-  "subject_slug": "realizzazione-grandi-opere",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 164,
+  "id": 116,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -2132,7 +1508,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 165,
+  "id": 117,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -2145,7 +1521,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 166,
+  "id": 118,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -2158,7 +1534,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 167,
+  "id": 119,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -2171,7 +1547,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 168,
+  "id": 120,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Realizzazione grandi opere",
@@ -2184,33 +1560,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 169,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Reddito di cittadinanza",
-  "subject_slug": "reddito-di-cittadinanza",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 170,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Reddito di cittadinanza",
-  "subject_slug": "reddito-di-cittadinanza",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 171,
+  "id": 121,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Reddito di cittadinanza",
@@ -2223,7 +1573,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 172,
+  "id": 122,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Reddito di cittadinanza",
@@ -2236,7 +1586,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 173,
+  "id": 123,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Reddito di cittadinanza",
@@ -2249,7 +1599,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 174,
+  "id": 124,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Reddito di cittadinanza",
@@ -2262,7 +1612,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 175,
+  "id": 125,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Reddito di cittadinanza",
@@ -2275,33 +1625,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 176,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Revisione PNRR",
-  "subject_slug": "revisione-pnrr",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 177,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Revisione PNRR",
-  "subject_slug": "revisione-pnrr",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 178,
+  "id": 126,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -2314,7 +1638,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 179,
+  "id": 127,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -2327,7 +1651,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 180,
+  "id": 128,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -2340,7 +1664,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 181,
+  "id": 129,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -2353,7 +1677,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 182,
+  "id": 130,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Revisione PNRR",
@@ -2366,33 +1690,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 183,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Riduzione bolletta energetica",
-  "subject_slug": "riduzione-bolletta-energetica",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 184,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Riduzione bolletta energetica",
-  "subject_slug": "riduzione-bolletta-energetica",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 185,
+  "id": 131,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
@@ -2405,7 +1703,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 186,
+  "id": 132,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
@@ -2418,7 +1716,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 187,
+  "id": 133,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
@@ -2426,12 +1724,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Proseguire con misure transitorie già introdotte nell’ultimo anno quali l’annullamento degli oneri di sistema delle bollette elettriche, la riduzione degli oneri di sistema delle bollette del gas per utenze domestiche e non domestiche, il potenziamento del bonus sociale elettricità e gas alle famiglie in difficoltà e ai clienti domestici in gravi condizioni di salute, la riduzione transitoria dell’Iva al 5% sul gas per usi civili e industriali, il riconoscimento alle imprese (gasivore e non gasivore, nonché energivore e quelle con potenza elettrica uguale o superiore a 16,5 kW) di un credito di imposta delle spese sostenute per l’acquisto di energia elettrica e gas.\n\nIntrodurre la riduzione dell’aliquota Iva al 5% anche per le bollette di energia elettrica e alla cessione del calore agli utenti finali tramite teleriscaldamento, nonché alle somministrazioni di energia termica prodotta con impianti alimentati a gas naturale nell’ambito di un Contratto Servizio Energia o di un Contratto di rendimento energetico.",
   "source_slug": ""
 }
 ,{
-  "id": 188,
+  "id": 134,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
@@ -2439,12 +1737,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": ""
 }
 ,{
-  "id": 189,
+  "id": 135,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Riduzione bolletta energetica",
@@ -2457,33 +1755,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 190,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Riduzione IVA",
-  "subject_slug": "riduzione-iva",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 191,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Riduzione IVA",
-  "subject_slug": "riduzione-iva",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 192,
+  "id": 136,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -2496,7 +1768,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 193,
+  "id": 137,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -2509,7 +1781,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 194,
+  "id": 138,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -2522,7 +1794,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 195,
+  "id": 139,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -2535,7 +1807,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 196,
+  "id": 140,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Riduzione IVA",
@@ -2548,59 +1820,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 197,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Rigassificatori",
-  "subject_slug": "rigassificatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 198,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Rigassificatori",
-  "subject_slug": "rigassificatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 199,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Rigassificatori",
-  "subject_slug": "rigassificatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 200,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Rigassificatori",
-  "subject_slug": "rigassificatori",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 201,
+  "id": 141,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -2613,7 +1833,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 202,
+  "id": 142,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -2626,7 +1846,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 203,
+  "id": 143,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -2639,7 +1859,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 204,
+  "id": 144,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -2652,7 +1872,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 205,
+  "id": 145,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -2665,7 +1885,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 206,
+  "id": 146,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -2678,7 +1898,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 207,
+  "id": 147,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -2691,7 +1911,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 208,
+  "id": 148,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -2704,7 +1924,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 209,
+  "id": 149,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Rigassificatori",
@@ -2717,7 +1937,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 210,
+  "id": 150,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Rigassificatori",
@@ -2730,33 +1950,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 211,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Salario minimo",
-  "subject_slug": "salario-minimo",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 212,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Salario minimo",
-  "subject_slug": "salario-minimo",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 213,
+  "id": 151,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -2769,7 +1963,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 214,
+  "id": 152,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -2782,7 +1976,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 215,
+  "id": 153,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -2795,7 +1989,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 216,
+  "id": 154,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -2808,7 +2002,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 217,
+  "id": 155,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Salario minimo",
@@ -2821,33 +2015,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 218,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Scuola infanzia gratuita",
-  "subject_slug": "scuola-infanzia-gratuita",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 219,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Scuola infanzia gratuita",
-  "subject_slug": "scuola-infanzia-gratuita",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 220,
+  "id": 156,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
@@ -2860,7 +2028,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 221,
+  "id": 157,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
@@ -2873,7 +2041,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 222,
+  "id": 158,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
@@ -2881,12 +2049,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": ""
 }
 ,{
-  "id": 223,
+  "id": 159,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
@@ -2894,12 +2062,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": ""
 }
 ,{
-  "id": 224,
+  "id": 160,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Scuola infanzia gratuita",
@@ -2912,33 +2080,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 225,
-  "category": "Education",
-  "category_id": 9,
-  "subject": "Scuola infanzia obbligatoria",
-  "subject_slug": "scuola-infanzia-obbligatoria",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 226,
-  "category": "Education",
-  "category_id": 9,
-  "subject": "Scuola infanzia obbligatoria",
-  "subject_slug": "scuola-infanzia-obbligatoria",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 227,
+  "id": 161,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
@@ -2951,7 +2093,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 228,
+  "id": 162,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
@@ -2964,7 +2106,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 229,
+  "id": 163,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
@@ -2972,12 +2114,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": ""
 }
 ,{
-  "id": 230,
+  "id": 164,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
@@ -2985,12 +2127,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
+  "endorsement": "yellow",
   "description": "",
   "source_slug": ""
 }
 ,{
-  "id": 231,
+  "id": 165,
   "category": "Education",
   "category_id": 9,
   "subject": "Scuola infanzia obbligatoria",
@@ -3003,59 +2145,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 232,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Stipendio docenti",
-  "subject_slug": "stipendio-docenti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 233,
-  "category": "Education",
-  "category_id": 9,
-  "subject": "Stipendio docenti",
-  "subject_slug": "stipendio-docenti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 234,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Stipendio docenti",
-  "subject_slug": "stipendio-docenti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 235,
-  "category": "Education",
-  "category_id": 9,
-  "subject": "Stipendio docenti",
-  "subject_slug": "stipendio-docenti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 236,
+  "id": 166,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
@@ -3068,7 +2158,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 237,
+  "id": 167,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
@@ -3081,7 +2171,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 238,
+  "id": 168,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
@@ -3094,7 +2184,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 239,
+  "id": 169,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
@@ -3107,7 +2197,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 240,
+  "id": 170,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
@@ -3115,12 +2205,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "La qualità dell’insegnamento parte da un’adeguata conoscenza di caratteristiche e sensibilità di ogni singolo studente. Obiettivo impraticabile affidandosi a un esercito di supplenti, come puntualmente avviene in seguito a una politica che da tempo ha rinunciato a investire sugli insegnanti, di fatto non supportando il loro impegno neanche in aree fragili o disagiate e rendendo difficile anche solo abilitarsi quando sarebbe necessario assumerli a tempo indeterminato. L’invarianza di spesa è ormai alla base del via libera a qualsiasi norma sull’argomento. Se con l’intervento europeo arriveranno fondi importanti per le strutture scolastiche senza che parallelamente lo Stato faccia la sua parte sul fronte del personale (insufficiente e con stipendi lontani dagli standard europei), l’istruzione resta al palo. [...] Le proposte normative della Lega vanno nella direzione di superare tale situazione.",
   "source_slug": ""
 }
 ,{
-  "id": 241,
+  "id": 171,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
@@ -3128,12 +2218,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "La qualità dell’insegnamento parte da un’adeguata conoscenza di caratteristiche e sensibilità di ogni singolo studente. Obiettivo impraticabile affidandosi a un esercito di supplenti, come puntualmente avviene in seguito a una politica che da tempo ha rinunciato a investire sugli insegnanti, di fatto non supportando il loro impegno neanche in aree fragili o disagiate e rendendo difficile anche solo abilitarsi quando sarebbe necessario assumerli a tempo indeterminato. L’invarianza di spesa è ormai alla base del via libera a qualsiasi norma sull’argomento. Se con l’intervento europeo arriveranno fondi importanti per le strutture scolastiche senza che parallelamente lo Stato faccia la sua parte sul fronte del personale (insufficiente e con stipendi lontani dagli standard europei), l’istruzione resta al palo. [...] Le proposte normative della Lega vanno nella direzione di superare tale situazione.",
   "source_slug": ""
 }
 ,{
-  "id": 242,
+  "id": 172,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
@@ -3141,12 +2231,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "ADEGUAMENTO DEGLI STIPENDI DEGLI INSEGNANTI AI LIVELLI EUROPEI\n",
   "source_slug": ""
 }
 ,{
-  "id": 243,
+  "id": 173,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
@@ -3154,12 +2244,12 @@
   "source_title": "Programma elettorale M5S",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "ADEGUAMENTO DEGLI STIPENDI DEGLI INSEGNANTI AI LIVELLI EUROPEI",
   "source_slug": ""
 }
 ,{
-  "id": 244,
+  "id": 174,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Stipendio docenti",
@@ -3172,7 +2262,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 245,
+  "id": 175,
   "category": "Education",
   "category_id": 9,
   "subject": "Stipendio docenti",
@@ -3185,33 +2275,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 246,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Super bonus",
-  "subject_slug": "super-bonus",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 247,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Super bonus",
-  "subject_slug": "super-bonus",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 248,
+  "id": 176,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -3224,7 +2288,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 249,
+  "id": 177,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -3237,7 +2301,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 250,
+  "id": 178,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -3250,7 +2314,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 251,
+  "id": 179,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -3263,7 +2327,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 252,
+  "id": 180,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Super bonus",
@@ -3276,33 +2340,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 253,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Taglio cuneo fiscale",
-  "subject_slug": "taglio-cuneo-fiscale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 254,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Taglio cuneo fiscale",
-  "subject_slug": "taglio-cuneo-fiscale",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 255,
+  "id": 181,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -3315,7 +2353,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 256,
+  "id": 182,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -3328,7 +2366,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 257,
+  "id": 183,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -3341,7 +2379,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 258,
+  "id": 184,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -3354,7 +2392,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 259,
+  "id": 185,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio cuneo fiscale",
@@ -3367,33 +2405,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 260,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Taglio tasse partite IVA",
-  "subject_slug": "taglio-tasse-partite-iva",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 261,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Taglio tasse partite IVA",
-  "subject_slug": "taglio-tasse-partite-iva",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 262,
+  "id": 186,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -3406,7 +2418,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 263,
+  "id": 187,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -3419,7 +2431,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 264,
+  "id": 188,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -3427,12 +2439,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "yellow",
-  "description": "",
+  "endorsement": "green",
+  "description": "Come primo passo sul percorso della Flat tax è indispensabile portare a termine la sua fase 1 estendendola alle partite Iva con fatturato fino a € 100mila, come già previsto dalla legge di bilancio approvata nel 2019 (e successivamente abrogata dal governo Conte II)",
   "source_slug": ""
 }
 ,{
-  "id": 265,
+  "id": 189,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -3445,7 +2457,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 266,
+  "id": 190,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Taglio tasse partite IVA",
@@ -3458,33 +2470,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 267,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Taglio tasse sul lavoro",
-  "subject_slug": "taglio-tasse-sul-lavoro",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 268,
-  "category": "Social protection",
-  "category_id": 10,
-  "subject": "Taglio tasse sul lavoro",
-  "subject_slug": "taglio-tasse-sul-lavoro",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 269,
+  "id": 191,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",
@@ -3497,7 +2483,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 270,
+  "id": 192,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",
@@ -3510,7 +2496,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 271,
+  "id": 193,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",
@@ -3518,12 +2504,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Flat tax incrementale\n\nPer favorire la ripresa, e in attesa di una ridefinizione complessiva del sistema di imposizione sul reddito, proponiamo l’adozione del sistema di Flat tax cosiddetta incrementale, che assoggetta a imposta sostitutiva gli incrementi di Irpef e Ires, incentivando l’emersione dell’economia sommersa e non penalizzando la crescita delle aziende. \n\nFlat Tax fase 2\nLa seconda fase della realizzazione della Flat tax è normata dal disegno di legge AS 1831 a prima firma Siri, depositato nel 2020, e viene attuata attraverso l’introduzione della Flat Tax per le famiglie fiscali, l’ulteriore accorpamento delle ultime tre aliquote dell’imposta sul reddito delle persone fisiche (dopo quello disposto dalla legge di bilancio 2022), l’introduzione per due anni della Flat Tax sul reddito incrementale Irpef e Ires e la riduzione dell’aliquota dell’Ires al 20%\n\nFlat Tax fase 3\nEstensione della Flat Tax a tutte le persone fisiche e giuridiche, senza limiti di reddito ",
   "source_slug": ""
 }
 ,{
-  "id": 272,
+  "id": 194,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",
@@ -3536,7 +2522,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 273,
+  "id": 195,
   "category": "Social protection",
   "category_id": 10,
   "subject": "Taglio tasse sul lavoro",
@@ -3549,46 +2535,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 274,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Tirocini gratuiti",
-  "subject_slug": "tirocini-gratuiti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 275,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Tirocini gratuiti",
-  "subject_slug": "tirocini-gratuiti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 276,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Tirocini gratuiti",
-  "subject_slug": "tirocini-gratuiti",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 277,
+  "id": 196,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Tirocini gratuiti",
@@ -3601,7 +2548,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 278,
+  "id": 197,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Tirocini gratuiti",
@@ -3614,7 +2561,20 @@
   "source_slug": ""
 }
 ,{
-  "id": 279,
+  "id": 198,
+  "category": "Economic affairs",
+  "category_id": 4,
+  "subject": "Tirocini gratuiti",
+  "subject_slug": "tirocini-gratuiti",
+  "source_title": "Programma elettorale Lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "yellow",
+  "description": "",
+  "source_slug": ""
+}
+,{
+  "id": 199,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Tirocini gratuiti",
@@ -3627,7 +2587,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 280,
+  "id": 200,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Tirocini gratuiti",
@@ -3640,59 +2600,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 281,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Trivelle",
-  "subject_slug": "trivelle",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 282,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Trivelle",
-  "subject_slug": "trivelle",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 283,
-  "category": "Environmental protection",
-  "category_id": 5,
-  "subject": "Trivelle",
-  "subject_slug": "trivelle",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 284,
-  "category": "Economic affairs",
-  "category_id": 4,
-  "subject": "Trivelle",
-  "subject_slug": "trivelle",
-  "source_title": "",
-  "list": "",
-  "list_id": "",
-  "endorsement": "",
-  "description": "",
-  "source_slug": ""
-}
-,{
-  "id": 285,
+  "id": 201,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Trivelle",
@@ -3705,7 +2613,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 286,
+  "id": 202,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Trivelle",
@@ -3718,7 +2626,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 287,
+  "id": 203,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Trivelle",
@@ -3731,7 +2639,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 288,
+  "id": 204,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Trivelle",
@@ -3744,7 +2652,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 289,
+  "id": 205,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Trivelle",
@@ -3752,12 +2660,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Riprendere l’esplorazione e la produzione nazionale di gas naturale, energia ponte per la transizione al 2050, per ridurre la dipendenza energetica.",
   "source_slug": ""
 }
 ,{
-  "id": 290,
+  "id": 206,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Trivelle",
@@ -3765,12 +2673,12 @@
   "source_title": "Programma elettorale Lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "",
-  "description": "",
+  "endorsement": "green",
+  "description": "Riprendere l’esplorazione e la produzione nazionale di gas naturale, energia ponte per la transizione al 2050, per ridurre la dipendenza energetica.",
   "source_slug": ""
 }
 ,{
-  "id": 291,
+  "id": 207,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Trivelle",
@@ -3783,7 +2691,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 292,
+  "id": 208,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Trivelle",
@@ -3796,7 +2704,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 293,
+  "id": 209,
   "category": "Environmental protection",
   "category_id": 5,
   "subject": "Trivelle",
@@ -3809,7 +2717,7 @@
   "source_slug": ""
 }
 ,{
-  "id": 294,
+  "id": 210,
   "category": "Economic affairs",
   "category_id": 4,
   "subject": "Trivelle",

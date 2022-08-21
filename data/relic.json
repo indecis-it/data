@@ -1,0 +1,254 @@
+[
+{
+  "subject": "Presidenzialismo",
+  "subject_id": 21,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Apprendistato retribuito",
+  "subject_id": 2,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Aumento assegno unico universale",
+  "subject_id": 3,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Aumento posti lavoro medici",
+  "subject_id": 5,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Aumento medici di base",
+  "subject_id": 4,
+  "category": "Salute",
+  "category_id": 7
+}
+,{
+  "subject": "Conto unico fiscale",
+  "subject_id": 6,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Energia rinnovabile",
+  "subject_id": 9,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Flat tax",
+  "subject_id": 10,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Inceneritori-Termovalorizzatori",
+  "subject_id": 11,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Inceneritori-Termovalorizzatori",
+  "subject_id": 11,
+  "category": "Protezione ambientale",
+  "category_id": 5
+}
+,{
+  "subject": "Investimenti infrastrutture",
+  "subject_id": 12,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Nucleare",
+  "subject_id": 16,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Nucleare",
+  "subject_id": 16,
+  "category": "Protezione ambientale",
+  "category_id": 5
+}
+,{
+  "subject": "Patrimoniale",
+  "subject_id": 18,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Ponte sullo Stretto",
+  "subject_id": 19,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Posti lavoro",
+  "subject_id": 20,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Realizzazione grandi opere",
+  "subject_id": 22,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Revisione PNRR",
+  "subject_id": 24,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Riduzione IVA",
+  "subject_id": 26,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Rigassificatori",
+  "subject_id": 27,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Rigassificatori",
+  "subject_id": 27,
+  "category": "Protezione ambientale",
+  "category_id": 5
+}
+,{
+  "subject": "Salario minimo",
+  "subject_id": 28,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Stipendio docenti",
+  "subject_id": 31,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Super bonus",
+  "subject_id": 32,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Taglio cuneo fiscale",
+  "subject_id": 33,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Taglio tasse partite IVA",
+  "subject_id": 34,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Trivelle",
+  "subject_id": 37,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Trivelle",
+  "subject_id": 37,
+  "category": "Protezione ambientale",
+  "category_id": 5
+}
+,{
+  "subject": "Tirocini gratuiti",
+  "subject_id": 36,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Scuola infanzia obbligatoria",
+  "subject_id": 30,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Stipendio docenti",
+  "subject_id": 31,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Alloggi popolari",
+  "subject_id": 1,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Contributo affitto giovani",
+  "subject_id": 7,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Reddito di cittadinanza",
+  "subject_id": 23,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Riduzione bolletta energetica",
+  "subject_id": 25,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Scuola infanzia gratuita",
+  "subject_id": 29,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Taglio tasse sul lavoro",
+  "subject_id": 35,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "DDL Zan",
+  "subject_id": 8,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Ius scholae",
+  "subject_id": 13,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Ius soli",
+  "subject_id": 14,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Matrimonio egualitario",
+  "subject_id": 15,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Parità salariale",
+  "subject_id": 17,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+]
