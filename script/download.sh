@@ -27,6 +27,9 @@ echo "glossary.csv downloaded"
 curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v_x2EiVC-kxjtiLBJR_Gm2zmLqftenCTQqK7lwnEat1CyhBbec2r0czvsb/pub?gid=1842162450&single=true&output=csv" > ../data/endorsements.csv
 echo "endorsements.csv downloaded"
 
+curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v_x2EiVC-kxjtiLBJR_Gm2zmLqftenCTQqK7lwnEat1CyhBbec2r0czvsb/pub?gid=2021671775&single=true&output=csv" > ../data/relic.csv
+echo "relic.csv downloaded"
+
 # convert csv2json
 for file in ../data/*.csv
 do
