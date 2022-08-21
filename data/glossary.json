@@ -3,25 +3,25 @@
   "id": 1,
   "subject": "Alloggi popolari",
   "subject_slug": "alloggi-popolari",
-  "url": "https://www.google.com"
+  "url": "https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari"
 }
 ,{
   "id": 2,
   "subject": "Apprendistato retribuito",
   "subject_slug": "apprendistato-retribuito",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Apprendistato"
 }
 ,{
   "id": 3,
   "subject": "Aumento assegno unico universale",
   "subject_slug": "aumento-assegno-unico-universale",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Assegni_familiari"
 }
 ,{
   "id": 4,
   "subject": "Aumento medici di base",
   "subject_slug": "aumento-medici-di-base",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Medico_di_famiglia"
 }
 ,{
   "id": 5,
@@ -45,25 +45,25 @@
   "id": 8,
   "subject": "DDL Zan",
   "subject_slug": "ddl-zan",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia"
 }
 ,{
   "id": 9,
   "subject": "Energia rinnovabile",
   "subject_slug": "energia-rinnovabile",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile"
 }
 ,{
   "id": 10,
   "subject": "Flat tax",
   "subject_slug": "flat-tax",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Flat_tax"
 }
 ,{
   "id": 11,
   "subject": "Inceneritori-Termovalorizzatori",
   "subject_slug": "inceneritoritermovalorizzatori",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Termovalorizzatore"
 }
 ,{
   "id": 12,
@@ -75,13 +75,13 @@
   "id": 13,
   "subject": "Ius scholae",
   "subject_slug": "ius-scholae",
-  "url": ""
+  "url": "https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/"
 }
 ,{
   "id": 14,
   "subject": "Ius soli",
   "subject_slug": "ius-soli",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Ius_soli"
 }
 ,{
   "id": 15,
@@ -93,13 +93,13 @@
   "id": 16,
   "subject": "Nucleare",
   "subject_slug": "nucleare",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Energia_nucleare"
 }
 ,{
   "id": 17,
   "subject": "Parità salariale",
   "subject_slug": "parit-salariale",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Divario_retributivo_di_genere"
 }
 ,{
   "id": 18,
@@ -111,7 +111,7 @@
   "id": 19,
   "subject": "Ponte sullo Stretto",
   "subject_slug": "ponte-sullo-stretto",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina"
 }
 ,{
   "id": 20,
@@ -123,7 +123,7 @@
   "id": 21,
   "subject": "Presidenzialismo",
   "subject_slug": "presidenzialismo",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Repubblica_presidenziale"
 }
 ,{
   "id": 22,
@@ -135,13 +135,13 @@
   "id": 23,
   "subject": "Reddito di cittadinanza",
   "subject_slug": "reddito-di-cittadinanza",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)"
 }
 ,{
   "id": 24,
   "subject": "Revisione PNRR",
   "subject_slug": "revisione-pnrr",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza"
 }
 ,{
   "id": 25,
@@ -153,31 +153,31 @@
   "id": 26,
   "subject": "Riduzione IVA",
   "subject_slug": "riduzione-iva",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto"
 }
 ,{
   "id": 27,
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Rigassificatore"
 }
 ,{
   "id": 28,
   "subject": "Salario minimo",
   "subject_slug": "salario-minimo",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Salario_minimo"
 }
 ,{
   "id": 29,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Scuola_dell%27infanzia"
 }
 ,{
   "id": 30,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Scuola_dell%27infanzia"
 }
 ,{
   "id": 31,
@@ -189,19 +189,19 @@
   "id": 32,
   "subject": "Super bonus",
   "subject_slug": "super-bonus",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Superbonus_110%25"
 }
 ,{
   "id": 33,
   "subject": "Taglio cuneo fiscale",
   "subject_slug": "taglio-cuneo-fiscale",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Cuneo_fiscale"
 }
 ,{
   "id": 34,
   "subject": "Taglio tasse partite IVA",
   "subject_slug": "taglio-tasse-partite-iva",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto"
 }
 ,{
   "id": 35,
@@ -213,12 +213,12 @@
   "id": 36,
   "subject": "Tirocini gratuiti",
   "subject_slug": "tirocini-gratuiti",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Tirocinio"
 }
 ,{
   "id": 37,
   "subject": "Trivelle",
   "subject_slug": "trivelle",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto"
 }
 ]

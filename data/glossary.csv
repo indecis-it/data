@@ -1,38 +1,38 @@
 id,subject,subject_slug,url
-1,Alloggi popolari,alloggi-popolari,https://www.google.com
-2,Apprendistato retribuito,apprendistato-retribuito,
-3,Aumento assegno unico universale,aumento-assegno-unico-universale,
-4,Aumento medici di base,aumento-medici-di-base,
+1,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari
+2,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
+3,Aumento assegno unico universale,aumento-assegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
+4,Aumento medici di base,aumento-medici-di-base,https://it.wikipedia.org/wiki/Medico_di_famiglia
 5,Aumento posti lavoro medici,aumento-posti-lavoro-medici,
 6,Conto unico fiscale,conto-unico-fiscale,
 7,Contributo affitto giovani,contributo-affitto-giovani,
-8,DDL Zan,ddl-zan,
-9,Energia rinnovabile,energia-rinnovabile,
-10,Flat tax,flat-tax,
-11,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,
+8,DDL Zan,ddl-zan,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
+9,Energia rinnovabile,energia-rinnovabile,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
+10,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax
+11,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
 12,Investimenti infrastrutture,investimenti-infrastrutture,
-13,Ius scholae,ius-scholae,
-14,Ius soli,ius-soli,
+13,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
+14,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
 15,Matrimonio egualitario,matrimonio-egualitario,
-16,Nucleare,nucleare,
-17,Parità salariale,parit-salariale,
+16,Nucleare,nucleare,https://it.wikipedia.org/wiki/Energia_nucleare
+17,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere
 18,Patrimoniale,patrimoniale,
-19,Ponte sullo Stretto,ponte-sullo-stretto,
+19,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina
 20,Posti lavoro,posti-lavoro,
-21,Presidenzialismo,presidenzialismo,
+21,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
 22,Realizzazione grandi opere,realizzazione-grandi-opere,
-23,Reddito di cittadinanza,reddito-di-cittadinanza,
-24,Revisione PNRR,revisione-pnrr,
+23,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
+24,Revisione PNRR,revisione-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
 25,Riduzione bolletta energetica,riduzione-bolletta-energetica,
-26,Riduzione IVA,riduzione-iva,
-27,Rigassificatori,rigassificatori,
-28,Salario minimo,salario-minimo,
-29,Scuola infanzia gratuita,scuola-infanzia-gratuita,
-30,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,
+26,Riduzione IVA,riduzione-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
+27,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore
+28,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo
+29,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+30,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
 31,Stipendio docenti,stipendio-docenti,
-32,Super bonus,super-bonus,
-33,Taglio cuneo fiscale,taglio-cuneo-fiscale,
-34,Taglio tasse partite IVA,taglio-tasse-partite-iva,
+32,Super bonus,super-bonus,https://it.wikipedia.org/wiki/Superbonus_110%25
+33,Taglio cuneo fiscale,taglio-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale
+34,Taglio tasse partite IVA,taglio-tasse-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
 35,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,
-36,Tirocini gratuiti,tirocini-gratuiti,
-37,Trivelle,trivelle,
+36,Tirocini gratuiti,tirocini-gratuiti,https://it.wikipedia.org/wiki/Tirocinio
+37,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
