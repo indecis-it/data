@@ -125,6 +125,7 @@ resources:
               - green
               - yellow
               - red
+              - grey
         - name: description
           type: string
         - name: source_slug
