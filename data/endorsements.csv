@@ -2,3 +2,4 @@ id,description,icon,color_code
 1,favorevole,green,#50CEBB
 2,neutro,yellow,#EDD019
 3,contrario,red,#F6737A
+4,non presente,grey,#CFCDCD

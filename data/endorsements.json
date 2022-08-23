@@ -17,4 +17,10 @@
   "icon": "red",
   "color_code": "#F6737A"
 }
+,{
+  "id": 4,
+  "description": "non presente",
+  "icon": "grey",
+  "color_code": "#CFCDCD"
+}
 ]
