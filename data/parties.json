@@ -97,7 +97,7 @@
 }
 ,{
   "id": 13,
-  "party": "Lista Civica Nazionale - L'Italia C'è",
+  "party": "Insieme",
   "list_id": 10,
   "list": "Azione-Italia Viva-Calenda",
   "coalition_id": 2,
@@ -241,7 +241,7 @@
 }
 ,{
   "id": 31,
-  "party": "Impegno Civico",
+  "party": "Insieme per il Futuro",
   "list_id": 8,
   "list": "Impegno Civico",
   "coalition_id": 1,
@@ -297,11 +297,11 @@
 }
 ,{
   "id": 38,
-  "party": "Alternativa",
+  "party": "Noi di Centro",
   "list_id": 12,
-  "list": "Alternativa",
+  "list": "Noi di Centro-Europeisti",
   "coalition_id": 6,
-  "coalition": "Alternativa"
+  "coalition": "Noi di Centro-Europeisti"
 }
 ,{
   "id": 39,
@@ -345,14 +345,6 @@
 }
 ,{
   "id": 44,
-  "party": "Comitati No Draghi",
-  "list_id": 14,
-  "list": "Italia Sovrana e Popolare",
-  "coalition_id": 8,
-  "coalition": "Italia Sovrana e Popolare"
-}
-,{
-  "id": 45,
   "party": "Azione Civile",
   "list_id": 14,
   "list": "Italia Sovrana e Popolare",
@@ -360,7 +352,7 @@
   "coalition": "Italia Sovrana e Popolare"
 }
 ,{
-  "id": 46,
+  "id": 45,
   "party": "Rinascita Repubblicana",
   "list_id": 14,
   "list": "Italia Sovrana e Popolare",
@@ -368,15 +360,15 @@
   "coalition": "Italia Sovrana e Popolare"
 }
 ,{
-  "id": 47,
-  "party": "Italia Uniti",
+  "id": 46,
+  "party": "Italia Unita",
   "list_id": 14,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
 }
 ,{
-  "id": 48,
+  "id": 47,
   "party": "DemA",
   "list_id": 15,
   "list": "Unione Popolare",
@@ -384,7 +376,7 @@
   "coalition": "Unione Popolare"
 }
 ,{
-  "id": 49,
+  "id": 48,
   "party": "Rifondazione Comunista",
   "list_id": 15,
   "list": "Unione Popolare",
@@ -392,7 +384,7 @@
   "coalition": "Unione Popolare"
 }
 ,{
-  "id": 50,
+  "id": 49,
   "party": "Potere al Popolo!",
   "list_id": 15,
   "list": "Unione Popolare",
@@ -400,7 +392,7 @@
   "coalition": "Unione Popolare"
 }
 ,{
-  "id": 51,
+  "id": 50,
   "party": "ManifestA",
   "list_id": 15,
   "list": "Unione Popolare",
@@ -408,7 +400,7 @@
   "coalition": "Unione Popolare"
 }
 ,{
-  "id": 52,
+  "id": 51,
   "party": "Partito del Sud",
   "list_id": 15,
   "list": "Unione Popolare",
@@ -416,11 +408,91 @@
   "coalition": "Unione Popolare"
 }
 ,{
-  "id": 53,
+  "id": 52,
   "party": "Risorgimento Socialista",
   "list_id": 15,
   "list": "Unione Popolare",
   "coalition_id": 9,
   "coalition": "Unione Popolare"
+}
+,{
+  "id": 53,
+  "party": "Europeisti",
+  "list_id": 12,
+  "list": "Noi di Centro-Europeisti",
+  "coalition_id": 6,
+  "coalition": "Noi di Centro-Europeisti"
+}
+,{
+  "id": 54,
+  "party": "Movimento Per l'Autonomia",
+  "list_id": 2,
+  "list": "Lega",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 55,
+  "party": "Destra Liberale Italiana",
+  "list_id": 2,
+  "list": "Lega",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 56,
+  "party": "Verde è Popolare",
+  "list_id": 1,
+  "list": "Fratelli d'Italia",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 57,
+  "party": "#DiventeràBellissima",
+  "list_id": 1,
+  "list": "Fratelli d'Italia",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 58,
+  "party": "Team K",
+  "list_id": 7,
+  "list": "+Europa",
+  "coalition_id": 1,
+  "coalition": "Centro-sinistra"
+}
+,{
+  "id": 59,
+  "party": "Partito Gay",
+  "list_id": 9,
+  "list": "Movimento 5 Stelle",
+  "coalition_id": 4,
+  "coalition": "Movimento 5 Stelle"
+}
+,{
+  "id": 60,
+  "party": "Puglia Popolare",
+  "list_id": 10,
+  "list": "Azione-Italia Viva-Calenda",
+  "coalition_id": 2,
+  "coalition": "Centro"
+}
+,{
+  "id": 61,
+  "party": "Vox Italia",
+  "list_id": 13,
+  "list": "Italexit",
+  "coalition_id": 7,
+  "coalition": "Italexit"
+}
+,{
+  "id": 62,
+  "party": "Democrazia Cristiana",
+  "list_id": 12,
+  "list": "Noi di Centro-Europeisti",
+  "coalition_id": 6,
+  "coalition": "Noi di Centro-Europeisti"
 }
 ]

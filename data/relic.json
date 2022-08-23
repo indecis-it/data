@@ -44,8 +44,8 @@
 ,{
   "subject": "Flat tax",
   "subject_id": 10,
-  "category": "Affari economici",
-  "category_id": 4
+  "category": "Servizi pubblici generali",
+  "category_id": 1
 }
 ,{
   "subject": "Inceneritori-Termovalorizzatori",
@@ -80,8 +80,8 @@
 ,{
   "subject": "Patrimoniale",
   "subject_id": 18,
-  "category": "Affari economici",
-  "category_id": 4
+  "category": "Servizi pubblici generali",
+  "category_id": 1
 }
 ,{
   "subject": "Ponte sullo Stretto",
@@ -110,8 +110,8 @@
 ,{
   "subject": "Riduzione IVA",
   "subject_id": 26,
-  "category": "Affari economici",
-  "category_id": 4
+  "category": "Servizi pubblici generali",
+  "category_id": 1
 }
 ,{
   "subject": "Rigassificatori",
@@ -146,14 +146,14 @@
 ,{
   "subject": "Taglio cuneo fiscale",
   "subject_id": 33,
-  "category": "Affari economici",
-  "category_id": 4
+  "category": "Servizi pubblici generali",
+  "category_id": 1
 }
 ,{
   "subject": "Taglio tasse partite IVA",
   "subject_id": 34,
-  "category": "Affari economici",
-  "category_id": 4
+  "category": "Servizi pubblici generali",
+  "category_id": 1
 }
 ,{
   "subject": "Trivelle",
@@ -222,7 +222,7 @@
   "category_id": 10
 }
 ,{
-  "subject": "DDL Zan",
+  "subject": "Legge contro omotransfobia",
   "subject_id": 8,
   "category": "Valori e diritti",
   "category_id": 11

@@ -78,30 +78,30 @@
 }
 ,{
   "id": 12,
-  "list": "Alternativa",
-  "slug": "alternativa",
-  "symbol_name": "",
-  "symbol_url": ""
+  "list": "Noi di Centro-Europeisti",
+  "slug": "noi-di-centro-europeisti",
+  "symbol_name": "ndc-eu.jpg",
+  "symbol_url": "https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/ndc-eu.jpg"
 }
 ,{
   "id": 13,
   "list": "Italexit",
   "slug": "italexit",
-  "symbol_name": "",
-  "symbol_url": ""
+  "symbol_name": "italexit.jpg",
+  "symbol_url": "https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/italexit.jpg"
 }
 ,{
   "id": 14,
   "list": "Italia Sovrana e Popolare",
   "slug": "italia-sovrana-e-popolare",
-  "symbol_name": "",
-  "symbol_url": ""
+  "symbol_name": "italia-sovrana-e-popolare.jpg",
+  "symbol_url": "https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/italia-sovrana-e-popolare.jpg"
 }
 ,{
   "id": 15,
   "list": "Unione Popolare",
   "slug": "unione-popolare",
-  "symbol_name": "",
-  "symbol_url": ""
+  "symbol_name": "unione-popolare.jpg",
+  "symbol_url": "https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/unione-popolare.jpg"
 }
 ]

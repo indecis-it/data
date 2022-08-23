@@ -11,7 +11,7 @@ id,party,list_id,list,coalition_id,coalition
 10,+Europa,7,+Europa,1,Centro-sinistra
 11,Azione,10,Azione-Italia Viva-Calenda,2,Centro
 12,Italia Viva,10,Azione-Italia Viva-Calenda,2,Centro
-13,Lista Civica Nazionale - L'Italia C'è,10,Azione-Italia Viva-Calenda,2,Centro
+13,Insieme,10,Azione-Italia Viva-Calenda,2,Centro
 14,La Buona Destra,10,Azione-Italia Viva-Calenda,2,Centro
 15,Partito Repubblicano Italiano,10,Azione-Italia Viva-Calenda,2,Centro
 16,Fratelli d'Italia,1,Fratelli d'Italia,3,Centro-destra
@@ -29,26 +29,35 @@ id,party,list_id,list,coalition_id,coalition
 28,Sinistra Italiana,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
 29,Possibile,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
 30,Reti Civiche,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
-31,Impegno Civico,8,Impegno Civico,1,Centro-sinistra
+31,Insieme per il Futuro,8,Impegno Civico,1,Centro-sinistra
 32,Centro Democratico,8,Impegno Civico,1,Centro-sinistra
 33,Agenda Nazionale Civica,8,Impegno Civico,1,Centro-sinistra
 34,Proposta Socialista Democratica Innovativa,8,Impegno Civico,1,Centro-sinistra
 35,Movimento 5 Stelle,9,Movimento 5 Stelle,4,Movimento 5 Stelle
 36,Il popolo della famiglia,11,Alternativa Per l'Italia,5,Alternativa Per l'Italia
 37,Exit,11,Alternativa Per l'Italia,5,Alternativa Per l'Italia
-38,Alternativa,12,Alternativa,6,Alternativa
+38,Noi di Centro,12,Noi di Centro-Europeisti,6,Noi di Centro-Europeisti
 39,Italexit,13,Italexit,7,Italexit
 40,CasaPound,13,Italexit,7,Italexit
 41,Ancora Italia,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
 42,Partito Comunista,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
 43,Riconquistare l’Italia,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-44,Comitati No Draghi,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-45,Azione Civile,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-46,Rinascita Repubblicana,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-47,Italia Uniti,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-48,DemA,15,Unione Popolare,9,Unione Popolare
-49,Rifondazione Comunista,15,Unione Popolare,9,Unione Popolare
-50,Potere al Popolo!,15,Unione Popolare,9,Unione Popolare
-51,ManifestA,15,Unione Popolare,9,Unione Popolare
-52,Partito del Sud,15,Unione Popolare,9,Unione Popolare
-53,Risorgimento Socialista,15,Unione Popolare,9,Unione Popolare
+44,Azione Civile,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+45,Rinascita Repubblicana,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+46,Italia Unita,14,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+47,DemA,15,Unione Popolare,9,Unione Popolare
+48,Rifondazione Comunista,15,Unione Popolare,9,Unione Popolare
+49,Potere al Popolo!,15,Unione Popolare,9,Unione Popolare
+50,ManifestA,15,Unione Popolare,9,Unione Popolare
+51,Partito del Sud,15,Unione Popolare,9,Unione Popolare
+52,Risorgimento Socialista,15,Unione Popolare,9,Unione Popolare
+53,Europeisti,12,Noi di Centro-Europeisti,6,Noi di Centro-Europeisti
+54,Movimento Per l'Autonomia,2,Lega,3,Centro-destra
+55,Destra Liberale Italiana,2,Lega,3,Centro-destra
+56,Verde è Popolare,1,Fratelli d'Italia,3,Centro-destra
+57,#DiventeràBellissima,1,Fratelli d'Italia,3,Centro-destra
+58,Team K,7,+Europa,1,Centro-sinistra
+59,Partito Gay,9,Movimento 5 Stelle,4,Movimento 5 Stelle
+60,Puglia Popolare,10,Azione-Italia Viva-Calenda,2,Centro
+61,Vox Italia,13,Italexit,7,Italexit
+62,Democrazia Cristiana,12,Noi di Centro-Europeisti,6,Noi di Centro-Europeisti
