@@ -4,7 +4,6 @@ library(dplyr)
 library(tidyr)
 library(readr)
 
-
 # function for modifying colnames
 reverse_string <- function(x) {
     paste0("item_", trimws(paste(sub('.*_', '', x), sub('_.*', '', x), sep = '.')))
@@ -15,24 +14,28 @@ df <- read_csv(here("data/tests/wide.csv"))
 relic <- read_csv(here("data/tests/relic.csv"))
 src <- read_csv(here("data/sources.csv"))
 
-# reshaping
+# removing useless columns
 src <- src %>%
     rename(list_id = id,
         source = title,
         source_slug = slug) %>%
     select(source, source_slug, list, list_id)
 
+rlc <- relic %>%
+    select(-subject_id)
+
+# reshaping
 long <- df %>%
-    rename_with(reverse_string, 5:ncol(df))  %>% #secondo argomento debole, ma per ora funziona
+    rename_with(reverse_string, 5:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
-    spread(type, item) %>%
+    spread(type, item) %>% 
     select(-list) %>%
-    left_join(relic, ., by = "subject") %>%
-    left_join(., src, by = "source") %>%
-    mutate(id = row_number(subject)) %>%
-    select(id, subject, subject_slug, subject_id, url, source, source_slug, list, list_id, endorsement, description)
+    left_join(rlc, ., by = "subject") %>%  
+    left_join(., src, by = "source", ) %>% 
+    mutate(id = row_number()) %>%
+    select(id, category, category_id, subject, subject_slug, subject_id, info, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
 write_csv(long, here("data/tests/items.csv"))
