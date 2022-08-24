@@ -24,7 +24,7 @@ jobs:
       # Set-up R
       - name: Install R packages
         run: |
-          R -e 'install.packages(c("here", "tidyverse"))'
+          R -e 'install.packages(c("here", "dplyr", "tidyr", "readr"))'
       
       # Run R script
       - name: Reshape items

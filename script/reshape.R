@@ -1,6 +1,8 @@
 # loading libraries
 library(here)
-library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(readr)
 
 # importing data
 df <- read_csv(here("data/tests/wide.csv"))
