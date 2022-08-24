@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# remove temp file
+rm data/wide.csv
+
 # this script will convert every csv file in data folder to json
 
 # convert csv2json
