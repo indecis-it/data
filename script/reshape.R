@@ -10,8 +10,8 @@ reverse_string <- function(x) {
 }
 
 # importing data
-df <- read_csv(here("data/tests/wide.csv"))
-relic <- read_csv(here("data/tests/relic.csv"))
+df <- read_csv(here("data/wide.csv"))
+relic <- read_csv(here("data/relic.csv"))
 src <- read_csv(here("data/sources.csv"))
 
 # removing useless columns
@@ -40,12 +40,11 @@ long <- df %>%
     select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
-write_csv(long, here("data/tests/items.csv"))
 write_csv(long, here("data/new_items.csv"))
 
 # generating infos.csv
 infos <- df %>%
     select(subject_id, subject, subject_slug, info) %>%
     rename(id = subject_id, url = info)
-    
+
 write_csv(infos, here("data/new_glossary.csv"))
