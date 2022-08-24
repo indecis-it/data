@@ -31,10 +31,11 @@ long <- df %>%
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
-    spread(type, item) %>% 
+    spread(type, item) %>%
     select(-list) %>%
-    left_join(rlc, ., by = "subject") %>%  
-    left_join(., src, by = "source", ) %>% 
+    left_join(rlc, ., by = "subject") %>%
+    left_join(., src, by = "source", ) %>%
+    filter(endorsement != "NA") %>%
     mutate(id = row_number()) %>%
     select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
