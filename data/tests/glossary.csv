@@ -1,4 +1,4 @@
-subject_id,subject,subject_slug,info
+id,subject,subject_slug,url
 1,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari
 2,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
 3,Aumento assegno unico universale,aumento-assegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
