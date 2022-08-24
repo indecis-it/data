@@ -226,18 +226,6 @@ resources:
               - id
             resource: categories
         - fields:
-            - subject
-          reference:
-            fields:
-              - subject
-            resource: glossary
-        - fields:
-            - subject_slug
-          reference:
-            fields:
-              - subject_slug
-            resource: glossary
-        - fields:
             - source_title
           reference:
             fields:

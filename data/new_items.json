@@ -11,7 +11,7 @@
   "list": "+Europa",
   "list_id": 3,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 2,
@@ -81,7 +81,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 7,
@@ -109,7 +109,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 9,
@@ -151,7 +151,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 12,
@@ -193,7 +193,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 15,
@@ -207,7 +207,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 16,
@@ -235,7 +235,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 18,
@@ -249,7 +249,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 19,
@@ -277,7 +277,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 21,
@@ -305,7 +305,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 23,
@@ -319,7 +319,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 24,
@@ -375,7 +375,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "yellow",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 28,
@@ -403,7 +403,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 30,
@@ -445,7 +445,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 33,
@@ -459,7 +459,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 34,
@@ -473,7 +473,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 35,
@@ -487,7 +487,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 36,
@@ -501,7 +501,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 37,
@@ -515,7 +515,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 38,
@@ -655,7 +655,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 48,
@@ -767,7 +767,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 56,
@@ -865,7 +865,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 63,
@@ -893,7 +893,7 @@
   "list": "+Europa",
   "list_id": 3,
   "endorsement": "green",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 65,
@@ -907,7 +907,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 66,
@@ -935,7 +935,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 68,
@@ -1019,7 +1019,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 74,
@@ -1117,7 +1117,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 81,
@@ -1201,7 +1201,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 87,
@@ -1215,7 +1215,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 88,
@@ -1257,7 +1257,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 91,
@@ -1285,7 +1285,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 93,
@@ -1299,7 +1299,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 94,
@@ -1313,7 +1313,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 95,
@@ -1369,7 +1369,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 99,
@@ -1383,7 +1383,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 100,
@@ -1425,7 +1425,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 103,
@@ -1439,7 +1439,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 104,
@@ -1509,7 +1509,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 109,
@@ -1607,7 +1607,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 116,
@@ -1635,7 +1635,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 118,
@@ -1705,7 +1705,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 123,
@@ -1733,7 +1733,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 125,
@@ -1831,7 +1831,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 132,
@@ -1901,7 +1901,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 137,
@@ -1915,7 +1915,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 138,
@@ -1929,7 +1929,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 139,
@@ -1971,7 +1971,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 142,
@@ -1985,7 +1985,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 143,
@@ -1999,7 +1999,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 144,
@@ -2083,7 +2083,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 150,
@@ -2125,7 +2125,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 153,
@@ -2153,7 +2153,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 155,
@@ -2223,7 +2223,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 160,
@@ -2237,7 +2237,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 161,
@@ -2307,7 +2307,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 166,
@@ -2321,7 +2321,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 167,
@@ -2349,7 +2349,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 169,
@@ -2363,7 +2363,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 170,
@@ -2377,7 +2377,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 171,
@@ -2405,7 +2405,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 173,
@@ -2419,7 +2419,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 174,
@@ -2489,7 +2489,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 179,
@@ -2517,7 +2517,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 181,
@@ -2531,7 +2531,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 182,
@@ -2601,7 +2601,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 187,
@@ -2629,7 +2629,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 189,
@@ -2657,7 +2657,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 191,
@@ -2755,7 +2755,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 12,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 198,
@@ -2797,7 +2797,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 201,
@@ -2853,7 +2853,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 205,
@@ -2867,7 +2867,7 @@
   "list": "Lega",
   "list_id": 4,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 206,
@@ -2881,7 +2881,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 207,
@@ -2923,7 +2923,7 @@
   "list": "+Europa",
   "list_id": 3,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 210,
@@ -3105,7 +3105,7 @@
   "list": "Unione Popolare",
   "list_id": 7,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 223,
@@ -3133,7 +3133,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 225,
@@ -3161,7 +3161,7 @@
   "list": "Movimento 5 Stelle",
   "list_id": 6,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 227,
@@ -3175,7 +3175,7 @@
   "list": "Partito Democratico",
   "list_id": 11,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 228,
@@ -3231,7 +3231,7 @@
   "list": "Azione-Italia Viva-Calenda",
   "list_id": 13,
   "endorsement": "grey",
-  "description": "NA"
+  "description": ""
 }
 ,{
   "id": 232,
