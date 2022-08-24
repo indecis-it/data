@@ -90,12 +90,6 @@
   "category_id": 4
 }
 ,{
-  "subject": "Posti lavoro",
-  "subject_id": "#N/A",
-  "category": "Affari economici",
-  "category_id": 4
-}
-,{
   "subject": "Realizzazione grandi opere",
   "subject_id": 21,
   "category": "Affari economici",
@@ -132,7 +126,7 @@
   "category_id": 4
 }
 ,{
-  "subject": "Stipendio docenti",
+  "subject": "Aumento stipendio docenti",
   "subject_id": 30,
   "category": "Affari economici",
   "category_id": 4
@@ -168,19 +162,13 @@
   "category_id": 5
 }
 ,{
-  "subject": "Tirocini gratuiti",
-  "subject_id": "#N/A",
-  "category": "Affari economici",
-  "category_id": 4
-}
-,{
   "subject": "Scuola infanzia obbligatoria",
   "subject_id": 29,
   "category": "Formazione scolastica",
   "category_id": 9
 }
 ,{
-  "subject": "Stipendio docenti",
+  "subject": "Aumento stipendio docenti",
   "subject_id": 30,
   "category": "Formazione scolastica",
   "category_id": 9
@@ -242,6 +230,186 @@
 ,{
   "subject": "Parità salariale",
   "subject_id": 17,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Libri di testo gratuiti",
+  "subject_id": 35,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Trasporto scolastio gratuito",
+  "subject_id": 36,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Più attività extrascolastiche",
+  "subject_id": 37,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Contribuiti per edilizia scolastica",
+  "subject_id": 38,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Mense scolastiche gratuite",
+  "subject_id": 39,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Sostegno psicologico scolastico",
+  "subject_id": 40,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Maggiore sostegno per disabili",
+  "subject_id": 41,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Stop bocciature",
+  "subject_id": 42,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Più meritocrazia a scuola e nei concorsi",
+  "subject_id": 43,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Eliminazione del precariato",
+  "subject_id": 44,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Investimenti per la formazione dei docenti",
+  "subject_id": 45,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Sostegno meno abbienti e incapienti",
+  "subject_id": 46,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Corsi universitari STEM",
+  "subject_id": 47,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia",
+  "subject_id": 48,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "BUONO SCUOLA o dote scuola",
+  "subject_id": 49,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Scuole private",
+  "subject_id": 50,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Maggiori investimenti per la ricerca",
+  "subject_id": 51,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Abolizione legge Gelmini",
+  "subject_id": 52,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Internet gratuito per studenti/sse",
+  "subject_id": 53,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Abolizione libri stampati",
+  "subject_id": 54,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Insegnamento inglese asili",
+  "subject_id": 55,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Fondi pubblici solo a scuole pubbliche",
+  "subject_id": 56,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Valutazione dei docenti universitari da parte degli/lle studenti/sse",
+  "subject_id": 57,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Insegnamento gratuito di italiano per stranieri",
+  "subject_id": 58,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Integrazione università-aziende",
+  "subject_id": 59,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Sviluppo strutture accoglienza studenti",
+  "subject_id": 60,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Didattica a distanza garantita",
+  "subject_id": 61,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Educazione sessuale",
+  "subject_id": 62,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Istituzione giornata contro l’omofobia",
+  "subject_id": 63,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Istituzione giornata contro l’omofobia",
+  "subject_id": 63,
   "category": "Valori e diritti",
   "category_id": 11
 }
