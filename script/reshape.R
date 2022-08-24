@@ -27,6 +27,7 @@ rlc <- relic %>%
 # reshaping
 long <- df %>%
     rename_with(reverse_string, 5:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
+    select(-info) %>%
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
@@ -35,7 +36,7 @@ long <- df %>%
     left_join(rlc, ., by = "subject") %>%  
     left_join(., src, by = "source", ) %>% 
     mutate(id = row_number()) %>%
-    select(id, category, category_id, subject, subject_slug, subject_id, info, source, source_slug, list, list_id, endorsement, description)
+    select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
 write_csv(long, here("data/tests/items.csv"))
