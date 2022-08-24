@@ -2,8 +2,7 @@ name: Update data
 
 on:
   schedule:
-  # once a day
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # once a day
   workflow_dispatch:
 
 jobs:
@@ -18,15 +17,14 @@ jobs:
         run: |-
           sudo apt-get install miller
 
-      - name: Delete previously generated files
-        run: |-
-          rm data/*.{csv,json}
+#      - name: Delete previously generated files
+#        run: |-
+#          rm data/*.{csv,json}
           
       - name: Run script
         run: |
-          cd ./script
-          chmod +x ./download.sh
-          ./download.sh
+          chmod +x script/download.sh
+          script/download.sh
           
       - name: Update Repository
         run: |-
