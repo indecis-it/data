@@ -137,32 +137,14 @@ resources:
             - category
           reference:
             fields:
-              - name_en
+              - name_it
             resource: categories
-        - fields:
-            - subject_id
-          reference:
-            fields:
-              - id
-            resource: glossary
         - fields:
             - category_id
           reference:
             fields:
               - id
             resource: categories
-        - fields:
-            - subject
-          reference:
-            fields:
-              - subject
-            resource: glossary
-        - fields:
-            - subject_slug
-          reference:
-            fields:
-              - subject_slug
-            resource: glossary
         - fields:
             - source
           reference:
