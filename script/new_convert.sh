@@ -2,6 +2,7 @@
 
 # remove temp file
 rm data/wide.csv
+echo "wide.csv deleted"
 
 # this script will convert every csv file in data folder to json
 
