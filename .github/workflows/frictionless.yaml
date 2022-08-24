@@ -8,11 +8,7 @@ on:
       - data/**
   workflow_dispatch:
   workflow_run:
-    workflows: ["Update data"]
-    types:
-      - completed
-  workflow_run:
-    workflows: ["download reshape convert"]
+    workflows: ["Update data","download reshape convert"]
     types:
       - completed
 
