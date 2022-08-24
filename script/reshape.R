@@ -4,13 +4,18 @@ library(dplyr)
 library(tidyr)
 library(readr)
 
+
+# function for modifying colnames
+reverse_string <- function(x) {
+    paste0("item_", trimws(paste(sub('.*_', '', x), sub('_.*', '', x), sep = '.')))
+}
+
 # importing data
 df <- read_csv(here("data/tests/wide.csv"))
 relic <- read_csv(here("data/tests/relic.csv"))
 src <- read_csv(here("data/sources.csv"))
 
 # reshaping
-
 src <- src %>%
     rename(list_id = id,
         source = title,
@@ -18,12 +23,7 @@ src <- src %>%
     select(source, source_slug, list, list_id)
 
 long <- df %>%
-    rename(item_source.pd = pd_source,
-           item_source.avs = avs_source,
-           item_description.pd = pd_description,
-           item_description.avs = avs_description,
-           item_endorsement.pd = pd_endorsement,
-           item_endorsement.avs = avs_endorsement) %>%
+    rename_with(reverse_string, 5:ncol(df))  %>% #secondo argomento debole, ma per ora funziona
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
