@@ -44,4 +44,4 @@ write_csv(long, here("data/tests/items.csv"))
 infos <- df %>%
     select(subject_id, subject, subject_slug, info)
 
-write_csv(infos, here("data/tests/infos.csv"))
+write_csv(infos, here("data/tests/glossary.csv"))
