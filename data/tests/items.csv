@@ -1,9 +1,9 @@
-subject,category,subject_id,subject_slug,url,list,description,endorsement,source
-Alloggi popolari,persone,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,avs,bla bla,green,Programma elettorale AVS
-Alloggi popolari,persone,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,pd,bla bla,green,Programma elettorale PD
-Alloggi popolari,cura,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,avs,bla bla,green,Programma elettorale AVS
-Alloggi popolari,cura,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,pd,bla bla,green,Programma elettorale PD
-blabla,ciao,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,avs,bla bla,green,Programma elettorale AVS
-blabla,ciao,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,pd,bla bla,red,Programma elettorale PD
-blabla,persone,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,avs,bla bla,green,Programma elettorale AVS
-blabla,persone,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,pd,bla bla,red,Programma elettorale PD
+id,subject,subject_slug,subject_id,url,source,source_slug,list,list_id,endorsement,description
+1,Alloggi popolari,alloggi-popolari,1,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,Programma elettorale AVS,programma-elettorale-avs,Alleanza Verdi e Sinistra,12,green,bla bla
+2,Alloggi popolari,alloggi-popolari,1,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,Programma elettorale PD,programma-elettorale-pd,Partito Democratico,11,green,bla bla
+3,Alloggi popolari,alloggi-popolari,1,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,Programma elettorale AVS,programma-elettorale-avs,Alleanza Verdi e Sinistra,12,green,bla bla
+4,Alloggi popolari,alloggi-popolari,1,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,Programma elettorale PD,programma-elettorale-pd,Partito Democratico,11,green,bla bla
+5,blabla,blabla,2,https://it.wikipedia.org/wiki/Bla_Bla_Bla,Programma elettorale AVS,programma-elettorale-avs,Alleanza Verdi e Sinistra,12,green,bla bla
+6,blabla,blabla,2,https://it.wikipedia.org/wiki/Bla_Bla_Bla,Programma elettorale PD,programma-elettorale-pd,Partito Democratico,11,red,bla bla
+7,blabla,blabla,2,https://it.wikipedia.org/wiki/Bla_Bla_Bla,Programma elettorale AVS,programma-elettorale-avs,Alleanza Verdi e Sinistra,12,green,bla bla
+8,blabla,blabla,2,https://it.wikipedia.org/wiki/Bla_Bla_Bla,Programma elettorale PD,programma-elettorale-pd,Partito Democratico,11,red,bla bla
