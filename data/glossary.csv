@@ -3,36 +3,62 @@ id,subject,subject_slug,url
 2,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
 3,Aumento assegno unico universale,aumento-assegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
 4,Aumento medici di base,aumento-medici-di-base,https://it.wikipedia.org/wiki/Medico_di_famiglia
-5,Aumento posti lavoro medici,aumento-posti-lavoro-medici,
-6,Conto unico fiscale,conto-unico-fiscale,
-7,Contributo affitto giovani,contributo-affitto-giovani,
-8,Legge contro omotransfobia,legge-contro-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
-9,Energia rinnovabile,energia-rinnovabile,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
-10,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax
-11,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
-12,Investimenti infrastrutture,investimenti-infrastrutture,
-13,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
-14,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
-15,Matrimonio egualitario,matrimonio-egualitario,
+5,Aumento posti lavoro medici,aumento-posti-lavoro-medici,NA
+6,Conto unico fiscale,conto-unico-fiscale,NA
+7,Contributo affitto giovani,contributo-affitto-giovani,NA
+8,Energia rinnovabile,energia-rinnovabile,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
+9,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax
+10,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
+11,Investimenti infrastrutture,investimenti-infrastrutture,NA
+12,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
+13,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
+14,Legge contro omotransfobia,legge-contro-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
+15,Matrimonio egualitario,matrimonio-egualitario,NA
 16,Nucleare,nucleare,https://it.wikipedia.org/wiki/Energia_nucleare
 17,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere
-18,Patrimoniale,patrimoniale,
+18,Patrimoniale,patrimoniale,NA
 19,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina
-20,Posti lavoro,posti-lavoro,
-21,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
-22,Realizzazione grandi opere,realizzazione-grandi-opere,
-23,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
-24,Revisione PNRR,revisione-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
-25,Riduzione bolletta energetica,riduzione-bolletta-energetica,
-26,Riduzione IVA,riduzione-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
-27,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore
-28,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo
-29,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-30,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-31,Stipendio docenti,stipendio-docenti,
-32,Super bonus,super-bonus,https://it.wikipedia.org/wiki/Superbonus_110%25
-33,Taglio cuneo fiscale,taglio-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale
-34,Taglio tasse partite IVA,taglio-tasse-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
-35,Taglio tasse sul lavoro,taglio-tasse-sul-lavoro,
-36,Tirocini gratuiti,tirocini-gratuiti,https://it.wikipedia.org/wiki/Tirocinio
-37,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
+20,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
+21,Realizzazione grandi opere,realizzazione-grandi-opere,NA
+22,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
+23,Revisione PNRR,revisione-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
+24,Riduzione bolletta energetica,riduzione-bolletta-energetica,NA
+25,Riduzione IVA,riduzione-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
+26,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore
+27,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo
+28,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+29,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+30,Aumento stipendio docenti,aumento-stipendio-docenti,NA
+31,Super bonus,super-bonus,https://it.wikipedia.org/wiki/Superbonus_110%25
+32,Taglio cuneo fiscale,taglio-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale
+33,Taglio tasse partite IVA,taglio-tasse-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
+34,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
+35,Libri di testo gratuiti,libri-di-testo-gratuiti,NA
+36,Trasporto scolastio gratuito,trasporto-scolastio-gratuito,NA
+37,Più attività extrascolastiche,pi-attivit-extrascolastiche,NA
+38,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,NA
+39,Mense scolastiche gratuite,mense-scolastiche-gratuite,NA
+40,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,NA
+41,Maggiore sostegno per disabili,maggiore-sostegno-per-disabili,NA
+42,Stop bocciature,stop-bocciature,NA
+43,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,NA
+44,Eliminazione del precariato,eliminazione-del-precariato,NA
+45,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,NA
+46,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,NA
+47,Corsi universitari STEM,corsi-universitari-stem,NA
+48,Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,maggiori-investimenti-per-aiutare-i-giovani-laureatie-a-rimanere-in-italia,NA
+49,BUONO SCUOLA o dote scuola,buono-scuola-o-dote-scuola,NA
+50,Scuole private,scuole-private,NA
+51,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,NA
+52,Abolizione legge Gelmini,abolizione-legge-gelmini,NA
+53,Internet gratuito per studenti/sse,internet-gratuito-per-studentisse,NA
+54,Abolizione libri stampati,abolizione-libri-stampati,NA
+55,Insegnamento inglese asili,insegnamento-inglese-asili,NA
+56,Fondi pubblici solo a scuole pubbliche,fondi-pubblici-solo-a-scuole-pubbliche,NA
+57,Valutazione dei docenti universitari da parte degli/lle studenti/sse,valutazione-dei-docenti-universitari-da-parte-deglille-studentisse,NA
+58,Insegnamento gratuito di italiano per stranieri,insegnamento-gratuito-di-italiano-per-stranieri,NA
+59,Integrazione università-aziende,integrazione-universitaziende,NA
+60,Sviluppo strutture accoglienza studenti,sviluppo-strutture-accoglienza-studenti,NA
+61,Didattica a distanza garantita,didattica-a-distanza-garantita,NA
+62,Educazione sessuale,educazione-sessuale,NA
+63,Istituzione giornata contro l’omofobia,istituzione-giornata-contro-lomofobia,NA
