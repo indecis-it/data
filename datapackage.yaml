@@ -93,6 +93,106 @@ resources:
         - name: url
           type: string
           format: uri
+  - path: data/new_items.csv
+    name: new_items
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - name: id
+          type: integer
+        - name: category
+          type: string
+        - name: category_id
+          type: integer
+        - name: subject
+          type: string
+        - name: subject_slug
+          type: string
+        - name: subject_id
+          type: integer
+        - name: source
+          type: string
+        - name: source_slug
+          type: string
+        - name: list
+          type: string
+        - name: list_id
+          type: integer
+        - name: endorsement
+          type: string
+          constraints:
+            enum:
+              - green
+              - yellow
+              - red
+              - grey
+        - name: description
+          type: string
+      foreignKeys:
+        - fields:
+            - category
+          reference:
+            fields:
+              - name_en
+            resource: categories
+        - fields:
+            - subject_id
+          reference:
+            fields:
+              - id
+            resource: glossary
+        - fields:
+            - category_id
+          reference:
+            fields:
+              - id
+            resource: categories
+        - fields:
+            - subject
+          reference:
+            fields:
+              - subject
+            resource: glossary
+        - fields:
+            - subject_slug
+          reference:
+            fields:
+              - subject_slug
+            resource: glossary
+        - fields:
+            - source
+          reference:
+            fields:
+              - title
+            resource: sources
+        - fields:
+            - source_slug
+          reference:
+            fields:
+              - slug
+            resource: sources
+        - fields:
+            - list
+          reference:
+            fields:
+              - list
+            resource: lists
+        - fields:
+            - list_id
+          reference:
+            fields:
+              - id
+            resource: lists
+        - fields:
+            - endorsement
+          reference:
+            fields:
+              - icon
+            resource: endorsements
   - path: data/items.csv
     name: items
     profile: tabular-data-resource

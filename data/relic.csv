@@ -14,22 +14,20 @@ Nucleare,16,Affari economici,4
 Nucleare,16,Protezione ambientale,5
 Patrimoniale,18,Servizi pubblici generali,1
 Ponte sullo Stretto,19,Affari economici,4
-Posti lavoro,#N/A,Affari economici,4
 Realizzazione grandi opere,21,Affari economici,4
 Revisione PNRR,23,Affari economici,4
 Riduzione IVA,25,Servizi pubblici generali,1
 Rigassificatori,26,Affari economici,4
 Rigassificatori,26,Protezione ambientale,5
 Salario minimo,27,Affari economici,4
-Stipendio docenti,30,Affari economici,4
+Aumento stipendio docenti,30,Affari economici,4
 Super bonus,31,Affari economici,4
 Taglio cuneo fiscale,32,Servizi pubblici generali,1
 Taglio tasse partite IVA,33,Servizi pubblici generali,1
 Trivelle,34,Affari economici,4
 Trivelle,34,Protezione ambientale,5
-Tirocini gratuiti,#N/A,Affari economici,4
 Scuola infanzia obbligatoria,29,Formazione scolastica,9
-Stipendio docenti,30,Formazione scolastica,9
+Aumento stipendio docenti,30,Formazione scolastica,9
 Alloggi popolari,1,Protezione sociale,10
 Contributo affitto giovani,7,Protezione sociale,10
 Reddito di cittadinanza,22,Protezione sociale,10
@@ -40,3 +38,33 @@ Ius scholae,12,Valori e diritti,11
 Ius soli,13,Valori e diritti,11
 Matrimonio egualitario,15,Valori e diritti,11
 Parità salariale,17,Valori e diritti,11
+Libri di testo gratuiti,35,Formazione scolastica,9
+Trasporto scolastio gratuito,36,Formazione scolastica,9
+Più attività extrascolastiche,37,Formazione scolastica,9
+Contribuiti per edilizia scolastica,38,Formazione scolastica,9
+Mense scolastiche gratuite,39,Formazione scolastica,9
+Sostegno psicologico scolastico,40,Formazione scolastica,9
+Maggiore sostegno per disabili,41,Formazione scolastica,9
+Stop bocciature,42,Formazione scolastica,9
+Più meritocrazia a scuola e nei concorsi,43,Formazione scolastica,9
+Eliminazione del precariato,44,Formazione scolastica,9
+Investimenti per la formazione dei docenti,45,Formazione scolastica,9
+Sostegno meno abbienti e incapienti,46,Formazione scolastica,9
+Corsi universitari STEM,47,Formazione scolastica,9
+Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,48,Formazione scolastica,9
+BUONO SCUOLA o dote scuola,49,Formazione scolastica,9
+Scuole private,50,Formazione scolastica,9
+Maggiori investimenti per la ricerca,51,Formazione scolastica,9
+Abolizione legge Gelmini,52,Formazione scolastica,9
+Internet gratuito per studenti/sse,53,Formazione scolastica,9
+Abolizione libri stampati,54,Formazione scolastica,9
+Insegnamento inglese asili,55,Formazione scolastica,9
+Fondi pubblici solo a scuole pubbliche,56,Formazione scolastica,9
+Valutazione dei docenti universitari da parte degli/lle studenti/sse,57,Formazione scolastica,9
+Insegnamento gratuito di italiano per stranieri,58,Formazione scolastica,9
+Integrazione università-aziende,59,Formazione scolastica,9
+Sviluppo strutture accoglienza studenti,60,Formazione scolastica,9
+Didattica a distanza garantita,61,Formazione scolastica,9
+Educazione sessuale,62,Formazione scolastica,9
+Istituzione giornata contro l’omofobia,63,Formazione scolastica,9
+Istituzione giornata contro l’omofobia,63,Valori e diritti,11
