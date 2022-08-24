@@ -1,8 +1,8 @@
 name: Update data
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # once a day
+  # schedule:
+  #   - cron: '0 0 * * *' # once a day
   workflow_dispatch:
 
 jobs:
