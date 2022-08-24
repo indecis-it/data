@@ -1,0 +1,9 @@
+subject,category,subject_id,subject_slug,url,list,description,endorsement,source
+Alloggi popolari,persone,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,avs,bla bla,green,Programma elettorale AVS
+Alloggi popolari,persone,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,pd,bla bla,green,Programma elettorale PD
+Alloggi popolari,cura,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,avs,bla bla,green,Programma elettorale AVS
+Alloggi popolari,cura,1,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,pd,bla bla,green,Programma elettorale PD
+blabla,ciao,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,avs,bla bla,green,Programma elettorale AVS
+blabla,ciao,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,pd,bla bla,red,Programma elettorale PD
+blabla,persone,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,avs,bla bla,green,Programma elettorale AVS
+blabla,persone,2,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,pd,bla bla,red,Programma elettorale PD

@@ -1,0 +1,3 @@
+subject_id,subject,subject_slug,url,pd_endorsement,pd_source,pd_description,avs_endorsement,avs_source,avs_description
+1,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,green,Programma elettorale PD,bla bla,green,Programma elettorale AVS,bla bla
+2,blabla,blabla,https://it.wikipedia.org/wiki/Bla_Bla_Bla,red,Programma elettorale PD,bla bla,green,Programma elettorale AVS,bla bla
