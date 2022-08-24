@@ -40,11 +40,11 @@ long <- df %>%
     select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
-write_csv(long, here("data/new_items.csv"))
+write_csv(long, here("data/new_items.csv"), na ="")
 
 # generating infos.csv
 infos <- df %>%
     select(subject_id, subject, subject_slug, info) %>%
     rename(id = subject_id, url = info)
 
-write_csv(infos, here("data/glossary.csv"))
+write_csv(infos, here("data/glossary.csv"), na ="")
