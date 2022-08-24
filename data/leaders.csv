@@ -1,0 +1,16 @@
+id,name,surname,list,list_id,profile_pic,wikipedia_url
+1,Giorgia,Meloni,Fratelli d'Italia,1,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Giorgia_Meloni_2018.jpg/800px-Giorgia_Meloni_2018.jpg,https://it.wikipedia.org/wiki/Giorgia_Meloni
+2,Matteo,Salvini,Lega,2,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Matteo_Salvini_Viminale.jpg/800px-Matteo_Salvini_Viminale.jpg,https://it.wikipedia.org/wiki/Matteo_Salvini
+3,Silvio,Berlusconi,Forza Italia,3,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Silvio_Berlusconi_May_2019.jpg/800px-Silvio_Berlusconi_May_2019.jpg,https://it.wikipedia.org/wiki/Silvio_Berlusconi
+4,Enrico,Letta,Partito Democratico,5,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Enrico_Letta_2022_%28cropped%29.jpg/800px-Enrico_Letta_2022_%28cropped%29.jpg,https://it.wikipedia.org/wiki/Enrico_Letta
+5,Angelo,Bonelli,Alleanza Verdi e Sinistra,6,https://upload.wikimedia.org/wikipedia/commons/c/ca/Angelo_Bonelli_%282006%29.jpg,https://it.wikipedia.org/wiki/Angelo_Bonelli
+6,Emma,Bonino,+Europa,7,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emma_Bonino_2017_crop.jpg/800px-Emma_Bonino_2017_crop.jpg,https://it.wikipedia.org/wiki/Emma_Bonino
+7,Luigi,Di Maio,Impegno Civico,8,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Luigi_Di_Maio_2021_%28cropped%29.jpg/800px-Luigi_Di_Maio_2021_%28cropped%29.jpg,https://it.wikipedia.org/wiki/Luigi_Di_Maio
+8,Giuseppe,Conte,Movimento 5 Stelle,9,https://upload.wikimedia.org/wikipedia/commons/6/60/Giuseppe_Conte_-_Foto.jpeg,https://it.wikipedia.org/wiki/Giuseppe_Conte
+9,Carlo,Calenda,Azione-Italia Viva-Calenda,10,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Calenda-photos2_%28cropped%29.jpg/800px-Calenda-photos2_%28cropped%29.jpg,https://it.wikipedia.org/wiki/Carlo_Calenda
+10,Maurizio Enzo,Lupi,Noi moderati,4,https://upload.wikimedia.org/wikipedia/commons/2/21/Maurizio_Lupi_Official.jpeg,https://it.wikipedia.org/wiki/Maurizio_Enzo_Lupi
+11,Mario,Adinolfi,Alternativa Per l'Italia,11,https://upload.wikimedia.org/wikipedia/commons/d/d3/Mario_Adinolfi.jpg,https://it.wikipedia.org/wiki/Mario_Adinolfi
+12,Raffaele,Fantetti,Noi di Centro-Europeisti,12,https://upload.wikimedia.org/wikipedia/commons/b/b4/Raffaele_Fantetti_datisenato_2018.jpg,https://it.wikipedia.org/wiki/Raffaele_Fantetti
+13,Gianluigi,Paragone,Italexit,13,https://upload.wikimedia.org/wikipedia/commons/5/53/Gianluigi_Paragone_datisenato_2018.jpg,https://it.wikipedia.org/wiki/Gianluigi_Paragone
+14,Giovanna,Colone,Italia Sovrana e Popolare,14,,
+15,Luigi,de Magistris,Unione Popolare,15,https://upload.wikimedia.org/wikipedia/commons/1/11/Luigi_de_Magistris_%28cropped%29.jpg,https://it.wikipedia.org/wiki/Luigi_de_Magistris
