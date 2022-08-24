@@ -11,6 +11,10 @@ on:
     workflows: ["Update data"]
     types:
       - completed
+  workflow_run:
+    workflows: ["download reshape convert"]
+    types:
+      - completed
 
 jobs:
   validate:
