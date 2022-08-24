@@ -47,4 +47,4 @@ infos <- df %>%
     select(subject_id, subject, subject_slug, info) %>%
     rename(id = subject_id, url = info)
 
-write_csv(infos, here("data/new_glossary.csv"))
+write_csv(infos, here("data/nglossary.csv"))
