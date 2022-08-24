@@ -7,8 +7,16 @@ library(readr)
 # importing data
 df <- read_csv(here("data/tests/wide.csv"))
 relic <- read_csv(here("data/tests/relic.csv"))
+src <- read_csv(here("data/sources.csv"))
 
 # reshaping
+
+src <- src %>%
+    rename(list_id = id,
+        source = title,
+        source_slug = slug) %>%
+    select(source, source_slug, list, list_id)
+
 long <- df %>%
     rename(item_source.pd = pd_source,
            item_source.avs = avs_source,
@@ -20,7 +28,11 @@ long <- df %>%
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
     spread(type, item) %>%
-    left_join(relic, ., by = "subject")
+    select(-list) %>%
+    left_join(relic, ., by = "subject") %>%
+    left_join(., src, by = "source") %>%
+    mutate(id = row_number(subject)) %>%
+    select(id, subject, subject_slug, subject_id, url, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
 write_csv(long, here("data/tests/items.csv"))
