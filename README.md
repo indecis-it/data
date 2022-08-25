@@ -22,17 +22,6 @@ root
 
 ## Data dictionary
 
-### blabla.csv
-field | type | description | example
--- | -- | -- | --
-id  | integer |   |  
-slug  | string |   |  
-source  | string |   |  
-name_en  | string |   |  
-description_en  | string |   |  
-name_it  | string |   |  
-description_it  | string |   |  
-
 ### [📄 categories.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv)
 
 - Path: `data/`
@@ -42,7 +31,13 @@ description_it  | string |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Category ID | 1
+slug | string | Category slug | economic-affairs
+source | string | Source of the classification | EUROSTAT
+name_en | string | English name of the category | Economic affairs
+description_en | string | English description of the category | Lorem ipsum
+name_it | string | Italian name of the category | Affari economici
+description_it | string | Italian description of the category | Lorem ipsum
 
 ### [📄 sources.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv)
 
@@ -53,7 +48,13 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Source ID | 1
+title | string | Source title | Programma elettorale PD
+slug | string | Source slug | programma-elettorale-pd
+type | string | Source type | programma
+url | URL | Source URL | https://www.indecis.it
+list | string | Electoral list name | Partito Democratico
+list_id | integer | Electoral list ID | 1
 
 ### [📄 lists.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv)
 
@@ -64,7 +65,11 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Electoral list ID | 1
+list | string | Electoral list name | Partito Democratico
+slug | string | Electoral list slug | programma-elettorale-pd
+symbol_name | string | Symbol filename | pd.jpg
+symbol_url | URL | Symbol URL | https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/pd.jpg
 
 ### [📄 parties.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv)
 
@@ -75,7 +80,12 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Party ID | 1
+party | string | Party name | Partito Democratico
+list_id | integer | Electoral list ID | 5
+list | string | Electoral list name | Partito Democratico
+coalition_id | integer | Coalition ID | 1
+coalition | string | Coalition name | Centro-sinistra
 
 ### [📄 coalitions.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv)
 
@@ -86,7 +96,8 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Coalition ID | 1
+coalition | string | Coalition name | Centro-sinistra
 
 ### [📄 items.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv)
 
@@ -97,7 +108,18 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Item ID | 3
+category | string | Category name in Italian | Social protection
+category_id | integer | Category ID | 10
+subject | string | Subject name | Alloggi popolari
+subject_slug | string | Subject slug | alloggi-popolari
+subject_id | string | Subject ID |  
+source | string | Source title | Programma elettorale AVS
+source_slug | string | Source slug | programma-elettorale-avs
+list | string | Electoral list name | Alleanza Verdi e Sinistra
+list_id | integer | Electoral list ID | 6
+endorsement | string | Endorsement referred to the subject. See endorsements file for more information | green
+description | string | Description of the position taken by the list | Lorem ipsum
 
 ### [📄 glossary.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv)
 
@@ -108,7 +130,10 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Subject ID | 1
+subject | string | Subject name | Alloggi popolari
+subject_slug | string | Subject slug | alloggi-popolari
+url | URL | URL of an external reference | https://www.indecis.it
 
 ### [📄 endorsements.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv)
 
@@ -119,7 +144,10 @@ id  | integer |   |  
 
 field | type | description | example
 -- | -- | -- | --
-id  | integer |   |  
+id | integer | Endorsement ID | 1
+description | string | Description of endorsement types | Lorem ipsum
+icon | string | Color of the icon to display | green
+color_code | string | HEX code | #50CEBB
 
 
 ## License
