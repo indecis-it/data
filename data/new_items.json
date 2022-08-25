@@ -9,7 +9,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "grey",
   "description": ""
 }
@@ -23,7 +23,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "green",
   "description": "Riforma costituzionale presidenzialista a elezione diretta che impedisca per sempre che il potere esecutivo finisca nelle mani di un tecnocrate non eletto dal popolo."
 }
@@ -37,7 +37,7 @@
   "source": "Accordo elettorale tra PD e Alleanza Verdi e Sinistra (AVS)",
   "source_slug": "accordo-elettorale-tra-pd-e-alleanza-verdi-e-sinistra-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 8,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo"
 }
@@ -51,7 +51,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Proponiamo l’elezione diretta da parte dei cittadini del Presidente del Consiglio sul modello dei sindaci delle città più grandi."
 }
@@ -65,7 +65,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Il presidenzialismo, secondo il modello sperimentato in Francia con successo, è la risposta\nEleggere direttamente il Capo dello Stato, in un contesto di rafforzamento dei poteri\ndi controllo del Parlamento, consentirà ai cittadini di scegliere chi ha la responsabilità\ne i poteri per far rispettare la volontà espressa in occasione delle elezioni. Il Presidente\ndella Repubblica direttamente eletto vigilerà sui comportamenti delle forze politiche,\nguiderà la politica nazionale, rappresenterà l’Italia nei consessi internazionali per tutta\nla durata del suo mandato"
 }
@@ -79,7 +79,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -93,7 +93,7 @@
   "source": "Accordo elettorale tra PD e Alleanza Verdi e Sinistra (PD)",
   "source_slug": "accordo-elettorale-tra-pd-e-alleanza-verdi-e-sinistra-pd",
   "list": "Partito Democratico",
-  "list_id": 9,
+  "list_id": 5,
   "endorsement": "red",
   "description": "Ci impegniamo a contrastare ogni iniziativa mirata a modificare l’impianto della nostra Carta Fondamentale. In particolare ribadiamo la nostra opposizione al presidenzialismo"
 }
@@ -107,7 +107,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -121,7 +121,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -135,7 +135,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Tirocini, contratti a chiamata, staff leasing, tempo determinato, collaborazioni occasionali, partita iva a mono committenza: sono mille le forme della precarietà.\n\nNoi crediamo che tutto questo debba essere cancellato, per tornare alla normalità del contratto a tempo indeterminato, con un tempo di prova iniziale."
 }
@@ -149,7 +149,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "red",
   "description": "Valuteremo l’opportunità di introdurre agevolazioni per le imprese che attribuiscono un rimborso spese o un’indennità ai tirocinanti o che trasformano il tirocinio in contratto di lavoro."
 }
@@ -163,7 +163,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -177,7 +177,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "Stage e tirocini non possono essere strumento di sfruttamento della manodopera.\nPrevedere pertanto un compenso minimo per i tirocinanti e il riconoscimento del periodo di\ntirocinio ai fini pensionistici"
 }
@@ -191,7 +191,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "l’obbligo di retribuzione per stage curriculari e l’abolizione degli stage extra-curriculari, salvo quelli attivati nei 12 mesi successivi alla conclusione di un percorso di studi, così da assicurare che lo strumento torni a rappresentare un'occasione di formazione (e non più di lavoro mascherato, come è ora). Contemporaneamente incentiveremo l’apprendistato come principale strumento di ingresso nel mercato del lavoro;"
 }
@@ -205,7 +205,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -219,7 +219,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -233,7 +233,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -247,7 +247,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Potenziamento dell’Assegno Unico e Universale con aumento della maggiorazione in caso di secondo percettore di reddito e revisione dell’ISEE (necessario aumentare il peso: di figli o persone con disabilità a carico delle famiglie)\n"
 }
@@ -261,7 +261,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -275,7 +275,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -289,7 +289,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Promuoveremo politiche di sostegno per la famiglia, anche per affrontare il problema della povertà infantile, della denatalità e dell’inverno demografico. Ci impegniamo a migliorare ulteriormente l’Assegno unico e universale per i figli a carico, da noi fortemente voluto, potenziando le clausole di salvaguardia, in particolare per le persone con disabilità e le famiglie con figli disabili, e rivedendo il peso della prima casa nel calcolo dell’ISEE utilizzato per l’Assegno unico. Vogliamo valorizzare, adottando un approccio sistemico, le relazioni di prossimità tra comunità e famiglie in tutti i diversi ambiti della vita familiare."
 }
@@ -303,7 +303,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -317,7 +317,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -331,7 +331,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Un Piano di rafforzamento strutturale del personale dipendente, con l’assunzione di complessivi 40 milaoperatori in tre anni, per riportare la dotazione di operatori ai livelli precedenti alla crisi, riducendocontestualmente la spesa per il lavoro precario, le collaborazioni esterne e le esternalizzazioni di servizi."
 }
@@ -345,7 +345,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -359,7 +359,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -373,7 +373,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza."
 }
@@ -387,7 +387,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Investire massicciamente sulla medicina territoriale non solo sulle strutture, ma anche per l’assunzione di personale per un rilancio della prevenzione a livello territoriale."
 }
@@ -401,7 +401,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -415,7 +415,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Un Piano di rafforzamento strutturale del personale dipendente, con l’assunzione di complessivi 40 milaoperatori in tre anni, per riportare la dotazione di operatori ai livelli precedenti alla crisi, riducendocontestualmente la spesa per il lavoro precario, le collaborazioni esterne e le esternalizzazioni di servizi."
 }
@@ -429,7 +429,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "yellow",
   "description": ""
 }
@@ -443,7 +443,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "yellow",
   "description": "Un’attenzione particolare merita la riforma e la riorganizzazione dei Medici di Medicina Generale. Va attualizzata rispetto alle necessità, che in prospettiva diventeranno sempre più pressanti, dato l’aumento dell’aspettativa di vita dei pazienti da curare sul territorio, evitando ospedalizzazioni inutili e inappropriate"
 }
@@ -457,7 +457,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -471,7 +471,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà. Finanzieremo un Piano straordinario per il personale del Ssn, superando definitivamente i tetti di spesa in vigore da più di 10 anni, riducendo il ricorso a personale non strutturato (lavoratori precari, collaborazioni esterne ed esternalizzazioni), rafforzando ed incentivando la presenza sul territorio dei Medici di Medicina generale e degli infermieri di comunità, garantendo il tempestivo rinnovo dei contratti di lavoro. Un Piano finanziato attraverso un adeguato incremento del Fondo Sanitario Nazionale, affinché nessuno si ritrovi solo quando ha bisogno di assistenza."
 }
@@ -485,7 +485,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Investire massicciamente sulla medicina territoriale non solo sulle strutture, ma anche per l’assunzione di personale per un rilancio della prevenzione a livello territoriale."
 }
@@ -499,7 +499,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -513,7 +513,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -527,7 +527,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -541,7 +541,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -555,7 +555,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -569,7 +569,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -583,7 +583,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -597,7 +597,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -611,7 +611,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Raggiungere per il fabbisogno elettrico 80% di penetrazione rinnovabile al 2030 e quasi 100% al 2035attraverso una programmazione annuale minima di sviluppo rinnovabili e sblocco autorizzazioni.Priorità ad energia solare ed eolico a terra e marino. A tal proposito è necessario realizzare 60GW dirinnovabili entro tre anni individuando anche figure di commissari e sub commissari regionali persbloccare le autorizzazioni."
 }
@@ -625,7 +625,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Rafforzare la strategia sulle energie rinnovabili, anche completando il processo di individuazione delle aree idonee all’installazione di impianti di generazione elettrica da fonti rinnovabili per velocizzare il processo di localizzazione e autorizzazione; completare l’opera di semplificazione delle autorizzazioni per gli impianti; programmare le nuove aste FER; valorizzare l’idroelettrico come asset strategico per il paese; favorire lo sviluppo dell’idrogeno."
 }
@@ -639,7 +639,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Accelerare lo sviluppo delle fonti rinnovabili"
 }
@@ -653,7 +653,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Semplificare le procedure e sviluppare, oltre a fotovoltaico ed eolico, le rinnovabili programmabili come idroelettrico, geotermia e biomassa, anche attraverso la realizzazione delle Comunità Energetiche, nonché adeguati sistemi di accumulo per bilanciare domanda e offerta di energia e dunque garantire la stabilità del sistema."
 }
@@ -667,7 +667,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "SBUROCRATIZZAZIONE PER FAVORIRE LA CREAZIONE DI IMPIANTI DI ENERGIA RINNOVABILE\n"
 }
@@ -681,7 +681,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "La transizione verde non deve essere vissuta in chiave difensiva. È invece un’occasione per cambiare paradigma. Investire subito, da oggi, nell’energia pulita è tre volte strategico. Primo, perché contrasta il cambiamento climatico abbattendo le emissioni di CO2. Secondo, perché taglia in maniera strutturale il prezzo delle bollette per famiglie e imprese e crea nuovi posti di lavoro. Terzo, perché rafforza la nostra sicurezza nazionale, riducendo la dipendenza dall’importazione di fonti fossili dall’estero."
 }
@@ -695,7 +695,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Piano di investimenti straordinario nelle energie rinnovabili (almeno 10 GW di nuove\ninstallazioni l’anno), distribuite sull’intero territorio nazionale, con impianti fotovoltaici\npreferibilmente in aree già artificializzate ed eolici preferibilmente offshore, non favorendo\nulteriore consumo di suolo."
 }
@@ -709,7 +709,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -723,7 +723,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Riforma dell’imposta sulle persone fisiche\nOggi in Italia chi vive di rendite finanziarie o immobiliari paga meno tasse di chi lavora.\n\nNoi crediamo invece che tutte le fonti di reddito debbano essere cumulate e tassate alla stessa maniera, con un’imposta unica e progressiva.\n\nVogliamo inoltre che il carico fiscale sia redistribuito, a vantaggio dei redditi più bassi.\n\nPer questo proponiamo di alzare a 1.000 euro la quota di reddito esente da imposte, per poi applicare un’aliquota mobile crescente sul modello tedesco, che arrivi al 65% per i redditi superiori ai 10 milioni di euro."
 }
@@ -737,7 +737,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "red",
   "description": "Proponiamo di riformare l’Irpef attraverso questi interventi:\n• introduzione di un minimo esente, inteso come maxi-deduzione corrispondente all’ammon- tare che viene giudicato essenziale per sopravvivere. Esso, in una società liberale e attenta agli ultimi, non può essere oggetto di tassazione da parte dello Stato;\n• unificazione tra la detrazione per lavoro autonomo e quella per lavoro dipendente;\n• semplificazione dell’imposta, spostando tutte le spese fiscali in un sistema a rimborso diretto: pagamenti con strumenti tracciabili, e periodicamente lo Stato rimborserà la percen- tuale oggetto della vecchia detrazione;\n• semplificazione della struttura delle aliquote;\n• detassazione specifica per i giovani: totale fino a 25 anni, ridotta del 50% fino a 29 anni;\n• creazione della tassazione negativa, sul modello anglosassone: per i livelli di retribuzione inferiori al minimo esente, lo Stato integrerà la retribuzione del lavoratore in misura crescen- te con la retribuzione stessa. In questo modo, si inverte la distorsione causata dal Rdc e lo si trasforma in una logica per la quale più il percettore si impegna, più la retribuzione viene integrata;\n• detassazione straordinaria - per il solo 2022 – di una extra mensilità (fino a 2,200 euro), che le imprese potranno scegliere di erogare ai propri dipendenti ai fini alleviare gli effetti dell’inflazione.\n"
 }
@@ -751,7 +751,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "PROSEGUIRE IL PERCORSO VERSO LA FLAT TAX\nLa Legge di bilancio 2019 (L. 30 dicembre 2018, n. 145) ha introdotto la cosiddetta “mini flat tax”,\novvero l’estensione fino a € 65mila di fatturato del regime dei minimi per le partite Iva (persone\nfisiche esercenti attività d’impresa, arti o professioni). Questo regime ha incontrato e continua ad\nincontrare il favore dei contribuenti, soprattutto per la semplicità della sua applicazione. Secondo\nl’Osservatorio sulle partite Iva del Mef, nel 2021 hanno aderito a questo regime 239.203 contribuenti,\npari al 43,5% delle nuove aperture di partita Iva. La sua adozione ha dato un contributo\nsignificativo all’emersione del sommerso, determinando un notevole recupero di gettito.\nEstensione a € 100mila\nCome primo passo sul percorso della Flat tax è indispensabile portare a termine la sua\nfase 1 estendendola alle partite Iva con fatturato fino a € 100mila, come già previsto\ndalla legge di bilancio approvata nel 2019 (e successivamente abrogata dal governo\nConte II)\nFlat tax incrementale\nPer favorire la ripresa, e in attesa di una ridefinizione complessiva del sistema di imposizione\nsul reddito, proponiamo l’adozione del sistema di Flat tax cosiddetta incrementale,\nche assoggetta a imposta sostitutiva gli incrementi di Irpef e Ires, incentivando\nl’emersione dell’economia sommersa e non penalizzando la crescita delle aziende.\nLa proposta Lega, a prima firma Romeo, è depositata dal 2019 presso la Commissione\nFinanze del Senato come AS 1071\nFlat Tax fase 2\nLa seconda fase della realizzazione della Flat tax è normata dal disegno di legge AS\n1831 a prima firma Siri, depositato nel 2020, e viene attuata attraverso l’introduzione\ndella Flat Tax per le famiglie fiscali, l’ulteriore accorpamento delle ultime tre aliquote\ndell’imposta sul reddito delle persone fisiche (dopo quello disposto dalla legge di bilancio\n2022), l’introduzione per due anni della Flat Tax sul reddito incrementale Irpef\ne Ires e la riduzione dell’aliquota dell’Ires al 20%\nFlat Tax fase 3\nEstensione della Flat Tax a tutte le persone fisiche e giuridiche, senza limiti di reddito"
 }
@@ -765,7 +765,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -779,7 +779,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "red",
   "description": "Un sistema fiscale equo e progressivo è alla base del nostro patto di cittadinanza. Le flat tax proposte dalle destre sono propaganda elettorale sulla pelle di chi ha meno: avvantaggiano solo i redditi più alti e sottraggono risorse per il welfare."
 }
@@ -793,7 +793,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "red",
   "description": "Riforma fiscale per ridurre le tasse ai redditi medi e bassi e aumentarle ai redditi alti, con stralcio e cancellazione della riforma fiscale di Draghi che ha tagliato le tasse ai ricchi"
 }
@@ -807,7 +807,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Avviare la realizzazione di un termovalorizzatore a beneficio di Roma Capitale"
 }
@@ -821,7 +821,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -835,7 +835,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Un piano nazionale per la gestione dei rifiuti deve considerare la termovalorizzazione solo come unasoluzione di ultima istanza perché l’incenerimento dei rifiuti non permette il recupero delle materie prime e iprodotti che potrebbero produrre ulteriore valore se riutilizzate o riciclate e reimmesse nel ciclo economico.L’impronta di carbonio dei termovalorizzatori è di 650-800 grammi di CO2 per ogni kWh prodotto, il doppiodi una centrale a gas e quasi quanto una centrale a carbone. Sono necessari gli impianti di compostaggioper il trattamento dell’umido per chiudere il ciclo dei rifiuti."
 }
@@ -849,7 +849,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Il sistema impiantistico italiano per la gestione dei rifiuti è rimasto indietro e deve essere rafforzato. Se da una parte è importante dare priorità alla Strategia UE per l’economia circolare, che privilegia il recupero materico dei rifiuti, non si può pensare di volere un sistema a “rifiuti zero” senza avere un termovalorizzatore. Autorevoli istituti di ricerca hanno stimato un fabbisogno di circa 70 nuovi impianti (es: termovalorizzatori, impianti di trattamento bio-meccanico, impianti di smaltimento, ecc..) da realizzare entro il 2035, per un valore di 10 miliardi di euro circa."
 }
@@ -863,7 +863,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Adottare misure e realizzare impianti per consentire al settore rifiuti di esprimere il suo potenziale in termini di produzione e risparmio di energia, anche per ridurre la dipendenza energetica. Prevedere un piano di distribuzione sul territorio di termovalorizzatori ad alta efficienza energetica per soddisfare il fabbisogno locale e concorrere alla produzione di energia e teleriscaldamento."
 }
@@ -877,7 +877,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "red",
   "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI"
 }
@@ -891,7 +891,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -905,7 +905,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "red",
   "description": "Per un’economia circolare, equa e solidale, stop inceneritori, fossile e\nnucleare."
 }
@@ -919,7 +919,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Avviare la realizzazione di un termovalorizzatore a beneficio di Roma Capitale"
 }
@@ -933,7 +933,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -947,7 +947,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Un piano nazionale per la gestione dei rifiuti deve considerare la termovalorizzazione solo come unasoluzione di ultima istanza perché l’incenerimento dei rifiuti non permette il recupero delle materie prime e iprodotti che potrebbero produrre ulteriore valore se riutilizzate o riciclate e reimmesse nel ciclo economico.L’impronta di carbonio dei termovalorizzatori è di 650-800 grammi di CO2 per ogni kWh prodotto, il doppiodi una centrale a gas e quasi quanto una centrale a carbone. Sono necessari gli impianti di compostaggioper il trattamento dell’umido per chiudere il ciclo dei rifiuti."
 }
@@ -961,7 +961,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Il sistema impiantistico italiano per la gestione dei rifiuti è rimasto indietro e deve essere rafforzato. Se da una parte è importante dare priorità alla Strategia UE per l’economia circolare, che privilegia il recupero materico dei rifiuti, non si può pensare di volere un sistema a “rifiuti zero” senza avere un termovalorizzatore. Autorevoli istituti di ricerca hanno stimato un fabbisogno di circa 70 nuovi impianti (es: termovalorizzatori, impianti di trattamento bio-meccanico, impianti di smaltimento, ecc..) da realizzare entro il 2035, per un valore di 10 miliardi di euro circa."
 }
@@ -975,7 +975,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Adottare misure e realizzare impianti per consentire al settore rifiuti di esprimere il suo potenziale in termini di produzione e risparmio di energia, anche per ridurre la dipendenza energetica. Prevedere un piano di distribuzione sul territorio di termovalorizzatori ad alta efficienza energetica per soddisfare il fabbisogno locale e concorrere alla produzione di energia e teleriscaldamento."
 }
@@ -989,7 +989,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "red",
   "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI"
 }
@@ -1003,7 +1003,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -1017,7 +1017,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "red",
   "description": "Per un’economia circolare, equa e solidale, stop inceneritori, fossile e\nnucleare."
 }
@@ -1031,7 +1031,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": ""
 }
@@ -1045,7 +1045,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1059,7 +1059,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -1073,7 +1073,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Occorre prevedere una «scossa» da 150 miliardi di euro per le infrastrutture del Paese, di cui\nmetà dal PNRR e metà da opportune forme di \"partnership fra pubblico e privato\" (Ppp).\nDobbiamo investire prioritariamente per attrezzare adeguatamente i nostri Porti con aree retro\nportuali capaci di garantire lo sdoganamento delle merci in loco per poi essere trasportate grazie\nall’Alta Portabilità nelle destinazioni finali."
 }
@@ -1087,7 +1087,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1101,7 +1101,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Introdurremo il monitoraggio e la messa in sicurezza delle infrastrutture esistenti – in particolare ponti, viadotti e gallerie – attraverso azioni programmate di manutenzione e adattamento alle pressioni indotte dai cambiamenti climatici."
 }
@@ -1115,7 +1115,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Rafforzare la ricerca e la cooperazione scientifica italiana per lo sviluppo di reattori a fusione nucleare e mini reattori modulari di ultima generazione, oltre che di aumentare gli import di energia elettrica da fonti zero e low carbon, mediante meccanismi di asta competitiva, in sostituzione di energia generata da fonti fossili in relazione all’intermittenza delle fonti rinnovabili e alla dinamica della diffusione di soluzioni di accumulo tecnicamente ed economicamente valide. Realizzare il Deposito Nazionale dei rifiuti radioattivi di varia provenienza, a seguito di un processo decisionale trasparente;"
 }
@@ -1129,7 +1129,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1143,7 +1143,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "No al nucleare, come da mandato dei due referendum.\n\nFare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo."
 }
@@ -1157,7 +1157,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "L’obiettivo “emissioni zero” al 2050 passa da una forte elettrificazione degli usi di energia, con un fabbisogno elettrico tra il doppio e il triplo dell’attuale. Per questo è necessario utilizzare il giusto mix di generazione, che includa rinnovabili e nucleare, impiegando le migliori tecnologie disponibili"
 }
@@ -1171,7 +1171,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Nucleare Pulito e Sicuro\nIn abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare\ndi ultima generazione, pulito e sicuro, riconosciuto nella tassonomia europea, per perseguire\ngli obiettivi di decarbonizzazione al 2050 e allo stesso tempo rispondere alla domanda sempre\ncrescente di energia elettrica, garantire un sistema energetico sicuro e stabile e ridurre la dipendenza\nenergetica dall’estero."
 }
@@ -1185,7 +1185,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1199,7 +1199,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "red",
   "description": "Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati."
 }
@@ -1213,7 +1213,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "red",
   "description": "Per un’economia circolare, equa e solidale, stop inceneritori, fossile e\nnucleare."
 }
@@ -1227,7 +1227,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Rafforzare la ricerca e la cooperazione scientifica italiana per lo sviluppo di reattori a fusione nucleare e mini reattori modulari di ultima generazione, oltre che di aumentare gli import di energia elettrica da fonti zero e low carbon, mediante meccanismi di asta competitiva, in sostituzione di energia generata da fonti fossili in relazione all’intermittenza delle fonti rinnovabili e alla dinamica della diffusione di soluzioni di accumulo tecnicamente ed economicamente valide. Realizzare il Deposito Nazionale dei rifiuti radioattivi di varia provenienza, a seguito di un processo decisionale trasparente;"
 }
@@ -1241,7 +1241,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1255,7 +1255,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "No al nucleare, come da mandato dei due referendum.\n\nFare chiarezza sulle false sicurezze di inesistente nucleare di quarta generazione e di prossima fusione nucleare, molto lontana nel tempo. Nulla in contrario a continuare attività di ricerca in tal senso, ma è vergognoso promettere ai cittadini la realizzazione in poche decine di anni di tecnologie sulle quali ancora si sono ottenuti solo risultati di laboratorio privi di prospettive concrete nel breve e medio periodo."
 }
@@ -1269,7 +1269,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "L’obiettivo “emissioni zero” al 2050 passa da una forte elettrificazione degli usi di energia, con un fabbisogno elettrico tra il doppio e il triplo dell’attuale. Per questo è necessario utilizzare il giusto mix di generazione, che includa rinnovabili e nucleare, impiegando le migliori tecnologie disponibili"
 }
@@ -1283,7 +1283,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Nucleare Pulito e Sicuro\nIn abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare\ndi ultima generazione, pulito e sicuro, riconosciuto nella tassonomia europea, per perseguire\ngli obiettivi di decarbonizzazione al 2050 e allo stesso tempo rispondere alla domanda sempre\ncrescente di energia elettrica, garantire un sistema energetico sicuro e stabile e ridurre la dipendenza\nenergetica dall’estero."
 }
@@ -1297,7 +1297,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1311,7 +1311,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "red",
   "description": "Per un domani senza fonti fossili già oggi gli investimenti devono, il più possibile, concentrarsi sull’energia pulita e non inseguire la discussione sulla costruzione di centrali nucleari: perché i tempi di realizzazione e le tecnologie esistenti non sono compatibili con una riduzione significativa delle emissioni entro il 2030 e non risolvono i problemi ambientali ad esse associati."
 }
@@ -1325,7 +1325,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "red",
   "description": "Per un’economia circolare, equa e solidale, stop inceneritori, fossile e\nnucleare."
 }
@@ -1339,7 +1339,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1353,7 +1353,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Riforma dell’imposta patrimoniale\nOggi in Italia le imposte sui patrimoni sono fatte per gravare molto su chi ha poco e poco su chi ha molto.\n\nQuesto è particolarmente intollerabile in un paese dove il 5% più abbiente della popolazione possiede la stessa ricchezza dell’80% più povero.\n\nPer questo noi vogliamo abolire l’IMU e l’imposta di bollo sugli investimenti, per adottare un’imposta patrimoniale personale, unica e progressiva, che gravi sull’insieme di tutti i beni mobili e immobili, di qualsiasi natura.\n\nPrevediamo in questo modo di aumentare la tassazione sui patrimoni o superiori a 5 milioni di euro, con un’imposta progressiva che cresca fino al 2% oltre i 50 milioni."
 }
@@ -1367,7 +1367,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "red",
   "description": "Non serve inventare nuove tasse, sognare la patrimoniale o riempirsi la bocca di “redistribuzione della ricchezza”, serve il connubio inscindibile tra meritocrazia e pari opportunità."
 }
@@ -1381,7 +1381,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "red",
   "description": "Rafforzamenti o estensioni delle imposte sul patrimonio sono\ninique e inefficienti nella misura in cui scoraggiano il risparmio e quindi il livello di investimenti\ne il potenziale di crescita economica del Paese. In termini concreti, proponiamo l’abolizione di\nalcune imposte patrimoniali particolarmente penalizzanti per la piccola proprietà immobiliare e\ndell’IRAP, che per il suo peculiare meccanismo obbliga le imprese a pagare imposte anche quando\nsono in perdita."
 }
@@ -1395,7 +1395,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1409,7 +1409,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -1423,7 +1423,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Introduzione di una tassa sul patrimonio partendo da una soglia di un milione di euro e procedendo con aliquote in senso progressivo, come proposto dall'economista Piketty"
 }
@@ -1437,7 +1437,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1451,7 +1451,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Ribadiamo il nostro no al ponte sullo stretto di Messina opera inutile, inserita in un contesto ad alto rischio sismico ed idrogeologico e che sottrarrebbe 10 miliardi di euro ad opere e infrastrutture socialmente utili."
 }
@@ -1465,7 +1465,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -1479,7 +1479,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità\nterritoriale tra Sicilia e Calabria (ponte sullo Stretto)."
 }
@@ -1493,7 +1493,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1507,7 +1507,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -1521,7 +1521,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -1535,7 +1535,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1549,7 +1549,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Un “Piano straordinario per il trasporto pubblico locale”\nIl 74% degli spostamenti riguarda distanze entro i 10 km e viene soddisfatto per oltre il 62% ricorrendo all’auto privata.\n\nVogliamo affrontare le carenze organizzative, di infrastrutture e dotazione di mezzi per una più elevata qualità del servizio erogato; ampliare e mettere in sicurezza percorsi ciclabili e pedonali; digitalizzare tutti i servizi di mobilità; offrire tariffe agevolate e incentivi all’utilizzo delle alternative all’auto. Per raggiungere questi obiettivi si rende necessario rimodulare il fondo complementare del Pnrr pari a 30 miliardi di euro per destinarlo in via prioritaria agli investimenti sul trasporto pubblico. È necessario favorire lo smart working per tutti i lavoratori e lavoratrici la cui presenza non è richiesta fisicamente.\n\nProponiamo inoltre che i trasporti pubblici locali e i treni regionali siano resi gratuiti per gli Under 30, così da promuovere nuovi modelli di mobilità fra le giovani generazioni."
 }
@@ -1563,7 +1563,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "È necessario effettuare un’analisi dettagliata delle infrastrutture esistenti, per avviare una programmazione robusta e razionale di misure di manutenzione e upgrade basata su una prioritizzazione degli interventi. La strategia programmatica non deve comprendere “ponti verso il nulla”, ovvero quelle opere che non sono inserite in un ecosistema virtuoso di infrastrutture.\nOccorre identificare le opere utili per il Paese e quelle non necessarie, che devono essere riconvertite o demolite, favorendo un ripristino dell’ecosistema terrestre. Al contempo, sarà necessario implementare un’azione di riqualificazione delle infrastrutture a servizio delle aree interne, le quali versano in condizioni spesso precarie. Per quanto riguarda la gestione, è necessario introdurre nuovi criteri per la manutenzione ordinaria e straordinaria. Occorre introdurre il “Documento Finanziario dell’Infrastruttura” e il “Documento unico delle manutenzioni nazionali delle grandi opere” per guidare le operazioni da compiere durante tutta la vita dell’infrastruttura, al fine di mantenere adeguati standard.\n"
 }
@@ -1577,7 +1577,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "CORSIA PREFERENZIALE PER LE GRANDI OPERE\nSuperare le attuali barriere normative ancora vigenti nel Codice dei Contratti e nella\nlegislazione ambientale che determinano ritardi e tempi non accettabili per la progettazione\ne approvazione delle grandi opere. Superare con urgenza l’attuale processo\ndi progettazione e attuazione delle opere pubbliche in Italia, attraverso l’adozione a\nlivello generale del “modello Genova”"
 }
@@ -1591,7 +1591,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1605,7 +1605,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -1619,7 +1619,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "red",
   "description": "No alle grandi opere inutili e dannose come il TAV, autostrade come la Pedemontana, la Valdastico sud, la BreBeMi che cementificano il territorio a fronte di bassi livelli di utenza."
 }
@@ -1633,7 +1633,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1647,7 +1647,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Serve partecipazione nel delineare il PNRR, nel definire i progetti, nell’esecuzione. Serve maggiore coerenza rispetto alle grandi sfide (transizione ecologica, economia circolare, lotta agli squilibri, salute pubblica) ponendo al centro la disponibilità, la diffusione e l’utilizzo dei saperi. Un intervento di queste dimensioni e questa complessità non può ridursi all’”acquisto” di tecnologia o alla realizzazione di infrastrutture: è urgente affermare un governo sociale dell’innovazione capace di coglierne ricadute, modelli alternativi, implicazioni sociali e ambientali. Se è vero, inoltre, che il PNRR è finalizzato a investimenti a termine, questa massa di risorse può, però, affiancarsi a una programmazione che tenga conto delle risorse che si liberano e possono essere investite. Le risorse che arriveranno e saranno usate spesso per adeguamenti infrastrutturali non possono riproporre le università come parte di operazioni urbanistiche che hanno cementificato le nostre città senza aumentarne la qualità sociale."
 }
@@ -1661,7 +1661,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -1675,7 +1675,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1689,7 +1689,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "red",
   "description": "Gli strumenti li abbiamo e sono molteplici, ma tutti fondati su uno stesso prerequisito: la stabilità necessaria a pianificare investimenti e scelte strategiche che guardano al futuro. Questo a partire dal PNRR e dal suo percorso di riforme interrotto bruscamente per la caduta del governo Draghi. Ciò significa portare a termine nei tempi previsti le tante riforme che l'Italia aspetta da tempo - cominciando da Fisco, Giustizia, Pubblica Amministrazione e Concorrenza - e tutti gli investimenti previsti dal PNRR, per non perdere neanche una delle opportunità offerte dai finanziamenti europei."
 }
@@ -1703,7 +1703,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1717,7 +1717,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "riduzione dell’aliquota IVA su cibo per animali e prestazioni veterinarie, oggi soggetti a tassazione come “beni di lusso”, che aggrava le condizioni di difficoltà economica di chi ha accolto in casa degli animali come parte della famiglia"
 }
@@ -1731,7 +1731,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Passaggio ad un sistema a due aliquote (una ridotta e una ordinaria) e contestuale riordino dei beni e servizi assoggettati a ciascuna aliquota e ad aliquota zero."
 }
@@ -1745,7 +1745,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "ABBATTIMENTO DELL’IVA SUI BENI DI PRIMA NECESSITÀ\nPer incidere sull’incremento dei prezzi dei beni di prima necessità, la Lega propone di abbattere\nle relative aliquote Iva. La proposta Lega, a prima firma Salvini, è depositata dal 2020 presso la Commissione Finanze del Senato come AS 2036."
 }
@@ -1759,7 +1759,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1773,7 +1773,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Proponiamo forme di detraibilità delle spese sostenute per la partecipazione alle attività culturali, l’abbattimento dell’IVA per i prodotti culturali\n\nSempre nel mondo non profit, sotto il profilo poi degli oneri fiscali, proporremo l’eliminazione dei nuovi obblighi IVA previsti dal 2024 e il graduale superamento dell'IRAP."
 }
@@ -1787,7 +1787,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Lotta all’inflazione con eliminazione dell’IVA su prodotti di prima necessità alimentari (es.\npane, pasta, latte)."
 }
@@ -1801,7 +1801,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Realizzare impianti di rigassificazione nel quadro di una strategia nazionale di transizione ecologica virtuosa e sostenibile"
 }
@@ -1815,7 +1815,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1829,7 +1829,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "yellow",
   "description": "Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas."
 }
@@ -1843,7 +1843,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Completare con procedure straordinarie la costruzione di due rigassificatori galleggianti che consentano l’importazione di gas naturale liquefatto in sostituzione di quello russo\n"
 }
@@ -1857,7 +1857,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Proseguire con la diversificazione degli\napprovvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per\nl’affrancamento dal gas russo e per garantire la sicurezza del sistema energetico e la competitività\ndel Paese."
 }
@@ -1871,7 +1871,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1885,7 +1885,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.\nIn particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici."
 }
@@ -1899,7 +1899,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -1913,7 +1913,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Realizzare impianti di rigassificazione nel quadro di una strategia nazionale di transizione ecologica virtuosa e sostenibile"
 }
@@ -1927,7 +1927,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -1941,7 +1941,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "yellow",
   "description": "Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas."
 }
@@ -1955,7 +1955,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Completare con procedure straordinarie la costruzione di due rigassificatori galleggianti che consentano l’importazione di gas naturale liquefatto in sostituzione di quello russo\n"
 }
@@ -1969,7 +1969,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Proseguire con la diversificazione degli\napprovvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per\nl’affrancamento dal gas russo e per garantire la sicurezza del sistema energetico e la competitività\ndel Paese."
 }
@@ -1983,7 +1983,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -1997,7 +1997,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Altra cosa è il tema dei rigassificatori, il ricorso ai quali appare necessario, ma a condizione che costituiscano soluzioni-ponte, rimanendo attivi pochi anni, e che possano essere smobilitati ben prima del 2050, per non interrompere la prospettiva della transizione ecologica. I territori dove verranno installati dovranno inoltre essere coinvolti nelle decisioni e adeguatamente compensati per l’impatto economico e sociale attraverso l'istituzione di un fondo ad hoc.\nIn particolare, proponiamo che venga istituito per tutte le infrastrutture legate a servizi di cui benefici l’intero Paese, ma che possono generare significativi impatti locali di tipo socio-economico o ambientale, l’istituzione di un “Fondo Nazionale Compensativo Anti-Nimby”, finalizzato proprio alle politiche di compensazione nel dialogo costruttivo con i territori e alimentato, per una quota, da un versamento di tutte le imprese che operano nella costruzione di infrastrutture sul territorio nazionale e che sono assegnatarie di appalti pubblici."
 }
@@ -2011,7 +2011,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2025,7 +2025,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2039,7 +2039,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Salario minimo\nNon dovrebbe essere possibile in una Repubblica fondata sul Lavoro, ma oggi in Italia succede di firmare un contratto che preveda 4,4 euro l’ora di paga.\n\nÈ il risultato di anni di leggi penalizzanti per le lavoratrici e i lavoratori, soprattutto giovani, donne e migranti, divisi fra loro, precari, ricattati e costretti ad accettare salari da fame.\n\nNoi crediamo si debba rivoluzionare il sistema: serve una legge sulla rappresentanza nei luoghi di lavoro e l’estensione a tutte e tutti delle tabelle retributive previste per il settore dai sindacati maggiormente rappresentativi.\n\nSe questo non basta, tanto è lo sfruttamento in alcuni settori come la logistica, prevediamo che esista comunque un salario minimo di 10 euro all’ora, sotto cui nessuno possa andare.\n\nSono 1.200 euro al mese ed è il prezzo della dignità."
 }
@@ -2053,7 +2053,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "L’esigenza di garantire a tutti i lavoratori una retribuzione dignitosa deve passare attraverso una serie di azioni condivise con le parti sociali: una legge sulla rappresentanza che combatta il fenomeno dei contratti pirata e assicuri che siano validi solo i contratti collettivi firmati da organizzazioni realmente rappresentative; la validità erga omnes dei contratti, assicurando la massi ma copertura di ogni tipologia di lavoro residuale, e la fissazione di un minimo di ultima istanza."
 }
@@ -2067,7 +2067,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "È riconosciuto ai lavoratori un salario minimo pari a quello stabilito dai CCNL più diffusi\nnel settore"
 }
@@ -2081,7 +2081,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "SALARIO MINIMO\nNove euro lordi l’ora di salario minimo legale per dire stop alle paghe da fame e dare dignità\nai lavoratori che oggi percepiscono di meno"
 }
@@ -2095,7 +2095,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "una legge che riconosca il valore legale erga omnes del trattamento economico complessivo dei contratti collettivi firmati dalle organizzazioni maggiormente rappresentative per debellare i “contratti pirata” e che introduca un salario minimo contrattuale, seguendo il modello tedesco, nei settori a più alta incidenza di povertà lavorativa, con una soglia minima affidata alla proposta delle parti sociali e che comunque rispetti i parametri della direttiva europea (attualmente per l’Italia, secondo alcune stime pari a circa 9 euro lordi orari);"
 }
@@ -2109,7 +2109,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Introduzione di un salario minimo legale di almeno 10 euro lordi l’ora (1600 euro al mese)\nrivalutato annualmente, per mettere fine al lavoro povero e utilizzare il rialzo di tutti i salari\nanche come mezzo di politica industriale, per spingere le imprese verso produzioni a più alto\nvalore aggiunto. Riduzione degli orari di lavoro anche per garantire la cura dei diritti plurimi\ndelle persone: lavorare tutti e lavorare meno."
 }
@@ -2123,7 +2123,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2137,7 +2137,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -2151,7 +2151,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Si deve procedere a firmare il contratto scaduto da troppi anni in modo da garantire un aumento significativo dei salari di tutto il corpo docente. E in parallelo bisogna introdurre forme di carriera per il personale della scuola in modo da riconoscere anche formalmente le diverse professionalità che affiancano il Dirigente Scolastico nel funzionamento organizzativo e didattico, nonché le figure che costituiscono un vero e proprio middle management."
 }
@@ -2165,7 +2165,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "La qualità dell’insegnamento parte da un’adeguata conoscenza di caratteristiche e sensibilità di ogni singolo studente. Obiettivo impraticabile affidandosi a un esercito di supplenti, come puntualmente avviene in seguito a una politica che da tempo ha rinunciato a investire sugli insegnanti, di fatto non supportando il loro impegno neanche in aree fragili o disagiate e rendendo difficile anche solo abilitarsi quando sarebbe necessario assumerli a tempo indeterminato. L’invarianza di spesa è ormai alla base del via libera a qualsiasi norma sull’argomento. Se con l’intervento europeo arriveranno fondi importanti per le strutture scolastiche senza che parallelamente lo Stato faccia la sua parte sul fronte del personale (insufficiente e con stipendi lontani dagli standard europei), l’istruzione resta al palo. [...] Le proposte normative della Lega vanno nella direzione di superare tale situazione."
 }
@@ -2179,7 +2179,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "ADEGUAMENTO DEGLI STIPENDI DEGLI INSEGNANTI AI LIVELLI EUROPEI\n"
 }
@@ -2193,7 +2193,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea."
 }
@@ -2207,7 +2207,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2221,7 +2221,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2235,7 +2235,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -2249,7 +2249,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -2263,7 +2263,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "SUPERBONUS\nSi prevede un intervento sulla misura del Superbonus che garantisca garanzie per l’accesso all’agevolazione\nfiscale per tutti i soggetti che hanno già maturato il diritto.\nRendere il Superbonus più coerente e applicabile, contemperando le esigenze di contenimento\ndegli oneri a carico dello Stato con quelle di riqualificazione energetica e adeguamento antisismico\ndegli edifici, rispondendo agli interessi e alle preoccupazioni di proprietari di casa, imprese\ne tecnici."
 }
@@ -2277,7 +2277,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "SUPERBONUS E ALTRI BONUS EDILIZI STRUTTURALI\nStabilizzazione delle agevolazioni edilizie per permettere la pianificazione degli investimenti sugli\nimmobili e continuare a migliorare i livelli di risparmio energetico e di conseguenza risparmiare\nsulle bollette. Sbloccare e far circolare i crediti d’imposta per evitare il fallimento delle imprese\nche ancora oggi non riescono a trasformarli in liquidità per pagare fornitori e dipendenti"
 }
@@ -2291,7 +2291,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -2305,7 +2305,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2319,7 +2319,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2333,7 +2333,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -2347,7 +2347,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Proponiamo di riformare l’Irpef attraverso questi interventi:\n• introduzione di un minimo esente, inteso come maxi-deduzione corrispondente all’ammon- tare che viene giudicato essenziale per sopravvivere. Esso, in una società liberale e attenta agli ultimi, non può essere oggetto di tassazione da parte dello Stato;\n• unificazione tra la detrazione per lavoro autonomo e quella per lavoro dipendente;\n• semplificazione dell’imposta, spostando tutte le spese fiscali in un sistema a rimborso diretto: pagamenti con strumenti tracciabili, e periodicamente lo Stato rimborserà la percen- tuale oggetto della vecchia detrazione;\n• semplificazione della struttura delle aliquote;\n• detassazione specifica per i giovani: totale fino a 25 anni, ridotta del 50% fino a 29 anni;\n• creazione della tassazione negativa, sul modello anglosassone: per i livelli di retribuzione inferiori al minimo esente, lo Stato integrerà la retribuzione del lavoratore in misura crescen- te con la retribuzione stessa. In questo modo, si inverte la distorsione causata dal Rdc e lo si trasforma in una logica per la quale più il percettore si impegna, più la retribuzione viene integrata;\n• detassazione straordinaria - per il solo 2022 – di una extra mensilità (fino a 2,200 euro), che le imprese potranno scegliere di erogare ai propri dipendenti ai fini alleviare gli effetti dell’inflazione.\n"
 }
@@ -2361,7 +2361,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Dobbiamo proseguire con il taglio al cuneo fiscale per le imprese"
 }
@@ -2375,7 +2375,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "riducendo il cuneo fiscale del 50% per start up e Pmi innovative che assumono laureati o con\ntitolo superiore per 5 anni a patto che siano contratti a tempo indeterminato;"
 }
@@ -2389,7 +2389,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "TAGLIO DEL CUNEO FISCALE PER IMPRESE E LAVORATORI, per ridurre più incisivamente\nla differenza fra il costo del lavoratore per l’impresa e il netto percepito in busta paga\ndallo stesso lavoratore"
 }
@@ -2403,7 +2403,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Fisco – Per attuare il principio costituzionale della progressività fiscale giù le tasse sul lavoro, una mensilità in più a fine anno e rivoluzione digitale nel contrasto all’evasione fiscale"
 }
@@ -2417,7 +2417,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Riforma fiscale per ridurre le tasse ai redditi medi e bassi e aumentarle ai redditi alti, con stralcio e cancellazione della riforma fiscale di Draghi che ha tagliato le tasse ai ricchi.\n\nEspansione della no-tax area da 8000 a 10.000 euro, perimetrandola per evitare che favorisca anche i redditi alti.\n"
 }
@@ -2431,7 +2431,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2445,7 +2445,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -2459,7 +2459,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Il regime forfettario ha favorito tanti lavoratori ma, nella sua attuale versione, costituisce una formidabile barriera contro la crescita. Oltre la soglia di 65.000 euro di ricavi annui, infatti, vi è un “burrone” fiscale che scoraggia la crescita o incentiva al sommerso. Proponiamo di realizzare, per chi supera questa soglia, uno scivolo biennale di tassazione agevolata che accompagni gradual- mente l’ingresso alla tassazione ordinaria Irpef."
 }
@@ -2473,7 +2473,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Come primo passo sul percorso della Flat tax è indispensabile portare a termine la sua fase 1 estendendola alle partite Iva con fatturato fino a € 100mila, come già previsto dalla legge di bilancio approvata nel 2019 (e successivamente abrogata dal governo Conte II)"
 }
@@ -2487,7 +2487,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -2501,7 +2501,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Dal lato fiscale, sosteniamo le attività di artigiani, piccole e medie imprese e professionisti, e proponiamo un pacchetto di ulteriori misure che mettiamo in campo per contrastare i maggiori costi derivanti dalla spinta inflattiva. Per esempio: un’opzione di autoliquidazione mensile delle imposte per partite IVA, autonomi e liberi professionisti e professioniste in alternativa al sistema saldo-acconto e l’estensione della detrazione IRPEF del 50% a tutte le tipologie di start-up per le persone fisiche under 35."
 }
@@ -2515,7 +2515,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2529,7 +2529,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2543,7 +2543,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Stop a nuove trivelle permanente e piano graduale di uscita dalla produzione fossile nazionale entroil 2045, unendosi in occasione della COP27 ai paesi dell’Alleanza oltre il Petrolio e il Gas (BOGA) guidata dalla Danimarca."
 }
@@ -2557,7 +2557,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Aumentare la produzione di gas nazionale riattivando e potenziando gli impianti già esistenti, anche valutando possibili partnership con le imprese di produzione del gas per la condivisione dei costi in cambio di forniture a prezzi concordati"
 }
@@ -2571,7 +2571,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Riprendere l’esplorazione e la produzione nazionale di gas naturale, energia ponte per la transizione al 2050, per ridurre la dipendenza energetica."
 }
@@ -2585,7 +2585,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "red",
   "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI"
 }
@@ -2599,7 +2599,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -2613,7 +2613,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2627,7 +2627,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2641,7 +2641,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Stop a nuove trivelle permanente e piano graduale di uscita dalla produzione fossile nazionale entroil 2045, unendosi in occasione della COP27 ai paesi dell’Alleanza oltre il Petrolio e il Gas (BOGA) guidata dalla Danimarca."
 }
@@ -2655,7 +2655,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Aumentare la produzione di gas nazionale riattivando e potenziando gli impianti già esistenti, anche valutando possibili partnership con le imprese di produzione del gas per la condivisione dei costi in cambio di forniture a prezzi concordati"
 }
@@ -2669,7 +2669,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Riprendere l’esplorazione e la produzione nazionale di gas naturale, energia ponte per la transizione al 2050, per ridurre la dipendenza energetica."
 }
@@ -2683,7 +2683,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "red",
   "description": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI"
 }
@@ -2697,7 +2697,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -2711,7 +2711,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2725,7 +2725,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2739,7 +2739,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "l’estensione del tempo scuola (tempo pieno e tempo prolungato, a seconda dei diversi ordini di scuola) intutte le scuole del territorio nazionale; affinché sempre meno giovani e adolescenti siano lasciati soli con leproprie difficoltà; proponiamo, tra l’altro, di estendere, tra l’altro, l’obbligo scolastico a 18 anni."
 }
@@ -2753,7 +2753,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -2767,7 +2767,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -2781,7 +2781,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -2795,7 +2795,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese."
 }
@@ -2809,7 +2809,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2823,7 +2823,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2837,7 +2837,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -2851,7 +2851,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Si deve procedere a firmare il contratto scaduto da troppi anni in modo da garantire un aumento significativo dei salari di tutto il corpo docente. E in parallelo bisogna introdurre forme di carriera per il personale della scuola in modo da riconoscere anche formalmente le diverse professionalità che affiancano il Dirigente Scolastico nel funzionamento organizzativo e didattico, nonché le figure che costituiscono un vero e proprio middle management."
 }
@@ -2865,7 +2865,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "La qualità dell’insegnamento parte da un’adeguata conoscenza di caratteristiche e sensibilità di ogni singolo studente. Obiettivo impraticabile affidandosi a un esercito di supplenti, come puntualmente avviene in seguito a una politica che da tempo ha rinunciato a investire sugli insegnanti, di fatto non supportando il loro impegno neanche in aree fragili o disagiate e rendendo difficile anche solo abilitarsi quando sarebbe necessario assumerli a tempo indeterminato. L’invarianza di spesa è ormai alla base del via libera a qualsiasi norma sull’argomento. Se con l’intervento europeo arriveranno fondi importanti per le strutture scolastiche senza che parallelamente lo Stato faccia la sua parte sul fronte del personale (insufficiente e con stipendi lontani dagli standard europei), l’istruzione resta al palo. [...] Le proposte normative della Lega vanno nella direzione di superare tale situazione."
 }
@@ -2879,7 +2879,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "ADEGUAMENTO DEGLI STIPENDI DEGLI INSEGNANTI AI LIVELLI EUROPEI\n"
 }
@@ -2893,7 +2893,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo rimettere al centro la scuola e restituire al mestiere dell’insegnante la dignità e centralità che merita, garantendo una formazione adeguata e continua e allineando, entro i prossimi cinque anni, gli stipendi alla media europea."
 }
@@ -2907,7 +2907,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -2921,7 +2921,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -2935,7 +2935,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Vogliamo inoltre che importanti risorse aggiuntive vengano messe a disposizione degli enti locali, perl’adeguamento e il ripristino dell’attuale dotazione di case popolari, con particolare attenzioneall’efficientamento energetico."
 }
@@ -2949,7 +2949,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -2963,7 +2963,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -2977,7 +2977,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "PIANO DI EDILIZIA RESIDENZIALE PUBBLICA con riqualificazione degli edifici esistenti senza consumo di suolo"
 }
@@ -2991,7 +2991,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Lanceremo una nuova stagione di politiche abitative per garantire il diritto alla casa. Lo faremo realizzando 500.000 alloggi popolari nei prossimi 10 anni."
 }
@@ -3005,7 +3005,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Programma di costruzione di 500.000 nuovi alloggi pubblici per affrontare la grave carenza\ndi case a canone sociale e garantire una dimora a chi non riesce ad averla a prezzi di mercato.\nA consumo di suolo zero anche con la riconversione ad alloggi di edilizia popolare del\npatrimonio pubblico, di enti e di grandi proprietà private compatibili con la residenza. Piano di\nmanutenzione ordinaria e straordinaria di alloggi vuoti da anni per loro immediata\nassegnazione alle famiglie in graduatoria comunale. Nessuna famiglia senza casa, nessuna\ncasa senza famiglia."
 }
@@ -3019,7 +3019,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3033,7 +3033,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "red",
   "description": "Noi riteniamo che la migliore soluzione praticabile a questo problema sia il rilancio dell’edilizia residenziale pubblica, che le politiche degli ultimi decenni hanno di fatto smantellato nella sua dimensione di welfarediffuso, relegandola ad una dimensione meramente assistenziale ed emergenziale."
 }
@@ -3047,7 +3047,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -3061,7 +3061,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Garantire un maggior numero di posti letto universitari, anche con misure di sostegno\nagli affitti"
 }
@@ -3075,7 +3075,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -3089,7 +3089,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Aiuteremo le ragazze e i ragazzi a uscire di casa, potenziando il Fondo di garanzia mutui per la prima casa e introducendo un contributo affitti di 2.000 € per studenti e lavoratori (under 35) in base al reddito."
 }
@@ -3103,7 +3103,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -3117,7 +3117,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3131,7 +3131,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Rompere il circolo della povertà:\nLa ripresa economica non potrà prescindere dalla lotta alla povertà, alle disuguaglianze e alla comune presa di coscienza che è insopportabile che queste condizioni creino disparità nelle opportunità di vita delle persone.\n\nIn questo contesto intendiamo difendere e rafforzare il reddito di cittadinanza, secondo le previsioni del rapporto elaborato dalla Commissione presieduta da Chiara Saraceno, con l’obiettivo strategico di arrivare ad un vero Reddito Universale di Base."
 }
@@ -3145,7 +3145,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Proponiamo che il sussidio venga tolto dopo il primo rifiuto di un’offerta di lavoro congrua e che ci sia un limite temporale di due anni per trovare un’occupazione, dopodiché l’importo dell’assegno deve essere ridotto di almeno un terzo e il beneficiario deve essere preso in carico dai servizi sociali del Comune"
 }
@@ -3159,7 +3159,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Con la riforma del Reddito di Cittadinanza si intende:\n• per i percettori inidonei al lavoro, mantenere il sostegno al reddito, rivedendo i criteri di\naccesso e la scala di equivalenza, dando maggior peso al quoziente familiare, rimodulando\ngli importi in funzione delle differenti soglie di povertà assoluta (e quindi del potere d'acquisto)\nregistrate sul territorio nazionale;\n• per i percettori idonei all'attività lavorativa, la misura viene invece riformata trasformandola\nin un vero e proprio ammortizzatore sociale finalizzato all'occupazione. Corso di formazione,\ntirocinio e contrattualizzazione dei percettori a fine percorso, attraverso il coinvolgimento\ndelle agenzie private del lavoro, delle associazioni datoriali e attraverso l'utilizzo di\nincentivi fiscali e contributivi per l'assunzione dei percettori."
 }
@@ -3173,7 +3173,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "RAFFORZAMENTO DEL REDDITO DI CITTADINANZA\nMisure per rendere più efficiente il sistema delle politiche attive. Monitoraggio delle\nmisure antifrode"
 }
@@ -3187,7 +3187,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Dopo l’introduzione del salario minimo e del Reddito di Cittadinanza (che andrà opportunamente ricalibrato secondo le indicazioni elaborate dalla Commissione Saraceno, a partire dall’ingiustificata penalizzazione delle famiglie numerose e/o con minori) è necessario completare il sistema con un altro meccanismo: l’integrazione pubblica alla retribuzione (in-work benefit) in favore dei lavoratori e delle lavoratrici a basso reddito, come proposto dalla Commissione sul lavoro povero. Questo tipo di integrazione introduce nel sistema opportuni incentivi di ricerca e permanenza di occupazione, permette l’emersione del lavoro nero e incentiva al lavoro. In questo quadro, appare utile favorire la cumulabilità tra sussidi e lavoro, senza disincentivare la partecipazione al mercato del lavoro, anche in questo caso secondo le indicazioni della Commissione Saraceno. Infine, proponiamo di ridurre il periodo minimo di residenza in Italia per accedere al Reddito di Cittadinanza, oggi fissato in 10 anni."
 }
@@ -3201,7 +3201,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Portare il Reddito di cittadinanza da 780 a 1000 euro al mese; innalzare la soglia di accesso ISEE da 9360 a 12.000 euro e renderlo una misura individuale e non esclusivamente legata al nucleo familiare. Introdurre il reddito domestico per garantire dignità ad ogni persona."
 }
@@ -3215,7 +3215,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3229,7 +3229,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "grey",
   "description": ""
 }
@@ -3243,7 +3243,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Aiutare le imprese a ridurre i costi della bolletta elettrica incentivando con garanzia statale la produzione di energia rinnovabile per autoconsumo (inclusi i sistemi di accumulo);\n\nPromuovere in EU un price cap a tutto il gas importato per ridurre anche il costo dell’energia elettrica. In subordine, introdurre modalità più efficienti e più efficaci di quelle recentemen- te individuate per trasferire la extra-rendita reale (non presunta) delle imprese energetiche – inclusi i trader – a famiglie meno abbienti e imprese energivore\n"
 }
@@ -3257,7 +3257,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Proseguire con misure transitorie già introdotte nell’ultimo anno quali l’annullamento degli oneri di sistema delle bollette elettriche, la riduzione degli oneri di sistema delle bollette del gas per utenze domestiche e non domestiche, il potenziamento del bonus sociale elettricità e gas alle famiglie in difficoltà e ai clienti domestici in gravi condizioni di salute, la riduzione transitoria dell’Iva al 5% sul gas per usi civili e industriali, il riconoscimento alle imprese (gasivore e non gasivore, nonché energivore e quelle con potenza elettrica uguale o superiore a 16,5 kW) di un credito di imposta delle spese sostenute per l’acquisto di energia elettrica e gas.\n\nIntrodurre la riduzione dell’aliquota Iva al 5% anche per le bollette di energia elettrica e alla cessione del calore agli utenti finali tramite teleriscaldamento, nonché alle somministrazioni di energia termica prodotta con impianti alimentati a gas naturale nell’ambito di un Contratto Servizio Energia o di un Contratto di rendimento energetico."
 }
@@ -3271,7 +3271,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -3285,7 +3285,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Partendo da qui, a dimostrazione di come sostenibilità ambientale e sociale si rafforzino a vicenda, introdurremo un nuovo contratto “luce sociale” per le famiglie con redditi medi e bassi. Si tratta di un contratto di fornitura energetica prodotta totalmente da fonti rinnovabili e acquistata direttamente dalla società pubblica Acquirente Unico. Il contratto di acquisto avrà durata decennale e ciò permetterà di ottenere prezzi dell’energia elettrica molto bassi a vantaggio delle famiglie: fino ad un massimo di 1.350 KWh/anno per famiglia (pari al 50% del consumo medio), l’energia elettrica verrà fornita a costo zero, mentre sulla parte di consumo eccedente i prezzi saranno comunque calmierati."
 }
@@ -3299,7 +3299,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Tetto duraturo al prezzo del gas per calmierare le bollette (su modello di Spagna e Portogallo già approvato dalla Commissione Europea)."
 }
@@ -3313,7 +3313,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3327,7 +3327,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "la gratuità dell’istruzione, dal nido all’università, per tutte e tutti; assumendo, cioè, il diritto universale alsapere come carico di una fiscalità generale realmente progressiva e come parte di un patto tra legenerazioni;"
 }
@@ -3341,7 +3341,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -3355,7 +3355,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": ""
 }
@@ -3369,7 +3369,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -3383,7 +3383,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese."
 }
@@ -3397,7 +3397,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Scuola dell'infanzia comunale o statale garantita a tutti a partire da 3 anni, e costruzione di asili nido pubblici in tutto il paese."
 }
@@ -3411,7 +3411,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "grey",
   "description": ""
 }
@@ -3425,7 +3425,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Contro l’imposizione del pensiero unico e dell’ideologia gender."
 }
@@ -3439,7 +3439,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Una legge sull’uguaglianza e la pari dignità familiare che dia risposte concrete e che spazzi via l’ipocrisia di voler mantenere le donne, i figli e le figlie delle famiglie arcobaleno e le persone lgbt+ un gradino sotto le altre."
 }
@@ -3453,7 +3453,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "È necessario approvare quanto prima una legge contro l’omotransfobia, istituire l’Autorità Nazionale Indipendente per la Tutela dei Diritti Umani, e adottare iniziative di prevenzione e contra- sto di ogni linguaggio d’odio."
 }
@@ -3467,7 +3467,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": "Non se ne parla nel programma"
 }
@@ -3481,7 +3481,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA"
 }
@@ -3495,7 +3495,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario."
 }
@@ -3509,7 +3509,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Estensione della legge contro il razzismo e gli altri crimini d’odio, anche alle violenze e alle\ndiscriminazioni motivate da orientamento sessuale, identità di sesso, genere e disabilità.\n\nLegge contro l'omolesbobitransfobia e misure positive per fermare la\ndiscriminazione contro la comunità LGBT+. Nuova legge trans, che non patologizzi e assuma\nl'identità di genere come autodeterminazione."
 }
@@ -3523,7 +3523,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Proponiamo una riforma organica della disciplina in materia di cittadinanza che dia seguito alla Proposta di Legge “IUS SCHOLAE”, affinché sia garantito l’ottenimento della cittadinanza italiana a minori che abbiano intrapreso un percorso scolastico in Italia"
 }
@@ -3537,7 +3537,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3551,7 +3551,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese."
 }
@@ -3565,7 +3565,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Ius Scholae (acquisizione della cittadinanza) per chi abbia frequentato per almeno 5 anni un percorso di formazione in Italia. Inoltre, proponiamo di concedere la cittadinanza a tutti gli studenti stranieri che hanno svolto e completato gli studi universitari in Italia."
 }
@@ -3579,7 +3579,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "red",
   "description": "NO ALLO IUS SOLI\nNessuna modifica alla normativa sulla cittadinanza\nLa legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.\nL’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione\ndi cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.\nNon verrà prevista nessuna modifica rispetto a questo principio.\nNessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,\nIus Culturae o Ius Temperato."
 }
@@ -3593,7 +3593,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "IUS SCHOLAE per riconoscere la cittadinanza al minore straniero, che sia nato in Italia o vi abbia\nfatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi"
 }
@@ -3607,7 +3607,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Introdurremo lo Ius Scholae, per superare le ingiustificate discriminazioni che ancora oggi vediamo nelle classi italiane. A settembre, bambine e bambini torneranno nelle scuole. Studieranno insieme, mangeranno insieme, giocheranno insieme. Compagne e compagni di classe, che però per la legge non sono uguali. Neanche se parlano la stessa lingua, ascoltano la stessa musica e hanno gli stessi sogni. Perché ancora oggi i figli dei genitori stranieri incontrano barriere ingiustificate nell’accesso alla cittadinanza, anche quando sono nati in Italia, sono cresciuti in Italia e hanno studiato in Italia. È il momento di introdurre una norma che non è solo civiltà: è prima di tutto buonsenso. Chi è figlio di genitori stranieri e studia in Italia diventa cittadino italiano."
 }
@@ -3621,7 +3621,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "grey",
   "description": ""
 }
@@ -3635,7 +3635,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3649,7 +3649,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Una nuova legge sulla cittadinanza, che parta dallo ius soli e dallo ius scholae, per restituire piena dignità ai tanti e alle tante cittadine che “da straniere/i” contribuiscono alla ricchezza del nostro Paese."
 }
@@ -3663,7 +3663,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -3677,7 +3677,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "red",
   "description": "NO ALLO IUS SOLI\nNessuna modifica alla normativa sulla cittadinanza\nLa legge 91/92 lega la concessione della cittadinanza al principio dello ius sanguinis.\nL’Italia è il Paese in Europa che concede maggiori decreti di cittadinanza, il primo per concessione\ndi cittadinanza, circa 130 mila nel 2021. Ben oltre Francia e Germania.\nNon verrà prevista nessuna modifica rispetto a questo principio.\nNessuna concessione verso il principio dello Ius Soli e declinazioni similari quali lo Ius Scholae,\nIus Culturae o Ius Temperato."
 }
@@ -3691,7 +3691,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "grey",
   "description": ""
 }
@@ -3705,7 +3705,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -3719,7 +3719,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Approvazione dello ius soli e della cittadinanza ai figli degli immigrati."
 }
@@ -3733,7 +3733,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "Riforma complessiva del diritto di famiglia che, a partire dalla proposta di legge “per l’eguaglianza e la pari dignità familiare” di Famiglie Arcobaleno e Rete Lenford, includa, tra l’altro: l’introduzione del matrimonio egualitario, estensione dell’adozione alle coppie, sposate o meno, anche dello stesso sesso e alle persone single."
 }
@@ -3747,7 +3747,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Contro l’imposizione del pensiero unico e dell’ideologia gender."
 }
@@ -3761,7 +3761,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso."
 }
@@ -3775,7 +3775,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "grey",
   "description": ""
 }
@@ -3789,7 +3789,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "grey",
   "description": "Non se ne parla nel programma"
 }
@@ -3803,7 +3803,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA"
 }
@@ -3817,7 +3817,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Approveremo subito la legge contro l’omolesbobitransfobia (DDL Zan) e introdurremo il matrimonio egualitario."
 }
@@ -3831,7 +3831,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Disciplina normativa conforme a Costituzione per i matrimoni e le unioni di persone dello stesso sesso e per i figli nati.\nMatrimonio egualitario, appunto, con riconoscimento alla nascita dei figli e delle figlie delle coppie omogenitoriali."
 }
@@ -3845,7 +3845,7 @@
   "source": "Programma elettorale +Europa",
   "source_slug": "programma-elettorale--europa",
   "list": "+Europa",
-  "list_id": 3,
+  "list_id": 7,
   "endorsement": "green",
   "description": "In Italia, il tasso di partecipazione femminile al mondo del lavoro è il più basso in Europa. Nel 2020, oltre 300.000 donne in Italia hanno perso il lavoro, in misura tre volte superiore rispetto agli uomini. Un’occupazione stabile e ben retribuita è la premessa perché le donne acquisiscano emancipazione economica ed autonomia decisionale. Non basta, dunque, avere un’occupazione, questa deve essere anche “dignitosa” (e cioè retribuita alla pari degli uomini), tutelata nelle forme contrattuali, di qualità e non stereotipata. E’ inoltre necessario favorire la partecipazione delle donne nella vita politica del Paese, obiettivo che +Europa è impegnata a perseguire a partire dalla scuola politica di Prime Donne."
 }
@@ -3859,7 +3859,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3873,7 +3873,7 @@
   "source": "Programma elettorale AVS",
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
-  "list_id": 11,
+  "list_id": 6,
   "endorsement": "green",
   "description": "Siamo qui a lottare per la parità salariale e per creare le condizioni affinché le donne possano trovare ilgiusto riconoscimento in posizioni apicali e “ruoli decisionali”."
 }
@@ -3887,7 +3887,7 @@
   "source": "Programma elettorale Azione Italia Viva",
   "source_slug": "programma-elettorale-azione-italia-viva",
   "list": "Azione-Italia Viva-Calenda",
-  "list_id": 12,
+  "list_id": 10,
   "endorsement": "green",
   "description": "Con la legge n. 162/2021 e le risorse del PNRR, è stata introdotta la Certificazione della parità di genere, che mira ad accompagnare ed incentivare le imprese ad adottare policy adeguate a ridurre il divario di genere in tutte le aree maggiormente critiche, quali - ad esempio - opportunità di crescita in azienda, parità salariale a parità di man- sioni e tutela della maternità. Le aziende dotate della certificazione avranno accesso a un miglior punteggio nelle graduatorie degli appalti e a un esonero parziale del versamento dei contributi previdenziali dei lavoratori."
 }
@@ -3901,7 +3901,7 @@
   "source": "Programma elettorale Lega",
   "source_slug": "programma-elettorale-lega",
   "list": "Lega",
-  "list_id": 4,
+  "list_id": 2,
   "endorsement": "green",
   "description": "Misure volte al sostegno della parità salariale\n"
 }
@@ -3915,7 +3915,7 @@
   "source": "Programma elettorale M5S",
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
-  "list_id": 6,
+  "list_id": 9,
   "endorsement": "green",
   "description": "Introdurre misure per un’effettiva parità salariale tra uomini e donne, per fare in modo che di fronte alle stesse qualifiche e alle stesse mansioni le donne abbiano una retribuzione reale non inferiore a quella degli uomini\n"
 }
@@ -3929,7 +3929,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Grazie al nostro impegno, nella legislatura appena conclusa abbiamo approvato una legge sulla parità salariale (Legge Gribaudo 162/2021) che garantisce alle donne il diritto di avere giustizia rispetto alle discriminazioni retributive sui luoghi di lavoro. Ma aver fatto la legge non basta. Bisogna farla applicare e farlo bene, perché la parità salariale sia garantita a tutte."
 }
@@ -3943,7 +3943,7 @@
   "source": "Programma elettorale Unione Popolare",
   "source_slug": "programma-elettorale-unione-popolare",
   "list": "Unione Popolare",
-  "list_id": 7,
+  "list_id": 15,
   "endorsement": "green",
   "description": "Eliminazione di tutti gli ostacoli occupazionali, professionali e salariali alla piena parità di\ngenere."
 }
@@ -3957,7 +3957,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3971,7 +3971,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Ci impegniamo inoltre a garantire alle studentesse e gli studenti delle scuole medie e superiori la gratuità dei libri di testo (sempre in base all’Isee) e il pieno accesso ai servizi psico-pedagogici (in maniera universale)."
 }
@@ -3985,7 +3985,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -3999,7 +3999,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo garantire la piena gratuità del trasporto pubblico locale per le famiglie a reddito medio e basso (in base all'Isee)."
 }
@@ -4013,7 +4013,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4027,7 +4027,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Proponiamo l’estensione del tempo pieno, con particolare attenzione al Sud, e la progressiva costruzione di una scuola presidio di comunità nelle periferie e nelle aree interne."
 }
@@ -4041,7 +4041,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4055,7 +4055,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo poi potenziare l’edilizia universitaria"
 }
@@ -4069,7 +4069,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4083,7 +4083,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Garantiremo l'accesso universale e gratuito di bambine e bambini alle mense scolastiche"
 }
@@ -4097,7 +4097,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4111,7 +4111,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Ci impegniamo inoltre a garantire alle studentesse e gli studenti il pieno accesso ai servizi psico-pedagogici (in maniera universale)."
 }
@@ -4125,7 +4125,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4139,7 +4139,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Investiremo nell'aumento dei docenti di ruolo di sostegno per affiancare nel percorso scolastico tutte le persone con disabilità."
 }
@@ -4153,7 +4153,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4167,7 +4167,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4181,7 +4181,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4195,7 +4195,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo poi potenziare l’edilizia universitaria e consolidare le risorse finalizzate al reclutamento dei docenti universitari per recuperare il lungo blocco del turn-over, separando le modalità di accesso al ruolo e di reclutamento dall’esterno da quelle per l’avanzamento di carriera secondo i principi di trasparenza, responsabilità, merito e valorizzazione dei talenti."
 }
@@ -4209,7 +4209,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4223,7 +4223,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Dobbiamo favorire le assunzioni a tempo indeterminato"
 }
@@ -4237,7 +4237,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4251,7 +4251,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4265,7 +4265,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4279,7 +4279,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4293,7 +4293,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo istituire un sistema di welfare studentesco che riduca la frammentarietà, la disomogeneità nell’erogazione delle prestazioni, che innalzi la no tax area e definisca i livelli essenziali di prestazione per l’accesso ai servizi del diritto allo studio."
 }
@@ -4307,7 +4307,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4321,7 +4321,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "yellow",
   "description": "Proponiamo la costituzione di un Fondo nazionale per i viaggi-studio, le gite scolastiche, il tempo libero nel doposcuola e l’acquisto di attrezzature sportive e strumenti musicali che va ad integrare il finanziamento regionale. Intendiamo incentivare le ragazze nella scelta delle materie STEM, attraverso l’orientamento."
 }
@@ -4335,7 +4335,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4349,7 +4349,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Dobbiamo creare le condizioni affinché i nostri giovani scelgano l'Italia come sede della loro crescita e prosperità"
 }
@@ -4363,7 +4363,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4377,7 +4377,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4391,7 +4391,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4405,7 +4405,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4419,7 +4419,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4433,7 +4433,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4447,7 +4447,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Investire su nuove risorse e soprattutto sulla ricerca, che è stata essenziale per produrre il vaccino anti Covid."
 }
@@ -4461,7 +4461,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo rafforzare la ricerca e ridisegnare le politiche collegano ricerca, innovazione e imprese, nonché l’accesso alla conoscenza come bene pubblico."
 }
@@ -4475,7 +4475,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4489,7 +4489,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4503,7 +4503,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4517,7 +4517,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4531,7 +4531,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4545,7 +4545,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4559,7 +4559,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4573,7 +4573,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4587,7 +4587,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4601,7 +4601,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4615,7 +4615,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4629,7 +4629,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4643,7 +4643,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4657,7 +4657,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4671,7 +4671,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4685,7 +4685,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4699,7 +4699,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4713,7 +4713,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4727,7 +4727,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4741,7 +4741,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4755,7 +4755,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Contro l’imposizione del pensiero unico e dell’ideologia gender."
 }
@@ -4769,7 +4769,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4783,7 +4783,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Contro l’imposizione del pensiero unico e dell’ideologia gender."
 }
@@ -4797,7 +4797,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4811,7 +4811,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Contro l’imposizione del pensiero unico e dell’ideologia gender."
 }
@@ -4825,7 +4825,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -4839,7 +4839,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4853,7 +4853,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "L'ambiente e il paesaggio italiani devono essere tutelati e valorizzati"
 }
@@ -4867,7 +4867,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "La transizione ecologica si intreccia poi con la transizione digitale in molti aspetti, primo tra tutti quello di una migliore programmazione dell’uso del suolo, delle colture e del consumo idrogeologico, in ragione di una più efficace capacità di monitoraggio e tracciamento, la raccolta e condivisione di dati, lo sviluppo dell’agricoltura di precisione. Anche in questo caso, proponiamo un pacchetto di misure che valorizzi le sinergie territoriali in un quadro di coordinamento nazionale per la tutela dell’ecosistema e della salute, inclusa la tutela delle coste e del mare e il sostegno della transizione ecologica nel settore ittico.\nLa tutela dell’ambiente passa anche attraverso una maggiore consapevolezza dei cittadini e delle cittadine. Nel solco delle iniziative europee, vogliamo accelerare tutti i processi di etichettatura digitale dei prodotti che eliminino le distorsioni e le inefficienze dei vecchi sistemi di etichette (come nel caso del nutriscore) e forniscano al consumatore informazioni utili e trasparenti circa l’origine dei prodotti e il loro tracciamento, l’impatto ambientale della produzione e del trasporto."
 }
@@ -4881,7 +4881,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4895,7 +4895,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Istituzione della figure del Garante Nazionale dei Diritti e del Benessere Animale"
 }
@@ -4909,7 +4909,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Tutela del benessere animale – Per tutelare i diritti degli animali rafforzare le sanzioni per il contrasto ai maltrattamenti e potenziare la diffusione delle strutture di accoglienza"
 }
@@ -4923,7 +4923,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "green",
   "description": "Sostegno ai giovani per il diritto al lavoro stabile, alla casa per le coppie sposate under 40"
 }
@@ -4937,7 +4937,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Bisogna garantire la possibilità di comprarsi una casa, agevolando proprio i giovani che iniziano o hanno già iniziato un percorso lavorativo."
 }
@@ -4951,7 +4951,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Aiuteremo le ragazze e i ragazzi a uscire di casa, potenziando il Fondo di garanzia mutui per la prima casa e introducendo un contributo affitti di 2.000 € per studenti e lavoratori (under 35) in base al reddito."
 }
@@ -4965,7 +4965,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -4979,7 +4979,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Istituzione della figure del Garante Nazionale dei Diritti e del Benessere Animale"
 }
@@ -4993,7 +4993,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Tutela del benessere animale – Per tutelare i diritti degli animali rafforzare le sanzioni per il contrasto ai maltrattamenti e potenziare la diffusione delle strutture di accoglienza"
 }
@@ -5007,7 +5007,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Approveremo una legge sul fine vita, per difendere fino all’ultimo dignità e autodeterminazione, in linea con le indicazioni della Corte Costituzionale."
 }
@@ -5021,7 +5021,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5035,7 +5035,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Dobbiamo sviluppare i servizi sanitari di prossimità e prevenzione"
 }
@@ -5049,7 +5049,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà."
 }
@@ -5063,7 +5063,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5077,7 +5077,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Importantissimo, nella prevenzione e promozione della salute, l'investimento sulle politiche sportive"
 }
@@ -5091,7 +5091,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo investire nello sport e nella cultura come strumenti in grado di creare apertura, superamento degli stereotipi di genere, benessere condiviso, nuovi spazi di socialità e nuove occasioni di realizzazione personale. Vogliamo costruire una nuova cultura della legalità, che faccia della lotta alle mafie e alla criminalità organizzata una priorità."
 }
@@ -5105,7 +5105,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5119,7 +5119,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Fare in modo che il posto di lavoro sia un luogo sicuro per tutte le lavoratrici e i lavoratori del nostro Paese firmando nuovi accordi con le imprese e incentivando la cultura della sicurezza."
 }
@@ -5133,7 +5133,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "yellow",
   "description": "Tali criticità incidono inoltre notevolmente sulla sicurezza, perché condizioni non dignitose e salari bassi creano un lavoro insicuro. Non a caso gli incidenti sul lavoro, dai più lievi sino alle drammatiche morti bianche, sono sempre numerosissimi."
 }
@@ -5147,7 +5147,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5161,7 +5161,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "...l'offerta dei servizi, come gli asili nido, che rendono la natalità compatibile con l'impegno lavorativo sono la base su cui iniziare a costruire."
 }
@@ -5175,7 +5175,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese. Così vogliamo favorire l’uguaglianza già nei primi passi del percorso scolastico, assicurando per tutte e tutti pari opportunità di cura, relazione e gioco."
 }
@@ -5189,7 +5189,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5203,7 +5203,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Occorre sostenere nelle imprese l'adozione di modelli organizzativi che valorizzino l'autonomia personale nella scelta dei tempi, dei luoghi e delle modalità di lavoro."
 }
@@ -5217,7 +5217,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "yellow",
   "description": "Approveremo una legge sulla co-genitorialità, per introdurre totale parità nei congedi di maternità e paternità e un nuovo congedo parentale anch’esso pienamente paritario, da affiancare a strumenti di flessibilità, come part time e lavoro agile di coppia agevolati."
 }
@@ -5231,7 +5231,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Occorre inoltre rafforzare la normativa per raggiungere in un tempo ragionevole la parità di genere nelle nomine pubbliche"
 }
@@ -5245,7 +5245,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Il nostro obiettivo parità di genere toccherà numerosi temi: il contrasto alla violenza di genere, evitando l’affidamento dei figli ai genitori violenti e superando definitivamente ogni riferimento all’a-scientifica sindrome di alienazione parentale (PAS); la tutela della salute a 360 gradi, anche nelle aree oggi trascurate, a partire dal supporto post-partum e dalla presa in carico delle malattie croniche e invalidanti femminili come endometriosi o vulvodinia; il pieno riconoscimento dei diritti sessuali e riproduttivi delle donne, garantendo l’applicazione della legge 194/1978 in ogni sua parte sull’intero territorio nazionale e rafforzando la rete di consultori."
 }
@@ -5259,7 +5259,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5273,7 +5273,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Gli ITS devono diventare un percorso verso l'eccellenza."
 }
@@ -5287,7 +5287,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5301,7 +5301,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5315,7 +5315,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "I giovani universitari devono poter contare, oltre che sulle borse di studio, su un sostegno per i fuori sede."
 }
@@ -5329,7 +5329,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5343,7 +5343,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5357,7 +5357,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
 }
@@ -5371,7 +5371,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5385,7 +5385,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
 }
@@ -5399,7 +5399,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5413,7 +5413,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Rafforzeremo la partecipazione delle ragazze e dei ragazzi alla vita politica del Paese, abbassando l'età del voto a 16 anni e istituendo una nuova legge per il voto fuorisede, rispettando i principi di integrità, segretezza e libertà del voto."
 }
@@ -5427,7 +5427,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5441,7 +5441,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Bisogna implementare nuovi strumenti per favorire il riscatto della laurea."
 }
@@ -5455,7 +5455,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5469,7 +5469,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5483,7 +5483,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "...abbassare le tasse a partire dall'IRAP"
 }
@@ -5497,7 +5497,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "L’IRAP va progressivamente superata, garantendo l’integrale finanziamento del fabbisogno del sistema sanitario e la partecipazione di tutti i redditi al finanziamento del welfare universale."
 }
@@ -5511,7 +5511,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5525,7 +5525,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Il Made in Italy è fondamentale per lo sviluppo delle nostre imprese"
 }
@@ -5539,7 +5539,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5553,7 +5553,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5567,7 +5567,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Bisogna avere riguardo dei piccoli comuni aumentandone poteri e risorse"
 }
@@ -5581,7 +5581,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo sostenere un Piano nazionale per il recupero e il rilancio dei Borghi italiani, contrastando lo spopolamento delle aree interne e prevedendo: esenzioni fiscali per le attività commerciali nei piccoli comuni; riqualificazione in chiave sostenibile dell’edilizia rurale storica; potenziamento del Piano nazionale Grandi progetti beni culturali; promozione internazionale della Capitale italiana della Cultura.\n\nCi impegniamo a dare attuazione al grande piano di assunzione nella PA, oltre il 2026, con clausole volte a favorire l’occupazione giovanile e femminile. Dobbiamo accelerare la costituzione di uno Sportello virtuale della PA - con la possibilità di prendere appuntamento e di collegarsi in videoconferenza con qualsiasi pubblica amministrazione - e la realizzazione di un ufficio associato per la trasformazione digitale dei piccoli comuni.\n\nCentrale nella nostra proposta è l’idea di territori in 30 minuti. I servizi di prossimità devono essere assicurati su tutto il territorio nazionale. Per questo, sosterremo l’apertura di 1.000 bar ed edicole multifunzione in 1.000 piccoli comuni, che offrano funzioni base affinché tutta Italia abbia accesso ai servizi di cittadinanza più importanti, integrandoli con il progetto “Polis - Case dei servizi di cittadinanza” finanziato dal PNRR."
 }
@@ -5595,7 +5595,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5609,7 +5609,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Per il Sud deve nascere la Riserva nazionale dell'agricoltura e della ricerca industriale"
 }
@@ -5623,7 +5623,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo colmare le disuguaglianze territoriali investendo nel Mezzogiorno e nelle aree interne, perché è tutto il Paese a rallentare se alcune aree rimangono indietro. C’è una profonda interdipendenza economica che lega le aree del Paese. È tempo di liberare il potenziale di tutte le persone in tutti i luoghi."
 }
@@ -5637,7 +5637,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5651,7 +5651,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "red",
   "description": "L'autonomia differenziata non è una soluzione"
 }
@@ -5665,7 +5665,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5679,7 +5679,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "green",
   "description": "Famiglie da sostenere anche con la riforma del fisco secondo il principio del quoziente familiare."
 }
@@ -5693,7 +5693,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Operare una riduzione e una razionalizzazione della pressione fiscale"
 }
@@ -5707,7 +5707,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "La nostra proposta di riforma fiscale è volta a realizzare una riduzione del carico IRPEF, a partire dai redditi medi e bassi e una razionalizzazione delle agevolazioni fiscali, trasformando quelle di valenza sociale (spese sanitarie, scolastiche, etc.) in erogazioni dirette ai contribuenti, compresi gli incapienti."
 }
@@ -5721,7 +5721,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5735,7 +5735,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Bisogna proseguire la politica di accordi internazionali di diversificazione delle fonti realizzata dal governo Draghi e ottenere il tetto al prezzo del gas russo"
 }
@@ -5749,7 +5749,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5763,7 +5763,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5777,7 +5777,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "Favorire la creazione delle Comunità Energetiche"
 }
@@ -5791,7 +5791,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Introdurremo un piano nazionale per il risparmio energetico e interventi finalizzati ad aumentare drasticamente la quota di rinnovabili prodotte in Italia, anche attraverso lo sviluppo delle Comunità energetiche, con l'obiettivo di installare 85 GW di rinnovabili in più entro il 2030. Un obiettivo ambizioso ma realistico che porterà, secondo alcune stime, alla creazione di circa 500.000 nuovi posti di lavoro"
 }
@@ -5805,7 +5805,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
 }
@@ -5819,7 +5819,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "...la nostra scelta convinta e irreversibile al Patto Atlantico"
 }
@@ -5833,7 +5833,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
 }
@@ -5847,7 +5847,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
 }
@@ -5861,7 +5861,7 @@
   "source": "Programma elettorale Impegno Civico",
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
-  "list_id": 17,
+  "list_id": 8,
   "endorsement": "green",
   "description": "...costruzione di un'Unione Europea sempre più forte, democratica e coesa"
 }
@@ -5875,7 +5875,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
 }
@@ -5889,7 +5889,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
 }
@@ -5903,7 +5903,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
 }
@@ -5917,7 +5917,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "grey",
   "description": ""
 }
@@ -5931,7 +5931,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Ridurre drasticamente l’evasione fiscale è un obiettivo chiave del nostro programma. Per accrescere la fedeltà dei contribuenti proponiamo di estendere la tracciabilità dei pagamenti, incrociare le banche dati, potenziare le Agenzie fiscali, premiare maggiormente i contribuenti leali, riformare la riscossione."
 }
@@ -5945,7 +5945,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "green",
   "description": "Sostegno diretto alla natalità con il Reddito di Maternità,\nper contrastare il collasso delle strutture del welfare (sanità,\nistruzione, previdenza, assistenza) ormai prossimo con gli\nattuali tassi di fertilità."
 }
@@ -5959,7 +5959,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -5973,7 +5973,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "green",
   "description": "Incentivo alla piccola e piccolissima impresa a conduzione\nfamiliare, in particolare per gli under 40 come modalità di\nautoimpiego e contrasto alla disoccupazione, rifiutando qualsiasi\nsostegno diretto o legislativo all’espansione di imprese\nmultinazionali ai danni delle imprese italiane."
 }
@@ -5987,7 +5987,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Tutti questi investimenti e altri interventi necessari per sostenere le transizioni, la crescita, le famiglie e le piccole e medie imprese non possono realizzarsi senza un solido sistema del credito. Su questo fronte è necessario difendere e rafforzare in sede europea tutte quelle disposizioni normative che incentivano la concessione del credito alle piccole e medie imprese, alle famiglie, alle infrastrutture materiali, immateriali e sociali. Il fattore di sostegno alle piccole e medie imprese e alle infrastrutture e la cessione del quinto sono stati provvedimenti fondamentali introdotti grazie al nostro impegno nella scorsa legislatura"
 }
@@ -6001,7 +6001,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "green",
   "description": "Attenzione particolare agli\nanziani e ai disabili con innalzamento immediato\na 1.000 euro delle pensioni minime,\ndi vecchiaia e invalidità."
 }
@@ -6015,7 +6015,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "green",
   "description": "Proponiamo un aumento del valore e della platea dei beneficiari della “quattordicesima” per rafforzare la tutela dei pensionati e delle pensionate di fronte al carovita."
 }
@@ -6029,7 +6029,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Evitare che si realizzi la digitalizzazione dell’identità del\ncittadino anche attraverso strumenti di controllo come il\nGreen Pass e l’obbligo vaccinale."
 }
@@ -6043,7 +6043,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
@@ -6057,7 +6057,7 @@
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
-  "list_id": 13,
+  "list_id": 11,
   "endorsement": "red",
   "description": "Evitare che si realizzi la digitalizzazione dell’identità del\ncittadino anche attraverso strumenti di controllo come il\nGreen Pass e l’obbligo vaccinale."
 }
@@ -6071,7 +6071,7 @@
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
-  "list_id": 10,
+  "list_id": 5,
   "endorsement": "grey",
   "description": ""
 }
