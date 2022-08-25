@@ -16,8 +16,7 @@ src <- read_csv(here("data/sources.csv"))
 
 # removing useless columns
 src <- src %>%
-    rename(list_id = id,
-        source = title,
+    rename(source = title,
         source_slug = slug) %>%
     select(source, source_slug, list, list_id)
 
