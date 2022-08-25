@@ -34,23 +34,23 @@ id,subject,subject_slug,url
 33,Taglio tasse partite IVA,taglio-tasse-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
 34,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
 35,Libri di testo gratuiti,libri-di-testo-gratuiti,
-36,Trasporto scolastio gratuito,trasporto-scolastio-gratuito,
+36,Trasporto scolastio gratuito,trasporto-scolastio-gratuito,https://it.wikipedia.org/wiki/Scuolabus
 37,Più attività extrascolastiche,pi-attivit-extrascolastiche,
 38,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,
 39,Mense scolastiche gratuite,mense-scolastiche-gratuite,
-40,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,
+40,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo
 41,Maggiore sostegno per disabili,maggiore-sostegno-per-disabili,
 42,Stop bocciature,stop-bocciature,
-43,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,
-44,Eliminazione del precariato,eliminazione-del-precariato,
-45,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,
+43,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
+44,Eliminazione del precariato,eliminazione-del-precariato,https://it.wikipedia.org/wiki/Precariato
+45,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,https://it.wikipedia.org/wiki/Docente_in_Italia
 46,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,
-47,Corsi universitari STEM,corsi-universitari-stem,
+47,Corsi universitari STEM,corsi-universitari-stem,https://it.wikipedia.org/wiki/STEM
 48,Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,maggiori-investimenti-per-aiutare-i-giovani-laureatie-a-rimanere-in-italia,
 49,BUONO SCUOLA o dote scuola,buono-scuola-o-dote-scuola,
-50,Scuole private,scuole-private,
+50,Scuole private,scuole-private,https://it.wikipedia.org/wiki/Scuola_privata
 51,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,
-52,Abolizione legge Gelmini,abolizione-legge-gelmini,
+52,Abolizione legge Gelmini,abolizione-legge-gelmini,https://it.wikipedia.org/wiki/Riforma_Gelmini
 53,Internet gratuito per studenti/sse,internet-gratuito-per-studentisse,
 54,Abolizione libri stampati,abolizione-libri-stampati,
 55,Insegnamento inglese asili,insegnamento-inglese-asili,
@@ -59,6 +59,38 @@ id,subject,subject_slug,url
 58,Insegnamento gratuito di italiano per stranieri,insegnamento-gratuito-di-italiano-per-stranieri,
 59,Integrazione università-aziende,integrazione-universitaziende,
 60,Sviluppo strutture accoglienza studenti,sviluppo-strutture-accoglienza-studenti,
-61,Didattica a distanza garantita,didattica-a-distanza-garantita,
-62,Educazione sessuale,educazione-sessuale,
-63,Istituzione giornata contro l’omofobia,istituzione-giornata-contro-lomofobia,
+61,Didattica a distanza garantita,didattica-a-distanza-garantita,https://it.wikipedia.org/wiki/Didattica_a_distanza
+62,Educazione sessuale,educazione-sessuale,https://it.wikipedia.org/wiki/Educazione_sessuale
+63,Istituzione giornata contro l’omofobia,istituzione-giornata-contro-lomofobia,"https://it.wikipedia.org/wiki/Giornata_internazionale_contro_l%27omofobia,_la_bifobia_e_la_transfobia"
+64,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,
+65,Garante nazionale del Benessere Animale,garante-nazionale-del-benessere-animale,
+66,Agevolazione mutui giovani,agevolazione-mutui-giovani,
+67,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
+68,Investimento su politiche sportive,investimento-su-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
+69,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro
+70,Aumento offerta asili nido,aumento-offerta-asili-nido,https://it.wikipedia.org/wiki/Asilo_nido
+71,Promuovere lavoro agile,promuovere-lavoro-agile,https://www.lavoro.gov.it/strumenti-e-servizi/smart-working/Pagine/default.aspx
+72,Promuovere parità di genere,promuovere-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
+73,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
+74,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,
+75,Favorire riscatto della laurea,favorire-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
+76,Legge fine vita,legge-fine-vita,
+77,Legalizzazione Cannabis,legalizzazione-cannabis,
+78,Voto fuorisede,voto-fuorisede,
+79,Abbassare IRAP,abbassare-irap,https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive
+80,Promuovere Made in Italy,promuovere-made-in-italy,https://it.wikipedia.org/wiki/Made_in_Italy
+81,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,
+82,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,
+83,Autonomia differenziata,autonomia-differenziata,https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html
+84,Riduzione pressione fiscale,riduzione-pressione-fiscale,https://it.wikipedia.org/wiki/Pressione_fiscale_legale
+85,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,https://it.wikipedia.org/wiki/Tariffe_del_gas
+86,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
+87,Adesione alla NATO,adesione-alla-nato,https://it.wikipedia.org/wiki/NATO
+88,Adesione al'UE,adesione-alue,https://it.wikipedia.org/wiki/Unione_europea
+89,Adesione all'ONU,adesione-allonu,https://it.wikipedia.org/wiki/Organizzazione_delle_Nazioni_Unite
+90,Contrasto evasione fiscale,contrasto-evasione-fiscale,
+91,Reddito di maternità,reddito-di-maternit,
+92,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,
+93,Aumento pensioni,aumento-pensioni,
+94,Green Pass,green-pass,
+95,Obbligo Vaccinale,obbligo-vaccinale,

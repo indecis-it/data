@@ -413,4 +413,208 @@
   "category": "Valori e diritti",
   "category_id": 11
 }
+,{
+  "subject": "Tutela ambiente e paesaggio",
+  "subject_id": 64,
+  "category": "Protezione ambientale",
+  "category_id": 5
+}
+,{
+  "subject": "Garante nazionale del Benessere Animale",
+  "subject_id": 65,
+  "category": "Protezione ambientale",
+  "category_id": 5
+}
+,{
+  "subject": "Agevolazione mutui giovani",
+  "subject_id": 66,
+  "category": "Servizi abitativi e comunitari",
+  "category_id": 6
+}
+,{
+  "subject": "Garante nazionale del Benessere Animale",
+  "subject_id": 65,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Legge fine vita",
+  "subject_id": 76,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Sviluppare servizi sanitari di prossimità",
+  "subject_id": 67,
+  "category": "Salute",
+  "category_id": 7
+}
+,{
+  "subject": "Investimento su politiche sportive",
+  "subject_id": 68,
+  "category": "Salute",
+  "category_id": 7
+}
+,{
+  "subject": "Promuovere sicurezza sul lavoro",
+  "subject_id": 69,
+  "category": "Salute",
+  "category_id": 7
+}
+,{
+  "subject": "Aumento offerta asili nido",
+  "subject_id": 70,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Promuovere lavoro agile",
+  "subject_id": 71,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Promuovere parità di genere",
+  "subject_id": 72,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Promuovere Istituti Tecnici Superiori",
+  "subject_id": 73,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Sostegno per universitari fuori sede",
+  "subject_id": 74,
+  "category": "Formazione scolastica",
+  "category_id": 9
+}
+,{
+  "subject": "Legalizzazione Cannabis",
+  "subject_id": 77,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Legalizzazione Cannabis",
+  "subject_id": 77,
+  "category": "Ricreazione, cultura e religione",
+  "category_id": 8
+}
+,{
+  "subject": "Voto fuorisede",
+  "subject_id": 78,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Favorire riscatto della laurea",
+  "subject_id": 75,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Abbassare IRAP",
+  "subject_id": 79,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Promuovere Made in Italy",
+  "subject_id": 80,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Aumentare poteri e risorse dei piccoli comuni",
+  "subject_id": 81,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Investimenti per il Mezzogiorno",
+  "subject_id": 82,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Autonomia differenziata",
+  "subject_id": 83,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Riduzione pressione fiscale",
+  "subject_id": 84,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Tetto al prezzo del gas",
+  "subject_id": 85,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Favorire creazione delle comunità energetiche",
+  "subject_id": 86,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Adesione alla NATO",
+  "subject_id": 87,
+  "category": "Difesa",
+  "category_id": 2
+}
+,{
+  "subject": "Adesione al'UE",
+  "subject_id": 88,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Adesione all'ONU",
+  "subject_id": 89,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Contrasto evasione fiscale",
+  "subject_id": 90,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Reddito di maternità",
+  "subject_id": 91,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Sostegno piccole e medie imprese",
+  "subject_id": 92,
+  "category": "Affari economici",
+  "category_id": 4
+}
+,{
+  "subject": "Aumento pensioni",
+  "subject_id": 93,
+  "category": "Protezione sociale",
+  "category_id": 10
+}
+,{
+  "subject": "Green Pass",
+  "subject_id": 94,
+  "category": "Salute",
+  "category_id": 7
+}
+,{
+  "subject": "Obbligo Vaccinale",
+  "subject_id": 95,
+  "category": "Salute",
+  "category_id": 7
+}
 ]

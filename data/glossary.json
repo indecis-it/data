@@ -213,7 +213,7 @@
   "id": 36,
   "subject": "Trasporto scolastio gratuito",
   "subject_slug": "trasporto-scolastio-gratuito",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Scuolabus"
 }
 ,{
   "id": 37,
@@ -237,7 +237,7 @@
   "id": 40,
   "subject": "Sostegno psicologico scolastico",
   "subject_slug": "sostegno-psicologico-scolastico",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Psicologo"
 }
 ,{
   "id": 41,
@@ -255,19 +255,19 @@
   "id": 43,
   "subject": "Più meritocrazia a scuola e nei concorsi",
   "subject_slug": "pi-meritocrazia-a-scuola-e-nei-concorsi",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Meritocrazia"
 }
 ,{
   "id": 44,
   "subject": "Eliminazione del precariato",
   "subject_slug": "eliminazione-del-precariato",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Precariato"
 }
 ,{
   "id": 45,
   "subject": "Investimenti per la formazione dei docenti",
   "subject_slug": "investimenti-per-la-formazione-dei-docenti",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Docente_in_Italia"
 }
 ,{
   "id": 46,
@@ -279,7 +279,7 @@
   "id": 47,
   "subject": "Corsi universitari STEM",
   "subject_slug": "corsi-universitari-stem",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/STEM"
 }
 ,{
   "id": 48,
@@ -297,7 +297,7 @@
   "id": 50,
   "subject": "Scuole private",
   "subject_slug": "scuole-private",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Scuola_privata"
 }
 ,{
   "id": 51,
@@ -309,7 +309,7 @@
   "id": 52,
   "subject": "Abolizione legge Gelmini",
   "subject_slug": "abolizione-legge-gelmini",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Riforma_Gelmini"
 }
 ,{
   "id": 53,
@@ -363,18 +363,210 @@
   "id": 61,
   "subject": "Didattica a distanza garantita",
   "subject_slug": "didattica-a-distanza-garantita",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Didattica_a_distanza"
 }
 ,{
   "id": 62,
   "subject": "Educazione sessuale",
   "subject_slug": "educazione-sessuale",
-  "url": ""
+  "url": "https://it.wikipedia.org/wiki/Educazione_sessuale"
 }
 ,{
   "id": 63,
   "subject": "Istituzione giornata contro l’omofobia",
   "subject_slug": "istituzione-giornata-contro-lomofobia",
+  "url": "https://it.wikipedia.org/wiki/Giornata_internazionale_contro_l%27omofobia,_la_bifobia_e_la_transfobia"
+}
+,{
+  "id": 64,
+  "subject": "Tutela ambiente e paesaggio",
+  "subject_slug": "tutela-ambiente-e-paesaggio",
+  "url": ""
+}
+,{
+  "id": 65,
+  "subject": "Garante nazionale del Benessere Animale",
+  "subject_slug": "garante-nazionale-del-benessere-animale",
+  "url": ""
+}
+,{
+  "id": 66,
+  "subject": "Agevolazione mutui giovani",
+  "subject_slug": "agevolazione-mutui-giovani",
+  "url": ""
+}
+,{
+  "id": 67,
+  "subject": "Sviluppare servizi sanitari di prossimità",
+  "subject_slug": "sviluppare-servizi-sanitari-di-prossimit",
+  "url": "https://it.wikipedia.org/wiki/Azienda_sanitaria_locale"
+}
+,{
+  "id": 68,
+  "subject": "Investimento su politiche sportive",
+  "subject_slug": "investimento-su-politiche-sportive",
+  "url": "https://www.miur.gov.it/politiche-sportive-scolastiche"
+}
+,{
+  "id": 69,
+  "subject": "Promuovere sicurezza sul lavoro",
+  "subject_slug": "promuovere-sicurezza-sul-lavoro",
+  "url": "https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro"
+}
+,{
+  "id": 70,
+  "subject": "Aumento offerta asili nido",
+  "subject_slug": "aumento-offerta-asili-nido",
+  "url": "https://it.wikipedia.org/wiki/Asilo_nido"
+}
+,{
+  "id": 71,
+  "subject": "Promuovere lavoro agile",
+  "subject_slug": "promuovere-lavoro-agile",
+  "url": "https://www.lavoro.gov.it/strumenti-e-servizi/smart-working/Pagine/default.aspx"
+}
+,{
+  "id": 72,
+  "subject": "Promuovere parità di genere",
+  "subject_slug": "promuovere-parit-di-genere",
+  "url": "https://it.wikipedia.org/wiki/Uguaglianza_di_genere"
+}
+,{
+  "id": 73,
+  "subject": "Promuovere Istituti Tecnici Superiori",
+  "subject_slug": "promuovere-istituti-tecnici-superiori",
+  "url": "https://www.miur.gov.it/tematica-its"
+}
+,{
+  "id": 74,
+  "subject": "Sostegno per universitari fuori sede",
+  "subject_slug": "sostegno-per-universitari-fuori-sede",
+  "url": ""
+}
+,{
+  "id": 75,
+  "subject": "Favorire riscatto della laurea",
+  "subject_slug": "favorire-riscatto-della-laurea",
+  "url": "https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati"
+}
+,{
+  "id": 76,
+  "subject": "Legge fine vita",
+  "subject_slug": "legge-fine-vita",
+  "url": ""
+}
+,{
+  "id": 77,
+  "subject": "Legalizzazione Cannabis",
+  "subject_slug": "legalizzazione-cannabis",
+  "url": ""
+}
+,{
+  "id": 78,
+  "subject": "Voto fuorisede",
+  "subject_slug": "voto-fuorisede",
+  "url": ""
+}
+,{
+  "id": 79,
+  "subject": "Abbassare IRAP",
+  "subject_slug": "abbassare-irap",
+  "url": "https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive"
+}
+,{
+  "id": 80,
+  "subject": "Promuovere Made in Italy",
+  "subject_slug": "promuovere-made-in-italy",
+  "url": "https://it.wikipedia.org/wiki/Made_in_Italy"
+}
+,{
+  "id": 81,
+  "subject": "Aumentare poteri e risorse dei piccoli comuni",
+  "subject_slug": "aumentare-poteri-e-risorse-dei-piccoli-comuni",
+  "url": ""
+}
+,{
+  "id": 82,
+  "subject": "Investimenti per il Mezzogiorno",
+  "subject_slug": "investimenti-per-il-mezzogiorno",
+  "url": ""
+}
+,{
+  "id": 83,
+  "subject": "Autonomia differenziata",
+  "subject_slug": "autonomia-differenziata",
+  "url": "https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html"
+}
+,{
+  "id": 84,
+  "subject": "Riduzione pressione fiscale",
+  "subject_slug": "riduzione-pressione-fiscale",
+  "url": "https://it.wikipedia.org/wiki/Pressione_fiscale_legale"
+}
+,{
+  "id": 85,
+  "subject": "Tetto al prezzo del gas",
+  "subject_slug": "tetto-al-prezzo-del-gas",
+  "url": "https://it.wikipedia.org/wiki/Tariffe_del_gas"
+}
+,{
+  "id": 86,
+  "subject": "Favorire creazione delle comunità energetiche",
+  "subject_slug": "favorire-creazione-delle-comunit-energetiche",
+  "url": "https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile"
+}
+,{
+  "id": 87,
+  "subject": "Adesione alla NATO",
+  "subject_slug": "adesione-alla-nato",
+  "url": "https://it.wikipedia.org/wiki/NATO"
+}
+,{
+  "id": 88,
+  "subject": "Adesione al'UE",
+  "subject_slug": "adesione-alue",
+  "url": "https://it.wikipedia.org/wiki/Unione_europea"
+}
+,{
+  "id": 89,
+  "subject": "Adesione all'ONU",
+  "subject_slug": "adesione-allonu",
+  "url": "https://it.wikipedia.org/wiki/Organizzazione_delle_Nazioni_Unite"
+}
+,{
+  "id": 90,
+  "subject": "Contrasto evasione fiscale",
+  "subject_slug": "contrasto-evasione-fiscale",
+  "url": ""
+}
+,{
+  "id": 91,
+  "subject": "Reddito di maternità",
+  "subject_slug": "reddito-di-maternit",
+  "url": ""
+}
+,{
+  "id": 92,
+  "subject": "Sostegno piccole e medie imprese",
+  "subject_slug": "sostegno-piccole-e-medie-imprese",
+  "url": ""
+}
+,{
+  "id": 93,
+  "subject": "Aumento pensioni",
+  "subject_slug": "aumento-pensioni",
+  "url": ""
+}
+,{
+  "id": 94,
+  "subject": "Green Pass",
+  "subject_slug": "green-pass",
+  "url": ""
+}
+,{
+  "id": 95,
+  "subject": "Obbligo Vaccinale",
+  "subject_slug": "obbligo-vaccinale",
   "url": ""
 }
 ]
