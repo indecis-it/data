@@ -479,13 +479,13 @@ resources:
     encoding: utf-8
     format: json
     hashing: md5
-  - path: data/items.json
-    name: items-json-version
-    dialect:
-      keyed: true
-    encoding: utf-8
-    format: json
-    hashing: md5
+#  - path: data/items.json
+#    name: items-json-version
+#    dialect:
+#      keyed: true
+#    encoding: utf-8
+#    format: json
+#    hashing: md5
   - path: data/lists.json
     name: lists-json-version
     dialect:
@@ -502,6 +502,20 @@ resources:
     hashing: md5
   - path: data/sources.json
     name: sources-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/leaders.json
+    name: leaders-json-version
+    dialect:
+      keyed: true
+    encoding: utf-8
+    format: json
+    hashing: md5
+  - path: data/new_items.json
+    name: new_items-json-version
     dialect:
       keyed: true
     encoding: utf-8
