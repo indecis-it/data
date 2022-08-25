@@ -1,9 +1,9 @@
 # indecis.it data
 [![Frictionless](https://github.com/indecis-it/data/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=indecis-it&repo=data&flow=frictionless) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> 
 
-## ⚠️ WIP
-- link allo sheet https://docs.google.com/spreadsheets/d/13YKVLtayxu0m2keOi1KHsLJqoshc9P279RLJ_sdhnAk/edit#gid=734919268
-- link al sito http://indecis.it/
+This dataset was created during the italian election campaign of 2022. [indecis.it](https://www.indecis.it) website fetches and display these data in order to highlight differences in electoral programs.
+
+Data are downloaded from this [Google Sheet](https://docs.google.com/spreadsheets/d/13YKVLtayxu0m2keOi1KHsLJqoshc9P279RLJ_sdhnAk/edit#gid=734919268) and are available thanks to [these wonderful people](https://github.com/indecis-it/indecis.it#il-team).
 
 ## Repository structure
 ```
@@ -20,7 +20,9 @@ root
 └── 📄 LICENSE
 ```
 
-## Data dictionary
+## Data dictionary and metadata
+
+Every file in `data` folder is described according to [frictionless data standards](https://frictionlessdata.io/standards/) in the [`datapackage.yaml`](https://github.com/indecis-it/data/blob/main/datapackage.yaml)
 
 ### [📄 categories.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv)
 
