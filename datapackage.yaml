@@ -2,14 +2,20 @@
 # metadata: categories.csv coalitions.csv endorsements.csv glossary.csv items.csv lists.csv parties.csv sources.csv
 # --------
 
-name: indecis-it
-title: blabla
-description: blabla
+name: indecis.it
+title: indecis.it dataset
+homepage: https://www.indecis.it
+description: This dataset was created during the italian election campaign of 2022. indecis.it website fetches and display these data in order to highlight differences in electoral programs.
+temporal:
+  start: '2022-08-25'
+  end: '2022-09-25'
 contributors:
   - title: Chiara Adornetto
     email: chiara.adornetto@tiscali.it
   - title: Dennis Angemi
     email: dennisangemi@gmail.com
+  - title: Moreno Colaiacovo
+    email: moreno.colaiacovo@gmail.com
   - title: Angelo Gulina
     email: gulina.angelo@gmail.com
   - title: Vittorio Nicoletta
@@ -20,8 +26,8 @@ licenses:
   - name: CC-BY-4.0
     title: Creative Commons Attribution 4.0
     path: https://creativecommons.org/licenses/by/4.0/
+profile: data-package
 resources:
-
   - path: data/categories.csv
     name: categories
     profile: tabular-data-resource
@@ -33,18 +39,30 @@ resources:
       fields:
         - name: id
           type: integer
+          title: Category ID
         - name: slug
           type: string
+          title: Category slug
         - name: source
           type: string
+          title: Source
+          description: Source of the classification
         - name: name_en
           type: string
+          title: English name
+          description: English name of the category
         - name: description_en
           type: string
+          title: English description
+          description: English description of the category
         - name: name_it
           type: string
+          title: Italian name
+          description: Italian name of the category
         - name: description_it
           type: string
+          title: Italian description
+          description: Italian description of the category
   - path: data/coalitions.csv
     name: coalitions
     profile: tabular-data-resource
@@ -55,8 +73,10 @@ resources:
     schema:
       fields:
         - name: id
+          title: Coalition ID
           type: integer
         - name: coalition
+          title: Coalition name
           type: string 
   - path: data/endorsements.csv
     name: endorsements
@@ -68,12 +88,19 @@ resources:
     schema:
       fields:
         - name: id
+          title: Endorsement ID
           type: integer
         - name: description
+          title: Endorsement description
+          description: Description of endorsement types
           type: string
         - name: icon
+          title: Icon
+          description: Color of the icon to display
           type: string
         - name: color_code
+          title: Color code
+          description: HEX code
           type: string
   - path: data/glossary.csv
     name: glossary
@@ -85,12 +112,16 @@ resources:
     schema:
       fields:
         - name: id
+          title: Subject ID
           type: integer
         - name: subject
+          title: Subject name
           type: string
         - name: subject_slug
+          title: Subject slug
           type: string
         - name: url
+          description: URL of an external reference 
           type: string
           format: uri
   - path: data/new_items.csv
@@ -103,26 +134,39 @@ resources:
     schema:
       fields:
         - name: id
+          title: Item ID
           type: integer
         - name: category
+          title: Category name
+          description: Category name in Italian
           type: string
         - name: category_id
+          title: Category ID
           type: integer
         - name: subject
+          title: Subject name
           type: string
         - name: subject_slug
+          title: Subject slug
           type: string
         - name: subject_id
+          title: Subject ID
           type: integer
         - name: source
+          title: Source title
           type: string
         - name: source_slug
+          title: Source slug
           type: string
         - name: list
+          title: Electoral list name
           type: string
         - name: list_id
+          title: Electoral list ID
           type: integer
         - name: endorsement
+          title: Endorsement
+          description: Endorsement referred to the subject. See endorsements file for more information.
           type: string
           constraints:
             enum:
@@ -131,6 +175,7 @@ resources:
               - red
               - grey
         - name: description
+          description: Description of the position taken by the list
           type: string
       foreignKeys:
         - fields:
@@ -265,14 +310,22 @@ resources:
     schema:
       fields:
         - name: id
+          title: List ID
+          description: Electoral list ID
           type: integer
         - name: list
+          title: List name
+          description: Electoral list name
           type: string
         - name: slug
+          title: List slug
+          description: Electoral list slug
           type: string
         - name: symbol_name
+          title: Symbol filename
           type: string
         - name: symbol_url
+          title: Symbol URL
           type: string
           format: uri
   - path: data/parties.csv
@@ -285,16 +338,24 @@ resources:
     schema:
       fields:
         - name: id
+          title: Party ID
           type: integer
         - name: party
+          title: Party name
           type: string
         - name: list_id
+          title: List ID
+          description: Electoral list ID
           type: integer
         - name: list
+          title: List name
+          description: Electoral list name
           type: string
         - name: coalition_id
+          title: Coalition ID
           type: integer
         - name: coalition
+          title: Coalition name
           type: string
   - path: data/sources.csv
     name: sources
@@ -306,16 +367,23 @@ resources:
     schema:
       fields:
         - name: id
+          title: Source ID
           type: integer
         - name: list
+          title: List name
+          description: Electoral list name
           type: string
         - name: title
+          title: Source title
           type: string
         - name: slug
+          title: Source slug
           type: string
         - name: type
+          title: Source type
           type: string
         - name: url
+          title: Source URL
           type: string
           format: uri
   - path: data/categories.json
@@ -374,5 +442,4 @@ resources:
     encoding: utf-8
     format: json
     hashing: md5
-profile: data-package
 
