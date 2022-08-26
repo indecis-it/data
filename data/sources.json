@@ -163,10 +163,28 @@
 }
 ,{
   "id": 19,
-  "title": "Tweet APLI",
-  "slug": "tweet-apli",
+  "title": "Tweet APLI 25 agosto 2022",
+  "slug": "tweet-apli-25-agosto-2022",
   "type": "tweet",
   "url": "https://twitter.com/APLI_Italia/status/1562788640018743308",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11
+}
+,{
+  "id": 20,
+  "title": "Tweet APLI 13 agosto 2022",
+  "slug": "tweet-apli-13-agosto-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/APLI_Italia/status/1558502078921773057",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11
+}
+,{
+  "id": 21,
+  "title": "Tweet Adinolfi 24 agosto 2022",
+  "slug": "tweet-adinolfi-24-agosto-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/marioadinolfi/status/1562436770045693958",
   "list": "Alternativa Per l'Italia",
   "list_id": 11
 }

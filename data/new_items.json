@@ -5004,6 +5004,20 @@
   "subject": "Legge fine vita",
   "subject_slug": "legge-fine-vita",
   "subject_id": 76,
+  "source": "Tweet APLI 25 agosto 2022",
+  "source_slug": "tweet-apli-25-agosto-2022",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "Difesa della vita. Contro la cultura della morte e la legalizzazione dell'omicidio."
+}
+,{
+  "id": 359,
+  "category": "Valori e diritti",
+  "category_id": 11,
+  "subject": "Legge fine vita",
+  "subject_slug": "legge-fine-vita",
+  "subject_id": 76,
   "source": "Programma elettorale PD",
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
@@ -5012,7 +5026,7 @@
   "description": "Approveremo una legge sul fine vita, per difendere fino all’ultimo dignità e autodeterminazione, in linea con le indicazioni della Corte Costituzionale."
 }
 ,{
-  "id": 359,
+  "id": 360,
   "category": "Salute",
   "category_id": 7,
   "subject": "Sviluppare servizi sanitari di prossimità",
@@ -5026,7 +5040,7 @@
   "description": ""
 }
 ,{
-  "id": 360,
+  "id": 361,
   "category": "Salute",
   "category_id": 7,
   "subject": "Sviluppare servizi sanitari di prossimità",
@@ -5040,7 +5054,7 @@
   "description": "Dobbiamo sviluppare i servizi sanitari di prossimità e prevenzione"
 }
 ,{
-  "id": 361,
+  "id": 362,
   "category": "Salute",
   "category_id": 7,
   "subject": "Sviluppare servizi sanitari di prossimità",
@@ -5054,7 +5068,7 @@
   "description": "Investiremo sulle Case della Comunità come modello in grado di farsi prossimo alle esigenze di tutta la popolazione, in un’ottica di prossimità e multidisciplinarietà."
 }
 ,{
-  "id": 362,
+  "id": 363,
   "category": "Salute",
   "category_id": 7,
   "subject": "Investimento su politiche sportive",
@@ -5068,7 +5082,7 @@
   "description": ""
 }
 ,{
-  "id": 363,
+  "id": 364,
   "category": "Salute",
   "category_id": 7,
   "subject": "Investimento su politiche sportive",
@@ -5082,7 +5096,7 @@
   "description": "Importantissimo, nella prevenzione e promozione della salute, l'investimento sulle politiche sportive"
 }
 ,{
-  "id": 364,
+  "id": 365,
   "category": "Salute",
   "category_id": 7,
   "subject": "Investimento su politiche sportive",
@@ -5096,7 +5110,7 @@
   "description": "Vogliamo investire nello sport e nella cultura come strumenti in grado di creare apertura, superamento degli stereotipi di genere, benessere condiviso, nuovi spazi di socialità e nuove occasioni di realizzazione personale. Vogliamo costruire una nuova cultura della legalità, che faccia della lotta alle mafie e alla criminalità organizzata una priorità."
 }
 ,{
-  "id": 365,
+  "id": 366,
   "category": "Salute",
   "category_id": 7,
   "subject": "Promuovere sicurezza sul lavoro",
@@ -5110,7 +5124,7 @@
   "description": ""
 }
 ,{
-  "id": 366,
+  "id": 367,
   "category": "Salute",
   "category_id": 7,
   "subject": "Promuovere sicurezza sul lavoro",
@@ -5124,7 +5138,7 @@
   "description": "Fare in modo che il posto di lavoro sia un luogo sicuro per tutte le lavoratrici e i lavoratori del nostro Paese firmando nuovi accordi con le imprese e incentivando la cultura della sicurezza."
 }
 ,{
-  "id": 367,
+  "id": 368,
   "category": "Salute",
   "category_id": 7,
   "subject": "Promuovere sicurezza sul lavoro",
@@ -5138,7 +5152,7 @@
   "description": "Tali criticità incidono inoltre notevolmente sulla sicurezza, perché condizioni non dignitose e salari bassi creano un lavoro insicuro. Non a caso gli incidenti sul lavoro, dai più lievi sino alle drammatiche morti bianche, sono sempre numerosissimi."
 }
 ,{
-  "id": 368,
+  "id": 369,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Aumento offerta asili nido",
@@ -5152,7 +5166,7 @@
   "description": ""
 }
 ,{
-  "id": 369,
+  "id": 370,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Aumento offerta asili nido",
@@ -5166,7 +5180,7 @@
   "description": "...l'offerta dei servizi, come gli asili nido, che rendono la natalità compatibile con l'impegno lavorativo sono la base su cui iniziare a costruire."
 }
 ,{
-  "id": 370,
+  "id": 371,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Aumento offerta asili nido",
@@ -5180,7 +5194,7 @@
   "description": "Intendiamo quindi superare queste discriminazioni, rendendo gratuita e obbligatoria la scuola dell’infanzia nell’ambito del sistema integrato esistente e incrementarne il fondo nazionale, per garantire la progressiva gratuità dei servizi educativi 0-3 anni per i nuclei familiari a basso ISEE, con particolare attenzione all’offerta formativa nel Sud del Paese. Così vogliamo favorire l’uguaglianza già nei primi passi del percorso scolastico, assicurando per tutte e tutti pari opportunità di cura, relazione e gioco."
 }
 ,{
-  "id": 371,
+  "id": 372,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Promuovere lavoro agile",
@@ -5194,7 +5208,7 @@
   "description": ""
 }
 ,{
-  "id": 372,
+  "id": 373,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Promuovere lavoro agile",
@@ -5208,7 +5222,7 @@
   "description": "Occorre sostenere nelle imprese l'adozione di modelli organizzativi che valorizzino l'autonomia personale nella scelta dei tempi, dei luoghi e delle modalità di lavoro."
 }
 ,{
-  "id": 373,
+  "id": 374,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Promuovere lavoro agile",
@@ -5222,7 +5236,21 @@
   "description": "Approveremo una legge sulla co-genitorialità, per introdurre totale parità nei congedi di maternità e paternità e un nuovo congedo parentale anch’esso pienamente paritario, da affiancare a strumenti di flessibilità, come part time e lavoro agile di coppia agevolati."
 }
 ,{
-  "id": 374,
+  "id": 375,
+  "category": "Valori e diritti",
+  "category_id": 11,
+  "subject": "Promuovere parità di genere",
+  "subject_slug": "promuovere-parit-di-genere",
+  "subject_id": 72,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-l'italia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 376,
   "category": "Valori e diritti",
   "category_id": 11,
   "subject": "Promuovere parità di genere",
@@ -5236,7 +5264,7 @@
   "description": "Occorre inoltre rafforzare la normativa per raggiungere in un tempo ragionevole la parità di genere nelle nomine pubbliche"
 }
 ,{
-  "id": 375,
+  "id": 377,
   "category": "Valori e diritti",
   "category_id": 11,
   "subject": "Promuovere parità di genere",
@@ -5250,7 +5278,7 @@
   "description": "Il nostro obiettivo parità di genere toccherà numerosi temi: il contrasto alla violenza di genere, evitando l’affidamento dei figli ai genitori violenti e superando definitivamente ogni riferimento all’a-scientifica sindrome di alienazione parentale (PAS); la tutela della salute a 360 gradi, anche nelle aree oggi trascurate, a partire dal supporto post-partum e dalla presa in carico delle malattie croniche e invalidanti femminili come endometriosi o vulvodinia; il pieno riconoscimento dei diritti sessuali e riproduttivi delle donne, garantendo l’applicazione della legge 194/1978 in ogni sua parte sull’intero territorio nazionale e rafforzando la rete di consultori."
 }
 ,{
-  "id": 376,
+  "id": 378,
   "category": "Formazione scolastica",
   "category_id": 9,
   "subject": "Promuovere Istituti Tecnici Superiori",
@@ -5264,7 +5292,7 @@
   "description": ""
 }
 ,{
-  "id": 377,
+  "id": 379,
   "category": "Formazione scolastica",
   "category_id": 9,
   "subject": "Promuovere Istituti Tecnici Superiori",
@@ -5278,7 +5306,7 @@
   "description": "Gli ITS devono diventare un percorso verso l'eccellenza."
 }
 ,{
-  "id": 378,
+  "id": 380,
   "category": "Formazione scolastica",
   "category_id": 9,
   "subject": "Promuovere Istituti Tecnici Superiori",
@@ -5292,7 +5320,7 @@
   "description": ""
 }
 ,{
-  "id": 379,
+  "id": 381,
   "category": "Formazione scolastica",
   "category_id": 9,
   "subject": "Sostegno per universitari fuori sede",
@@ -5306,7 +5334,7 @@
   "description": ""
 }
 ,{
-  "id": 380,
+  "id": 382,
   "category": "Formazione scolastica",
   "category_id": 9,
   "subject": "Sostegno per universitari fuori sede",
@@ -5320,7 +5348,7 @@
   "description": "I giovani universitari devono poter contare, oltre che sulle borse di studio, su un sostegno per i fuori sede."
 }
 ,{
-  "id": 381,
+  "id": 383,
   "category": "Formazione scolastica",
   "category_id": 9,
   "subject": "Sostegno per universitari fuori sede",
@@ -5334,37 +5362,9 @@
   "description": ""
 }
 ,{
-  "id": 382,
-  "category": "Valori e diritti",
-  "category_id": 11,
-  "subject": "Legalizzazione Cannabis",
-  "subject_slug": "legalizzazione-cannabis",
-  "subject_id": 77,
-  "source": "Programma elettorale Alternativa Per l'Italia",
-  "source_slug": "programma-elettorale-alternativa-per-l'italia",
-  "list": "Alternativa Per l'Italia",
-  "list_id": 11,
-  "endorsement": "grey",
-  "description": ""
-}
-,{
-  "id": 383,
-  "category": "Valori e diritti",
-  "category_id": 11,
-  "subject": "Legalizzazione Cannabis",
-  "subject_slug": "legalizzazione-cannabis",
-  "subject_id": 77,
-  "source": "Programma elettorale PD",
-  "source_slug": "programma-elettorale-pd",
-  "list": "Partito Democratico",
-  "list_id": 5,
-  "endorsement": "green",
-  "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
-}
-,{
   "id": 384,
-  "category": "Ricreazione, cultura e religione",
-  "category_id": 8,
+  "category": "Valori e diritti",
+  "category_id": 11,
   "subject": "Legalizzazione Cannabis",
   "subject_slug": "legalizzazione-cannabis",
   "subject_id": 77,
@@ -5377,6 +5377,34 @@
 }
 ,{
   "id": 385,
+  "category": "Valori e diritti",
+  "category_id": 11,
+  "subject": "Legalizzazione Cannabis",
+  "subject_slug": "legalizzazione-cannabis",
+  "subject_id": 77,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
+}
+,{
+  "id": 386,
+  "category": "Ricreazione, cultura e religione",
+  "category_id": 8,
+  "subject": "Legalizzazione Cannabis",
+  "subject_slug": "legalizzazione-cannabis",
+  "subject_id": 77,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-l'italia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 387,
   "category": "Ricreazione, cultura e religione",
   "category_id": 8,
   "subject": "Legalizzazione Cannabis",
@@ -5390,7 +5418,7 @@
   "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
 }
 ,{
-  "id": 386,
+  "id": 388,
   "category": "Valori e diritti",
   "category_id": 11,
   "subject": "Voto fuorisede",
@@ -5404,7 +5432,7 @@
   "description": ""
 }
 ,{
-  "id": 387,
+  "id": 389,
   "category": "Valori e diritti",
   "category_id": 11,
   "subject": "Voto fuorisede",
@@ -5418,7 +5446,7 @@
   "description": "Rafforzeremo la partecipazione delle ragazze e dei ragazzi alla vita politica del Paese, abbassando l'età del voto a 16 anni e istituendo una nuova legge per il voto fuorisede, rispettando i principi di integrità, segretezza e libertà del voto."
 }
 ,{
-  "id": 388,
+  "id": 390,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Favorire riscatto della laurea",
@@ -5432,7 +5460,7 @@
   "description": ""
 }
 ,{
-  "id": 389,
+  "id": 391,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Favorire riscatto della laurea",
@@ -5446,7 +5474,7 @@
   "description": "Bisogna implementare nuovi strumenti per favorire il riscatto della laurea."
 }
 ,{
-  "id": 390,
+  "id": 392,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Favorire riscatto della laurea",
@@ -5460,7 +5488,7 @@
   "description": ""
 }
 ,{
-  "id": 391,
+  "id": 393,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Abbassare IRAP",
@@ -5474,7 +5502,7 @@
   "description": ""
 }
 ,{
-  "id": 392,
+  "id": 394,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Abbassare IRAP",
@@ -5488,7 +5516,7 @@
   "description": "...abbassare le tasse a partire dall'IRAP"
 }
 ,{
-  "id": 393,
+  "id": 395,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Abbassare IRAP",
@@ -5502,7 +5530,7 @@
   "description": "L’IRAP va progressivamente superata, garantendo l’integrale finanziamento del fabbisogno del sistema sanitario e la partecipazione di tutti i redditi al finanziamento del welfare universale."
 }
 ,{
-  "id": 394,
+  "id": 396,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Promuovere Made in Italy",
@@ -5516,7 +5544,7 @@
   "description": ""
 }
 ,{
-  "id": 395,
+  "id": 397,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Promuovere Made in Italy",
@@ -5530,7 +5558,7 @@
   "description": "Il Made in Italy è fondamentale per lo sviluppo delle nostre imprese"
 }
 ,{
-  "id": 396,
+  "id": 398,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Promuovere Made in Italy",
@@ -5544,7 +5572,7 @@
   "description": ""
 }
 ,{
-  "id": 397,
+  "id": 399,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Aumentare poteri e risorse dei piccoli comuni",
@@ -5558,7 +5586,7 @@
   "description": ""
 }
 ,{
-  "id": 398,
+  "id": 400,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Aumentare poteri e risorse dei piccoli comuni",
@@ -5572,7 +5600,7 @@
   "description": "Bisogna avere riguardo dei piccoli comuni aumentandone poteri e risorse"
 }
 ,{
-  "id": 399,
+  "id": 401,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Aumentare poteri e risorse dei piccoli comuni",
@@ -5586,7 +5614,7 @@
   "description": "Vogliamo sostenere un Piano nazionale per il recupero e il rilancio dei Borghi italiani, contrastando lo spopolamento delle aree interne e prevedendo: esenzioni fiscali per le attività commerciali nei piccoli comuni; riqualificazione in chiave sostenibile dell’edilizia rurale storica; potenziamento del Piano nazionale Grandi progetti beni culturali; promozione internazionale della Capitale italiana della Cultura.\n\nCi impegniamo a dare attuazione al grande piano di assunzione nella PA, oltre il 2026, con clausole volte a favorire l’occupazione giovanile e femminile. Dobbiamo accelerare la costituzione di uno Sportello virtuale della PA - con la possibilità di prendere appuntamento e di collegarsi in videoconferenza con qualsiasi pubblica amministrazione - e la realizzazione di un ufficio associato per la trasformazione digitale dei piccoli comuni.\n\nCentrale nella nostra proposta è l’idea di territori in 30 minuti. I servizi di prossimità devono essere assicurati su tutto il territorio nazionale. Per questo, sosterremo l’apertura di 1.000 bar ed edicole multifunzione in 1.000 piccoli comuni, che offrano funzioni base affinché tutta Italia abbia accesso ai servizi di cittadinanza più importanti, integrandoli con il progetto “Polis - Case dei servizi di cittadinanza” finanziato dal PNRR."
 }
 ,{
-  "id": 400,
+  "id": 402,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Investimenti per il Mezzogiorno",
@@ -5600,7 +5628,7 @@
   "description": ""
 }
 ,{
-  "id": 401,
+  "id": 403,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Investimenti per il Mezzogiorno",
@@ -5614,7 +5642,7 @@
   "description": "Per il Sud deve nascere la Riserva nazionale dell'agricoltura e della ricerca industriale"
 }
 ,{
-  "id": 402,
+  "id": 404,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Investimenti per il Mezzogiorno",
@@ -5628,7 +5656,7 @@
   "description": "Vogliamo colmare le disuguaglianze territoriali investendo nel Mezzogiorno e nelle aree interne, perché è tutto il Paese a rallentare se alcune aree rimangono indietro. C’è una profonda interdipendenza economica che lega le aree del Paese. È tempo di liberare il potenziale di tutte le persone in tutti i luoghi."
 }
 ,{
-  "id": 403,
+  "id": 405,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Autonomia differenziata",
@@ -5642,7 +5670,7 @@
   "description": ""
 }
 ,{
-  "id": 404,
+  "id": 406,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Autonomia differenziata",
@@ -5656,7 +5684,7 @@
   "description": "L'autonomia differenziata non è una soluzione"
 }
 ,{
-  "id": 405,
+  "id": 407,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Autonomia differenziata",
@@ -5670,7 +5698,7 @@
   "description": ""
 }
 ,{
-  "id": 406,
+  "id": 408,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Riduzione pressione fiscale",
@@ -5684,7 +5712,7 @@
   "description": "Famiglie da sostenere anche con la riforma del fisco secondo il principio del quoziente familiare."
 }
 ,{
-  "id": 407,
+  "id": 409,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Riduzione pressione fiscale",
@@ -5698,7 +5726,7 @@
   "description": "Operare una riduzione e una razionalizzazione della pressione fiscale"
 }
 ,{
-  "id": 408,
+  "id": 410,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Riduzione pressione fiscale",
@@ -5712,7 +5740,7 @@
   "description": "La nostra proposta di riforma fiscale è volta a realizzare una riduzione del carico IRPEF, a partire dai redditi medi e bassi e una razionalizzazione delle agevolazioni fiscali, trasformando quelle di valenza sociale (spese sanitarie, scolastiche, etc.) in erogazioni dirette ai contribuenti, compresi gli incapienti."
 }
 ,{
-  "id": 409,
+  "id": 411,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Tetto al prezzo del gas",
@@ -5726,7 +5754,7 @@
   "description": ""
 }
 ,{
-  "id": 410,
+  "id": 412,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Tetto al prezzo del gas",
@@ -5740,7 +5768,7 @@
   "description": "Bisogna proseguire la politica di accordi internazionali di diversificazione delle fonti realizzata dal governo Draghi e ottenere il tetto al prezzo del gas russo"
 }
 ,{
-  "id": 411,
+  "id": 413,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Tetto al prezzo del gas",
@@ -5754,7 +5782,7 @@
   "description": ""
 }
 ,{
-  "id": 412,
+  "id": 414,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Favorire creazione delle comunità energetiche",
@@ -5768,7 +5796,7 @@
   "description": ""
 }
 ,{
-  "id": 413,
+  "id": 415,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Favorire creazione delle comunità energetiche",
@@ -5782,7 +5810,7 @@
   "description": "Favorire la creazione delle Comunità Energetiche"
 }
 ,{
-  "id": 414,
+  "id": 416,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Favorire creazione delle comunità energetiche",
@@ -5796,7 +5824,7 @@
   "description": "Introdurremo un piano nazionale per il risparmio energetico e interventi finalizzati ad aumentare drasticamente la quota di rinnovabili prodotte in Italia, anche attraverso lo sviluppo delle Comunità energetiche, con l'obiettivo di installare 85 GW di rinnovabili in più entro il 2030. Un obiettivo ambizioso ma realistico che porterà, secondo alcune stime, alla creazione di circa 500.000 nuovi posti di lavoro"
 }
 ,{
-  "id": 415,
+  "id": 417,
   "category": "Difesa",
   "category_id": 2,
   "subject": "Adesione alla NATO",
@@ -5810,7 +5838,7 @@
   "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
 }
 ,{
-  "id": 416,
+  "id": 418,
   "category": "Difesa",
   "category_id": 2,
   "subject": "Adesione alla NATO",
@@ -5824,7 +5852,7 @@
   "description": "...la nostra scelta convinta e irreversibile al Patto Atlantico"
 }
 ,{
-  "id": 417,
+  "id": 419,
   "category": "Difesa",
   "category_id": 2,
   "subject": "Adesione alla NATO",
@@ -5838,7 +5866,7 @@
   "description": "Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
 }
 ,{
-  "id": 418,
+  "id": 420,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Adesione al'UE",
@@ -5852,7 +5880,7 @@
   "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
 }
 ,{
-  "id": 419,
+  "id": 421,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Adesione al'UE",
@@ -5866,7 +5894,7 @@
   "description": "...costruzione di un'Unione Europea sempre più forte, democratica e coesa"
 }
 ,{
-  "id": 420,
+  "id": 422,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Adesione al'UE",
@@ -5880,7 +5908,7 @@
   "description": "Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
 }
 ,{
-  "id": 421,
+  "id": 423,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Adesione all'ONU",
@@ -5894,7 +5922,7 @@
   "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
 }
 ,{
-  "id": 422,
+  "id": 424,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Adesione all'ONU",
@@ -5908,7 +5936,7 @@
   "description": "Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
 }
 ,{
-  "id": 423,
+  "id": 425,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Contrasto evasione fiscale",
@@ -5922,7 +5950,7 @@
   "description": ""
 }
 ,{
-  "id": 424,
+  "id": 426,
   "category": "Servizi pubblici generali",
   "category_id": 1,
   "subject": "Contrasto evasione fiscale",
@@ -5936,7 +5964,7 @@
   "description": "Ridurre drasticamente l’evasione fiscale è un obiettivo chiave del nostro programma. Per accrescere la fedeltà dei contribuenti proponiamo di estendere la tracciabilità dei pagamenti, incrociare le banche dati, potenziare le Agenzie fiscali, premiare maggiormente i contribuenti leali, riformare la riscossione."
 }
 ,{
-  "id": 425,
+  "id": 427,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Reddito di maternità",
@@ -5950,7 +5978,7 @@
   "description": "Sostegno diretto alla natalità con il Reddito di Maternità,\nper contrastare il collasso delle strutture del welfare (sanità,\nistruzione, previdenza, assistenza) ormai prossimo con gli\nattuali tassi di fertilità."
 }
 ,{
-  "id": 426,
+  "id": 428,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Reddito di maternità",
@@ -5964,7 +5992,7 @@
   "description": ""
 }
 ,{
-  "id": 427,
+  "id": 429,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Sostegno piccole e medie imprese",
@@ -5978,7 +6006,7 @@
   "description": "Incentivo alla piccola e piccolissima impresa a conduzione\nfamiliare, in particolare per gli under 40 come modalità di\nautoimpiego e contrasto alla disoccupazione, rifiutando qualsiasi\nsostegno diretto o legislativo all’espansione di imprese\nmultinazionali ai danni delle imprese italiane."
 }
 ,{
-  "id": 428,
+  "id": 430,
   "category": "Affari economici",
   "category_id": 4,
   "subject": "Sostegno piccole e medie imprese",
@@ -5992,7 +6020,7 @@
   "description": "Tutti questi investimenti e altri interventi necessari per sostenere le transizioni, la crescita, le famiglie e le piccole e medie imprese non possono realizzarsi senza un solido sistema del credito. Su questo fronte è necessario difendere e rafforzare in sede europea tutte quelle disposizioni normative che incentivano la concessione del credito alle piccole e medie imprese, alle famiglie, alle infrastrutture materiali, immateriali e sociali. Il fattore di sostegno alle piccole e medie imprese e alle infrastrutture e la cessione del quinto sono stati provvedimenti fondamentali introdotti grazie al nostro impegno nella scorsa legislatura"
 }
 ,{
-  "id": 429,
+  "id": 431,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Aumento pensioni",
@@ -6006,7 +6034,7 @@
   "description": "Attenzione particolare agli\nanziani e ai disabili con innalzamento immediato\na 1.000 euro delle pensioni minime,\ndi vecchiaia e invalidità."
 }
 ,{
-  "id": 430,
+  "id": 432,
   "category": "Protezione sociale",
   "category_id": 10,
   "subject": "Aumento pensioni",
@@ -6020,40 +6048,12 @@
   "description": "Proponiamo un aumento del valore e della platea dei beneficiari della “quattordicesima” per rafforzare la tutela dei pensionati e delle pensionate di fronte al carovita."
 }
 ,{
-  "id": 431,
-  "category": "Salute",
-  "category_id": 7,
-  "subject": "Green Pass",
-  "subject_slug": "green-pass",
-  "subject_id": 94,
-  "source": "Programma elettorale Alternativa Per l'Italia",
-  "source_slug": "programma-elettorale-alternativa-per-l'italia",
-  "list": "Alternativa Per l'Italia",
-  "list_id": 11,
-  "endorsement": "red",
-  "description": "Evitare che si realizzi la digitalizzazione dell’identità del\ncittadino anche attraverso strumenti di controllo come il\nGreen Pass e l’obbligo vaccinale."
-}
-,{
-  "id": 432,
-  "category": "Salute",
-  "category_id": 7,
-  "subject": "Green Pass",
-  "subject_slug": "green-pass",
-  "subject_id": 94,
-  "source": "Programma elettorale PD",
-  "source_slug": "programma-elettorale-pd",
-  "list": "Partito Democratico",
-  "list_id": 5,
-  "endorsement": "grey",
-  "description": ""
-}
-,{
   "id": 433,
   "category": "Salute",
   "category_id": 7,
-  "subject": "Obbligo Vaccinale",
-  "subject_slug": "obbligo-vaccinale",
-  "subject_id": 95,
+  "subject": "Green Pass",
+  "subject_slug": "green-pass",
+  "subject_id": 94,
   "source": "Programma elettorale Alternativa Per l'Italia",
   "source_slug": "programma-elettorale-alternativa-per-l'italia",
   "list": "Alternativa Per l'Italia",
@@ -6065,6 +6065,34 @@
   "id": 434,
   "category": "Salute",
   "category_id": 7,
+  "subject": "Green Pass",
+  "subject_slug": "green-pass",
+  "subject_id": 94,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 435,
+  "category": "Salute",
+  "category_id": 7,
+  "subject": "Obbligo Vaccinale",
+  "subject_slug": "obbligo-vaccinale",
+  "subject_id": 95,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-l'italia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "Evitare che si realizzi la digitalizzazione dell’identità del\ncittadino anche attraverso strumenti di controllo come il\nGreen Pass e l’obbligo vaccinale."
+}
+,{
+  "id": 436,
+  "category": "Salute",
+  "category_id": 7,
   "subject": "Obbligo Vaccinale",
   "subject_slug": "obbligo-vaccinale",
   "subject_id": 95,
@@ -6074,5 +6102,145 @@
   "list_id": 5,
   "endorsement": "grey",
   "description": ""
+}
+,{
+  "id": 437,
+  "category": "Servizi pubblici generali",
+  "category_id": 1,
+  "subject": "Sanzioni Russia",
+  "subject_slug": "sanzioni-russia",
+  "subject_id": 96,
+  "source": "Tweet APLI 13 agosto 2022",
+  "source_slug": "tweet-apli-13-agosto-2022",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "Rimuovere le sanzioni alle nostre aziende per l'export con la Russia."
+}
+,{
+  "id": 438,
+  "category": "Servizi pubblici generali",
+  "category_id": 1,
+  "subject": "Sanzioni Russia",
+  "subject_slug": "sanzioni-russia",
+  "subject_id": 96,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 439,
+  "category": "Servizi pubblici generali",
+  "category_id": 1,
+  "subject": "Aiuti militari Ucraina",
+  "subject_slug": "aiuti-militari-ucraina",
+  "subject_id": 97,
+  "source": "Tweet APLI 13 agosto 2022",
+  "source_slug": "tweet-apli-13-agosto-2022",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "No al riarmo di paesi stranieri impegnati in scenari bellici che non riguardano l'Italia."
+}
+,{
+  "id": 440,
+  "category": "Servizi pubblici generali",
+  "category_id": 1,
+  "subject": "Aiuti militari Ucraina",
+  "subject_slug": "aiuti-militari-ucraina",
+  "subject_id": 97,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 441,
+  "category": "Salute",
+  "category_id": 7,
+  "subject": "Diritto all'aborto",
+  "subject_slug": "diritto-allaborto",
+  "subject_id": 98,
+  "source": "Tweet Adinolfi 24 agosto 2022",
+  "source_slug": "tweet-adinolfi-24-agosto-2022",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "\"Nessuno tocchi un bambino, non è un oggetto, è un soggetto di diritti: il primo è quello alla nascita, alla vita\""
+}
+,{
+  "id": 442,
+  "category": "Salute",
+  "category_id": 7,
+  "subject": "Diritto all'aborto",
+  "subject_slug": "diritto-allaborto",
+  "subject_id": 98,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Pieno riconoscimento dei diritti sessuali e riproduttivi delle donne, garantendo l’applicazione della legge 194/1978 in ogni sua parte sull’intero territorio nazionale e rafforzando la rete di consultori."
+}
+,{
+  "id": 443,
+  "category": "Valori e diritti",
+  "category_id": 11,
+  "subject": "Diritto all'aborto",
+  "subject_slug": "diritto-allaborto",
+  "subject_id": 98,
+  "source": "Tweet Adinolfi 24 agosto 2022",
+  "source_slug": "tweet-adinolfi-24-agosto-2022",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "\"Nessuno tocchi un bambino, non è un oggetto, è un soggetto di diritti: il primo è quello alla nascita, alla vita\""
+}
+,{
+  "id": 444,
+  "category": "Valori e diritti",
+  "category_id": 11,
+  "subject": "Diritto all'aborto",
+  "subject_slug": "diritto-allaborto",
+  "subject_id": 98,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Pieno riconoscimento dei diritti sessuali e riproduttivi delle donne, garantendo l’applicazione della legge 194/1978 in ogni sua parte sull’intero territorio nazionale e rafforzando la rete di consultori."
+}
+,{
+  "id": 445,
+  "category": "Difesa",
+  "category_id": 2,
+  "subject": "Difesa comune europea",
+  "subject_slug": "difesa-comune-europea",
+  "subject_id": 99,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-l'italia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 11,
+  "endorsement": "red",
+  "description": "Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali."
+}
+,{
+  "id": 446,
+  "category": "Difesa",
+  "category_id": 2,
+  "subject": "Difesa comune europea",
+  "subject_slug": "difesa-comune-europea",
+  "subject_id": 99,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Dobbiamo al contempo puntare con decisione su un progetto di integrazione, razionalizzazione e coordinamento della politica di sicurezza e difesa europea, valorizzando l’autonomia strategica dell’Unione europea. Con l’approvazione della nuova “Bussola strategica”, la Ue ha assunto con più decisione la prospettiva della costruzione di una Difesa comune. È un punto che riteniamo decisivo affinché l’Europa sia sempre più influente nel contesto globale. È evidente che una Difesa comune non può ridursi a essere identificata esclusivamente con un “Esercito comune”. Occorre che sia condivisa l’analisi delle minacce, che vi sia una agenda europea, che si gestiscano insieme strumenti e risorse. Una scelta tutta politica, prima che militare."
 }
 ]

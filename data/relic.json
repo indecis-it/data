@@ -617,4 +617,34 @@
   "category": "Salute",
   "category_id": 7
 }
+,{
+  "subject": "Sanzioni Russia",
+  "subject_id": 96,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Aiuti militari Ucraina",
+  "subject_id": 97,
+  "category": "Servizi pubblici generali",
+  "category_id": 1
+}
+,{
+  "subject": "Diritto all'aborto",
+  "subject_id": 98,
+  "category": "Salute",
+  "category_id": 7
+}
+,{
+  "subject": "Diritto all'aborto",
+  "subject_id": 98,
+  "category": "Valori e diritti",
+  "category_id": 11
+}
+,{
+  "subject": "Difesa comune europea",
+  "subject_id": 99,
+  "category": "Difesa",
+  "category_id": 2
+}
 ]

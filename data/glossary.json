@@ -569,4 +569,28 @@
   "subject_slug": "obbligo-vaccinale",
   "url": ""
 }
+,{
+  "id": 96,
+  "subject": "Sanzioni Russia",
+  "subject_slug": "sanzioni-russia",
+  "url": ""
+}
+,{
+  "id": 97,
+  "subject": "Aiuti militari Ucraina",
+  "subject_slug": "aiuti-militari-ucraina",
+  "url": ""
+}
+,{
+  "id": 98,
+  "subject": "Diritto all'aborto",
+  "subject_slug": "diritto-allaborto",
+  "url": ""
+}
+,{
+  "id": 99,
+  "subject": "Difesa comune europea",
+  "subject_slug": "difesa-comune-europea",
+  "url": ""
+}
 ]
