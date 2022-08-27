@@ -25,7 +25,7 @@
 }
 ,{
   "id": 4,
-  "party": "Moderati",
+  "party": "Centristi per l'Europa",
   "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
@@ -49,7 +49,7 @@
 }
 ,{
   "id": 7,
-  "party": "Radicali Italiani",
+  "party": "Per la Puglia",
   "list_id": 5,
   "list": "Partito Democratico",
   "coalition_id": 1,
@@ -233,7 +233,7 @@
 }
 ,{
   "id": 30,
-  "party": "Reti Civiche",
+  "party": "Verdi del Sudtirolo/Alto Adige",
   "list_id": 6,
   "list": "Alleanza Verdi e Sinistra",
   "coalition_id": 1,
@@ -257,9 +257,9 @@
 }
 ,{
   "id": 33,
-  "party": "Agenda Nazionale Civica",
-  "list_id": 8,
-  "list": "Impegno Civico",
+  "party": "Partito Progressista",
+  "list_id": 6,
+  "list": "Alleanza Verdi e Sinistra",
   "coalition_id": 1,
   "coalition": "Centro-sinistra"
 }
@@ -353,7 +353,7 @@
 }
 ,{
   "id": 45,
-  "party": "Rinascita Repubblicana",
+  "party": "Patria Socialista",
   "list_id": 14,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
@@ -490,6 +490,94 @@
 ,{
   "id": 62,
   "party": "Democrazia Cristiana",
+  "list_id": 12,
+  "list": "Noi di Centro-Europeisti",
+  "coalition_id": 9,
+  "coalition": "Noi di Centro-Europeisti"
+}
+,{
+  "id": 63,
+  "party": "Associazione Fassa",
+  "list_id": 2,
+  "list": "Lega",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 64,
+  "party": "Partito Valore Umano",
+  "list_id": 1,
+  "list": "Fratelli d'Italia",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 65,
+  "party": "Autonomia Responsabile",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 66,
+  "party": "Cantiere Popolare",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 67,
+  "party": "Liguria Popolare",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 68,
+  "party": "Rinascimento",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 69,
+  "party": "Cambiamo!",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 70,
+  "party": "Identità e Azione",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 71,
+  "party": "Partito degli Europei e Liberali",
+  "list_id": 4,
+  "list": "Noi moderati",
+  "coalition_id": 3,
+  "coalition": "Centro-destra"
+}
+,{
+  "id": 72,
+  "party": "Con Emiliano",
+  "list_id": 5,
+  "list": "Partito Democratico",
+  "coalition_id": 1,
+  "coalition": "Centro-sinistra"
+}
+,{
+  "id": 73,
+  "party": "NOI-Nuovi Orizzonti per l'Italia",
   "list_id": 12,
   "list": "Noi di Centro-Europeisti",
   "coalition_id": 9,
