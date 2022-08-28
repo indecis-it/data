@@ -1,9 +1,8 @@
 name: download reshape convert
 
 on:
-  # schedule:
-  # once a day
-  #  - cron: '0 0 * * *'
+  schedule:
+    - cron: '0 0 * * *' # once a day
   workflow_dispatch:
 
 jobs:
@@ -21,16 +20,14 @@ jobs:
 
       - uses: r-lib/actions/setup-r@master
 
-      # Set-up R
-      - name: Install R packages
+      - name: Set-up R. Install R packages
         run: |
           R -e 'install.packages(c("here", "dplyr", "tidyr", "readr"))'
       
-      # Run R script
-      - name: Reshape items
+      - name: Run R script. Reshape items
         run: Rscript script/reshape.R
     
-      - name: Installing miller
+      - name: Install miller
         run: |-
           sudo apt-get install miller
       
@@ -38,7 +35,10 @@ jobs:
         run: |-
           chmod +x script/new_convert.sh
           script/new_convert.sh
-
+          
+      - name: Validate data
+        uses: frictionlessdata/repository@v1
+        
       - name: Update Repository
         run: |-
           git config user.name "autoupdate"
@@ -47,3 +47,11 @@ jobs:
           timestamp=$(date --iso-8601=seconds)
           git commit -m "[data] update: ${timestamp}" || exit 0
           git push
+
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repo: indecis.it
+          owner: indecis-it
+          event_type: sample_push
