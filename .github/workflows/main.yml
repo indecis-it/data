@@ -1,4 +1,4 @@
-name: download reshape convert
+name: download reshape convert and update
 
 on:
   schedule:
@@ -37,7 +37,7 @@ jobs:
           script/new_convert.sh
           
       - name: Validate data
-        uses: frictionlessdata/repository@v1
+        uses: frictionlessdata/repository@v2
         
       - name: Update Repository
         run: |-
