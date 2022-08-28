@@ -4,7 +4,7 @@
     "tasks": 18,
     "warnings": 0,
     "errors": 0,
-    "seconds": 0.495
+    "seconds": 0.631
   },
   "warnings": [],
   "errors": [],
@@ -31,7 +31,7 @@
         "rows": 11,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.009
+        "seconds": 0.012
       },
       "warnings": [],
       "errors": []
@@ -53,7 +53,7 @@
         "rows": 9,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.004
+        "seconds": 0.005
       },
       "warnings": [],
       "errors": []
@@ -77,7 +77,7 @@
         "rows": 4,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.005
+        "seconds": 0.007
       },
       "warnings": [],
       "errors": []
@@ -101,7 +101,7 @@
         "rows": 105,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.031
+        "seconds": 0.04
       },
       "warnings": [],
       "errors": []
@@ -133,7 +133,7 @@
         "rows": 1541,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.14
+        "seconds": 0.172
       },
       "warnings": [],
       "errors": []
@@ -160,7 +160,7 @@
         "rows": 15,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.018
+        "seconds": 0.025
       },
       "warnings": [],
       "errors": []
@@ -185,7 +185,7 @@
         "rows": 15,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.008
+        "seconds": 0.011
       },
       "warnings": [],
       "errors": []
@@ -211,7 +211,7 @@
         "rows": 73,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.008
+        "seconds": 0.011
       },
       "warnings": [],
       "errors": []
@@ -238,7 +238,7 @@
         "rows": 22,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.01
+        "seconds": 0.014
       },
       "warnings": [],
       "errors": []
