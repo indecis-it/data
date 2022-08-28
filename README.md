@@ -178,7 +178,7 @@ If you wanna use indecis.it data in your works, you can follow these easy instru
 
 ### R
 ```r
-readr:read_csv("https://github.com/indecis-it/data/blob/main/data/endorsements.csv")
+readr::read_csv("https://github.com/indecis-it/data/blob/main/data/endorsements.csv")
 ```
 
 ### MATLAB
