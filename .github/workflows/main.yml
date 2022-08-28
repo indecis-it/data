@@ -1,4 +1,4 @@
-name: download reshape convert and update
+name: Update data v2
 
 on:
   schedule:
