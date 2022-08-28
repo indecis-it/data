@@ -1,124 +1,118 @@
 subject,subject_id,category,category_id
-Presidenzialismo,73,Servizi pubblici generali,1
-Apprendistato retribuito,14,Affari economici,4
-Aumento assegno unico universale,17,Affari economici,4
-Aumento posti lavoro medici,21,Affari economici,4
-Aumento medici di base,18,Salute,7
-Conto unico fiscale,27,Affari economici,4
-Energia rinnovabile,36,Affari economici,4
-Flat tax,40,Servizi pubblici generali,1
-Inceneritori-Termovalorizzatori,44,Affari economici,4
-Inceneritori-Termovalorizzatori,44,Protezione ambientale,5
-Investimenti infrastrutture,48,Affari economici,4
-Nucleare,65,Affari economici,4
-Nucleare,65,Protezione ambientale,5
-Patrimoniale,69,Servizi pubblici generali,1
-Ponte sullo Stretto,72,Affari economici,4
-Realizzazione grandi opere,79,Affari economici,4
-Revisione PNRR,81,Affari economici,4
-Riduzione IVA,83,Servizi pubblici generali,1
-Rigassificatori,85,Affari economici,4
-Rigassificatori,85,Protezione ambientale,5
-Salario minimo,87,Affari economici,4
-Aumento stipendio docenti,22,Affari economici,4
-Super bonus,97,Affari economici,4
-Taglio cuneo fiscale,100,Servizi pubblici generali,1
-Taglio tasse partite IVA,101,Servizi pubblici generali,1
-Trivelle,104,Affari economici,4
-Trivelle,104,Protezione ambientale,5
-Scuola infanzia obbligatoria,90,Formazione scolastica,9
-Aumento stipendio docenti,22,Formazione scolastica,9
-Alloggi popolari,12,Protezione sociale,10
-Contributo affitto giovani,30,Protezione sociale,10
-Reddito di cittadinanza,80,Protezione sociale,10
-Riduzione bolletta energetica,82,Protezione sociale,10
-Scuola infanzia gratuita,89,Protezione sociale,10
-Legge contro omotransfobia,#N/A,Valori e diritti,11
-Ius scholae,53,Valori e diritti,11
-Ius soli,54,Valori e diritti,11
-Matrimonio egualitario,62,Valori e diritti,11
-Parità salariale,68,Valori e diritti,11
-Libri di testo gratuiti,57,Formazione scolastica,9
-Trasporto scolastio gratuito,103,Formazione scolastica,9
-Più attività extrascolastiche,70,Formazione scolastica,9
-Contribuiti per edilizia scolastica,29,Formazione scolastica,9
-Mense scolastiche gratuite,63,Formazione scolastica,9
-Sostegno psicologico scolastico,95,Formazione scolastica,9
-Maggiore sostegno per disabili,59,Formazione scolastica,9
-Stop bocciature,96,Formazione scolastica,9
-Più meritocrazia a scuola e nei concorsi,71,Formazione scolastica,9
-Eliminazione del precariato,35,Formazione scolastica,9
-Investimenti per la formazione dei docenti,50,Formazione scolastica,9
-Sostegno meno abbienti e incapienti,92,Formazione scolastica,9
-Corsi universitari STEM,#N/A,Formazione scolastica,9
-Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,60,Formazione scolastica,9
-BUONO SCUOLA o dote scuola,24,Formazione scolastica,9
-Scuole private,91,Formazione scolastica,9
-Maggiori investimenti per la ricerca,61,Formazione scolastica,9
-Abolizione legge Gelmini,4,Formazione scolastica,9
-Internet gratuito per studenti/sse,47,Formazione scolastica,9
-Abolizione libri stampati,5,Formazione scolastica,9
-Insegnamento inglese asili,45,Formazione scolastica,9
-Fondi pubblici solo a scuole pubbliche,41,Formazione scolastica,9
-Valutazione dei docenti universitari da parte degli/lle studenti/sse,106,Formazione scolastica,9
-Insegnamento gratuito di italiano per stranieri,#N/A,Formazione scolastica,9
-Integrazione università-aziende,46,Formazione scolastica,9
-Sviluppo strutture accoglienza studenti,#N/A,Formazione scolastica,9
-Didattica a distanza garantita,31,Formazione scolastica,9
-Educazione sessuale,34,Formazione scolastica,9
-Istituzione giornata contro l’omofobia,#N/A,Formazione scolastica,9
-Istituzione giornata contro l’omofobia,#N/A,Valori e diritti,11
-Tutela ambiente e paesaggio,105,Protezione ambientale,5
-Garante nazionale del Benessere Animale,42,Protezione ambientale,5
-Agevolazione mutui giovani,10,Servizi abitativi e comunitari,6
-Garante nazionale del Benessere Animale,42,Valori e diritti,11
-Legge fine vita,56,Valori e diritti,11
-Sviluppare servizi sanitari di prossimità,99,Salute,7
-Investimento su politiche sportive,51,Salute,7
-Promuovere sicurezza sul lavoro,78,Salute,7
-Aumento offerta asili nido,19,Protezione sociale,10
-Promuovere lavoro agile,75,Protezione sociale,10
-Promuovere parità di genere,77,Valori e diritti,11
-Promuovere Istituti Tecnici Superiori,74,Formazione scolastica,9
-Sostegno per universitari fuori sede,93,Formazione scolastica,9
-Legalizzazione Cannabis,55,Valori e diritti,11
-Legalizzazione Cannabis,55,"Ricreazione, cultura e religione",8
-Voto fuorisede,107,Valori e diritti,11
-Favorire riscatto della laurea,38,Servizi pubblici generali,1
-Abbassare IRAP,#N/A,Affari economici,4
-Promuovere Made in Italy,76,Affari economici,4
-Aumentare poteri e risorse dei piccoli comuni,15,Affari economici,4
-Investimenti per il Mezzogiorno,49,Affari economici,4
-Autonomia differenziata,23,Affari economici,4
-Riduzione pressione fiscale,#N/A,Affari economici,4
-Tetto al prezzo del gas,102,Affari economici,4
-Favorire creazione delle comunità energetiche,37,Affari economici,4
+Presidenzialismo,18,Servizi pubblici generali,1
+Apprendistato retribuito,62,Affari economici,4
+Aumento assegno unico universale,29,Affari economici,4
+Aumento numero di medici,59,Affari economici,4
+Aumento numero di medici,59,Salute,7
+Conto unico fiscale,30,Affari economici,4
+Energia rinnovabile,19,Affari economici,4
+Flat tax,5,Servizi pubblici generali,1
+Inceneritori-Termovalorizzatori,20,Affari economici,4
+Inceneritori-Termovalorizzatori,20,Protezione ambientale,5
+Investimenti infrastrutture,21,Affari economici,4
+Nucleare,16,Affari economici,4
+Nucleare,16,Protezione ambientale,5
+Patrimoniale,28,Servizi pubblici generali,1
+Ponte sullo Stretto,53,Affari economici,4
+Realizzazione grandi opere,54,Affari economici,4
+Revisione PNRR,24,Affari economici,4
+Riduzione IVA,4,Servizi pubblici generali,1
+Rigassificatori,17,Affari economici,4
+Rigassificatori,17,Protezione ambientale,5
+Salario minimo,6,Affari economici,4
+Aumento stipendio docenti,60,Affari economici,4
+Super bonus,7,Affari economici,4
+Taglio cuneo fiscale,2,Servizi pubblici generali,1
+Taglio tasse partite IVA,3,Servizi pubblici generali,1
+Trivelle,15,Affari economici,4
+Trivelle,15,Protezione ambientale,5
+Scuola infanzia obbligatoria,95,Formazione scolastica,9
+Aumento stipendio docenti,60,Formazione scolastica,9
+Alloggi popolari,38,Protezione sociale,10
+Contributo affitto giovani,33,Protezione sociale,10
+Reddito di cittadinanza,11,Protezione sociale,10
+Riduzione bolletta energetica,27,Protezione sociale,10
+Scuola infanzia gratuita,87,Protezione sociale,10
+Lotta alla omotransfobia,40,Valori e diritti,11
+Ius scholae,43,Valori e diritti,11
+Ius soli,44,Valori e diritti,11
+Matrimonio egualitario,50,Valori e diritti,11
+Parità salariale,42,Valori e diritti,11
+Libri di testo gratuiti,81,Formazione scolastica,9
+Trasporto scolastico gratuito,88,Formazione scolastica,9
+Più attività extrascolastiche,96,Formazione scolastica,9
+Contribuiti per edilizia scolastica,61,Formazione scolastica,9
+Mense scolastiche gratuite,77,Formazione scolastica,9
+Sostegno psicologico scolastico,71,Formazione scolastica,9
+Maggiore sostegno per disabili nelle scuole,74,Formazione scolastica,9
+Stop bocciature,98,Formazione scolastica,9
+Più meritocrazia a scuola e nei concorsi,82,Formazione scolastica,9
+Eliminazione del precariato,65,Formazione scolastica,9
+Investimenti per la formazione dei docenti,72,Formazione scolastica,9
+Sostegno meno abbienti e incapienti,89,Formazione scolastica,9
+Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,76,Formazione scolastica,9
+Maggiori investimenti per la ricerca,23,Formazione scolastica,9
+Abolizione legge Gelmini,35,Formazione scolastica,9
+Internet gratuito per studenti/sse,99,Formazione scolastica,9
+Abolizione libri stampati,100,Formazione scolastica,9
+Insegnamento inglese asili,80,Formazione scolastica,9
+Valutazione dei docenti universitari da parte degli/lle studenti/sse,93,Formazione scolastica,9
+Integrazione università-aziende,86,Formazione scolastica,9
+Didattica a distanza garantita,69,Formazione scolastica,9
+Educazione sessuale,52,Formazione scolastica,9
+Tutela ambiente e paesaggio,91,Protezione ambientale,5
+Garante nazionale del Benessere Animale,103,Protezione ambientale,5
+Agevolazione mutui giovani,32,Servizi abitativi e comunitari,6
+Garante nazionale del Benessere Animale,103,Valori e diritti,11
+Legge fine vita,41,Valori e diritti,11
+Sviluppare servizi sanitari di prossimità,90,Salute,7
+Investimento su politiche sportive,73,Salute,7
+Promuovere sicurezza sul lavoro,85,Salute,7
+Aumento offerta asili nido,48,Protezione sociale,10
+Promuovere lavoro agile,55,Protezione sociale,10
+Promuovere parità di genere,84,Valori e diritti,11
+Promuovere Istituti Tecnici Superiori,83,Formazione scolastica,9
+Sostegno per universitari fuori sede,75,Formazione scolastica,9
+Legalizzazione Cannabis,51,Valori e diritti,11
+Legalizzazione Cannabis,51,"Ricreazione, cultura e religione",8
+Voto fuorisede,45,Valori e diritti,11
+Favorire riscatto della laurea,92,Servizi pubblici generali,1
+Riduzione o eliminazione IRAP,25,Affari economici,4
+Promuovere Made in Italy,56,Affari economici,4
+Aumentare poteri e risorse dei piccoli comuni,57,Affari economici,4
+Investimenti per il Mezzogiorno,22,Affari economici,4
+Autonomia differenziata,70,Affari economici,4
+Tetto al prezzo del gas,1,Affari economici,4
+Favorire creazione delle comunità energetiche,79,Affari economici,4
 Adesione alla NATO,9,Difesa,2
-Adesione al'UE,7,Servizi pubblici generali,1
-Adesione all'ONU,8,Servizi pubblici generali,1
-Contrasto evasione fiscale,28,Servizi pubblici generali,1
-Supporto maternità,98,Protezione sociale,10
-Sostegno piccole e medie imprese,94,Affari economici,4
-Aumento pensioni,20,Protezione sociale,10
-Green Pass,43,Salute,7
-Obbligo Vaccinale,67,Salute,7
-Sanzioni Russia,88,Servizi pubblici generali,1
-Aiuti militari Ucraina,11,Servizi pubblici generali,1
-Diritto all'aborto,33,Salute,7
-Diritto all'aborto,33,Valori e diritti,11
-Difesa comune europea,32,Difesa,2
-Aumento assegno sociale per gli invalidi,16,Protezione sociale,10
-Ripristino articolo 18,86,Protezione sociale,10
-Abrogazione legge Fornero,6,Protezione sociale,10
-"Abolizione ""buona Scuola""",2,Formazione scolastica,9
-Lotta alla mafia,58,Ordine pubblico e sicurezza,3
-Fine del segreto di Stato sulle stragi,39,Ordine pubblico e sicurezza,3
-Abolizione del numero chiuso,3,Formazione scolastica,9
-Commissione di inchiesta COVID,25,Salute,7
-No al dumping sociale dei lavoratori,64,Protezione sociale,10
-No al dumping sociale dei lavoratori,64,Affari economici,4
-Riforma Cartabia,84,Ordine pubblico e sicurezza,3
-Congedo paternità,26,Protezione sociale,10
-Congedo paternità,26,Valori e diritti,11
-Obbligo scolastico fino a 18 anni,66,Formazione scolastica,9
-Alternanza scuola-lavoro,13,Formazione scolastica,9
+Adesione al'UE,13,Servizi pubblici generali,1
+Contrasto evasione fiscale,31,Servizi pubblici generali,1
+Supporto maternità,47,Protezione sociale,10
+Sostegno piccole e medie imprese,26,Affari economici,4
+Aumento pensioni,12,Protezione sociale,10
+Green Pass,63,Salute,7
+Obbligo Vaccinale,64,Salute,7
+Sanzioni Russia,10,Servizi pubblici generali,1
+Aiuti militari Ucraina,8,Servizi pubblici generali,1
+Diritto all'aborto,46,Salute,7
+Diritto all'aborto,46,Valori e diritti,11
+Difesa comune europea,58,Difesa,2
+Aumento assegno sociale per gli invalidi,66,Protezione sociale,10
+Ripristino articolo 18,101,Protezione sociale,10
+Abrogazione legge Fornero,37,Protezione sociale,10
+"Abolizione ""buona Scuola""",34,Formazione scolastica,9
+Lotta alla mafia,39,Ordine pubblico e sicurezza,3
+Fine del segreto di Stato sulle stragi,102,Ordine pubblico e sicurezza,3
+Abolizione del numero chiuso università,97,Formazione scolastica,9
+Commissione di inchiesta COVID,104,Salute,7
+No al dumping sociale dei lavoratori,78,Protezione sociale,10
+No al dumping sociale dei lavoratori,78,Affari economici,4
+Riforma Cartabia,36,Ordine pubblico e sicurezza,3
+Congedo paternità,49,Protezione sociale,10
+Congedo paternità,49,Valori e diritti,11
+Obbligo scolastico fino a 18 anni,68,Formazione scolastica,9
+Alternanza scuola-lavoro,67,Formazione scolastica,9
+Uscita dall'Euro,14,Affari economici,4
+Sostegno alla scuola paritaria,94,Formazione scolastica,9
+Alloggi popolari,38,Servizi abitativi e comunitari,6
+Investimento su politiche sportive,73,"Ricreazione, cultura e religione",8

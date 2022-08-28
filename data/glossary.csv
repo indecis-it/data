@@ -1,109 +1,106 @@
 id,subject,subject_slug,url
-1,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive
-2,"Abolizione ""buona Scuola""",abolizione-buona-scuola,https://it.wikipedia.org/wiki/Storia_dell%27istruzione_in_Italia#Riforma_%22Buona_Scuola%22
-3,Abolizione del numero chiuso,abolizione-del-numero-chiuso,
-4,Abolizione legge Gelmini,abolizione-legge-gelmini,https://it.wikipedia.org/wiki/Riforma_Gelmini
-5,Abolizione libri stampati,abolizione-libri-stampati,
-6,Abrogazione legge Fornero,abrogazione-legge-fornero,https://it.wikipedia.org/wiki/Riforma_delle_pensioni_Fornero
-7,Adesione al'UE,adesione-alue,https://it.wikipedia.org/wiki/Unione_europea
-8,Adesione all'ONU,adesione-allonu,https://it.wikipedia.org/wiki/Organizzazione_delle_Nazioni_Unite
+1,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,https://it.wikipedia.org/wiki/Tariffe_del_gas
+2,Taglio cuneo fiscale,taglio-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale
+3,Taglio tasse partite IVA,taglio-tasse-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
+4,Riduzione IVA,riduzione-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
+5,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax
+6,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo
+7,Super bonus,super-bonus,https://it.wikipedia.org/wiki/Superbonus_110%25
+8,Aiuti militari Ucraina,aiuti-militari-ucraina,
 9,Adesione alla NATO,adesione-alla-nato,https://it.wikipedia.org/wiki/NATO
-10,Agevolazione mutui giovani,agevolazione-mutui-giovani,
-11,Aiuti militari Ucraina,aiuti-militari-ucraina,
-12,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari
-13,Alternanza scuola-lavoro,alternanza-scuolalavoro,
-14,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
-15,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,
-16,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,https://it.wikipedia.org/wiki/Assegno_ordinario_di_invalidit%C3%A0
-17,Aumento assegno unico universale,aumento-assegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
-18,Aumento medici di base,aumento-medici-di-base,https://it.wikipedia.org/wiki/Medico_di_famiglia
-19,Aumento offerta asili nido,aumento-offerta-asili-nido,https://it.wikipedia.org/wiki/Asilo_nido
-20,Aumento pensioni,aumento-pensioni,
-21,Aumento posti lavoro medici,aumento-posti-lavoro-medici,
-22,Aumento stipendio docenti,aumento-stipendio-docenti,
-23,Autonomia differenziata,autonomia-differenziata,https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html
-24,BUONO SCUOLA o dote scuola,buono-scuola-o-dote-scuola,
-25,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,
-26,Congedo paternità,congedo-paternit,
-27,Conto unico fiscale,conto-unico-fiscale,
-28,Contrasto evasione fiscale,contrasto-evasione-fiscale,
-29,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,
-30,Contributo affitto giovani,contributo-affitto-giovani,
-31,Didattica a distanza garantita,didattica-a-distanza-garantita,https://it.wikipedia.org/wiki/Didattica_a_distanza
-32,Difesa comune europea,difesa-comune-europea,
-33,Diritto all'aborto,diritto-allaborto,
-34,Educazione sessuale,educazione-sessuale,https://it.wikipedia.org/wiki/Educazione_sessuale
-35,Eliminazione del precariato,eliminazione-del-precariato,https://it.wikipedia.org/wiki/Precariato
-36,Energia rinnovabile,energia-rinnovabile,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
-37,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
-38,Favorire riscatto della laurea,favorire-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
-39,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
-40,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax
-41,Fondi pubblici solo a scuole pubbliche,fondi-pubblici-solo-a-scuole-pubbliche,
-42,Garante nazionale del Benessere Animale,garante-nazionale-del-benessere-animale,
-43,Green Pass,green-pass,
-44,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
-45,Insegnamento inglese asili,insegnamento-inglese-asili,
-46,Integrazione università-aziende,integrazione-universitaziende,
-47,Internet gratuito per studenti/sse,internet-gratuito-per-studentisse,
-48,Investimenti infrastrutture,investimenti-infrastrutture,
-49,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,
-50,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,https://it.wikipedia.org/wiki/Docente_in_Italia
-51,Investimento su politiche sportive,investimento-su-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
-52,Lotta alla omotransfobia,lotta-alla-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
-53,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
-54,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
-55,Legalizzazione Cannabis,legalizzazione-cannabis,
-56,Legge fine vita,legge-fine-vita,
-57,Libri di testo gratuiti,libri-di-testo-gratuiti,
-58,Lotta alla mafia,lotta-alla-mafia,https://it.wikipedia.org/wiki/Mafia_in_Italia
-59,Maggiore sostegno per disabili,maggiore-sostegno-per-disabili,
-60,Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,maggiori-investimenti-per-aiutare-i-giovani-laureatie-a-rimanere-in-italia,
-61,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,
-62,Matrimonio egualitario,matrimonio-egualitario,
-63,Mense scolastiche gratuite,mense-scolastiche-gratuite,
-64,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping
-65,Nucleare,nucleare,https://it.wikipedia.org/wiki/Energia_nucleare
-66,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,
-67,Obbligo Vaccinale,obbligo-vaccinale,
-68,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere
-69,Patrimoniale,patrimoniale,
-70,Più attività extrascolastiche,pi-attivit-extrascolastiche,
-71,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
-72,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina
-73,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
-74,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
-75,Promuovere lavoro agile,promuovere-lavoro-agile,https://www.lavoro.gov.it/strumenti-e-servizi/smart-working/Pagine/default.aspx
-76,Promuovere Made in Italy,promuovere-made-in-italy,https://it.wikipedia.org/wiki/Made_in_Italy
-77,Promuovere parità di genere,promuovere-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
-78,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro
-79,Realizzazione grandi opere,realizzazione-grandi-opere,
-80,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
-81,Revisione PNRR,revisione-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
-82,Riduzione bolletta energetica,riduzione-bolletta-energetica,
-83,Riduzione IVA,riduzione-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
-84,Riforma Cartabia,riforma-cartabia,
-85,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore
-86,Ripristino articolo 18,ripristino-articolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
-87,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo
-88,Sanzioni Russia,sanzioni-russia,
-89,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-90,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-91,Scuole private,scuole-private,https://it.wikipedia.org/wiki/Scuola_privata
-92,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,
-93,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,
-94,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,
-95,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo
-96,Stop bocciature,stop-bocciature,
-97,Super bonus,super-bonus,https://it.wikipedia.org/wiki/Superbonus_110%25
-98,Supporto maternità,supporto-maternit,
-99,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
-100,Taglio cuneo fiscale,taglio-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale
-101,Taglio tasse partite IVA,taglio-tasse-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
-102,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,https://it.wikipedia.org/wiki/Tariffe_del_gas
-103,Trasporto scolastio gratuito,trasporto-scolastio-gratuito,https://it.wikipedia.org/wiki/Scuolabus
-104,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
-105,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,
-106,Valutazione dei docenti universitari da parte degli/lle studenti/sse,valutazione-dei-docenti-universitari-da-parte-deglille-studentisse,
-107,Voto fuorisede,voto-fuorisede,
-108,Importante: non aggiungere altri subject per ora,importante-non-aggiungere-altri-subject-per-ora,
+10,Sanzioni Russia,sanzioni-russia,
+11,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
+12,Aumento pensioni,aumento-pensioni,
+13,Adesione al'UE,adesione-alue,https://it.wikipedia.org/wiki/Unione_europea
+14,Uscita dall'Euro,uscita-dalleuro,https://it.wikipedia.org/wiki/Euro
+15,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
+16,Nucleare,nucleare,https://it.wikipedia.org/wiki/Energia_nucleare
+17,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore
+18,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
+19,Energia rinnovabile,energia-rinnovabile,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
+20,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
+21,Investimenti infrastrutture,investimenti-infrastrutture,
+22,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,
+23,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,
+24,Revisione PNRR,revisione-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
+25,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive
+26,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,
+27,Riduzione bolletta energetica,riduzione-bolletta-energetica,
+28,Patrimoniale,patrimoniale,
+29,Aumento assegno unico universale,aumento-assegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
+30,Conto unico fiscale,conto-unico-fiscale,
+31,Contrasto evasione fiscale,contrasto-evasione-fiscale,
+32,Agevolazione mutui giovani,agevolazione-mutui-giovani,
+33,Contributo affitto giovani,contributo-affitto-giovani,
+34,"Abolizione ""Buona Scuola""",abolizione-buona-scuola,https://it.wikipedia.org/wiki/Storia_dell%27istruzione_in_Italia#Riforma_%22Buona_Scuola%22
+35,Abolizione legge Gelmini,abolizione-legge-gelmini,https://it.wikipedia.org/wiki/Riforma_Gelmini
+36,Riforma Cartabia,riforma-cartabia,
+37,Abrogazione legge Fornero,abrogazione-legge-fornero,https://it.wikipedia.org/wiki/Riforma_delle_pensioni_Fornero
+38,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari
+39,Lotta alla mafia,lotta-alla-mafia,https://it.wikipedia.org/wiki/Mafia_in_Italia
+40,Lotta alla omotransfobia,lotta-alla-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
+41,Legge fine vita,legge-fine-vita,
+42,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere
+43,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
+44,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
+45,Voto fuorisede,voto-fuorisede,
+46,Diritto all'aborto,diritto-allaborto,
+47,Supporto maternità,supporto-maternit,
+48,Aumento offerta asili nido,aumento-offerta-asili-nido,https://it.wikipedia.org/wiki/Asilo_nido
+49,Congedo paternità,congedo-paternit,
+50,Matrimonio egualitario,matrimonio-egualitario,
+51,Legalizzazione Cannabis,legalizzazione-cannabis,
+52,Educazione sessuale,educazione-sessuale,https://it.wikipedia.org/wiki/Educazione_sessuale
+53,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina
+54,Realizzazione grandi opere,realizzazione-grandi-opere,
+55,Promuovere lavoro agile,promuovere-lavoro-agile,https://www.lavoro.gov.it/strumenti-e-servizi/smart-working/Pagine/default.aspx
+56,Promuovere Made in Italy,promuovere-made-in-italy,https://it.wikipedia.org/wiki/Made_in_Italy
+57,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,
+58,Difesa comune europea,difesa-comune-europea,
+59,Aumento numero di medici,aumento-numero-di-medici,https://it.wikipedia.org/wiki/Medico_di_famiglia
+60,Aumento stipendio docenti,aumento-stipendio-docenti,
+61,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,
+62,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
+63,Green Pass,green-pass,
+64,Obbligo Vaccinale,obbligo-vaccinale,
+65,Eliminazione del precariato,eliminazione-del-precariato,https://it.wikipedia.org/wiki/Precariato
+66,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,https://it.wikipedia.org/wiki/Assegno_ordinario_di_invalidit%C3%A0
+67,Alternanza scuola-lavoro,alternanza-scuolalavoro,
+68,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,
+69,Didattica a distanza garantita,didattica-a-distanza-garantita,https://it.wikipedia.org/wiki/Didattica_a_distanza
+70,Autonomia differenziata,autonomia-differenziata,https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html
+71,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo
+72,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,https://it.wikipedia.org/wiki/Docente_in_Italia
+73,Investimento su politiche sportive,investimento-su-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
+74,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,
+75,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,
+76,Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,maggiori-investimenti-per-aiutare-i-giovani-laureatie-a-rimanere-in-italia,
+77,Mense scolastiche gratuite,mense-scolastiche-gratuite,
+78,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping
+79,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
+80,Insegnamento inglese asili,insegnamento-inglese-asili,
+81,Libri di testo gratuiti,libri-di-testo-gratuiti,
+82,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
+83,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
+84,Promuovere parità di genere,promuovere-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
+85,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro
+86,Integrazione università-aziende,integrazione-universitaziende,
+87,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+88,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,https://it.wikipedia.org/wiki/Scuolabus
+89,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,
+90,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
+91,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,
+92,Favorire riscatto della laurea,favorire-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
+93,Valutazione dei docenti universitari da parte degli/lle studenti/sse,valutazione-dei-docenti-universitari-da-parte-deglille-studentisse,
+94,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,
+95,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+96,Più attività extrascolastiche,pi-attivit-extrascolastiche,
+97,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,
+98,Stop bocciature,stop-bocciature,
+99,Internet gratuito per studenti/sse,internet-gratuito-per-studentisse,
+100,Abolizione libri stampati,abolizione-libri-stampati,
+101,Ripristino articolo 18,ripristino-articolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
+102,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
+103,Garante nazionale del Benessere Animale,garante-nazionale-del-benessere-animale,
+104,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,
+105,Importante: non aggiungere altri subject per ora,importante-non-aggiungere-altri-subject-per-ora,
