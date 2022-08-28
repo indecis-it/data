@@ -1,1525 +1,400 @@
 {
-  "version": "4.40.8",
-  "time": 0.432,
+  "valid": true,
+  "stats": {
+    "tasks": 18,
+    "warnings": 0,
+    "errors": 0,
+    "seconds": 0.495
+  },
+  "warnings": [],
   "errors": [],
   "tasks": [
     {
-      "resource": {
-        "path": "data/categories.csv",
-        "name": "categories",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "type": "integer",
-              "title": "Category ID"
-            },
-            {
-              "name": "slug",
-              "type": "string",
-              "title": "Category slug"
-            },
-            {
-              "name": "source",
-              "type": "string",
-              "title": "Source",
-              "description": "Source of the classification"
-            },
-            {
-              "name": "name_en",
-              "type": "string",
-              "title": "English name",
-              "description": "English name of the category"
-            },
-            {
-              "name": "description_en",
-              "type": "string",
-              "title": "English description",
-              "description": "English description of the category"
-            },
-            {
-              "name": "name_it",
-              "type": "string",
-              "title": "Italian name",
-              "description": "Italian name of the category"
-            },
-            {
-              "name": "description_it",
-              "type": "string",
-              "title": "Italian description",
-              "description": "Italian description of the category"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "af1a7a0bab4dfaa8bcdfeec5dcb1b5ec",
-          "bytes": 4588,
-          "fields": 7,
-          "rows": 11
-        }
-      },
-      "time": 0.009,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "categories",
+      "type": "table",
+      "place": "data/categories.csv",
+      "labels": [
+        "id",
+        "slug",
+        "source",
+        "name_en",
+        "description_en",
+        "name_it",
+        "description_it"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "af1a7a0bab4dfaa8bcdfeec5dcb1b5ec",
+        "sha256": "8da2199188468d5362a7073ca5d9cae517ee48d40e7db8468b0f43b86c57700f",
+        "bytes": 4588,
+        "fields": 7,
+        "rows": 11,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.009
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/coalitions.csv",
-        "name": "coalitions",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Coalition ID",
-              "type": "integer"
-            },
-            {
-              "name": "coalition",
-              "title": "Coalition name",
-              "type": "string"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "8d64fc420de2227a06dcf749352ecaed",
-          "bytes": 196,
-          "fields": 2,
-          "rows": 9
-        }
-      },
-      "time": 0.007,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "coalitions",
+      "type": "table",
+      "place": "data/coalitions.csv",
+      "labels": [
+        "id",
+        "coalition"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "8d64fc420de2227a06dcf749352ecaed",
+        "sha256": "6573a7831c6f126445726d91042a035160ea18cd0354271867627c8787e98c5a",
+        "bytes": 196,
+        "fields": 2,
+        "rows": 9,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.004
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/endorsements.csv",
-        "name": "endorsements",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Endorsement ID",
-              "type": "integer"
-            },
-            {
-              "name": "description",
-              "title": "Endorsement description",
-              "description": "Description of endorsement types",
-              "type": "string"
-            },
-            {
-              "name": "icon",
-              "title": "Icon",
-              "description": "Color of the icon to display",
-              "type": "string"
-            },
-            {
-              "name": "color_code",
-              "title": "Color code",
-              "description": "HEX code",
-              "type": "string"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "e54f89e0740110f20629a5ba584ab171",
-          "bytes": 137,
-          "fields": 4,
-          "rows": 4
-        }
-      },
-      "time": 0.007,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "endorsements",
+      "type": "table",
+      "place": "data/endorsements.csv",
+      "labels": [
+        "id",
+        "description",
+        "icon",
+        "color_code"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "e54f89e0740110f20629a5ba584ab171",
+        "sha256": "00cb539543f7978b0a35bf3ede071251082272e04f79d237177af193b593f3a6",
+        "bytes": 137,
+        "fields": 4,
+        "rows": 4,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.005
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/glossary.csv",
-        "name": "glossary",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Subject ID",
-              "type": "integer"
-            },
-            {
-              "name": "subject",
-              "title": "Subject name",
-              "type": "string"
-            },
-            {
-              "name": "subject_slug",
-              "title": "Subject slug",
-              "type": "string"
-            },
-            {
-              "name": "url",
-              "description": "URL of an external reference",
-              "type": "string",
-              "format": "uri"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "3dafe2a940450f196051f044fbbc1519",
-          "bytes": 9107,
-          "fields": 4,
-          "rows": 105
-        }
-      },
-      "time": 0.01,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "glossary",
+      "type": "table",
+      "place": "data/glossary.csv",
+      "labels": [
+        "id",
+        "subject",
+        "subject_slug",
+        "url"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "3dafe2a940450f196051f044fbbc1519",
+        "sha256": "c336694d720f4bbf49ecb60260a640c26f32cb6b77845baf456020fa9243196d",
+        "bytes": 9107,
+        "fields": 4,
+        "rows": 105,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.031
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/new_items.csv",
-        "name": "new_items",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Item ID",
-              "type": "integer"
-            },
-            {
-              "name": "category",
-              "title": "Category name",
-              "description": "Category name in Italian",
-              "type": "string"
-            },
-            {
-              "name": "category_id",
-              "title": "Category ID",
-              "type": "integer"
-            },
-            {
-              "name": "subject",
-              "title": "Subject name",
-              "type": "string"
-            },
-            {
-              "name": "subject_slug",
-              "title": "Subject slug",
-              "type": "string"
-            },
-            {
-              "name": "subject_id",
-              "title": "Subject ID",
-              "type": "integer"
-            },
-            {
-              "name": "source",
-              "title": "Source title",
-              "type": "string"
-            },
-            {
-              "name": "source_slug",
-              "title": "Source slug",
-              "type": "string"
-            },
-            {
-              "name": "list",
-              "title": "Electoral list name",
-              "type": "string"
-            },
-            {
-              "name": "list_id",
-              "title": "Electoral list ID",
-              "type": "integer"
-            },
-            {
-              "name": "endorsement",
-              "title": "Endorsement",
-              "description": "Endorsement referred to the subject. See endorsements file for more information.",
-              "type": "string",
-              "constraints": {
-                "enum": [
-                  "green",
-                  "yellow",
-                  "red",
-                  "grey"
-                ]
-              }
-            },
-            {
-              "name": "description",
-              "description": "Description of the position taken by the list",
-              "type": "string"
-            }
-          ],
-          "foreignKeys": [
-            {
-              "fields": [
-                "category"
-              ],
-              "reference": {
-                "fields": [
-                  "name_it"
-                ],
-                "resource": "categories"
-              }
-            },
-            {
-              "fields": [
-                "category_id"
-              ],
-              "reference": {
-                "fields": [
-                  "id"
-                ],
-                "resource": "categories"
-              }
-            },
-            {
-              "fields": [
-                "source"
-              ],
-              "reference": {
-                "fields": [
-                  "title"
-                ],
-                "resource": "sources"
-              }
-            },
-            {
-              "fields": [
-                "source_slug"
-              ],
-              "reference": {
-                "fields": [
-                  "slug"
-                ],
-                "resource": "sources"
-              }
-            },
-            {
-              "fields": [
-                "list"
-              ],
-              "reference": {
-                "fields": [
-                  "list"
-                ],
-                "resource": "lists"
-              }
-            },
-            {
-              "fields": [
-                "list_id"
-              ],
-              "reference": {
-                "fields": [
-                  "id"
-                ],
-                "resource": "lists"
-              }
-            },
-            {
-              "fields": [
-                "endorsement"
-              ],
-              "reference": {
-                "fields": [
-                  "icon"
-                ],
-                "resource": "endorsements"
-              }
-            }
-          ]
-        },
-        "stats": {
-          "hash": "9599dbfee5103c52faccd33e104e264a",
-          "bytes": 464019,
-          "fields": 12,
-          "rows": 1541
-        }
-      },
-      "time": 0.146,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "new_items",
+      "type": "table",
+      "place": "data/new_items.csv",
+      "labels": [
+        "id",
+        "category",
+        "category_id",
+        "subject",
+        "subject_slug",
+        "subject_id",
+        "source",
+        "source_slug",
+        "list",
+        "list_id",
+        "endorsement",
+        "description"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "9599dbfee5103c52faccd33e104e264a",
+        "sha256": "786128ab07a07ff9837a16bb50455319e83fb4cb1084aa95c0195bececcc190b",
+        "bytes": 464019,
+        "fields": 12,
+        "rows": 1541,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.14
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/leaders.csv",
-        "name": "leaders",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Leader ID",
-              "type": "integer"
-            },
-            {
-              "name": "name",
-              "title": "Leader name",
-              "type": "string"
-            },
-            {
-              "name": "surname",
-              "title": "Leader surname",
-              "type": "string"
-            },
-            {
-              "name": "list",
-              "title": "List name",
-              "description": "Electoral list name",
-              "type": "string"
-            },
-            {
-              "name": "list_id",
-              "title": "List ID",
-              "description": "Electoral list ID",
-              "type": "integer"
-            },
-            {
-              "name": "profile_pic",
-              "title": "Profile image",
-              "description": "Profile image URL",
-              "type": "string"
-            },
-            {
-              "name": "wikipedia_url",
-              "title": "Wikipedia page",
-              "description": "Wikipedia page URL",
-              "type": "string",
-              "format": "uri"
-            }
-          ],
-          "foreignKeys": [
-            {
-              "fields": [
-                "list"
-              ],
-              "reference": {
-                "fields": [
-                  "list"
-                ],
-                "resource": "lists"
-              }
-            },
-            {
-              "fields": [
-                "list_id"
-              ],
-              "reference": {
-                "fields": [
-                  "id"
-                ],
-                "resource": "lists"
-              }
-            }
-          ]
-        },
-        "stats": {
-          "hash": "c3621292c2dff3ed79d2f2f3ca8291a0",
-          "bytes": 2748,
-          "fields": 7,
-          "rows": 15
-        }
-      },
-      "time": 0.021,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "leaders",
+      "type": "table",
+      "place": "data/leaders.csv",
+      "labels": [
+        "id",
+        "name",
+        "surname",
+        "list",
+        "list_id",
+        "profile_pic",
+        "wikipedia_url"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "c3621292c2dff3ed79d2f2f3ca8291a0",
+        "sha256": "8d11febd308a62f0a5ca4f007ef567bc2a36b1834330391afc7236896e68038e",
+        "bytes": 2748,
+        "fields": 7,
+        "rows": 15,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.018
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/lists.csv",
-        "name": "lists",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "List ID",
-              "description": "Electoral list ID",
-              "type": "integer"
-            },
-            {
-              "name": "list",
-              "title": "List name",
-              "description": "Electoral list name",
-              "type": "string"
-            },
-            {
-              "name": "slug",
-              "title": "List slug",
-              "description": "Electoral list slug",
-              "type": "string"
-            },
-            {
-              "name": "symbol_name",
-              "title": "Symbol filename",
-              "type": "string"
-            },
-            {
-              "name": "symbol_url",
-              "title": "Symbol URL",
-              "type": "string",
-              "format": "uri"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "7972644245bb4888db7e350ea77b21cd",
-          "bytes": 2222,
-          "fields": 5,
-          "rows": 15
-        }
-      },
-      "time": 0.009,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "lists",
+      "type": "table",
+      "place": "data/lists.csv",
+      "labels": [
+        "id",
+        "list",
+        "slug",
+        "symbol_name",
+        "symbol_url"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "7972644245bb4888db7e350ea77b21cd",
+        "sha256": "e2310462d36ad9ce8d59cca2e2793717cd35b483b578c1147496bd542f3c2e72",
+        "bytes": 2222,
+        "fields": 5,
+        "rows": 15,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.008
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/parties.csv",
-        "name": "parties",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Party ID",
-              "type": "integer"
-            },
-            {
-              "name": "party",
-              "title": "Party name",
-              "type": "string"
-            },
-            {
-              "name": "list_id",
-              "title": "List ID",
-              "description": "Electoral list ID",
-              "type": "integer"
-            },
-            {
-              "name": "list",
-              "title": "List name",
-              "description": "Electoral list name",
-              "type": "string"
-            },
-            {
-              "name": "coalition_id",
-              "title": "Coalition ID",
-              "type": "integer"
-            },
-            {
-              "name": "coalition",
-              "title": "Coalition name",
-              "type": "string"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "1fb23a84fc726acf9d1f4d184c199bbe",
-          "bytes": 4398,
-          "fields": 6,
-          "rows": 73
-        }
-      },
-      "time": 0.01,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "parties",
+      "type": "table",
+      "place": "data/parties.csv",
+      "labels": [
+        "id",
+        "party",
+        "list_id",
+        "list",
+        "coalition_id",
+        "coalition"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "1fb23a84fc726acf9d1f4d184c199bbe",
+        "sha256": "ce76148ad93655635449adf4aba1263972fd1b12c77cc5e32fcc67a051741d45",
+        "bytes": 4398,
+        "fields": 6,
+        "rows": 73,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.008
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/sources.csv",
-        "name": "sources",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "format": "csv",
-        "hashing": "md5",
-        "encoding": "utf-8",
-        "schema": {
-          "fields": [
-            {
-              "name": "id",
-              "title": "Source ID",
-              "type": "integer"
-            },
-            {
-              "name": "title",
-              "title": "Source title",
-              "type": "string"
-            },
-            {
-              "name": "slug",
-              "title": "Source slug",
-              "type": "string"
-            },
-            {
-              "name": "type",
-              "title": "Source type",
-              "type": "string"
-            },
-            {
-              "name": "url",
-              "title": "Source URL",
-              "type": "string",
-              "format": "uri"
-            },
-            {
-              "name": "list",
-              "title": "List name",
-              "description": "Electoral list name",
-              "type": "string"
-            },
-            {
-              "name": "list_id",
-              "title": "List ID",
-              "description": "Electoral list ID",
-              "type": "integer"
-            }
-          ]
-        },
-        "stats": {
-          "hash": "72113b7a028544e153275b69976194c8",
-          "bytes": 4787,
-          "fields": 7,
-          "rows": 22
-        }
-      },
-      "time": 0.01,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
+      "valid": true,
+      "name": "sources",
+      "type": "table",
+      "place": "data/sources.csv",
+      "labels": [
+        "id",
+        "title",
+        "slug",
+        "type",
+        "url",
+        "list",
+        "list_id"
       ],
-      "partial": false,
-      "errors": [],
       "stats": {
-        "errors": 0
+        "md5": "72113b7a028544e153275b69976194c8",
+        "sha256": "bf52efea0d02e8ad17d90f76debc95503fa5c9ac8c99856037d1711eed21a0a3",
+        "bytes": 4787,
+        "fields": 7,
+        "rows": 22,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.01
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/categories.json",
-        "name": "categories-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 7,
-          "rows": 11
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "slug"
-            },
-            {
-              "type": "string",
-              "name": "source"
-            },
-            {
-              "type": "string",
-              "name": "name_en"
-            },
-            {
-              "type": "string",
-              "name": "description_en"
-            },
-            {
-              "type": "string",
-              "name": "name_it"
-            },
-            {
-              "type": "string",
-              "name": "description_it"
-            }
-          ]
-        }
-      },
-      "time": 0.012,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "categories-json-version",
+      "type": "file",
+      "place": "data/categories.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "8a6d19bd20405f275a256635e7d6806f",
+        "sha256": "36036d4299d19d5a455635e6d24b33e7540dda871c6a0f94d7782b069d779830",
+        "bytes": 5902,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/coalitions.json",
-        "name": "coalitions-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 2,
-          "rows": 9
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "coalition"
-            }
-          ]
-        }
-      },
-      "time": 0.006,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "coalitions-json-version",
+      "type": "file",
+      "place": "data/coalitions.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "c05e275f7c609b83d7d2e096e880fb23",
+        "sha256": "da3eb96fb32675a5820401936b759ea742cf8b42b1ab6584b544f0f1d73ecfb6",
+        "bytes": 495,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/endorsements.json",
-        "name": "endorsements-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 4,
-          "rows": 4
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "description"
-            },
-            {
-              "type": "string",
-              "name": "icon"
-            },
-            {
-              "type": "string",
-              "name": "color_code"
-            }
-          ]
-        }
-      },
-      "time": 0.006,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "endorsements-json-version",
+      "type": "file",
+      "place": "data/endorsements.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "3f10ecf899eb03c5647f09ef0fb02a39",
+        "sha256": "eb29d9aceede749b33f73c20cf4cf45aa046ff37224d5da46402e502f2b39d86",
+        "bytes": 392,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/glossary.json",
-        "name": "glossary-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 4,
-          "rows": 105
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "subject"
-            },
-            {
-              "type": "string",
-              "name": "subject_slug"
-            },
-            {
-              "type": "string",
-              "name": "url"
-            }
-          ]
-        }
-      },
-      "time": 0.01,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "glossary-json-version",
+      "type": "file",
+      "place": "data/glossary.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "3d53fdcf98f532f9b8fdab30a8b7e6fe",
+        "sha256": "08d1988565ba1fcf721d5159724a3148c1e312733b61934d5036e09a7c3722cb",
+        "bytes": 15590,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/lists.json",
-        "name": "lists-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 5,
-          "rows": 15
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "list"
-            },
-            {
-              "type": "string",
-              "name": "slug"
-            },
-            {
-              "type": "string",
-              "name": "symbol_name"
-            },
-            {
-              "type": "string",
-              "name": "symbol_url"
-            }
-          ]
-        }
-      },
-      "time": 0.007,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "lists-json-version",
+      "type": "file",
+      "place": "data/lists.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "77c5958f2c1ac44ad089e21070ef82de",
+        "sha256": "3850891c6fb66d0a138a39eb980b44ec6fd11c3712fd160a9e37c3a1fd785080",
+        "bytes": 3452,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/parties.json",
-        "name": "parties-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 6,
-          "rows": 73
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "party"
-            },
-            {
-              "type": "integer",
-              "name": "list_id"
-            },
-            {
-              "type": "string",
-              "name": "list"
-            },
-            {
-              "type": "integer",
-              "name": "coalition_id"
-            },
-            {
-              "type": "string",
-              "name": "coalition"
-            }
-          ]
-        }
-      },
-      "time": 0.01,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "parties-json-version",
+      "type": "file",
+      "place": "data/parties.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "8bb5fc2b0067c0d9957086fab89f577a",
+        "sha256": "8ab5cd0e1454570c4a080e9ee38c955f583470d487d1a0051d52c82f58c50cb0",
+        "bytes": 11513,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/sources.json",
-        "name": "sources-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 7,
-          "rows": 22
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "title"
-            },
-            {
-              "type": "string",
-              "name": "slug"
-            },
-            {
-              "type": "string",
-              "name": "type"
-            },
-            {
-              "type": "string",
-              "name": "url"
-            },
-            {
-              "type": "string",
-              "name": "list"
-            },
-            {
-              "type": "integer",
-              "name": "list_id"
-            }
-          ]
-        }
-      },
-      "time": 0.008,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "sources-json-version",
+      "type": "file",
+      "place": "data/sources.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "a4b991205fbe8e2b6beb81a2dfa3533d",
+        "sha256": "d6650ff05d8781ab7e7ad725f581e520db2061c284b231499edcc73835c505ae",
+        "bytes": 6957,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/leaders.json",
-        "name": "leaders-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 7,
-          "rows": 15
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "name"
-            },
-            {
-              "type": "string",
-              "name": "surname"
-            },
-            {
-              "type": "string",
-              "name": "list"
-            },
-            {
-              "type": "integer",
-              "name": "list_id"
-            },
-            {
-              "type": "string",
-              "name": "profile_pic"
-            },
-            {
-              "type": "string",
-              "name": "wikipedia_url"
-            }
-          ]
-        }
-      },
-      "time": 0.008,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "leaders-json-version",
+      "type": "file",
+      "place": "data/leaders.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "6b06a259e850c220e11796bf675ac856",
+        "sha256": "883476213cb0866d6834b08b068cc4e0352fbf0b427aa6c090eb8b095d62160a",
+        "bytes": 4484,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.001
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     },
     {
-      "resource": {
-        "path": "data/new_items.json",
-        "name": "new_items-json-version",
-        "dialect": {
-          "keyed": true
-        },
-        "encoding": "utf-8",
-        "format": "json",
-        "hashing": "md5",
-        "profile": "tabular-data-resource",
-        "scheme": "file",
-        "stats": {
-          "hash": "",
-          "bytes": 0,
-          "fields": 12,
-          "rows": 1541
-        },
-        "schema": {
-          "fields": [
-            {
-              "type": "integer",
-              "name": "id"
-            },
-            {
-              "type": "string",
-              "name": "category"
-            },
-            {
-              "type": "integer",
-              "name": "category_id"
-            },
-            {
-              "type": "string",
-              "name": "subject"
-            },
-            {
-              "type": "string",
-              "name": "subject_slug"
-            },
-            {
-              "type": "integer",
-              "name": "subject_id"
-            },
-            {
-              "type": "string",
-              "name": "source"
-            },
-            {
-              "type": "string",
-              "name": "source_slug"
-            },
-            {
-              "type": "string",
-              "name": "list"
-            },
-            {
-              "type": "integer",
-              "name": "list_id"
-            },
-            {
-              "type": "string",
-              "name": "endorsement"
-            },
-            {
-              "type": "string",
-              "name": "description"
-            }
-          ]
-        }
-      },
-      "time": 0.058,
-      "scope": [
-        "hash-count-error",
-        "byte-count-error",
-        "field-count-error",
-        "row-count-error",
-        "blank-header",
-        "extra-label",
-        "missing-label",
-        "blank-label",
-        "duplicate-label",
-        "incorrect-label",
-        "blank-row",
-        "primary-key-error",
-        "foreign-key-error",
-        "extra-cell",
-        "missing-cell",
-        "type-error",
-        "constraint-error",
-        "unique-error"
-      ],
-      "partial": false,
-      "errors": [],
+      "valid": true,
+      "name": "new_items-json-version",
+      "type": "file",
+      "place": "data/new_items.json",
+      "labels": [],
       "stats": {
-        "errors": 0
+        "md5": "3a6aeaeb7e46ee9f2c3d2834bcb76413",
+        "sha256": "b19e1f9167af1da94430015c02d437885d862da28e424b278d6811db0c502abb",
+        "bytes": 778743,
+        "warnings": 0,
+        "errors": 0,
+        "seconds": 0.008
       },
-      "valid": true
+      "warnings": [],
+      "errors": []
     }
-  ],
-  "stats": {
-    "errors": 0,
-    "tasks": 18
-  },
-  "valid": true
+  ]
 }
