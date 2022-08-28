@@ -168,6 +168,23 @@ description | string | Description of endorsement types | Lorem ipsum
 icon | string | Color of the icon to display | green
 color_code | string | HEX code | #50CEBB
 
+## How to access data
+If you wanna use indecis.it data in your works, you can follow these easy instructions. First of all you have to locate the raw URL of the file you are interested in
+
+### Google Sheets
+```
+=IMPORTDATA("https://github.com/indecis-it/data/blob/main/data/endorsements.csv")
+```
+
+### R
+```r
+readr:read_csv("https://github.com/indecis-it/data/blob/main/data/endorsements.csv")
+```
+
+### MATLAB
+```matlab
+readtable("https://github.com/indecis-it/data/blob/main/data/endorsements.csv")
+```
 
 ## License
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="150"/></a>
