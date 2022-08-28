@@ -24,7 +24,7 @@ root
 
 Every file in `data` folder is described according to [frictionless data standards](https://frictionlessdata.io/standards/) in the [`datapackage.yaml`](https://github.com/indecis-it/data/blob/main/datapackage.yaml)
 
-### [📄 categories.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv)
+### [📄 categories.csv](https://github.com/indecis-it/data/blob/main/data/categories.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv
@@ -41,7 +41,7 @@ description_en | string | English description of the category | Lorem ipsum
 name_it | string | Italian name of the category | Affari economici
 description_it | string | Italian description of the category | Lorem ipsum
 
-### [📄 sources.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv)
+### [📄 sources.csv](https://github.com/indecis-it/data/blob/main/data/sources.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv
@@ -58,7 +58,7 @@ url | URL | Source URL | https://www.indecis.it
 list | string | Electoral list name | Partito Democratico
 list_id | integer | Electoral list ID | 1
 
-### [📄 lists.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv)
+### [📄 lists.csv](https://github.com/indecis-it/data/blob/main/data/lists.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv
@@ -73,7 +73,7 @@ slug | string | Electoral list slug | programma-elettorale-pd
 symbol_name | string | Symbol filename | pd.jpg
 symbol_url | URL | Symbol URL | https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/pd.jpg
 
-### [📄 parties.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv)
+### [📄 parties.csv](https://github.com/indecis-it/data/blob/main/data/parties.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv
@@ -89,7 +89,7 @@ list | string | Electoral list name | Partito Democratico
 coalition_id | integer | Coalition ID | 1
 coalition | string | Coalition name | Centro-sinistra
 
-### [📄 coalitions.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv)
+### [📄 coalitions.csv](https://github.com/indecis-it/data/blob/main/data/coalitions.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv
@@ -101,7 +101,7 @@ field | type | description | example
 id | integer | Coalition ID | 1
 coalition | string | Coalition name | Centro-sinistra
 
-### [📄 leaders.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv)
+### [📄 leaders.csv](https://github.com/indecis-it/data/blob/main/data/leaders.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv
@@ -118,7 +118,7 @@ list_id | string | Electoral list ID | 1
 profile_pic | URL | Profile image URL | https://www.indecis.it
 wikipedia_url | URL | Wikipedia page URL | https://www.indecis.it
 
-### [📄 items.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv)
+### [📄 items.csv](https://github.com/indecis-it/data/blob/main/data/items.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv
@@ -140,7 +140,7 @@ list_id | integer | Electoral list ID | 6
 endorsement | string | Endorsement referred to the subject. See endorsements file for more information | green
 description | string | Description of the position taken by the list | Lorem ipsum
 
-### [📄 glossary.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv)
+### [📄 glossary.csv](https://github.com/indecis-it/data/blob/main/data/glossary.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv
@@ -154,7 +154,7 @@ subject | string | Subject name | Alloggi popolari
 subject_slug | string | Subject slug | alloggi-popolari
 url | URL | URL of an external reference | https://www.indecis.it
 
-### [📄 endorsements.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv)
+### [📄 endorsements.csv](https://github.com/indecis-it/data/blob/main/data/endorsements.csv)
 
 - Path: `data/`
 - URL: https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv
