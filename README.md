@@ -101,6 +101,23 @@ field | type | description | example
 id | integer | Coalition ID | 1
 coalition | string | Coalition name | Centro-sinistra
 
+### [📄 leaders.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
+field | type | description | example
+-- | -- | -- | --
+id | integer | Leader ID | 1
+name | string | Leader name | Giorgia
+surname | string | Leader surname | Meloni
+list | string | Electoral list name | Fratelli d'Italia
+list_id | string | Electoral list ID | 1
+profile_pic | URL | Profile image URL | https://www.indecis.it
+wikipedia_url | URL | Wikipedia page URL | https://www.indecis.it
+
 ### [📄 items.csv](https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv)
 
 - Path: `data/`
