@@ -4,7 +4,7 @@
     "tasks": 18,
     "warnings": 0,
     "errors": 0,
-    "seconds": 0.631
+    "seconds": 0.495
   },
   "warnings": [],
   "errors": [],
@@ -31,7 +31,7 @@
         "rows": 11,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.012
+        "seconds": 0.009
       },
       "warnings": [],
       "errors": []
@@ -53,7 +53,7 @@
         "rows": 9,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.005
+        "seconds": 0.004
       },
       "warnings": [],
       "errors": []
@@ -77,7 +77,7 @@
         "rows": 4,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.007
+        "seconds": 0.005
       },
       "warnings": [],
       "errors": []
@@ -94,14 +94,14 @@
         "url"
       ],
       "stats": {
-        "md5": "3dafe2a940450f196051f044fbbc1519",
-        "sha256": "c336694d720f4bbf49ecb60260a640c26f32cb6b77845baf456020fa9243196d",
-        "bytes": 9107,
+        "md5": "31b8627dbb7077ee16aad7578f255631",
+        "sha256": "38e12c9de5b737980e6d4246c125dd66fb274d1f2ae23083014fd78551c7b79f",
+        "bytes": 9109,
         "fields": 4,
         "rows": 105,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.04
+        "seconds": 0.031
       },
       "warnings": [],
       "errors": []
@@ -126,14 +126,14 @@
         "description"
       ],
       "stats": {
-        "md5": "9599dbfee5103c52faccd33e104e264a",
-        "sha256": "786128ab07a07ff9837a16bb50455319e83fb4cb1084aa95c0195bececcc190b",
-        "bytes": 464019,
+        "md5": "5dfe36726a1fe379af506824b763cd27",
+        "sha256": "c12b7154233404833e49e5d661f1eee33b2a8d3cb8249c3ca058c1b3d42c5d3c",
+        "bytes": 474953,
         "fields": 12,
-        "rows": 1541,
+        "rows": 1579,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.172
+        "seconds": 0.135
       },
       "warnings": [],
       "errors": []
@@ -160,7 +160,7 @@
         "rows": 15,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.025
+        "seconds": 0.019
       },
       "warnings": [],
       "errors": []
@@ -185,7 +185,7 @@
         "rows": 15,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.011
+        "seconds": 0.008
       },
       "warnings": [],
       "errors": []
@@ -211,7 +211,7 @@
         "rows": 73,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.011
+        "seconds": 0.008
       },
       "warnings": [],
       "errors": []
@@ -238,7 +238,7 @@
         "rows": 22,
         "warnings": 0,
         "errors": 0,
-        "seconds": 0.014
+        "seconds": 0.01
       },
       "warnings": [],
       "errors": []
@@ -301,9 +301,9 @@
       "place": "data/glossary.json",
       "labels": [],
       "stats": {
-        "md5": "3d53fdcf98f532f9b8fdab30a8b7e6fe",
-        "sha256": "08d1988565ba1fcf721d5159724a3148c1e312733b61934d5036e09a7c3722cb",
-        "bytes": 15590,
+        "md5": "436b170281f45b136748539b0d100a84",
+        "sha256": "0d670e91419a795400260bc89142fad075ff882bb97e979b1694fce76ad36a91",
+        "bytes": 15592,
         "warnings": 0,
         "errors": 0,
         "seconds": 0.001
@@ -386,9 +386,9 @@
       "place": "data/new_items.json",
       "labels": [],
       "stats": {
-        "md5": "3a6aeaeb7e46ee9f2c3d2834bcb76413",
-        "sha256": "b19e1f9167af1da94430015c02d437885d862da28e424b278d6811db0c502abb",
-        "bytes": 778743,
+        "md5": "11a497de19ee46e167e94b73cda6abda",
+        "sha256": "86740d019a1253dde46be920d1a11fa536a545ab10a49be90976778fc005cff1",
+        "bytes": 797451,
         "warnings": 0,
         "errors": 0,
         "seconds": 0.008
