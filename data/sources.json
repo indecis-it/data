@@ -197,4 +197,22 @@
   "list": "Fratelli d'Italia",
   "list_id": 1
 }
+,{
+  "id": 23,
+  "title": "Tweet Toti 26 agosto 2022",
+  "slug": "tweet-toti-26-agosto-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/GiovanniToti/status/1563105649789390849",
+  "list": "Noi moderati",
+  "list_id": 4
+}
+,{
+  "id": 24,
+  "title": "Post Berlusconi 21 agosto 2022",
+  "slug": "post-berlusconi-21-agosto-2022",
+  "type": "post",
+  "url": "https://www.facebook.com/SilvioBerlusconi/videos/1687886861593147",
+  "list": "Forza Italia",
+  "list_id": 3
+}
 ]
