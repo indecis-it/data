@@ -11,7 +11,7 @@
 ,{
   "id": 2,
   "title": "Le proposte per il turismo di Fratelli d’Italia",
-  "slug": "le-proposte-per-il-turismo-di-fratelli-d’italia",
+  "slug": "le-proposte-per-il-turismo-di-fratelli-ditalia",
   "type": "programma",
   "url": "https://www.fratelli-italia.it/wp-content/uploads/2022/08/Patto-per-il-turismo-2022-Il-Programma-elettorale-per-il-Turismo-di-Fratelli-DItalia.pdf",
   "list": "Fratelli d'Italia",
@@ -20,7 +20,7 @@
 ,{
   "id": 3,
   "title": "Programma elettorale +Europa",
-  "slug": "programma-elettorale--europa",
+  "slug": "programma-elettorale-europa",
   "type": "programma",
   "url": "https://assets.nationbuilder.com/piueuropa/pages/1728/attachments/original/1661249454/PROGRAMMA__EUROPA_2022_.pdf",
   "list": "+Europa",
@@ -110,7 +110,7 @@
 ,{
   "id": 13,
   "title": "Programma elettorale Alternativa Per l'Italia",
-  "slug": "programma-elettorale-alternativa-per-l'italia",
+  "slug": "programma-elettorale-alternativa-per-litalia",
   "type": "programma",
   "url": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/44/(44_progr_2_)-programma_apli_pdf_a.pdf",
   "list": "Alternativa Per l'Italia",

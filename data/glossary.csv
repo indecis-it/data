@@ -74,33 +74,28 @@ id,subject,subject_slug,url
 73,Investimento su politiche sportive,investimento-su-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
 74,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,
 75,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,
-76,Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia,maggiori-investimenti-per-aiutare-i-giovani-laureatie-a-rimanere-in-italia,
+76,Aiutare giovani laureati/e a rimanere in Italia,aiutare-giovani-laureatie-a-rimanere-in-italia,
 77,Mense scolastiche gratuite,mense-scolastiche-gratuite,
 78,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping
 79,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
-80,Insegnamento inglese asili,insegnamento-inglese-asili,
-81,Libri di testo gratuiti,libri-di-testo-gratuiti,
-82,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
-83,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
-84,Promuovere parità di genere,promuovere-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
-85,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro
-86,Integrazione università-aziende,integrazione-universitaziende,
-87,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-88,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,https://it.wikipedia.org/wiki/Scuolabus
-89,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,
-90,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
-91,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,
-92,Favorire riscatto della laurea,favorire-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
-93,Valutazione dei docenti universitari da parte degli/lle studenti/sse,valutazione-dei-docenti-universitari-da-parte-deglille-studentisse,
-94,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,
-95,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-96,Più attività extrascolastiche,pi-attivit-extrascolastiche,
-97,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,
-98,Stop bocciature,stop-bocciature,
-99,Internet gratuito per studenti/sse,internet-gratuito-per-studentisse,
-100,Abolizione libri stampati,abolizione-libri-stampati,
-101,Ripristino articolo 18,ripristino-articolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
-102,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
-103,Garante nazionale del Benessere Animale,garante-nazionale-del-benessere-animale,
-104,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,
-105,Importante: non aggiungere altri subject per ora,importante-non-aggiungere-altri-subject-per-ora,
+80,Libri di testo gratuiti,libri-di-testo-gratuiti,
+81,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
+82,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
+83,Promuovere parità di genere,promuovere-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
+84,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro
+85,Integrazione università-aziende,integrazione-universitaziende,
+86,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+87,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,https://it.wikipedia.org/wiki/Scuolabus
+88,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,
+89,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
+90,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,
+91,Favorire riscatto della laurea,favorire-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
+92,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,
+93,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
+94,Più attività extrascolastiche,pi-attivit-extrascolastiche,
+95,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,
+96,Ripristino articolo 18,ripristino-articolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
+97,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
+98,Tutela del Benessere Animale,tutela-del-benessere-animale,
+99,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,
+100,Importante: non aggiungere altri subject per ora,importante-non-aggiungere-altri-subject-per-ora,

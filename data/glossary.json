@@ -451,8 +451,8 @@
 }
 ,{
   "id": 76,
-  "subject": "Maggiori investimenti per aiutare i giovani laureati/e a rimanere in Italia",
-  "subject_slug": "maggiori-investimenti-per-aiutare-i-giovani-laureatie-a-rimanere-in-italia",
+  "subject": "Aiutare giovani laureati/e a rimanere in Italia",
+  "subject_slug": "aiutare-giovani-laureatie-a-rimanere-in-italia",
   "url": ""
 }
 ,{
@@ -475,156 +475,126 @@
 }
 ,{
   "id": 80,
-  "subject": "Insegnamento inglese asili",
-  "subject_slug": "insegnamento-inglese-asili",
-  "url": ""
-}
-,{
-  "id": 81,
   "subject": "Libri di testo gratuiti",
   "subject_slug": "libri-di-testo-gratuiti",
   "url": ""
 }
 ,{
-  "id": 82,
+  "id": 81,
   "subject": "Più meritocrazia a scuola e nei concorsi",
   "subject_slug": "pi-meritocrazia-a-scuola-e-nei-concorsi",
   "url": "https://it.wikipedia.org/wiki/Meritocrazia"
 }
 ,{
-  "id": 83,
+  "id": 82,
   "subject": "Promuovere Istituti Tecnici Superiori",
   "subject_slug": "promuovere-istituti-tecnici-superiori",
   "url": "https://www.miur.gov.it/tematica-its"
 }
 ,{
-  "id": 84,
+  "id": 83,
   "subject": "Promuovere parità di genere",
   "subject_slug": "promuovere-parit-di-genere",
   "url": "https://it.wikipedia.org/wiki/Uguaglianza_di_genere"
 }
 ,{
-  "id": 85,
+  "id": 84,
   "subject": "Promuovere sicurezza sul lavoro",
   "subject_slug": "promuovere-sicurezza-sul-lavoro",
   "url": "https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro"
 }
 ,{
-  "id": 86,
+  "id": 85,
   "subject": "Integrazione università-aziende",
   "subject_slug": "integrazione-universitaziende",
   "url": ""
 }
 ,{
-  "id": 87,
+  "id": 86,
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
   "url": "https://it.wikipedia.org/wiki/Scuola_dell%27infanzia"
 }
 ,{
-  "id": 88,
+  "id": 87,
   "subject": "Trasporto scolastico gratuito",
   "subject_slug": "trasporto-scolastico-gratuito",
   "url": "https://it.wikipedia.org/wiki/Scuolabus"
 }
 ,{
-  "id": 89,
+  "id": 88,
   "subject": "Sostegno meno abbienti e incapienti",
   "subject_slug": "sostegno-meno-abbienti-e-incapienti",
   "url": ""
 }
 ,{
-  "id": 90,
+  "id": 89,
   "subject": "Sviluppare servizi sanitari di prossimità",
   "subject_slug": "sviluppare-servizi-sanitari-di-prossimit",
   "url": "https://it.wikipedia.org/wiki/Azienda_sanitaria_locale"
 }
 ,{
-  "id": 91,
+  "id": 90,
   "subject": "Tutela ambiente e paesaggio",
   "subject_slug": "tutela-ambiente-e-paesaggio",
   "url": ""
 }
 ,{
-  "id": 92,
+  "id": 91,
   "subject": "Favorire riscatto della laurea",
   "subject_slug": "favorire-riscatto-della-laurea",
   "url": "https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati"
 }
 ,{
-  "id": 93,
-  "subject": "Valutazione dei docenti universitari da parte degli/lle studenti/sse",
-  "subject_slug": "valutazione-dei-docenti-universitari-da-parte-deglille-studentisse",
-  "url": ""
-}
-,{
-  "id": 94,
+  "id": 92,
   "subject": "Sostegno alla scuola paritaria",
   "subject_slug": "sostegno-alla-scuola-paritaria",
   "url": ""
 }
 ,{
-  "id": 95,
+  "id": 93,
   "subject": "Scuola infanzia obbligatoria",
   "subject_slug": "scuola-infanzia-obbligatoria",
   "url": "https://it.wikipedia.org/wiki/Scuola_dell%27infanzia"
 }
 ,{
-  "id": 96,
+  "id": 94,
   "subject": "Più attività extrascolastiche",
   "subject_slug": "pi-attivit-extrascolastiche",
   "url": ""
 }
 ,{
-  "id": 97,
+  "id": 95,
   "subject": "Abolizione del numero chiuso università",
   "subject_slug": "abolizione-del-numero-chiuso-universit",
   "url": ""
 }
 ,{
-  "id": 98,
-  "subject": "Stop bocciature",
-  "subject_slug": "stop-bocciature",
-  "url": ""
-}
-,{
-  "id": 99,
-  "subject": "Internet gratuito per studenti/sse",
-  "subject_slug": "internet-gratuito-per-studentisse",
-  "url": ""
-}
-,{
-  "id": 100,
-  "subject": "Abolizione libri stampati",
-  "subject_slug": "abolizione-libri-stampati",
-  "url": ""
-}
-,{
-  "id": 101,
+  "id": 96,
   "subject": "Ripristino articolo 18",
   "subject_slug": "ripristino-articolo-18",
   "url": "https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori"
 }
 ,{
-  "id": 102,
+  "id": 97,
   "subject": "Fine del segreto di Stato sulle stragi",
   "subject_slug": "fine-del-segreto-di-stato-sulle-stragi",
   "url": "https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)"
 }
 ,{
-  "id": 103,
-  "subject": "Garante nazionale del Benessere Animale",
-  "subject_slug": "garante-nazionale-del-benessere-animale",
+  "id": 98,
+  "subject": "Tutela del Benessere Animale",
+  "subject_slug": "tutela-del-benessere-animale",
   "url": ""
 }
 ,{
-  "id": 104,
+  "id": 99,
   "subject": "Commissione di inchiesta COVID",
   "subject_slug": "commissione-di-inchiesta-covid",
   "url": ""
 }
 ,{
-  "id": 105,
+  "id": 100,
   "subject": "Importante: non aggiungere altri subject per ora",
   "subject_slug": "importante-non-aggiungere-altri-subject-per-ora",
   "url": ""
