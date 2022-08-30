@@ -215,4 +215,22 @@
   "list": "Forza Italia",
   "list_id": 3
 }
+,{
+  "id": 25,
+  "title": "Programma elettorale Fratelli d'Italia",
+  "slug": "programma-elettorale-fratelli-ditalia",
+  "type": "programma",
+  "url": "https://www.fratelli-italia.it/wp-content/uploads/2022/08/Brochure_programma_FdI_qr_def.pdf",
+  "list": "Fratelli d'Italia",
+  "list_id": 1
+}
+,{
+  "id": 26,
+  "title": "Tweet Adinolfi 30 agosto 2022",
+  "slug": "tweet-adinolfi-30-agosto-2022",
+  "type": "",
+  "url": "https://twitter.com/marioadinolfi/status/1564613651146965012",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 12
+}
 ]
