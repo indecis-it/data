@@ -39,7 +39,7 @@ long <- df %>%
     select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
-write_csv(long, here("data/new_items.csv"), na ="")
+write_csv(long, here("data/items.csv"), na ="")
 
 # generating infos.csv
 infos <- df %>%
