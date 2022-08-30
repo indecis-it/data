@@ -6,7 +6,7 @@ id,category,category_id,subject,subject_slug,subject_id,source,source_slug,list,
 5,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Elezione diretta del Presidente della Repubblica
 6,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Elezione diretta del Presidente della Repubblica
 7,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-8,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+8,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 9,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 10,Organi di governo e amministrativi,1,Presidenzialismo,presidenzialismo,18,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Il presidenzialismo, secondo il modello sperimentato in Francia con successo, è la risposta
 Eleggere direttamente il Capo dello Stato, in un contesto di rafforzamento dei poteri
@@ -29,7 +29,7 @@ Noi crediamo che tutto questo debba essere cancellato, per tornare alla normalit
 20,Economia,4,Apprendistato retribuito,apprendistato-retribuito,62,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 21,Economia,4,Apprendistato retribuito,apprendistato-retribuito,62,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 22,Economia,4,Apprendistato retribuito,apprendistato-retribuito,62,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-23,Economia,4,Apprendistato retribuito,apprendistato-retribuito,62,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+23,Economia,4,Apprendistato retribuito,apprendistato-retribuito,62,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 24,Economia,4,Apprendistato retribuito,apprendistato-retribuito,62,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"I contratti di apprendistato (di vario tipo) devono aver e programmi seri di
 formazione che li sottendano: vanno certificati e verificati prima, durante e dopo il
 rapporto;
@@ -52,7 +52,7 @@ tirocinio ai fini pensionistici"
 35,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Aumento dell'assegno unico e universale
 36,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Aumento dell'assegno unico e universale
 37,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-38,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+38,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 39,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 40,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 41,Economia,4,Aumento assegno unico universale,aumento-assegno-unico-universale,29,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -74,7 +74,7 @@ della medicina predittiva e incremento dell'organico di medici e operatori sanit
 51,Economia,4,Aumento numero di medici,aumento-numero-di-medici,59,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Sviluppo della sanità di prossimità e della medicina territoriale, rafforzamento
 della medicina predittiva e incremento dell'organico di medici e operatori sanitari"
 52,Economia,4,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-53,Economia,4,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+53,Economia,4,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 54,Economia,4,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Formazione e assunzione di personale
 sanitario (medici e infermieri), tendendo conto che con il prossimo pensionamento di
 migliaia di unità, entro il 2025, esiste un concreto rischio di chiusura di reparti e ospedali
@@ -100,7 +100,7 @@ della medicina predittiva e incremento dell'organico di medici e operatori sanit
 66,Salute,6,Aumento numero di medici,aumento-numero-di-medici,59,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Sviluppo della sanità di prossimità e della medicina territoriale, rafforzamento
 della medicina predittiva e incremento dell'organico di medici e operatori sanitari"
 67,Salute,6,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-68,Salute,6,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+68,Salute,6,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 69,Salute,6,Aumento numero di medici,aumento-numero-di-medici,59,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Formazione e assunzione di personale
 sanitario (medici e infermieri), tendendo conto che con il prossimo pensionamento di
 migliaia di unità, entro il 2025, esiste un concreto rischio di chiusura di reparti e ospedali
@@ -121,7 +121,7 @@ dei crediti e dei debiti verso la PA"
 81,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Introduzione del ""conto unico fiscale"" per la piena e immediata compensazione
 dei crediti e dei debiti verso la PA"
 82,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-83,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+83,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 84,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 85,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 86,Economia,4,Conto unico fiscale,conto-unico-fiscale,30,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -137,7 +137,7 @@ dei crediti e dei debiti verso la PA"
 95,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Aumento della produzione dell'energia rinnovabile
 96,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Aumento della produzione dell'energia rinnovabile
 97,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Accelerare lo sviluppo delle fonti rinnovabili
-98,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"Una transizione verso un approvvigionamento energetico rinnovabile con una programmazione a breve , medio e lungo termine che si basi su obiettivi raggiungibili e compatibili con le esigenze dei cittadini, dello sviluppo industriale e con uno sviluppo dell'occupazione duraturo e stabile"
+98,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Una transizione verso un approvvigionamento energetico rinnovabile con una programmazione a breve , medio e lungo termine che si basi su obiettivi raggiungibili e compatibili con le esigenze dei cittadini, dello sviluppo industriale e con uno sviluppo dell'occupazione duraturo e stabile"
 99,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"implementare un percorso a tappe di uscita da lla generazione elettrica mediante
 fonti fossili"
 100,Economia,4,Energia rinnovabile,energia-rinnovabile,19,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Semplificare le procedure e sviluppare, oltre a fotovoltaico ed eolico, le rinnovabili programmabili come idroelettrico, geotermia e biomassa, anche attraverso la realizzazione delle Comunità Energetiche, nonché adeguati sistemi di accumulo per bilanciare domanda e offerta di energia e dunque garantire la stabilità del sistema."
@@ -176,7 +176,7 @@ ulteriore ampliamento per famiglie e imprese"
 su incremento di reddito rispetto alle annualità precedenti, con la prospettiva di
 ulteriore ampliamento per famiglie e imprese"
 112,Economia,4,Flat tax,flat-tax,5,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-113,Economia,4,Flat tax,flat-tax,5,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+113,Economia,4,Flat tax,flat-tax,5,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 114,Economia,4,Flat tax,flat-tax,5,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 115,Economia,4,Flat tax,flat-tax,5,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"PROSEGUIRE IL PERCORSO VERSO LA FLAT TAX
 La Legge di bilancio 2019 (L. 30 dicembre 2018, n. 145) ha introdotto la cosiddetta “mini flat tax”,
@@ -221,7 +221,7 @@ ulteriore ampliamento per famiglie e imprese"
 125,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 126,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Post Berlusconi 21 agosto 2022,post-berlusconi-21-agosto-2022,Forza Italia,3,green,"""Quando saremo al governo faremo partire immediatamente i rigassificatori, i termovalorizzatori, gli impianti per le energie rinnovabili, la ricerca per il nucleare pulito senza i quali non ci sarà un futuro sostenibile."""
 127,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-128,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+128,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 129,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 130,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Adottare misure e realizzare impianti per consentire al settore rifiuti di esprimere il suo potenziale in termini di produzione e risparmio di energia, anche per ridurre la dipendenza energetica. Prevedere un piano di distribuzione sul territorio di termovalorizzatori ad alta efficienza energetica per soddisfare il fabbisogno locale e concorrere alla produzione di energia e teleriscaldamento."
 131,Economia,4,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI
@@ -237,7 +237,7 @@ nucleare."
 140,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 141,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Post Berlusconi 21 agosto 2022,post-berlusconi-21-agosto-2022,Forza Italia,3,green,"""Quando saremo al governo faremo partire immediatamente i rigassificatori, i termovalorizzatori, gli impianti per le energie rinnovabili, la ricerca per il nucleare pulito senza i quali non ci sarà un futuro sostenibile."""
 142,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-143,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+143,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 144,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 145,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Adottare misure e realizzare impianti per consentire al settore rifiuti di esprimere il suo potenziale in termini di produzione e risparmio di energia, anche per ridurre la dipendenza energetica. Prevedere un piano di distribuzione sul territorio di termovalorizzatori ad alta efficienza energetica per soddisfare il fabbisogno locale e concorrere alla produzione di energia e teleriscaldamento."
 146,Protezione Ambientale ed Energia,5,Inceneritori-Termovalorizzatori,inceneritoritermovalorizzatori,20,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,red,STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI
@@ -259,7 +259,7 @@ l'ammodernamento della rete infrastrutturale e la realizzazione delle grandi ope
 Potenziamento della rete dell'alta velocità per collegare tutto il territorio nazionale
 dal Nord alla Sicilia, realizzando il ponte sullo Stretto"
 157,Economia,4,Investimenti infrastrutture,investimenti-infrastrutture,21,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-158,Economia,4,Investimenti infrastrutture,investimenti-infrastrutture,21,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+158,Economia,4,Investimenti infrastrutture,investimenti-infrastrutture,21,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 159,Economia,4,Investimenti infrastrutture,investimenti-infrastrutture,21,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Depauperamento rete infrastrutturale nazionale: i tagli alla spesa pubblica e le
 privatizzazioni hanno dato come risultato l’impoverimento progressivo delle nostre
 infrastrutture, la re te autostradale insufficiente e carissima, ponti e viadotti pericolanti,
@@ -299,7 +299,7 @@ e sicuro"
 generazione senza veti e preconcetti, valutando anche il ricorso al nucleare pulito
 e sicuro"
 172,Economia,4,Nucleare,nucleare,16,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-173,Economia,4,Nucleare,nucleare,16,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+173,Economia,4,Nucleare,nucleare,16,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 174,Economia,4,Nucleare,nucleare,16,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 175,Economia,4,Nucleare,nucleare,16,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Nucleare Pulito e Sicuro
 In abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare
@@ -328,7 +328,7 @@ e sicuro"
 generazione senza veti e preconcetti, valutando anche il ricorso al nucleare pulito
 e sicuro"
 187,Protezione Ambientale ed Energia,5,Nucleare,nucleare,16,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-188,Protezione Ambientale ed Energia,5,Nucleare,nucleare,16,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+188,Protezione Ambientale ed Energia,5,Nucleare,nucleare,16,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 189,Protezione Ambientale ed Energia,5,Nucleare,nucleare,16,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 190,Protezione Ambientale ed Energia,5,Nucleare,nucleare,16,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Nucleare Pulito e Sicuro
 In abbinamento con le rinnovabili pianificare lo sviluppo, nel medio-lungo termine, del nucleare
@@ -358,7 +358,7 @@ Prevediamo in questo modo di aumentare la tassazione sui patrimoni o superiori a
 200,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,red,No a patrimoniali dichiarate o mascherate
 201,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,red,No a patrimoniali dichiarate o mascherate
 202,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-203,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+203,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 204,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 205,Servizi pubblici generali,#N/A,Patrimoniale,patrimoniale,28,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,"Rafforzamenti o estensioni delle imposte sul patrimonio sono
 inique e inefficienti nella misura in cui scoraggiano il risparmio e quindi il livello di investimenti
@@ -384,7 +384,7 @@ l'ammodernamento della rete infrastrutturale e la realizzazione delle grandi ope
 Potenziamento della rete dell'alta velocità per collegare tutto il territorio nazionale
 dal Nord alla Sicilia, realizzando il ponte sullo Stretto"
 217,Economia,4,Ponte sullo Stretto,ponte-sullo-stretto,53,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-218,Economia,4,Ponte sullo Stretto,ponte-sullo-stretto,53,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+218,Economia,4,Ponte sullo Stretto,ponte-sullo-stretto,53,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 219,Economia,4,Ponte sullo Stretto,ponte-sullo-stretto,53,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 220,Economia,4,Ponte sullo Stretto,ponte-sullo-stretto,53,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità
 territoriale tra Sicilia e Calabria (ponte sullo Stretto)."
@@ -416,7 +416,7 @@ l'ammodernamento della rete infrastrutturale e la realizzazione delle grandi ope
 Potenziamento della rete dell'alta velocità per collegare tutto il territorio nazionale
 dal Nord alla Sicilia, realizzando il ponte sullo Stretto"
 232,Economia,4,Realizzazione grandi opere,realizzazione-grandi-opere,54,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-233,Economia,4,Realizzazione grandi opere,realizzazione-grandi-opere,54,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+233,Economia,4,Realizzazione grandi opere,realizzazione-grandi-opere,54,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 234,Economia,4,Realizzazione grandi opere,realizzazione-grandi-opere,54,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 235,Economia,4,Realizzazione grandi opere,realizzazione-grandi-opere,54,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"CORSIA PREFERENZIALE PER LE GRANDI OPERE
 Superare le attuali barriere normative ancora vigenti nel Codice dei Contratti e nella
@@ -441,7 +441,7 @@ per la revisione del PNRR in funzione delle mutate condizioni, necessità e prio
 246,Economia,4,Revisione PNRR,revisione-pnrr,24,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Accordo con la Commissione europea, così come previsto dai Regolamenti europei,
 per la revisione del PNRR in funzione delle mutate condizioni, necessità e priorità"
 247,Economia,4,Revisione PNRR,revisione-pnrr,24,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-248,Economia,4,Revisione PNRR,revisione-pnrr,24,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+248,Economia,4,Revisione PNRR,revisione-pnrr,24,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 249,Economia,4,Revisione PNRR,revisione-pnrr,24,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 250,Economia,4,Revisione PNRR,revisione-pnrr,24,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 251,Economia,4,Revisione PNRR,revisione-pnrr,24,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -467,7 +467,7 @@ ampliamento della platea dei beni con IVA ridotta
 • Riduzione IVA sui prodotti energetici
 • Riduzione dell'aliquota IVA sui prodotti e servizi per l'infanzia"
 262,Servizi pubblici generali,#N/A,Riduzione IVA,riduzione-iva,4,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-263,Servizi pubblici generali,#N/A,Riduzione IVA,riduzione-iva,4,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+263,Servizi pubblici generali,#N/A,Riduzione IVA,riduzione-iva,4,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 264,Servizi pubblici generali,#N/A,Riduzione IVA,riduzione-iva,4,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,yellow,Riduzione dell’IVA al 10% sulle prestazioni Medico Veterinarie.
 265,Servizi pubblici generali,#N/A,Riduzione IVA,riduzione-iva,4,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"ABBATTIMENTO DELL’IVA SUI BENI DI PRIMA NECESSITÀ
 Per incidere sull’incremento dei prezzi dei beni di prima necessità, la Lega propone di abbattere
@@ -491,7 +491,7 @@ pane, pasta, latte)."
 275,Economia,4,Rigassificatori,rigassificatori,17,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 276,Economia,4,Rigassificatori,rigassificatori,17,Post Berlusconi 21 agosto 2022,post-berlusconi-21-agosto-2022,Forza Italia,3,green,"""Quando saremo al governo faremo partire immediatamente i rigassificatori, i termovalorizzatori, gli impianti per le energie rinnovabili, la ricerca per il nucleare pulito senza i quali non ci sarà un futuro sostenibile."""
 277,Economia,4,Rigassificatori,rigassificatori,17,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-278,Economia,4,Rigassificatori,rigassificatori,17,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+278,Economia,4,Rigassificatori,rigassificatori,17,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 279,Economia,4,Rigassificatori,rigassificatori,17,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 280,Economia,4,Rigassificatori,rigassificatori,17,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Proseguire con la diversificazione degli
 approvvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per
@@ -511,7 +511,7 @@ In particolare, proponiamo che venga istituito per tutte le infrastrutture legat
 290,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 291,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Post Berlusconi 21 agosto 2022,post-berlusconi-21-agosto-2022,Forza Italia,3,green,"""Quando saremo al governo faremo partire immediatamente i rigassificatori, i termovalorizzatori, gli impianti per le energie rinnovabili, la ricerca per il nucleare pulito senza i quali non ci sarà un futuro sostenibile."""
 292,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-293,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+293,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 294,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 295,Protezione Ambientale ed Energia,5,Rigassificatori,rigassificatori,17,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Proseguire con la diversificazione degli
 approvvigionamenti e con la realizzazione di infrastrutture strategiche, tra cui i rigassificatori, per
@@ -539,7 +539,7 @@ Sono 1.200 euro al mese ed è il prezzo della dignità."
 305,Economia,4,Salario minimo,salario-minimo,6,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 306,Economia,4,Salario minimo,salario-minimo,6,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 307,Economia,4,Salario minimo,salario-minimo,6,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-308,Economia,4,Salario minimo,salario-minimo,6,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,salario minimo a 1200 euro
+308,Economia,4,Salario minimo,salario-minimo,6,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,salario minimo a 1200 euro
 309,Economia,4,Salario minimo,salario-minimo,6,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 310,Economia,4,Salario minimo,salario-minimo,6,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"È riconosciuto ai lavoratori un salario minimo pari a quello stabilito dai CCNL più diffusi
 nel settore"
@@ -561,7 +561,7 @@ delle persone: lavorare tutti e lavorare meno."
 320,Economia,4,Aumento stipendio docenti,aumento-stipendio-docenti,60,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 321,Economia,4,Aumento stipendio docenti,aumento-stipendio-docenti,60,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 322,Economia,4,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-323,Economia,4,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+323,Economia,4,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 324,Economia,4,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Occorre riconoscere e salvaguardare la professionalità con il giusto adeguamento degli
 stipendi su Base Istat e un tempestivo congruo rinnovo contrattuale fermo da più di
 dieci anni, prima di eliminare il co ntentino dato sotto forma di ""Carta del docenti""."
@@ -579,7 +579,7 @@ dieci anni, prima di eliminare il co ntentino dato sotto forma di ""Carta del do
 335,Economia,4,Super bonus,super-bonus,7,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 336,Economia,4,Super bonus,super-bonus,7,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 337,Economia,4,Super bonus,super-bonus,7,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-338,Economia,4,Super bonus,super-bonus,7,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+338,Economia,4,Super bonus,super-bonus,7,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 339,Economia,4,Super bonus,super-bonus,7,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Mantenere solo i bonus legati alla ristrutturazione, edilizia, ecologica e superbonus."
 340,Economia,4,Super bonus,super-bonus,7,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"SUPERBONUS
 Si prevede un intervento sulla misura del Superbonus che garantisca garanzie per l’accesso all’agevolazione
@@ -612,7 +612,7 @@ che ancora oggi non riescono a trasformarli in liquidità per pagare fornitori e
 350,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,Taglio del cuneo fiscale in favore di imprese e lavoratori
 351,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,Taglio del cuneo fiscale in favore di imprese e lavoratori
 352,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Dobbiamo proseguire con il taglio al cuneo fiscale per le imprese
-353,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+353,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 354,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Quindi siamo favorevoli alla riduzione del cuneo fiscale, e all'aumento dei salari."
 355,Servizi pubblici generali,#N/A,Taglio cuneo fiscale,taglio-cuneo-fiscale,2,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"riducendo il cuneo fiscale del 50% per start up e Pmi innovative che assumono laureati o con
 titolo superiore per 5 anni a patto che siano contratti a tempo indeterminato;"
@@ -637,7 +637,7 @@ ulteriore ampliamento per famiglie e imprese"
 su incremento di reddito rispetto alle annualità precedenti, con la prospettiva di
 ulteriore ampliamento per famiglie e imprese"
 367,Servizi pubblici generali,#N/A,Taglio tasse partite IVA,taglio-tasse-partite-iva,3,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-368,Servizi pubblici generali,#N/A,Taglio tasse partite IVA,taglio-tasse-partite-iva,3,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+368,Servizi pubblici generali,#N/A,Taglio tasse partite IVA,taglio-tasse-partite-iva,3,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 369,Servizi pubblici generali,#N/A,Taglio tasse partite IVA,taglio-tasse-partite-iva,3,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 370,Servizi pubblici generali,#N/A,Taglio tasse partite IVA,taglio-tasse-partite-iva,3,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Come primo passo sul percorso della Flat tax è indispensabile portare a termine la sua fase 1 estendendola alle partite Iva con fatturato fino a € 100mila, come già previsto dalla legge di bilancio approvata nel 2019 (e successivamente abrogata dal governo Conte II)"
 371,Servizi pubblici generali,#N/A,Taglio tasse partite IVA,taglio-tasse-partite-iva,3,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -656,7 +656,7 @@ realizzazione di pozzi di gas naturale in un'ottica di utilizzo sostenibile dell
 381,Economia,4,Trivelle,trivelle,15,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Pieno utilizzo delle risorse nazionali, anche attraverso la riattivazione e nuova
 realizzazione di pozzi di gas naturale in un'ottica di utilizzo sostenibile delle fonti"
 382,Economia,4,Trivelle,trivelle,15,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-383,Economia,4,Trivelle,trivelle,15,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+383,Economia,4,Trivelle,trivelle,15,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 384,Economia,4,Trivelle,trivelle,15,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,yellow,"Ripristino del vincolo di esclusione delle dodici miglia dalla linea di costa e dal perimetro
 esterno delle aree marine e costiere protette in essere e in fase di attuazione o
 costituzione, anche per i processi autorizzativi in corso"
@@ -676,7 +676,7 @@ realizzazione di pozzi di gas naturale in un'ottica di utilizzo sostenibile dell
 396,Protezione Ambientale ed Energia,5,Trivelle,trivelle,15,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Pieno utilizzo delle risorse nazionali, anche attraverso la riattivazione e nuova
 realizzazione di pozzi di gas naturale in un'ottica di utilizzo sostenibile delle fonti"
 397,Protezione Ambientale ed Energia,5,Trivelle,trivelle,15,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-398,Protezione Ambientale ed Energia,5,Trivelle,trivelle,15,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+398,Protezione Ambientale ed Energia,5,Trivelle,trivelle,15,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 399,Protezione Ambientale ed Energia,5,Trivelle,trivelle,15,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,yellow,"Ripristino del vincolo di esclusione delle dodici miglia dalla linea di costa e dal perimetro
 esterno delle aree marine e costiere protette in essere e in fase di attuazione o
 costituzione, anche per i processi autorizzativi in corso"
@@ -694,7 +694,7 @@ realizzazione di pozzi di gas naturale in un'ottica di utilizzo sostenibile dell
 410,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 411,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 412,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-413,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+413,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 414,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 415,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 416,"Istruzione, Università e Ricerca",8,Scuola infanzia obbligatoria,scuola-infanzia-obbligatoria,93,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -709,7 +709,7 @@ realizzazione di pozzi di gas naturale in un'ottica di utilizzo sostenibile dell
 425,"Istruzione, Università e Ricerca",8,Aumento stipendio docenti,aumento-stipendio-docenti,60,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 426,"Istruzione, Università e Ricerca",8,Aumento stipendio docenti,aumento-stipendio-docenti,60,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 427,"Istruzione, Università e Ricerca",8,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-428,"Istruzione, Università e Ricerca",8,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+428,"Istruzione, Università e Ricerca",8,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 429,"Istruzione, Università e Ricerca",8,Aumento stipendio docenti,aumento-stipendio-docenti,60,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Occorre riconoscere e salvaguardare la professionalità con il giusto adeguamento degli
 stipendi su Base Istat e un tempestivo congruo rinnovo contrattuale fermo da più di
 dieci anni, prima di eliminare il co ntentino dato sotto forma di ""Carta del docenti""."
@@ -729,7 +729,7 @@ dell'edilizia residenziale pubblica"
 441,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Piano straordinario di riqualificazione delle periferie, anche attraverso il rilancio
 dell'edilizia residenziale pubblica"
 442,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-443,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Piano straordinario per le case popolari
+443,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Piano straordinario per le case popolari
 444,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 445,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 446,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,PIANO DI EDILIZIA RESIDENZIALE PUBBLICA con riqualificazione degli edifici esistenti senza consumo di suolo
@@ -751,7 +751,7 @@ casa senza famiglia."
 455,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 456,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 457,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-458,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+458,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 459,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 460,Politiche sociali,9,Contributo affitto giovani,contributo-affitto-giovani,33,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Garantire un maggior numero di posti letto universitari, anche con misure di sostegno
 agli affitti"
@@ -774,7 +774,7 @@ lavoro"
 inclusione sociale e di politiche attive di formazione e di inserimento nel mondo del
 lavoro"
 472,Politiche sociali,9,Reddito di cittadinanza,reddito-di-cittadinanza,11,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-473,Politiche sociali,9,Reddito di cittadinanza,reddito-di-cittadinanza,11,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+473,Politiche sociali,9,Reddito di cittadinanza,reddito-di-cittadinanza,11,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 474,Politiche sociali,9,Reddito di cittadinanza,reddito-di-cittadinanza,11,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,yellow,"reddito di cittadinanza: tale misura non va abolita, ma va riformata."
 475,Politiche sociali,9,Reddito di cittadinanza,reddito-di-cittadinanza,11,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Con la riforma del Reddito di Cittadinanza si intende:
 • per i percettori inidonei al lavoro, mantenere il sostegno al reddito, rivedendo i criteri di
@@ -805,7 +805,7 @@ Promuovere in EU un price cap a tutto il gas importato per ridurre anche il cost
 485,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Riduzione IVA sui prodotti energetici
 486,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Riduzione IVA sui prodotti energetici
 487,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-488,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+488,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 489,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 490,Politiche sociali,9,Riduzione bolletta energetica,riduzione-bolletta-energetica,27,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Proseguire con misure transitorie già introdotte nell’ultimo anno quali l’annullamento degli oneri di sistema delle bollette elettriche, la riduzione degli oneri di sistema delle bollette del gas per utenze domestiche e non domestiche, il potenziamento del bonus sociale elettricità e gas alle famiglie in difficoltà e ai clienti domestici in gravi condizioni di salute, la riduzione transitoria dell’Iva al 5% sul gas per usi civili e industriali, il riconoscimento alle imprese (gasivore e non gasivore, nonché energivore e quelle con potenza elettrica uguale o superiore a 16,5 kW) di un credito di imposta delle spese sostenute per l’acquisto di energia elettrica e gas.
 
@@ -822,7 +822,7 @@ Introdurre la riduzione dell’aliquota Iva al 5% anche per le bollette di energ
 500,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 501,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 502,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-503,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+503,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 504,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 505,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 506,Politiche sociali,9,Scuola infanzia gratuita,scuola-infanzia-gratuita,86,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -837,7 +837,7 @@ Introdurre la riduzione dell’aliquota Iva al 5% anche per le bollette di energ
 515,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 516,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 517,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-518,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+518,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 519,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 520,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,Non se ne parla nel programma
 521,Valori e diritti,10,Lotta alla omotransfobia,lotta-alla-omotransfobia,40,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA
@@ -857,7 +857,7 @@ l'identità di genere come autodeterminazione."
 530,Valori e diritti,10,Ius scholae,ius-scholae,43,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 531,Valori e diritti,10,Ius scholae,ius-scholae,43,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 532,Valori e diritti,10,Ius scholae,ius-scholae,43,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-533,Valori e diritti,10,Ius scholae,ius-scholae,43,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+533,Valori e diritti,10,Ius scholae,ius-scholae,43,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 534,Valori e diritti,10,Ius scholae,ius-scholae,43,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 535,Valori e diritti,10,Ius scholae,ius-scholae,43,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,"NO ALLO IUS SOLI
 Nessuna modifica alla normativa sulla cittadinanza
@@ -880,7 +880,7 @@ fatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi"
 545,Valori e diritti,10,Ius soli,ius-soli,44,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 546,Valori e diritti,10,Ius soli,ius-soli,44,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 547,Valori e diritti,10,Ius soli,ius-soli,44,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-548,Valori e diritti,10,Ius soli,ius-soli,44,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+548,Valori e diritti,10,Ius soli,ius-soli,44,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 549,Valori e diritti,10,Ius soli,ius-soli,44,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 550,Valori e diritti,10,Ius soli,ius-soli,44,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,"NO ALLO IUS SOLI
 Nessuna modifica alla normativa sulla cittadinanza
@@ -902,7 +902,7 @@ Ius Culturae o Ius Temperato."
 560,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 561,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 562,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-563,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+563,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 564,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 565,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,Non se ne parla nel programma
 566,Valori e diritti,10,Matrimonio egualitario,matrimonio-egualitario,50,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,MATRIMONIO EGUALITARIO E LEGGE CONTRO L’OMOTRANSFOBIA
@@ -918,7 +918,7 @@ Matrimonio egualitario, appunto, con riconoscimento alla nascita dei figli e del
 575,Valori e diritti,10,Parità salariale,parit-salariale,42,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 576,Valori e diritti,10,Parità salariale,parit-salariale,42,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 577,Valori e diritti,10,Parità salariale,parit-salariale,42,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-578,Valori e diritti,10,Parità salariale,parit-salariale,42,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+578,Valori e diritti,10,Parità salariale,parit-salariale,42,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 579,Valori e diritti,10,Parità salariale,parit-salariale,42,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 580,Valori e diritti,10,Parità salariale,parit-salariale,42,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Misure volte al sostegno della parità salariale
 "
@@ -936,7 +936,7 @@ genere."
 590,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 591,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 592,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-593,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+593,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 594,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 595,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Programma elettorale Lega,programma-elettorale-lega,Lega,2,yellow,Stop caro libri con detraibilità fiscale delle spese di istruzione per l’acquisto di libri e cancelleria
 596,"Istruzione, Università e Ricerca",8,Libri di testo gratuiti,libri-di-testo-gratuiti,80,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -951,7 +951,7 @@ genere."
 605,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 606,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 607,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-608,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+608,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 609,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 610,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 611,"Istruzione, Università e Ricerca",8,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,87,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -966,7 +966,7 @@ genere."
 620,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 621,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 622,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-623,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+623,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 624,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 625,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Programma elettorale Lega,programma-elettorale-lega,Lega,2,yellow,"La formazione, anche quella extrascolastica, svolge una funzione fondamentale nel percorso d’integrazione non soltanto dei più giovani, ma anche dei loro genitori, che  iniziano a stabilire relazioni sociali nella comunità in cui risiedono proprio attraverso le istituzioni scolastiche frequentate dai figli"
 626,"Istruzione, Università e Ricerca",8,Più attività extrascolastiche,pi-attivit-extrascolastiche,94,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -981,7 +981,7 @@ genere."
 635,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 636,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 637,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-638,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+638,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 639,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,yellow,"Troviamo essenziale affrontare seriamente la sicurezza nella scuola incominciando a
 predisporre impianti di areazione nelle classi."
 640,"Istruzione, Università e Ricerca",8,Contribuiti per edilizia scolastica,contribuiti-per-edilizia-scolastica,61,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
@@ -997,7 +997,7 @@ predisporre impianti di areazione nelle classi."
 650,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 651,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 652,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-653,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+653,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 654,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 655,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 656,"Istruzione, Università e Ricerca",8,Mense scolastiche gratuite,mense-scolastiche-gratuite,77,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1012,7 +1012,7 @@ predisporre impianti di areazione nelle classi."
 665,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 666,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 667,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-668,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+668,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 669,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 670,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 671,"Istruzione, Università e Ricerca",8,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,71,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,"BENESSERE A SCUOLA
@@ -1030,7 +1030,7 @@ docente e tecnico-amministrativo, con previsione del medico e psicologo scolasti
 680,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 681,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 682,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-683,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+683,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 684,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 685,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Oltre un terzo dei docenti attualmente incaricati su posto di sostegno è privo di specializzazione, ovvero della formazione necessaria. Chi ha maturato almeno tre anni di esperienza sul campo nel sostegno ad alunni con disabilità deve poter accedere direttamente ai corsi di specializzazione."
 686,"Istruzione, Università e Ricerca",8,Maggiore sostegno per disabili nelle scuole,maggiore-sostegno-per-disabili-nelle-scuole,74,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1045,7 +1045,7 @@ docente e tecnico-amministrativo, con previsione del medico e psicologo scolasti
 695,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Rivedere in senso meritocratico e professionalizzante il percorso scolastico
 696,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Rivedere in senso meritocratico e professionalizzante il percorso scolastico
 697,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-698,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+698,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 699,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 700,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 701,"Istruzione, Università e Ricerca",8,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,81,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1062,7 +1062,7 @@ nella formazione e aggiornamento dei docenti"
 711,"Istruzione, Università e Ricerca",8,Eliminazione del precariato,eliminazione-del-precariato,65,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,yellow,"Piano per l'eliminazione del precariato del personale docente e investimento
 nella formazione e aggiornamento dei docenti"
 712,"Istruzione, Università e Ricerca",8,Eliminazione del precariato,eliminazione-del-precariato,65,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Dobbiamo favorire le assunzioni a tempo indeterminato
-713,"Istruzione, Università e Ricerca",8,Eliminazione del precariato,eliminazione-del-precariato,65,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"Azzeramento di tutta la legislazione relativa alla precarizzazione e agli attacchi al lavoro autonomo, piena occupazione"
+713,"Istruzione, Università e Ricerca",8,Eliminazione del precariato,eliminazione-del-precariato,65,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Azzeramento di tutta la legislazione relativa alla precarizzazione e agli attacchi al lavoro autonomo, piena occupazione"
 714,"Istruzione, Università e Ricerca",8,Eliminazione del precariato,eliminazione-del-precariato,65,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Restituire forza contrattuale ai lavoratori, con l’abbattimento della precarietà (e con
 politiche economiche di piena occupazione), di per sé induce un aumento delle
 retribuzioni."
@@ -1088,7 +1088,7 @@ nella formazione e aggiornamento dei docenti"
 726,"Istruzione, Università e Ricerca",8,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,72,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Piano per l'eliminazione del precariato del personale docente e investimento
 nella formazione e aggiornamento dei docenti"
 727,"Istruzione, Università e Ricerca",8,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,72,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-728,"Istruzione, Università e Ricerca",8,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,72,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+728,"Istruzione, Università e Ricerca",8,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,72,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 729,"Istruzione, Università e Ricerca",8,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,72,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Riteniamo giusto garantire l'aggiornamento professionale a tutti i
 l avoratori nel
 comparto scuola all'interno dell'orario di servizio, evitando gli inutili corsi che ingrassano
@@ -1115,7 +1115,7 @@ equi ed universali"
 741,"Istruzione, Università e Ricerca",8,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,88,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Ridefinizione del sistema di ammortizzatori sociali al fine di introdurre sussidi più
 equi ed universali"
 742,"Istruzione, Università e Ricerca",8,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,88,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-743,"Istruzione, Università e Ricerca",8,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,88,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+743,"Istruzione, Università e Ricerca",8,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,88,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 744,"Istruzione, Università e Ricerca",8,Sostegno meno abbienti e incapienti,sostegno-meno-abbienti-e-incapienti,88,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Qualità della vita e difesa delle fasce deboli
 Da molti anni
 lo Stato ha dimenticato le persone che sono comunemente associate alle
@@ -1180,7 +1180,7 @@ territorio nazionale delle competenze acquisite
 Supporto all'imprenditoria giovanile, incentivi alla creazione di start up
 tecnologiche e a valenza sociale"
 757,"Istruzione, Università e Ricerca",8,Aiutare giovani laureati/e a rimanere in Italia,aiutare-giovani-laureatie-a-rimanere-in-italia,76,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Dobbiamo creare le condizioni affinché i nostri giovani scelgano l'Italia come sede della loro crescita e prosperità
-758,"Istruzione, Università e Ricerca",8,Aiutare giovani laureati/e a rimanere in Italia,aiutare-giovani-laureatie-a-rimanere-in-italia,76,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+758,"Istruzione, Università e Ricerca",8,Aiutare giovani laureati/e a rimanere in Italia,aiutare-giovani-laureatie-a-rimanere-in-italia,76,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 759,"Istruzione, Università e Ricerca",8,Aiutare giovani laureati/e a rimanere in Italia,aiutare-giovani-laureatie-a-rimanere-in-italia,76,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"In particolare, vanno pianificati interventi strutturali per i giovani, che sono il nostro
 futuro ed ora più che mai hanno bisogno di aiuto, visti gli effetti che hanno avuto i
 lockdown sulla loro salute mentale e le prospettive sempre più cupe per il lor o avvenire a
@@ -1217,7 +1217,7 @@ tecnologiche e a valenza sociale"
 770,"Istruzione, Università e Ricerca",8,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,23,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 771,"Istruzione, Università e Ricerca",8,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,23,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 772,"Istruzione, Università e Ricerca",8,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,23,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"Investire su nuove risorse e soprattutto sulla ricerca, che è stata essenziale per produrre il vaccino anti Covid."
-773,"Istruzione, Università e Ricerca",8,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,23,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+773,"Istruzione, Università e Ricerca",8,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,23,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 774,"Istruzione, Università e Ricerca",8,Maggiori investimenti per la ricerca,maggiori-investimenti-per-la-ricerca,23,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Per garantire l’autonomia delle
 u niversità e la libertà di ricerca dei singoli docenti resta
 imprescindibile il ruolo centrale dello Stato, che deve stanziare per l’Università almeno
@@ -1241,7 +1241,7 @@ redditi bassi e aiuto per gli affitti dei fuori sede)."
 785,"Istruzione, Università e Ricerca",8,Abolizione legge Gelmini,abolizione-legge-gelmini,35,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 786,"Istruzione, Università e Ricerca",8,Abolizione legge Gelmini,abolizione-legge-gelmini,35,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 787,"Istruzione, Università e Ricerca",8,Abolizione legge Gelmini,abolizione-legge-gelmini,35,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-788,"Istruzione, Università e Ricerca",8,Abolizione legge Gelmini,abolizione-legge-gelmini,35,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+788,"Istruzione, Università e Ricerca",8,Abolizione legge Gelmini,abolizione-legge-gelmini,35,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 789,"Istruzione, Università e Ricerca",8,Abolizione legge Gelmini,abolizione-legge-gelmini,35,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Riteniamo, pertanto, indispensabile rivedere gli aspetti normativi delle riforme
 scolastiche: Berlinguer, Moratti, Gelmini e legge107 di Renzi, che hanno impresso una
 dimensione aziendalistica e dirigistica, determinando la diffusione di una cultura
@@ -1264,7 +1264,7 @@ personalità di alunni e studenti. Adeguamento degli stipendi dei docenti alla m
 800,"Istruzione, Università e Ricerca",8,Integrazione università-aziende,integrazione-universitaziende,85,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 801,"Istruzione, Università e Ricerca",8,Integrazione università-aziende,integrazione-universitaziende,85,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 802,"Istruzione, Università e Ricerca",8,Integrazione università-aziende,integrazione-universitaziende,85,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-803,"Istruzione, Università e Ricerca",8,Integrazione università-aziende,integrazione-universitaziende,85,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+803,"Istruzione, Università e Ricerca",8,Integrazione università-aziende,integrazione-universitaziende,85,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 804,"Istruzione, Università e Ricerca",8,Integrazione università-aziende,integrazione-universitaziende,85,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Riteniamo necessario favorire collegamenti tra le u
 ni versità, le scuole, il mondo del
 lavoro, della ricerca e delle startup imprenditoriali, con un'attenzione particolare
@@ -1282,7 +1282,7 @@ all'incubazione di società innovative da parte delle stesse università."
 815,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 816,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 817,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-818,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+818,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 819,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 820,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,Mai più didattica a distanza
 821,"Istruzione, Università e Ricerca",8,Didattica a distanza garantita,didattica-a-distanza-garantita,69,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1304,7 +1304,7 @@ Che sia erogata da esperte ed esperti, coinvolgendo attivamente le i docenti nel
 830,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 831,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 832,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-833,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+833,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 834,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 835,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,Completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità territoriale tra Sicilia e Calabria (ponte sullo Stretto).
 836,"Istruzione, Università e Ricerca",8,Educazione sessuale,educazione-sessuale,52,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,EDUCAZIONE SESSUALE E AFFETTIVA NELLE SCUOLE
@@ -1355,7 +1355,7 @@ particolare nelle zone colpite da incendi o calamità naturali
 • Incentivare l'utilizzo del trasporto pubblico e promuovere e favorire politiche di
 mobilità urbana sostenibile"
 847,Protezione Ambientale ed Energia,5,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,90,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,L'ambiente e il paesaggio italiani devono essere tutelati e valorizzati
-848,Protezione Ambientale ed Energia,5,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,90,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,La difesa dell'ambiente. Non in senso propagandistico ma seguendo realmente la filiera delle responsabilità del mercato globale
+848,Protezione Ambientale ed Energia,5,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,90,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,La difesa dell'ambiente. Non in senso propagandistico ma seguendo realmente la filiera delle responsabilità del mercato globale
 849,Protezione Ambientale ed Energia,5,Tutela ambiente e paesaggio,tutela-ambiente-e-paesaggio,90,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"E' altrettanto importante istituire un principio di tutela delle risorse naturali a
 prescindere, poiché le connessioni tra una compromissione ambientale e il danno diretto
 alla s al ute umana possono evidenziarsi a distanza di anni o decenni, sia perché può
@@ -1456,7 +1456,7 @@ Sostegno alle misure proposte dalle associazioni animaliste.
 860,Protezione Ambientale ed Energia,5,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 861,Protezione Ambientale ed Energia,5,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 862,Protezione Ambientale ed Energia,5,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Istituzione della figure del Garante Nazionale dei Diritti e del Benessere Animale
-863,Protezione Ambientale ed Energia,5,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+863,Protezione Ambientale ed Energia,5,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 864,Protezione Ambientale ed Energia,5,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"ITALEXIT ritiene che PRAGMATISMO e CULTURA debbano essere le parole
 d’ordine del proprio programma perché le sole adatte a rappresentare la sincera volontà
 di realizzare il miglior benessere animale."
@@ -1475,7 +1475,7 @@ coppie"
 876,Politiche sociali,9,Agevolazione mutui giovani,agevolazione-mutui-giovani,32,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Agevolazioni per l'accesso al mutuo per l'acquisto della prima casa per le giovani
 coppie"
 877,Politiche sociali,9,Agevolazione mutui giovani,agevolazione-mutui-giovani,32,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"Bisogna garantire la possibilità di comprarsi una casa, agevolando proprio i giovani che iniziano o hanno già iniziato un percorso lavorativo."
-878,Politiche sociali,9,Agevolazione mutui giovani,agevolazione-mutui-giovani,32,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+878,Politiche sociali,9,Agevolazione mutui giovani,agevolazione-mutui-giovani,32,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 879,Politiche sociali,9,Agevolazione mutui giovani,agevolazione-mutui-giovani,32,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"È necessario fornire alla famiglia, nucleo fondamentale della nostra Società, un supporto
 al per consentirne lo sviluppo. In quest’ottica vogliamo fornire una garanzia suppletiva
 da parte dello Stato che copra almeno il 50% del mutuo utile all’acquisto della prima
@@ -1496,7 +1496,7 @@ imprenditori che ne sono vittime."
 890,Valori e diritti,10,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 891,Valori e diritti,10,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 892,Valori e diritti,10,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Istituzione della figure del Garante Nazionale dei Diritti e del Benessere Animale
-893,Valori e diritti,10,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+893,Valori e diritti,10,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 894,Valori e diritti,10,Tutela del Benessere Animale,tutela-del-benessere-animale,98,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"ITALEXIT ritiene che PRAGMATISMO e CULTURA debbano essere le parole
 d’ordine del proprio programma perché le sole adatte a rappresentare la sincera volontà
 di realizzare il miglior benessere animale."
@@ -1521,7 +1521,7 @@ Diffondere e sensibilizzare sull’utilizzo dei mattoni di Canapa nel settore ed
 905,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 906,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 907,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-908,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+908,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 909,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 910,Valori e diritti,10,Legge fine vita,legge-fine-vita,41,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"""NO"" alla legalizzazione della morte volontaria medicalmente assistita. Promuovere una cultura pro-vita
 Raddoppiare urgentemente l’offerta per le cure palliative. Promuovere e implementare i fondi sulla ricerca delle stesse"
@@ -1542,7 +1542,7 @@ della medicina predittiva e incremento dell'organico di medici e operatori sanit
 921,Salute,6,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,89,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Sviluppo della sanità di prossimità e della medicina territoriale, rafforzamento
 della medicina predittiva e incremento dell'organico di medici e operatori sanitari"
 922,Salute,6,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,89,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Dobbiamo sviluppare i servizi sanitari di prossimità e prevenzione
-923,Salute,6,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,89,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Attivazione di piani di medicina territoriale e di prossimità
+923,Salute,6,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,89,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Attivazione di piani di medicina territoriale e di prossimità
 924,Salute,6,Sviluppare servizi sanitari di prossimità,sviluppare-servizi-sanitari-di-prossimit,89,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Riorganizzazione e potenziamento della medicina territoriale con stre tt a
 collaborazione tra territorio e strutture ospedaliere; attivazione di servizi di pronta
 reperibilità da parte dei medici di medicina generale che garantiscano anche le urgenze
@@ -1578,7 +1578,7 @@ promozione di stili di vita sani"
 936,Salute,6,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Sostegno allo sport quale strumento di crescita e integrazione sociale e
 promozione di stili di vita sani"
 937,Salute,6,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"Importantissimo, nella prevenzione e promozione della salute, l'investimento sulle politiche sportive"
-938,Salute,6,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Sviluppo delle attività di sport popolare con piano straordinario di investimenti
+938,Salute,6,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Sviluppo delle attività di sport popolare con piano straordinario di investimenti
 939,Salute,6,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 940,Salute,6,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Prevedere un’agevolazione economica per l’istituzione di un’assicurazione che copra tutte le responsabilità dei dirigenti e dei presidenti delle Associazioni Sportive Dilettantistiche
 
@@ -1609,7 +1609,7 @@ defiscalizzazione dei costi della sicurezza sul lavoro"
 951,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Contrasto al lavoro irregolare, rafforzamento della prevenzione degli infortuni e
 defiscalizzazione dei costi della sicurezza sul lavoro"
 952,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Fare in modo che il posto di lavoro sia un luogo sicuro per tutte le lavoratrici e i lavoratori del nostro Paese firmando nuovi accordi con le imprese e incentivando la cultura della sicurezza.
-953,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+953,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 954,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 955,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 956,Salute,6,Promuovere sicurezza sul lavoro,promuovere-sicurezza-sul-lavoro,84,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,"RAFFORZAMENTO DELLA SICUREZZA NEI LUOGHI DI LAVORO E ISTITUZIONE DI UNA PROCURA
@@ -1632,7 +1632,7 @@ aziendali, ludoteche"
 966,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Piano di sostegno alla natalità, prevedendo anche asili nido gratuiti, asili nido
 aziendali, ludoteche"
 967,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"...l'offerta dei servizi, come gli asili nido, che rendono la natalità compatibile con l'impegno lavorativo sono la base su cui iniziare a costruire."
-968,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+968,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 969,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 970,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Adeguamento offerta asili nido alla domanda. Implementazioni di asili nido, tra cui asili comunali, aziendali, condominiali"
 971,Politiche sociali,9,Aumento offerta asili nido,aumento-offerta-asili-nido,48,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1649,7 +1649,7 @@ asili nido pubblici in tutto il paese."
 980,Politiche sociali,9,Promuovere lavoro agile,promuovere-lavoro-agile,55,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 981,Politiche sociali,9,Promuovere lavoro agile,promuovere-lavoro-agile,55,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 982,Politiche sociali,9,Promuovere lavoro agile,promuovere-lavoro-agile,55,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"Occorre sostenere nelle imprese l'adozione di modelli organizzativi che valorizzino l'autonomia personale nella scelta dei tempi, dei luoghi e delle modalità di lavoro."
-983,Politiche sociali,9,Promuovere lavoro agile,promuovere-lavoro-agile,55,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+983,Politiche sociali,9,Promuovere lavoro agile,promuovere-lavoro-agile,55,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 984,Politiche sociali,9,Promuovere lavoro agile,promuovere-lavoro-agile,55,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Una ulteriore riflessione meritano le nuove modalità di prestazione lavorativa, prima fra
 tutte lo smart working . Se marginale, un paio di giorni a settimana ben regolamentati,
 può essere un ottimo strume nt o di conciliazione dei tempi di vita e di lavoro. Viceversa,
@@ -1694,7 +1694,7 @@ in merito all’ UGUAGLIANZA DI GENERE ALL’INTERNO DELLE AZIENDE
 995,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 996,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 997,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Occorre inoltre rafforzare la normativa per raggiungere in un tempo ragionevole la parità di genere nelle nomine pubbliche
-998,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+998,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 999,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1000,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Nel nostro Paese – purtroppo – le donne sono ancora troppo spesso costrette a scegliere tra la loro professione, la loro carriera e la maternità spesso a discapito di quest’ultima. Obiettivo primario sarà quello di agevolare i tempi di vita delle donne in modo da conciliare la loro professione con il lavoro di cura dei figli (spesso anche dei genitori anziani) e di aiutare chi sceglie di diventare genitore."
 1001,Valori e diritti,10,Promuovere parità di genere,promuovere-parit-di-genere,83,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,"EQUIPARAZIONE DEI TEMPI DI CONGEDO DI PATERNITÀ E MATERNITÀ
@@ -1717,7 +1717,7 @@ all'inserimento dei giovani nel mondo del lavoro"
 1011,"Istruzione, Università e Ricerca",8,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,82,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Valorizzazione e promozione delle scuole tecniche professionali volte
 all'inserimento dei giovani nel mondo del lavoro"
 1012,"Istruzione, Università e Ricerca",8,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,82,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Gli ITS devono diventare un percorso verso l'eccellenza.
-1013,"Istruzione, Università e Ricerca",8,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,82,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1013,"Istruzione, Università e Ricerca",8,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,82,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1014,"Istruzione, Università e Ricerca",8,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,82,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1015,"Istruzione, Università e Ricerca",8,Promuovere Istituti Tecnici Superiori,promuovere-istituti-tecnici-superiori,82,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"L’istruzione professionale va potenziata e resa realmente competitiva rispetto all’istruzione tecnica. È fondamentale che l’istruzione professionale statale e la formazione professionale degli enti accreditati siano maggiormente legate al mondo dell’impresa e della produzione.
 
@@ -1737,7 +1737,7 @@ all'inserimento dei giovani nel mondo del lavoro"
 1025,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1026,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1027,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"I giovani universitari devono poter contare, oltre che sulle borse di studio, su un sostegno per i fuori sede."
-1028,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1028,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1029,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1030,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Garantire un maggior numero di posti letto universitari, anche con misure di sostegno agli affitti. dare attuazione a un piano straordinario di edilizia universitaria, concretizzabile mediante la sburocratizzazione delle procedure amministrative e l’impiego delle risorse già stanziate per gli atenei"
 1031,"Istruzione, Università e Ricerca",8,Sostegno per universitari fuori sede,sostegno-per-universitari-fuori-sede,75,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1755,7 +1755,7 @@ redditi bassi e aiuto per gli affitti dei fuori sede)."
 1040,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1041,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1042,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1043,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1043,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1044,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1045,Valori e diritti,10,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,"Protezione dei giovani: stop a qualsiasi proposta di liberalizzazione o di legalizzazio- ne della droga, indipendentemente dalla falsa distinzione tra leggera e pesante
 Campagne di sensibilizzazione verso i minori e i loro genitori sui pericoli della ""cultura della droga’"" con particolare attenzione alle conseguenze sullo sviluppo cognitivo dei giovani derivanti dall’uso abituale di cannabis"
@@ -1775,7 +1775,7 @@ droghe pesanti (finanziato con una percentuale sui beni sequestrati)."
 1055,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1056,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1057,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1058,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1058,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1059,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1060,"Cultura, Turismo e Sport",7,Legalizzazione Cannabis,legalizzazione-cannabis,51,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,"Protezione dei giovani: stop a qualsiasi proposta di liberalizzazione o di legalizzazio- ne della droga, indipendentemente dalla falsa distinzione tra leggera e pesante
 Campagne di sensibilizzazione verso i minori e i loro genitori sui pericoli della ""cultura della droga’"" con particolare attenzione alle conseguenze sullo sviluppo cognitivo dei giovani derivanti dall’uso abituale di cannabis"
@@ -1795,7 +1795,7 @@ droghe pesanti (finanziato con una percentuale sui beni sequestrati)."
 1070,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1071,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1072,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1073,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1073,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1074,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1075,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1076,Valori e diritti,10,Voto fuorisede,voto-fuorisede,45,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -1810,7 +1810,7 @@ droghe pesanti (finanziato con una percentuale sui beni sequestrati)."
 1085,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1086,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1087,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Bisogna implementare nuovi strumenti per favorire il riscatto della laurea.
-1088,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1088,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1089,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1090,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,Estendere la possibilità agevolata di riscatto contributi per il periodo relativo al percorso di laurea
 1091,Servizi pubblici generali,#N/A,Favorire riscatto della laurea,favorire-riscatto-della-laurea,91,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,"RISCATTO GRATUITO DELLA LAUREA
@@ -1827,7 +1827,7 @@ di studi in vista dell’attività lavorativa"
 1100,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1101,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1102,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,...abbassare le tasse a partire dall'IRAP
-1103,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1103,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1104,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1105,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Proponiamo l’abolizione di alcune imposte patrimoniali particolarmente penalizzanti per la piccola proprietà immobiliare e dell’IRAP, che per il suo peculiare meccanismo obbliga le imprese a pagare imposte anche quando sono in perdita."
 1106,Economia,4,Riduzione o eliminazione IRAP,riduzione-o-eliminazione-irap,25,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,CANCELLAZIONE DEFINITIVA DELL’IRAP a beneficio di tutte le imprese
@@ -1844,7 +1844,7 @@ italiane"
 1116,Economia,4,Promuovere Made in Italy,promuovere-made-in-italy,56,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Tutela e promozione del Made in Italy, con riguardo alla tipicità delle eccellenze
 italiane"
 1117,Economia,4,Promuovere Made in Italy,promuovere-made-in-italy,56,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Il Made in Italy è fondamentale per lo sviluppo delle nostre imprese
-1118,Economia,4,Promuovere Made in Italy,promuovere-made-in-italy,56,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1118,Economia,4,Promuovere Made in Italy,promuovere-made-in-italy,56,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1119,Economia,4,Promuovere Made in Italy,promuovere-made-in-italy,56,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Incentivare con adeguati contributi i processi ed i progetti di crescita delle aziende
 o che esaltino l’italianità (è ne ce ssario riportare in Italia i processi produttivi, quindi il
 Made in Italy potrà essere concesso in etichetta solo se le lavorazioni principali verranno
@@ -1885,7 +1885,7 @@ La misura deve essere finanziata da ogni comune in autonomia."
 1130,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1131,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1132,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Bisogna avere riguardo dei piccoli comuni aumentandone poteri e risorse
-1133,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1133,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1134,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1135,Economia,4,Aumentare poteri e risorse dei piccoli comuni,aumentare-poteri-e-risorse-dei-piccoli-comuni,57,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Accompagnamento dei cittadini, delle imprese e della PA nel percorso di cittadinanza
 digitale con punti di presidio locali, soprattutto nei piccoli Comuni che in Italia rappresentano
@@ -1915,7 +1915,7 @@ svantaggiate"
 1146,Economia,4,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,22,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Garantire la piena attuazione delle misure previste per il Sud Italia e le aree
 svantaggiate"
 1147,Economia,4,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,22,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Per il Sud deve nascere la Riserva nazionale dell'agricoltura e della ricerca industriale
-1148,Economia,4,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,22,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1148,Economia,4,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,22,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1149,Economia,4,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,22,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1150,Economia,4,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,22,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Il tema delle infrastrutture e dei servizi per assicurare la connettività (dei trasporti e digitale) è strettamente collegato e costituisce una grave nota dolente per il Sud. Se il Sud resta isolato, non potranno svilupparsi insediamenti produttivi e non potrà migliorare la competitività delle imprese.
 Bisogna continuare sul percorso intrapreso di realizzazione/rafforzamento delle infrastrutture stradali e ferroviarie e garantire al contempo agevoli interconnessioni con porti e aeroporti. Per quel che riguarda il trasporto merci, punto nodale e volano di sviluppo per il Sud sono lo sviluppo della logistica e il potenziamento delle ZES, attraverso l’adeguamento dei porti e la realizzazione dei retroporti."
@@ -1942,7 +1942,7 @@ dell’acqua e del trasporto pubblico."
 1160,Economia,4,Autonomia differenziata,autonomia-differenziata,70,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1161,Economia,4,Autonomia differenziata,autonomia-differenziata,70,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1162,Economia,4,Autonomia differenziata,autonomia-differenziata,70,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,red,L'autonomia differenziata non è una soluzione
-1163,Economia,4,Autonomia differenziata,autonomia-differenziata,70,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1163,Economia,4,Autonomia differenziata,autonomia-differenziata,70,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1164,Economia,4,Autonomia differenziata,autonomia-differenziata,70,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Riteniamo inderogabile fa
 vorire lo sviluppo delle forze vive del Paese anche attraverso
 una maggiore autonomia e responsabilità delle Regioni, in particolare att raverso
@@ -1968,7 +1968,7 @@ multinazionali."
 1175,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Sostegno alle politiche di price-cap a livello europeo
 1176,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Sostegno alle politiche di price-cap a livello europeo
 1177,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Bisogna proseguire la politica di accordi internazionali di diversificazione delle fonti realizzata dal governo Draghi e ottenere il tetto al prezzo del gas russo
-1178,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1178,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1179,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1180,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1181,Economia,4,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,1,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,yellow,"CONTRASTO AL CAROBOLLETTE
@@ -1986,7 +1986,7 @@ Portogallo già approvato dalla Commissione Europea)."
 1190,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1191,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1192,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,Favorire la creazione delle Comunità Energetiche
-1193,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1193,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1194,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,creazione di comunità energetiche
 1195,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Promuovere, al fine della riduzione dei costi energetici degli utenti, il ruolo dell’autoconsumo collettivo sostenendo le Cer(Comunità Energetiche Rinnovabili) e l’Au (Autoconsumo collettivo)"
 1196,Economia,4,Favorire creazione delle comunità energetiche,favorire-creazione-delle-comunit-energetiche,79,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2008,7 +2008,7 @@ all'adeguamento degli stanziamenti per la difesa, sostegno all'Ucraina di fronte
 all'invasione della Federazione Russa e sostegno ad ogni iniziativa diplomatica
 volta alla soluzione del conflitto"
 1207,Difesa,2,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,...la nostra scelta convinta e irreversibile al Patto Atlantico
-1208,Difesa,2,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
+1208,Difesa,2,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
 1209,Difesa,2,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"La pace nel mondo rimane l’obiettivo primario basato su un’azione multilaterale
 sostenuta da buoni rapporti diplomatici ed economici, nel rispetto reciproco all’interno
 di un contesto internazionale sempre più multipolare ma non rinunciando al proprio
@@ -2050,7 +2050,7 @@ all'adeguamento degli stanziamenti per la difesa, sostegno all'Ucraina di fronte
 all'invasione della Federazione Russa e sostegno ad ogni iniziativa diplomatica
 volta alla soluzione del conflitto"
 1222,Affari Esteri,11,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,...la nostra scelta convinta e irreversibile al Patto Atlantico
-1223,Affari Esteri,11,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
+1223,Affari Esteri,11,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
 1224,Affari Esteri,11,Adesione alla NATO,adesione-alla-nato,9,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"La pace nel mondo rimane l’obiettivo primario basato su un’azione multilaterale
 sostenuta da buoni rapporti diplomatici ed economici, nel rispetto reciproco all’interno
 di un contesto internazionale sempre più multipolare ma non rinunciando al proprio
@@ -2088,7 +2088,7 @@ un'Unione Europea più politica e meno burocratica"
 1236,Affari Esteri,11,Adesione all'UE,adesione-allue,13,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Piena adesione al processo di integrazione europea, con la prospettiva di
 un'Unione Europea più politica e meno burocratica"
 1237,Affari Esteri,11,Adesione all'UE,adesione-allue,13,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"...costruzione di un'Unione Europea sempre più forte, democratica e coesa"
-1238,Affari Esteri,11,Adesione all'UE,adesione-allue,13,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
+1238,Affari Esteri,11,Adesione all'UE,adesione-allue,13,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
 1239,Affari Esteri,11,Adesione all'UE,adesione-allue,13,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"STOP ALL'EUROPA! FUORI
 DA EURO E UE PER UNA NUOVA
 SOVRANITA' MONETARIA
@@ -2133,7 +2133,7 @@ Noi stiamo con l’Italia che da sempre paga e lavora."
 1250,Servizi pubblici generali,#N/A,Contrasto evasione fiscale,contrasto-evasione-fiscale,31,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1251,Servizi pubblici generali,#N/A,Contrasto evasione fiscale,contrasto-evasione-fiscale,31,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1252,Servizi pubblici generali,#N/A,Contrasto evasione fiscale,contrasto-evasione-fiscale,31,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1253,Servizi pubblici generali,#N/A,Contrasto evasione fiscale,contrasto-evasione-fiscale,31,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1253,Servizi pubblici generali,#N/A,Contrasto evasione fiscale,contrasto-evasione-fiscale,31,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1254,Servizi pubblici generali,#N/A,Contrasto evasione fiscale,contrasto-evasione-fiscale,31,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Attraverso il raffronto tra i dati comunali e quelli nazionali, identificare e recuperare
 casi evidenti di evasione fiscale, in questo modo potremmo attaccare la penetrazione
 delle mafie che riciclano il denaro attraverso le imprese di ristorazione ed emarginare la
@@ -2183,7 +2183,7 @@ Politiche di conciliazione lavoro-famiglia per madri e padri
 
 Tutela del lavoro delle giovani madri"
 1267,Politiche sociali,9,Supporto maternità,supporto-maternit,47,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1268,Politiche sociali,9,Supporto maternità,supporto-maternit,47,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1268,Politiche sociali,9,Supporto maternità,supporto-maternit,47,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1269,Politiche sociali,9,Supporto maternità,supporto-maternit,47,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"È necessario fornire alla famiglia, nucleo fondamentale della nostra Società, un supporto
 al per consentirne lo sviluppo. In quest’ottica vogliamo fornire una garanzia suppletiva
 da parte dello Stato che copra almeno il 50% del mutuo utile all’acquisto della prima
@@ -2240,7 +2240,7 @@ delle piccole medie imprese, lotta alla concorrenza sleale"
 1281,Economia,4,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,26,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Maggiori tutele per lavoro autonomo e libere professioni, tutela delle micro e
 delle piccole medie imprese, lotta alla concorrenza sleale"
 1282,Economia,4,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,26,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1283,Economia,4,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,26,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1283,Economia,4,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,26,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1284,Economia,4,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,26,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"La piccola e media imprenditoria va sostenuta con grandissima forza: è patrimonio
 economico e culturale del paese."
 1285,Economia,4,Sostegno piccole e medie imprese,sostegno-piccole-e-medie-imprese,26,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"La Lega da sempre sostiene l’esigenza di facilitare l’accesso al credito da parte delle piccole e medie imprese in modo diffuso, per sostenere lo sviluppo e la crescita dei territor"
@@ -2268,7 +2268,7 @@ La pensione minima non dovrebbe essere inferiore a 1.000 euro."
 1295,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,"Innalzamento delle pensioni minime, sociali e di invalidità"
 1296,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Innalzamento delle pensioni minime, sociali e di invalidità"
 1297,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1298,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"Restituire dignità agli anziani, incrementando le pensioni di vecchiaia"
+1298,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Restituire dignità agli anziani, incrementando le pensioni di vecchiaia"
 1299,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Aumento delle pensioni minime per pensionati a 850,00 €."
 1300,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1301,Politiche sociali,9,Aumento pensioni,aumento-pensioni,12,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2285,7 +2285,7 @@ Green Pass e l’obbligo vaccinale."
 1310,Salute,6,Green Pass,green-pass,63,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1311,Salute,6,Green Pass,green-pass,63,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1312,Salute,6,Green Pass,green-pass,63,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1313,Salute,6,Green Pass,green-pass,63,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,Basta dittatura sanitaria e green pass. Nessun obbligo vaccinale.
+1313,Salute,6,Green Pass,green-pass,63,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,Basta dittatura sanitaria e green pass. Nessun obbligo vaccinale.
 1314,Salute,6,Green Pass,green-pass,63,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"ITALEXIT
 È NO GREEN PASS E CONTRO L'OBBLIGO VACCINALE
 ITALIA FUORI DALL'OMS
@@ -2317,7 +2317,7 @@ Green Pass e l’obbligo vaccinale."
 1325,Salute,6,Obbligo Vaccinale,obbligo-vaccinale,64,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1326,Salute,6,Obbligo Vaccinale,obbligo-vaccinale,64,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1327,Salute,6,Obbligo Vaccinale,obbligo-vaccinale,64,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1328,Salute,6,Obbligo Vaccinale,obbligo-vaccinale,64,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,Basta dittatura sanitaria e green pass. Nessun obbligo vaccinale.
+1328,Salute,6,Obbligo Vaccinale,obbligo-vaccinale,64,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,Basta dittatura sanitaria e green pass. Nessun obbligo vaccinale.
 1329,Salute,6,Obbligo Vaccinale,obbligo-vaccinale,64,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"ITALEXIT
 È NO GREEN PASS E CONTRO L'OBBLIGO VACCINALE
 ITALIA FUORI DALL'OMS
@@ -2347,7 +2347,7 @@ libertà civili. I vaccini vanno sottratti ai profitti delle multinazionali"
 1340,Affari Esteri,11,Sanzioni Russia,sanzioni-russia,10,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1341,Affari Esteri,11,Sanzioni Russia,sanzioni-russia,10,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1342,Affari Esteri,11,Sanzioni Russia,sanzioni-russia,10,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1343,Affari Esteri,11,Sanzioni Russia,sanzioni-russia,10,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Stop all'invio di armi al regime ucraino e basta guerra e sanzioni alla Russia , ricostruzione dei rapporti diplomatici"
+1343,Affari Esteri,11,Sanzioni Russia,sanzioni-russia,10,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Stop all'invio di armi al regime ucraino e basta guerra e sanzioni alla Russia , ricostruzione dei rapporti diplomatici"
 1344,Affari Esteri,11,Sanzioni Russia,sanzioni-russia,10,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"NO A GUERRA, INVIO DI ARMI E SANZIONI. SI' ALLA DIPLOMA
 ZIA
 La fine della guerra non si ottiene inviando armi, ma attraverso la creazione di veri tavoli
@@ -2375,7 +2375,7 @@ all'adeguamento degli stanziamenti per la difesa, sostegno all'Ucraina di fronte
 all'invasione della Federazione Russa e sostegno ad ogni iniziativa diplomatica
 volta alla soluzione del conflitto"
 1357,Difesa,2,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1358,Difesa,2,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Stop all'invio di armi al regime ucraino e basta guerra e sanzioni alla Russia , ricostruzione dei rapporti diplomatici"
+1358,Difesa,2,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Stop all'invio di armi al regime ucraino e basta guerra e sanzioni alla Russia , ricostruzione dei rapporti diplomatici"
 1359,Difesa,2,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"NO A GUERRA, INVIO DI ARMI E SANZIONI. SI' ALLA DIPLOMA
 ZIA
 La fine della guerra non si ottiene inviando armi, ma attraverso la creazione di veri tavoli
@@ -2407,7 +2407,7 @@ all'adeguamento degli stanziamenti per la difesa, sostegno all'Ucraina di fronte
 all'invasione della Federazione Russa e sostegno ad ogni iniziativa diplomatica
 volta alla soluzione del conflitto"
 1372,Affari esteri,11,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1373,Affari esteri,11,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Stop all'invio di armi al regime ucraino e basta guerra e sanzioni alla Russia , ricostruzione dei rapporti diplomatici"
+1373,Affari esteri,11,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Stop all'invio di armi al regime ucraino e basta guerra e sanzioni alla Russia , ricostruzione dei rapporti diplomatici"
 1374,Affari esteri,11,Aiuti militari Ucraina,aiuti-militari-ucraina,8,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"NO A GUERRA, INVIO DI ARMI E SANZIONI. SI' ALLA DIPLOMA
 ZIA
 La fine della guerra non si ottiene inviando armi, ma attraverso la creazione di veri tavoli
@@ -2436,7 +2436,7 @@ C’è quella di gruppo, quella economica, quella sul lavoro, quella ostetrica, 
 1385,Salute,6,Diritto all'aborto,diritto-allaborto,46,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1386,Salute,6,Diritto all'aborto,diritto-allaborto,46,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1387,Salute,6,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1388,Salute,6,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1388,Salute,6,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1389,Salute,6,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1390,Salute,6,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1391,Salute,6,Diritto all'aborto,diritto-allaborto,46,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2456,7 +2456,7 @@ C’è quella di gruppo, quella economica, quella sul lavoro, quella ostetrica, 
 1400,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1401,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1402,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1403,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1403,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1404,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1405,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1406,Valori e diritti,10,Diritto all'aborto,diritto-allaborto,46,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2473,7 +2473,7 @@ nazionale lede il diritto all’autodeterminazione delle donne."
 1415,Difesa,2,Difesa comune europea,difesa-comune-europea,58,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1416,Difesa,2,Difesa comune europea,difesa-comune-europea,58,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1417,Difesa,2,Difesa comune europea,difesa-comune-europea,58,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1418,Difesa,2,Difesa comune europea,difesa-comune-europea,58,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
+1418,Difesa,2,Difesa comune europea,difesa-comune-europea,58,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
 1419,Difesa,2,Difesa comune europea,difesa-comune-europea,58,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"STOP ALL'EUROPA! FUORI
 DA EURO E UE PER UNA NUOVA
 SOVRANITA' MONETARIA
@@ -2508,7 +2508,7 @@ forma di imperialismo."
 1430,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,"Innalzamento delle pensioni minime, sociali e di invalidità"
 1431,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Innalzamento delle pensioni minime, sociali e di invalidità"
 1432,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1433,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,socialità per inval idi con assegno minimo a 1000 euro
+1433,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,socialità per inval idi con assegno minimo a 1000 euro
 1434,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1435,Politiche sociali,9,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Adeguamento di tutte le pensioni di invalidità civile totale e parziale, con particolare attenzione alle pensioni di invalidità parziale ferme a quote non in grado di garantire
 una vita dignitosa"
@@ -2527,7 +2527,7 @@ ampliamento dei LEA (livelli essenziali di assistenza) per terapie abilitative e
 1445,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,"Innalzamento delle pensioni minime, sociali e di invalidità"
 1446,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Innalzamento delle pensioni minime, sociali e di invalidità"
 1447,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1448,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,socialità per inval idi con assegno minimo a 1000 euro
+1448,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,socialità per inval idi con assegno minimo a 1000 euro
 1449,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1450,Economia,4,Aumento assegno sociale per gli invalidi,aumento-assegno-sociale-per-gli-invalidi,66,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Adeguamento di tutte le pensioni di invalidità civile totale e parziale, con particolare attenzione alle pensioni di invalidità parziale ferme a quote non in grado di garantire
 una vita dignitosa"
@@ -2546,7 +2546,7 @@ ampliamento dei LEA (livelli essenziali di assistenza) per terapie abilitative e
 1460,Politiche sociali,9,Ripristino articolo 18,ripristino-articolo-18,96,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1461,Politiche sociali,9,Ripristino articolo 18,ripristino-articolo-18,96,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1462,Politiche sociali,9,Ripristino articolo 18,ripristino-articolo-18,96,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1463,Politiche sociali,9,Ripristino articolo 18,ripristino-articolo-18,96,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Ripristino dell 'articolo 18
+1463,Politiche sociali,9,Ripristino articolo 18,ripristino-articolo-18,96,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Ripristino dell 'articolo 18
 1464,Politiche sociali,9,Ripristino articolo 18,ripristino-articolo-18,96,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Il jobs act ha provato a liberalizzare il controllo a distanza: bisogna fare chiarezza sul punto
 speci fi candone l’illegittimità in quanto lesivo della dignità della persona umana. Inoltre,
 tale norma ha completamente liberalizzato il demansionamento: l’attuale legislazione,
@@ -2574,7 +2574,7 @@ ricambio generazionale"
 1476,Politiche sociali,9,Abrogazione legge Fornero,abrogazione-legge-fornero,37,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,yellow,"Flessibilità in uscita dal mondo del lavoro e accesso alla pensione, favorendo il
 ricambio generazionale"
 1477,Politiche sociali,9,Abrogazione legge Fornero,abrogazione-legge-fornero,37,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1478,Politiche sociali,9,Abrogazione legge Fornero,abrogazione-legge-fornero,37,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"abrogazione della ""legge Fornero"""
+1478,Politiche sociali,9,Abrogazione legge Fornero,abrogazione-legge-fornero,37,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"abrogazione della ""legge Fornero"""
 1479,Politiche sociali,9,Abrogazione legge Fornero,abrogazione-legge-fornero,37,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Aboliremo la legge Fornero, che costringe le persone a consumarsi sul posto di lavoro
 fino a tarda età e blocca i l mercato del lavoro per i più gi ovani. ITALE XIT punta alla
 piena occupazione e all'abbandono di politiche basate sulla deflazione dei salari, sulla
@@ -2600,7 +2600,7 @@ Sosteniamo la confisca dei beni della criminalità organizzata, che riteniamo de
 1490,Affari Interni,3,Lotta alla mafia,lotta-alla-mafia,39,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1491,Affari Interni,3,Lotta alla mafia,lotta-alla-mafia,39,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1492,Affari Interni,3,Lotta alla mafia,lotta-alla-mafia,39,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1493,Affari Interni,3,Lotta alla mafia,lotta-alla-mafia,39,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"Senza tregua nella lotta alla mafia, alla corruzione e alle organizzazioni criminali"
+1493,Affari Interni,3,Lotta alla mafia,lotta-alla-mafia,39,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Senza tregua nella lotta alla mafia, alla corruzione e alle organizzazioni criminali"
 1494,Affari Interni,3,Lotta alla mafia,lotta-alla-mafia,39,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"istituzione di una vera Procura Nazionale Antimafia con compet en ze vere e con i
 Tribunali distrettuali antimafia; parallelamente serve un vero organismo nazionale di
 polizia antimafia e cioè la Dia come corpo specializzato;
@@ -2632,7 +2632,7 @@ garantire una giustizia equa"
 1505,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1506,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1507,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1508,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Fine del segreto di stato sulla stagione della stragi e sulle responsabilità interne ed internazionali nella strategia della tensione
+1508,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Fine del segreto di stato sulla stagione della stragi e sulle responsabilità interne ed internazionali nella strategia della tensione
 1509,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1510,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1511,Affari Interni,3,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,97,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2647,7 +2647,7 @@ garantire una giustizia equa"
 1520,"Istruzione, Università e Ricerca",8,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,95,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1521,"Istruzione, Università e Ricerca",8,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,95,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1522,"Istruzione, Università e Ricerca",8,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,95,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1523,"Istruzione, Università e Ricerca",8,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,95,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Chiederemo un referendum contro il numero chiuso alle facoltà universitarie
+1523,"Istruzione, Università e Ricerca",8,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,95,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Chiederemo un referendum contro il numero chiuso alle facoltà universitarie
 1524,"Istruzione, Università e Ricerca",8,Abolizione del numero chiuso università,abolizione-del-numero-chiuso-universit,95,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"Abolizione del numero chiuso a medicina.
 
 L’accesso deve avvenire non attraverso test di cultura generale, ma attraversi
@@ -2670,7 +2670,7 @@ superamento di una fase di accesso, seguendo le proprie attitudini personali."
 1535,Salute,6,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,99,Post Facebook Meloni 27 agosto 2022,post-facebook-meloni-27-agosto-2022,Fratelli d'Italia,1,green,""" Una delle prime cose che faremo ad inizio della prossima legislatura sarà quella di istituire una Commissione d'inchiesta sulla disastrosa gestione della pandemia. È arrivato il momento della trasparenza, ognuno sarà chiamato ad assumersi le proprie responsabilità."""
 1536,Salute,6,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,99,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1537,Salute,6,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,99,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1538,Salute,6,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,99,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Insediamento commissione d'inchiesta parlamentare sulle scelte dei governi durante l'emergenza
+1538,Salute,6,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,99,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Insediamento commissione d'inchiesta parlamentare sulle scelte dei governi durante l'emergenza
 1539,Salute,6,Commissione di inchiesta COVID,commissione-di-inchiesta-covid,99,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"SUBITO UNA COMMISSIONE D'INCHIESTA SULLA GESTIONE DEL
 COV ID
 ITALEXIT
@@ -2698,7 +2698,7 @@ Sono 1.200 euro al mese ed è il prezzo della dignità."
 1550,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1551,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1552,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1553,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"Siamo altresì contrari al fatto che i lavoratori immigrati siano usati come ""esercito industriale di riserva"" da parte della grande imprenditoria per abbassare i diritti complessivi di tutti i lavoratori."
+1553,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Siamo altresì contrari al fatto che i lavoratori immigrati siano usati come ""esercito industriale di riserva"" da parte della grande imprenditoria per abbassare i diritti complessivi di tutti i lavoratori."
 1554,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1555,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"La difesa e la promozione del “saper fare” Italiano passano anche attraverso la vigilanza affinché gli accordi commerciali negoziati dalla Commissione Europea. Più che puntare alla riduzione delle tariffe doganali, bisogna puntare al raggiungimento e al riconoscimento reciproco di standard produttivi elevati. Stipulare accordi commerciali di questo livello serve a disincentivare fenomeni di dumping sociale e ambientale,"
 1556,Politiche sociali,9,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,"FRENO ALLE ESTERNALIZZAZIONI E CONTRASTO ALL’USO DISTORTO DEL VOLONTARIATO E DEI
@@ -2744,7 +2744,7 @@ Sono 1.200 euro al mese ed è il prezzo della dignità."
 1565,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1566,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1567,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1568,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,"Siamo altresì contrari al fatto che i lavoratori immigrati siano usati come ""esercito industriale di riserva"" da parte della grande imprenditoria per abbassare i diritti complessivi di tutti i lavoratori."
+1568,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Siamo altresì contrari al fatto che i lavoratori immigrati siano usati come ""esercito industriale di riserva"" da parte della grande imprenditoria per abbassare i diritti complessivi di tutti i lavoratori."
 1569,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1570,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"La difesa e la promozione del “saper fare” Italiano passano anche attraverso la vigilanza affinché gli accordi commerciali negoziati dalla Commissione Europea. Più che puntare alla riduzione delle tariffe doganali, bisogna puntare al raggiungimento e al riconoscimento reciproco di standard produttivi elevati. Stipulare accordi commerciali di questo livello serve a disincentivare fenomeni di dumping sociale e ambientale,"
 1571,Affari Interni,3,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,78,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,"FRENO ALLE ESTERNALIZZAZIONI E CONTRASTO ALL’USO DISTORTO DEL VOLONTARIATO E DEI
@@ -2785,7 +2785,7 @@ sul lavoro”."
 1580,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1581,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1582,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1583,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,Cancellare la Riforma Cartabia e fare una vera ed efficace riforma della Giustizia e del CSM per accorciare i tempi del processo e slegare la magistratura dai condizionamenti della politica
+1583,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,Cancellare la Riforma Cartabia e fare una vera ed efficace riforma della Giustizia e del CSM per accorciare i tempi del processo e slegare la magistratura dai condizionamenti della politica
 1584,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,abolizione della legge salva corrotti e quindi della riforma Cartabia
 1585,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1586,Affari Interni,3,Riforma Cartabia,riforma-cartabia,36,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2808,7 +2808,7 @@ o        modalità flessibili della gestione dei congedi parentali e forme di pr
 1595,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1596,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1597,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1598,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1598,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1599,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1600,Politiche sociali,9,Congedo paternità,congedo-paternit,49,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Congedi parentali di identica durata per la madre e per il padre. Se verranno equiparate le mensilità di congedo parentale per la madre e per il padre (come ad esempio
 fatto in Spagna) tutti i datori di lavoro saranno neutri nell’assunzione di uomini e donne anche perchè il tempo eventualmente sottratto alla professione sarebbe identico
@@ -2836,7 +2836,7 @@ o        modalità flessibili della gestione dei congedi parentali e forme di pr
 1610,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1611,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1612,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1613,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1613,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1614,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1615,Valori e diritti,10,Congedo paternità,congedo-paternit,49,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Congedi parentali di identica durata per la madre e per il padre. Se verranno equiparate le mensilità di congedo parentale per la madre e per il padre (come ad esempio
 fatto in Spagna) tutti i datori di lavoro saranno neutri nell’assunzione di uomini e donne anche perchè il tempo eventualmente sottratto alla professione sarebbe identico
@@ -2857,7 +2857,7 @@ trattamento economico di quest’ultimo."
 1625,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1626,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1627,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1628,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1628,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1629,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1630,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1631,"Istruzione, Università e Ricerca",8,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,68,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2872,7 +2872,7 @@ trattamento economico di quest’ultimo."
 1640,"Istruzione, Università e Ricerca",8,Alternanza scuola-lavoro,alternanza-scuolalavoro,67,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,grey,
 1641,"Istruzione, Università e Ricerca",8,Alternanza scuola-lavoro,alternanza-scuolalavoro,67,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,grey,
 1642,"Istruzione, Università e Ricerca",8,Alternanza scuola-lavoro,alternanza-scuolalavoro,67,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1643,"Istruzione, Università e Ricerca",8,Alternanza scuola-lavoro,alternanza-scuolalavoro,67,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1643,"Istruzione, Università e Ricerca",8,Alternanza scuola-lavoro,alternanza-scuolalavoro,67,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,grey,
 1644,"Istruzione, Università e Ricerca",8,Alternanza scuola-lavoro,alternanza-scuolalavoro,67,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,red,"Riteniamo necessaria
 l' eliminazione dell’alternanza scuola lavoro in tutti gli istituti; è preferibile attivare
 laboratori, anche per stage interni o percorsi di autoimprenditorialità nelle scuole."
@@ -2892,7 +2892,7 @@ un'Unione Europea più politica e meno burocratica"
 1656,Affari Interni,3,Uscita dall'Euro,uscita-dalleuro,14,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,red,"Piena adesione al processo di integrazione europea, con la prospettiva di
 un'Unione Europea più politica e meno burocratica"
 1657,Affari Interni,3,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,red,"...costruzione di un'Unione Europea sempre più forte, democratica e coesa"
-1658,Affari Interni,3,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Fuori l'Italia da NATO, UE, Euro, Oms."
+1658,Affari Interni,3,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Fuori l'Italia da NATO, UE, Euro, Oms."
 1659,Affari Interni,3,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"STOP ALL'EUROPA! FUORI
 DA EURO E UE PER UNA NUOVA
 SOVRANITA' MONETARIA
@@ -2934,7 +2934,7 @@ La libertà di scelta educativa va raggiunta migliorando gli strumenti a disposi
 1670,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,green,Riconoscere la libertà di scelta educativa delle famiglie attraverso il buono scuola
 1671,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,Riconoscere la libertà di scelta educativa delle famiglie attraverso il buono scuola
 1672,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1673,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Sanità, scuola, trasporti, assieme ai settori strategici come infrastrutture ed energia, devono essere pubbliche"
+1673,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,red,"Sanità, scuola, trasporti, assieme ai settori strategici come infrastrutture ed energia, devono essere pubbliche"
 1674,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1675,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Realizzare la piena parità tra scuola statale e paritaria. Garantire alle famiglie la libertà di scelta della scuola paritaria alle medesime condizioni della frequenza della scuola statale. Attuazione della Legge 62/2000, che porti gradualmente a raggiungere il costo standard di sostenibilità per tutti, con risorse provenienti da Stato, Regioni, Comuni, Province"
 1676,"Istruzione, Università e Ricerca",8,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,92,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,grey,
@@ -2951,7 +2951,7 @@ dell'edilizia residenziale pubblica"
 1686,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Piano straordinario di riqualificazione delle periferie, anche attraverso il rilancio
 dell'edilizia residenziale pubblica"
 1687,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,grey,
-1688,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Piano straordinario per le case popolari
+1688,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Piano straordinario per le case popolari
 1689,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1690,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale Lega,programma-elettorale-lega,Lega,2,grey,
 1691,Politiche sociali,9,Alloggi popolari,alloggi-popolari,38,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,green,PIANO DI EDILIZIA RESIDENZIALE PUBBLICA con riqualificazione degli edifici esistenti senza consumo di suolo
@@ -2983,7 +2983,7 @@ promozione di stili di vita sani"
 1701,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,green,"Sostegno allo sport quale strumento di crescita e integrazione sociale e
 promozione di stili di vita sani"
 1702,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,green,"Importantissimo, nella prevenzione e promozione della salute, l'investimento sulle politiche sportive"
-1703,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,green,Sviluppo delle attività di sport popolare con piano straordinario di investimenti
+1703,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,Sviluppo delle attività di sport popolare con piano straordinario di investimenti
 1704,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,grey,
 1705,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Lega,programma-elettorale-lega,Lega,2,green,"Prevedere un’agevolazione economica per l’istituzione di un’assicurazione che copra tutte le responsabilità dei dirigenti e dei presidenti delle Associazioni Sportive Dilettantistiche
 
@@ -2996,3 +2996,43 @@ Detrazione d’imposta per le spese sostenute per iscrizione e abbonamento annua
 promozione di stili di vita sani"
 1709,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale PD,programma-elettorale-pd,Partito Democratico,5,green,"Vogliamo investire nello sport e nella cultura come strumenti in grado di creare apertura, superamento degli stereotipi di genere, benessere condiviso, nuovi spazi di socialità e nuove occasioni di realizzazione personale. Vogliamo costruire una nuova cultura della legalità, che faccia della lotta alle mafie e alla criminalità organizzata una priorità."
 1710,"Cultura, Turismo e Sport",7,Investimento su politiche sportive,investimento-su-politiche-sportive,73,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,grey,
+1711,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale +Europa,programma-elettorale-europa,+Europa,7,red,+Europa mantiene fede in maniera convinta a due punti fermi: europeismo e atlantismo
+1712,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Alternativa Per l'Italia,programma-elettorale-alternativa-per-litalia,Alternativa Per l'Italia,12,green,Difendere la sovranità nazionale e gli interessi degli italiani dall’ingerenza delle strutture tecnocratiche sovranazionali.
+1713,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale AVS,programma-elettorale-avs,Alleanza Verdi e Sinistra,6,red,"L’Unione Europea è uno spazio politico da difendere, approfondire e cambiare."
+1714,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Azione Italia Viva,programma-elettorale-azione-italia-viva,Azione-Italia Viva-Calenda,10,red,"Con una svolta in senso federale delle sue Istituzioni, l’Ue può fare ancora di più. Occorre riaprire il cantiere delle riforme dei Trattati, recuperare lo spirito che animò Altiero Spinelli nel 1984 per dare maggiore capacità fiscale, per finanziare programmi di diretta competenza della Commissione, così che la Commissione non abbia come unico ruolo quello del “guardiano” che controlla i bilanci degli Stati membri; per finalizzare l’Unione economica e monetaria e in particolare l’Unione bancaria, con la creazione di un safe asset europeo che metta al riparo la tenuta dell’area euro dagli eccessivi spread."
+1715,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Accordo quadro di programma per un Governo di centrodestra (FdI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi,Fratelli d'Italia,1,red,"Piena adesione al processo di integrazione europea, con la prospettiva di
+un'Unione Europea più politica e meno burocratica"
+1716,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Accordo quadro di programma per un Governo di centrodestra (FI),accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi,Forza Italia,3,red,"Piena adesione al processo di integrazione europea, con la prospettiva di
+un'Unione Europea più politica e meno burocratica"
+1717,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,Impegno Civico,8,red,"...costruzione di un'Unione Europea sempre più forte, democratica e coesa"
+1718,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,Italia Sovrana e Popolare,13,green,"Fuori l'Italia da NATO, UE, Euro, Oms."
+1719,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Italexit,programma-elettorale-italexit,Italexit,11,green,"STOP ALL'EUROPA! FUORI
+DA EURO E UE PER UNA NUOVA
+SOVRANITA' MONETARIA
+ITALEXIT
+chiede l'immediata uscita dell'Italia dall'Unione Europea e dall'Euro, moneta
+di distruzione di massa che come dimostrato da tutti i grafici e da tutti i dati a
+disposizione ha creato danni gravissi mi alla nostra economia, ai cittadini e alle imprese.
+È
+necessario recuperare la sovranità mone taria e poi, come insegna Keynes, una volta
+liberi dai vincoli Ue sarà anche possibile ricominciare una politica intelligente di
+investim enti che restituiscano linfa alla nostra economia.
+La sovranità monetaria dello Stato è un volano irrinunciabile per la
+crescita e per il
+futuro del nostro Paese e l e dinamiche di uscita da Euro e U E sono studiate da tempo
+dai nostri esperti: economisti, avvocati, giuristi.
+È
+un lavoro complesso, sappiamo che subiremo attacchi dall'esterno e abbiamo studiato
+nei minimi par ticolari la maniera di non farci trovare impreparati."
+1720,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Lega,programma-elettorale-lega,Lega,2,red,"L’Italia mantiene nella sua postura internazionale la salda appartenenza all’Unione europea e all’Alleanza Atlantica e nel suo sostegno al multilateralismo fondato sul diritto internazionale e imperniato sul sistema delle Nazioni Unite, non per questo rinunciando a contribuire con la propria visione alle scelte internazionali."
+1721,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale M5S,programma-elettorale-m5s,Movimento 5 Stelle,9,red,"SOLIDA COLLOCAZIONE DELL’ITALIA NELL’ALLEANZA ATLANTICA E NELL’UNIONE EUROPEA,
+ma con un atteggiamento proattivo e non fideistico, che renda l’Italia protagonista nell’ambito dei
+vari consessi"
+1722,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Noi di Centro-Europeisti,programma-elettorale-noi-di-centroeuropeisti,Noi di Centro-Europeisti,14,green,è fondamentale ribadire l'adesione morale e politica allo spirito europeista
+1723,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Accordo quadro di programma per un Governo di centrodestra (NoiM),accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim,Noi moderati,4,red,"Piena adesione al processo di integrazione europea, con la prospettiva di
+un'Unione Europea più politica e meno burocratica"
+1724,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale PD,programma-elettorale-pd,Partito Democratico,5,red,"Vogliamo che Unione europea, NATO e ONU rimangano le organizzazioni internazionali di riferimento per l’Italia, dove svolgere un ruolo autorevole e da protagonisti."
+1725,Economia,4,Uscita dall'Euro,uscita-dalleuro,14,Programma elettorale Unione Popolare,programma-elettorale-unione-popolare,Unione Popolare,15,red,"Restituire al nostro paese autonomia strategica nelle sue relazioni internazionali in Europa
+e nel Mediterraneo, per costruire l’Europa dei popoli, della fratellanza universale, della giustizia
+ambientale, sociale ed economica, non più solo della moneta unica, della libera circolazione di
+capitali e merci e dei vincoli finanziari."
