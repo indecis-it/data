@@ -282,7 +282,7 @@
 ,{
   "id": 36,
   "party": "Il popolo della famiglia",
-  "list_id": 11,
+  "list_id": 12,
   "list": "Alternativa Per l'Italia",
   "coalition_id": 6,
   "coalition": "Alternativa Per l'Italia"
@@ -290,7 +290,7 @@
 ,{
   "id": 37,
   "party": "Exit",
-  "list_id": 11,
+  "list_id": 12,
   "list": "Alternativa Per l'Italia",
   "coalition_id": 6,
   "coalition": "Alternativa Per l'Italia"
@@ -298,7 +298,7 @@
 ,{
   "id": 38,
   "party": "Noi di Centro",
-  "list_id": 12,
+  "list_id": 14,
   "list": "Noi di Centro-Europeisti",
   "coalition_id": 9,
   "coalition": "Noi di Centro-Europeisti"
@@ -306,7 +306,7 @@
 ,{
   "id": 39,
   "party": "Italexit",
-  "list_id": 13,
+  "list_id": 11,
   "list": "Italexit",
   "coalition_id": 5,
   "coalition": "Italexit"
@@ -314,7 +314,7 @@
 ,{
   "id": 40,
   "party": "CasaPound",
-  "list_id": 13,
+  "list_id": 11,
   "list": "Italexit",
   "coalition_id": 5,
   "coalition": "Italexit"
@@ -322,7 +322,7 @@
 ,{
   "id": 41,
   "party": "Ancora Italia",
-  "list_id": 14,
+  "list_id": 13,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
@@ -330,7 +330,7 @@
 ,{
   "id": 42,
   "party": "Partito Comunista",
-  "list_id": 14,
+  "list_id": 13,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
@@ -338,7 +338,7 @@
 ,{
   "id": 43,
   "party": "Riconquistare l’Italia",
-  "list_id": 14,
+  "list_id": 13,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
@@ -346,7 +346,7 @@
 ,{
   "id": 44,
   "party": "Azione Civile",
-  "list_id": 14,
+  "list_id": 13,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
@@ -354,7 +354,7 @@
 ,{
   "id": 45,
   "party": "Patria Socialista",
-  "list_id": 14,
+  "list_id": 13,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
@@ -362,7 +362,7 @@
 ,{
   "id": 46,
   "party": "Italia Unita",
-  "list_id": 14,
+  "list_id": 13,
   "list": "Italia Sovrana e Popolare",
   "coalition_id": 8,
   "coalition": "Italia Sovrana e Popolare"
@@ -418,7 +418,7 @@
 ,{
   "id": 53,
   "party": "Europeisti",
-  "list_id": 12,
+  "list_id": 14,
   "list": "Noi di Centro-Europeisti",
   "coalition_id": 9,
   "coalition": "Noi di Centro-Europeisti"
@@ -482,7 +482,7 @@
 ,{
   "id": 61,
   "party": "Vox Italia",
-  "list_id": 13,
+  "list_id": 11,
   "list": "Italexit",
   "coalition_id": 5,
   "coalition": "Italexit"
@@ -490,7 +490,7 @@
 ,{
   "id": 62,
   "party": "Democrazia Cristiana",
-  "list_id": 12,
+  "list_id": 14,
   "list": "Noi di Centro-Europeisti",
   "coalition_id": 9,
   "coalition": "Noi di Centro-Europeisti"
@@ -578,7 +578,7 @@
 ,{
   "id": 73,
   "party": "NOI-Nuovi Orizzonti per l'Italia",
-  "list_id": 12,
+  "list_id": 14,
   "list": "Noi di Centro-Europeisti",
   "coalition_id": 9,
   "coalition": "Noi di Centro-Europeisti"
