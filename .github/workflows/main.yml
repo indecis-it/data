@@ -15,8 +15,8 @@ jobs:
           
       - name: Download data
         run: |
-          chmod +x script/new_download.sh
-          script/new_download.sh
+          chmod +x script/download.sh
+          script/download.sh
 
       - uses: r-lib/actions/setup-r@master
 
@@ -33,8 +33,8 @@ jobs:
       
       - name: Build json
         run: |-
-          chmod +x script/new_convert.sh
-          script/new_convert.sh
+          chmod +x script/convert.sh
+          script/convert.sh
           
 #      - name: Validate data
 #        uses: frictionlessdata/repository@v2
