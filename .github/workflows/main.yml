@@ -29,18 +29,18 @@ jobs:
       - name: Run R script. Reshape items
         run: Rscript script/reshape.R
     
-#      - name: Install miller
-#        run: |-
-#          sudo apt-get install miller
-
-      - name: Test Install miller
+      - name: Install miller
         run: |-
-          curl -kL "https://raw.githubusercontent.com/ondata/covid19italia/master/bin/mlr" > mlr
-          mkdir -p ~/bin
-          cp mlr ~/bin
-          cd ~/bin
-          chmod +x mlr
-          export PATH=$PATH:~/bin
+          sudo apt-get install miller
+
+#      - name: Test Install miller
+#        run: |-
+#          curl -kL "https://raw.githubusercontent.com/ondata/covid19italia/master/bin/mlr" > mlr
+#          mkdir -p ~/bin
+#          mv mlr ~/bin
+#          cd ~/bin
+#          chmod +x mlr
+#          export PATH=$PATH:~/bin
       
       - name: Build json
         run: |-
