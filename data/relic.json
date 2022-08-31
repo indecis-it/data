@@ -1,13 +1,115 @@
 [
 {
-  "subject": "Presidenzialismo",
-  "subject_id": 18,
-  "category": "Organi di governo e amministrativi",
-  "category_id": 1
+  "subject": "Abolizione \"buona Scuola\"",
+  "subject_id": 34,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Abolizione del numero chiuso università",
+  "subject_id": 95,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Abolizione legge Gelmini",
+  "subject_id": 35,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Abrogazione legge Fornero",
+  "subject_id": 37,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Adesione all'UE",
+  "subject_id": 13,
+  "category": "Affari Esteri",
+  "category_id": 11
+}
+,{
+  "subject": "Adesione alla NATO",
+  "subject_id": 9,
+  "category": "Difesa",
+  "category_id": 2
+}
+,{
+  "subject": "Adesione alla NATO",
+  "subject_id": 9,
+  "category": "Affari Esteri",
+  "category_id": 11
+}
+,{
+  "subject": "Agevolazione mutui giovani",
+  "subject_id": 32,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Aiutare giovani laureati/e a rimanere in Italia",
+  "subject_id": 76,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Aiuti militari Ucraina",
+  "subject_id": 8,
+  "category": "Difesa",
+  "category_id": 2
+}
+,{
+  "subject": "Aiuti militari Ucraina",
+  "subject_id": 8,
+  "category": "Affari Esteri",
+  "category_id": 11
+}
+,{
+  "subject": "Alloggi popolari",
+  "subject_id": 38,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Alloggi popolari",
+  "subject_id": 38,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Alternanza scuola-lavoro",
+  "subject_id": 67,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
 }
 ,{
   "subject": "Apprendistato retribuito",
   "subject_id": 62,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Aumentare poteri e risorse dei piccoli comuni",
+  "subject_id": 57,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Aumentare poteri e risorse dei piccoli comuni",
+  "subject_id": 57,
+  "category": "Organi di governo e amministrativi",
+  "category_id": 1
+}
+,{
+  "subject": "Aumento assegno sociale per gli invalidi",
+  "subject_id": 66,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Aumento assegno sociale per gli invalidi",
+  "subject_id": 66,
   "category": "Economia",
   "category_id": 4
 }
@@ -30,94 +132,28 @@
   "category_id": 6
 }
 ,{
-  "subject": "Conto unico fiscale",
-  "subject_id": 30,
+  "subject": "Aumento offerta asili nido",
+  "subject_id": 48,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Aumento pensioni",
+  "subject_id": 12,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Aumento spese militari",
+  "subject_id": 101,
   "category": "Economia",
   "category_id": 4
 }
 ,{
-  "subject": "Energia rinnovabile",
-  "subject_id": 19,
-  "category": "Protezione Ambientale ed Energia",
-  "category_id": 5
-}
-,{
-  "subject": "Flat tax",
-  "subject_id": 5,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Inceneritori-Termovalorizzatori",
-  "subject_id": 20,
-  "category": "Protezione Ambientale ed Energia",
-  "category_id": 5
-}
-,{
-  "subject": "Investimenti infrastrutture",
-  "subject_id": 21,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Nucleare",
-  "subject_id": 16,
-  "category": "Protezione Ambientale ed Energia",
-  "category_id": 5
-}
-,{
-  "subject": "Patrimoniale",
-  "subject_id": 28,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Patrimoniale",
-  "subject_id": 28,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Ponte sullo Stretto",
-  "subject_id": 53,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Realizzazione grandi opere",
-  "subject_id": 54,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Revisione PNRR",
-  "subject_id": 24,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Riduzione IVA",
-  "subject_id": 4,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Rigassificatori",
-  "subject_id": 17,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Rigassificatori",
-  "subject_id": 17,
-  "category": "Protezione Ambientale ed Energia",
-  "category_id": 5
-}
-,{
-  "subject": "Salario minimo",
-  "subject_id": 6,
-  "category": "Economia",
-  "category_id": 4
+  "subject": "Aumento spese militari",
+  "subject_id": 101,
+  "category": "Difesa",
+  "category_id": 2
 }
 ,{
   "subject": "Aumento stipendio docenti",
@@ -126,10 +162,532 @@
   "category_id": 4
 }
 ,{
+  "subject": "Aumento stipendio docenti",
+  "subject_id": 60,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Autonomia differenziata",
+  "subject_id": 70,
+  "category": "Organi di governo e amministrativi",
+  "category_id": 1
+}
+,{
+  "subject": "Commissione di inchiesta COVID",
+  "subject_id": 99,
+  "category": "Salute",
+  "category_id": 6
+}
+,{
+  "subject": "Condono/pace fiscale",
+  "subject_id": 103,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Congedo paternità",
+  "subject_id": 49,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Congedo paternità",
+  "subject_id": 49,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Conto unico fiscale",
+  "subject_id": 30,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Contrasto evasione fiscale",
+  "subject_id": 31,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Contribuiti per edilizia scolastica",
+  "subject_id": 61,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Contributo affitto giovani",
+  "subject_id": 33,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Didattica a distanza garantita",
+  "subject_id": 69,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Difesa comune europea",
+  "subject_id": 58,
+  "category": "Difesa",
+  "category_id": 2
+}
+,{
+  "subject": "Diritto all'aborto",
+  "subject_id": 46,
+  "category": "Salute",
+  "category_id": 6
+}
+,{
+  "subject": "Diritto all'aborto",
+  "subject_id": 46,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Educazione sessuale",
+  "subject_id": 52,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Eliminazione del precariato",
+  "subject_id": 65,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Energia rinnovabile",
+  "subject_id": 19,
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
+}
+,{
+  "subject": "Favorire creazione delle comunità energetiche",
+  "subject_id": 79,
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
+}
+,{
+  "subject": "Favorire riscatto della laurea",
+  "subject_id": 91,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Fine del segreto di Stato sulle stragi",
+  "subject_id": 97,
+  "category": "Affari Interni",
+  "category_id": 3
+}
+,{
+  "subject": "Flat tax",
+  "subject_id": 5,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Green Pass",
+  "subject_id": 63,
+  "category": "Salute",
+  "category_id": 6
+}
+,{
+  "subject": "Inceneritori-Termovalorizzatori",
+  "subject_id": 20,
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
+}
+,{
+  "subject": "Integrazione università-aziende",
+  "subject_id": 85,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Investimenti infrastrutture",
+  "subject_id": 21,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Investimenti per il Mezzogiorno",
+  "subject_id": 22,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Investimenti per la formazione dei docenti",
+  "subject_id": 72,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Investimento su politiche sportive",
+  "subject_id": 73,
+  "category": "Cultura, Turismo e Sport",
+  "category_id": 7
+}
+,{
+  "subject": "Investimento su politiche sportive",
+  "subject_id": 73,
+  "category": "Cultura, Turismo e Sport",
+  "category_id": 7
+}
+,{
+  "subject": "Ius scholae",
+  "subject_id": 43,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Ius soli",
+  "subject_id": 44,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Legalizzazione Cannabis",
+  "subject_id": 51,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Legalizzazione Cannabis",
+  "subject_id": 51,
+  "category": "Cultura, Turismo e Sport",
+  "category_id": 7
+}
+,{
+  "subject": "Legge fine vita",
+  "subject_id": 41,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Libri di testo gratuiti",
+  "subject_id": 80,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Lotta alla corruzione",
+  "subject_id": 100,
+  "category": "Affari Interni",
+  "category_id": 3
+}
+,{
+  "subject": "Lotta alla mafia",
+  "subject_id": 39,
+  "category": "Affari Interni",
+  "category_id": 3
+}
+,{
+  "subject": "Lotta alla omotransfobia",
+  "subject_id": 40,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Maggiore sostegno per disabili nelle scuole",
+  "subject_id": 74,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Maggiori investimenti per la ricerca",
+  "subject_id": 23,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Matrimonio egualitario",
+  "subject_id": 50,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Mense scolastiche gratuite",
+  "subject_id": 77,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "No al dumping sociale dei lavoratori",
+  "subject_id": 78,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "No al dumping sociale dei lavoratori",
+  "subject_id": 78,
+  "category": "Affari Interni",
+  "category_id": 3
+}
+,{
+  "subject": "Nucleare",
+  "subject_id": 16,
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
+}
+,{
+  "subject": "Obbligo scolastico fino a 18 anni",
+  "subject_id": 68,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Obbligo Vaccinale",
+  "subject_id": 64,
+  "category": "Salute",
+  "category_id": 6
+}
+,{
+  "subject": "Parità salariale",
+  "subject_id": 42,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Patrimoniale",
+  "subject_id": 28,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Più attività extrascolastiche",
+  "subject_id": 94,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Più meritocrazia a scuola e nei concorsi",
+  "subject_id": 81,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Ponte sullo Stretto",
+  "subject_id": 53,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Presidenzialismo",
+  "subject_id": 18,
+  "category": "Organi di governo e amministrativi",
+  "category_id": 1
+}
+,{
+  "subject": "Promuovere Istituti Tecnici Superiori",
+  "subject_id": 82,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Promuovere lavoro agile",
+  "subject_id": 55,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Promuovere lavoro agile",
+  "subject_id": 55,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Promuovere Made in Italy",
+  "subject_id": 56,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Promuovere parità di genere",
+  "subject_id": 83,
+  "category": "Valori e Diritti",
+  "category_id": 10
+}
+,{
+  "subject": "Promuovere sicurezza sul lavoro",
+  "subject_id": 84,
+  "category": "Salute",
+  "category_id": 6
+}
+,{
+  "subject": "Promuovere sicurezza sul lavoro",
+  "subject_id": 84,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Realizzazione grandi opere",
+  "subject_id": 54,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Reddito di cittadinanza",
+  "subject_id": 11,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Revisione PNRR",
+  "subject_id": 24,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Riduzione bolletta energetica",
+  "subject_id": 27,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Riduzione IVA",
+  "subject_id": 4,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Riduzione o eliminazione IRAP",
+  "subject_id": 25,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Riduzione o eliminazione IRAP",
+  "subject_id": 25,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Riforma Cartabia",
+  "subject_id": 36,
+  "category": "Affari Interni",
+  "category_id": 3
+}
+,{
+  "subject": "Riforma sistema penitenziario",
+  "subject_id": 105,
+  "category": "Affari Interni",
+  "category_id": 3
+}
+,{
+  "subject": "Riforma sistema penitenziario",
+  "subject_id": 105,
+  "category": "Organi di governo e amministrativi",
+  "category_id": 1
+}
+,{
+  "subject": "Rigassificatori",
+  "subject_id": 17,
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
+}
+,{
+  "subject": "Ripristino articolo 18",
+  "subject_id": 96,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Salario minimo",
+  "subject_id": 6,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Sanzioni Russia",
+  "subject_id": 10,
+  "category": "Affari Esteri",
+  "category_id": 11
+}
+,{
+  "subject": "Scuola infanzia gratuita",
+  "subject_id": 86,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Scuola infanzia obbligatoria",
+  "subject_id": 93,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Servizio militare obbligatorio",
+  "subject_id": 102,
+  "category": "Difesa",
+  "category_id": 2
+}
+,{
+  "subject": "Sostegno alla scuola paritaria",
+  "subject_id": 92,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Sostegno alle imprese turistiche (promozione turismo)",
+  "subject_id": 104,
+  "category": "Cultura, Turismo e Sport",
+  "category_id": 7
+}
+,{
+  "subject": "Sostegno alle imprese turistiche (promozione turismo)",
+  "subject_id": 104,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Sostegno alle imprese turistiche (promozione turismo)",
+  "subject_id": 104,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
+}
+,{
+  "subject": "Sostegno meno abbienti e incapienti",
+  "subject_id": 88,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Sostegno per universitari fuori sede",
+  "subject_id": 75,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
+  "subject": "Sostegno piccole e medie imprese",
+  "subject_id": 26,
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Sostegno psicologico scolastico",
+  "subject_id": 71,
+  "category": "Istruzione, Università e Ricerca",
+  "category_id": 8
+}
+,{
   "subject": "Super bonus",
   "subject_id": 7,
   "category": "Economia",
   "category_id": 4
+}
+,{
+  "subject": "Supporto maternità",
+  "subject_id": 47,
+  "category": "Politiche Sociali",
+  "category_id": 9
+}
+,{
+  "subject": "Sviluppare servizi sanitari di prossimità",
+  "subject_id": 89,
+  "category": "Salute",
+  "category_id": 6
 }
 ,{
   "subject": "Taglio cuneo fiscale",
@@ -144,88 +702,10 @@
   "category_id": 12
 }
 ,{
-  "subject": "Trivelle",
-  "subject_id": 15,
-  "category": "Protezione Ambientale ed Energia",
-  "category_id": 5
-}
-,{
-  "subject": "Scuola infanzia obbligatoria",
-  "subject_id": 93,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Aumento stipendio docenti",
-  "subject_id": 60,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Alloggi popolari",
-  "subject_id": 38,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Contributo affitto giovani",
-  "subject_id": 33,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Reddito di cittadinanza",
-  "subject_id": 11,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Riduzione bolletta energetica",
-  "subject_id": 27,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Scuola infanzia gratuita",
-  "subject_id": 86,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Lotta alla omotransfobia",
-  "subject_id": 40,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Ius scholae",
-  "subject_id": 43,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Ius soli",
-  "subject_id": 44,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Matrimonio egualitario",
-  "subject_id": 50,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Parità salariale",
-  "subject_id": 42,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Libri di testo gratuiti",
-  "subject_id": 80,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
+  "subject": "Tetto al prezzo del gas",
+  "subject_id": 1,
+  "category": "Economia",
+  "category_id": 4
 }
 ,{
   "subject": "Trasporto scolastico gratuito",
@@ -234,94 +714,10 @@
   "category_id": 8
 }
 ,{
-  "subject": "Più attività extrascolastiche",
-  "subject_id": 94,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Contribuiti per edilizia scolastica",
-  "subject_id": 61,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Mense scolastiche gratuite",
-  "subject_id": 77,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Sostegno psicologico scolastico",
-  "subject_id": 71,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Maggiore sostegno per disabili nelle scuole",
-  "subject_id": 74,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Più meritocrazia a scuola e nei concorsi",
-  "subject_id": 81,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Eliminazione del precariato",
-  "subject_id": 65,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Investimenti per la formazione dei docenti",
-  "subject_id": 72,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Sostegno meno abbienti e incapienti",
-  "subject_id": 88,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Aiutare giovani laureati/e a rimanere in Italia",
-  "subject_id": 76,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Maggiori investimenti per la ricerca",
-  "subject_id": 23,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Abolizione legge Gelmini",
-  "subject_id": 35,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Integrazione università-aziende",
-  "subject_id": 85,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Didattica a distanza garantita",
-  "subject_id": 69,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Educazione sessuale",
-  "subject_id": 52,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
+  "subject": "Trivelle",
+  "subject_id": 15,
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
 }
 ,{
   "subject": "Tutela ambiente e paesaggio",
@@ -336,369 +732,27 @@
   "category_id": 6
 }
 ,{
-  "subject": "Agevolazione mutui giovani",
-  "subject_id": 32,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
   "subject": "Tutela del Benessere Animale",
   "subject_id": 98,
-  "category": "Salute",
-  "category_id": 6
-}
-,{
-  "subject": "Legge fine vita",
-  "subject_id": 41,
-  "category": "Valori e diritti",
+  "category": "Valori e Diritti",
   "category_id": 10
 }
 ,{
-  "subject": "Sviluppare servizi sanitari di prossimità",
-  "subject_id": 89,
-  "category": "Salute",
-  "category_id": 6
+  "subject": "Uscita dall'Euro",
+  "subject_id": 14,
+  "category": "Affari Interni",
+  "category_id": 3
 }
 ,{
-  "subject": "Investimento su politiche sportive",
-  "subject_id": 73,
-  "category": "Cultura, Turismo e Sport",
-  "category_id": 7
-}
-,{
-  "subject": "Promuovere sicurezza sul lavoro",
-  "subject_id": 84,
-  "category": "Salute",
-  "category_id": 6
-}
-,{
-  "subject": "Promuovere sicurezza sul lavoro",
-  "subject_id": 84,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Aumento offerta asili nido",
-  "subject_id": 48,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Promuovere lavoro agile",
-  "subject_id": 55,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Promuovere lavoro agile",
-  "subject_id": 55,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Promuovere parità di genere",
-  "subject_id": 83,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Promuovere Istituti Tecnici Superiori",
-  "subject_id": 82,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Sostegno per universitari fuori sede",
-  "subject_id": 75,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Legalizzazione Cannabis",
-  "subject_id": 51,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Legalizzazione Cannabis",
-  "subject_id": 51,
-  "category": "Cultura, Turismo e Sport",
-  "category_id": 7
+  "subject": "Uscita dall'Euro",
+  "subject_id": 14,
+  "category": "Economia",
+  "category_id": 4
 }
 ,{
   "subject": "Voto fuorisede",
   "subject_id": 45,
-  "category": "Valori e diritti",
+  "category": "Valori e Diritti",
   "category_id": 10
-}
-,{
-  "subject": "Favorire riscatto della laurea",
-  "subject_id": 91,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Riduzione o eliminazione IRAP",
-  "subject_id": 25,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Riduzione o eliminazione IRAP",
-  "subject_id": 25,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Promuovere Made in Italy",
-  "subject_id": 56,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Aumentare poteri e risorse dei piccoli comuni",
-  "subject_id": 57,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Investimenti per il Mezzogiorno",
-  "subject_id": 22,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Autonomia differenziata",
-  "subject_id": 70,
-  "category": "Organi di governo e amministrativi",
-  "category_id": 1
-}
-,{
-  "subject": "Tetto al prezzo del gas",
-  "subject_id": 1,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Favorire creazione delle comunità energetiche",
-  "subject_id": 79,
-  "category": "Protezione Ambientale ed Energia",
-  "category_id": 5
-}
-,{
-  "subject": "Adesione alla NATO",
-  "subject_id": 9,
-  "category": "Difesa",
-  "category_id": 2
-}
-,{
-  "subject": "Adesione alla NATO",
-  "subject_id": 9,
-  "category": "Affari Esteri",
-  "category_id": 11
-}
-,{
-  "subject": "Adesione all'UE",
-  "subject_id": 13,
-  "category": "Affari Esteri",
-  "category_id": 11
-}
-,{
-  "subject": "Contrasto evasione fiscale",
-  "subject_id": 31,
-  "category": "Lavoro e Tasse",
-  "category_id": 12
-}
-,{
-  "subject": "Supporto maternità",
-  "subject_id": 47,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Sostegno piccole e medie imprese",
-  "subject_id": 26,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Aumento pensioni",
-  "subject_id": 12,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Green Pass",
-  "subject_id": 63,
-  "category": "Salute",
-  "category_id": 6
-}
-,{
-  "subject": "Obbligo Vaccinale",
-  "subject_id": 64,
-  "category": "Salute",
-  "category_id": 6
-}
-,{
-  "subject": "Sanzioni Russia",
-  "subject_id": 10,
-  "category": "Affari Esteri",
-  "category_id": 11
-}
-,{
-  "subject": "Aiuti militari Ucraina",
-  "subject_id": 8,
-  "category": "Difesa",
-  "category_id": 2
-}
-,{
-  "subject": "Aiuti militari Ucraina",
-  "subject_id": 8,
-  "category": "Affari esteri",
-  "category_id": 11
-}
-,{
-  "subject": "Diritto all'aborto",
-  "subject_id": 46,
-  "category": "Salute",
-  "category_id": 6
-}
-,{
-  "subject": "Diritto all'aborto",
-  "subject_id": 46,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Difesa comune europea",
-  "subject_id": 58,
-  "category": "Difesa",
-  "category_id": 2
-}
-,{
-  "subject": "Aumento assegno sociale per gli invalidi",
-  "subject_id": 66,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Aumento assegno sociale per gli invalidi",
-  "subject_id": 66,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Ripristino articolo 18",
-  "subject_id": 96,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Abrogazione legge Fornero",
-  "subject_id": 37,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Abolizione \"buona Scuola\"",
-  "subject_id": 34,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Lotta alla mafia",
-  "subject_id": 39,
-  "category": "Affari Interni",
-  "category_id": 3
-}
-,{
-  "subject": "Fine del segreto di Stato sulle stragi",
-  "subject_id": 97,
-  "category": "Affari Interni",
-  "category_id": 3
-}
-,{
-  "subject": "Abolizione del numero chiuso università",
-  "subject_id": 95,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Commissione di inchiesta COVID",
-  "subject_id": 99,
-  "category": "Salute",
-  "category_id": 6
-}
-,{
-  "subject": "No al dumping sociale dei lavoratori",
-  "subject_id": 78,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "No al dumping sociale dei lavoratori",
-  "subject_id": 78,
-  "category": "Affari Interni",
-  "category_id": 3
-}
-,{
-  "subject": "Riforma Cartabia",
-  "subject_id": 36,
-  "category": "Affari Interni",
-  "category_id": 3
-}
-,{
-  "subject": "Congedo paternità",
-  "subject_id": 49,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Congedo paternità",
-  "subject_id": 49,
-  "category": "Valori e diritti",
-  "category_id": 10
-}
-,{
-  "subject": "Obbligo scolastico fino a 18 anni",
-  "subject_id": 68,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Alternanza scuola-lavoro",
-  "subject_id": 67,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Uscita dall'Euro",
-  "subject_id": 14,
-  "category": "Affari Interni",
-  "category_id": 3
-}
-,{
-  "subject": "Sostegno alla scuola paritaria",
-  "subject_id": 92,
-  "category": "Istruzione, Università e Ricerca",
-  "category_id": 8
-}
-,{
-  "subject": "Alloggi popolari",
-  "subject_id": 38,
-  "category": "Politiche sociali",
-  "category_id": 9
-}
-,{
-  "subject": "Investimento su politiche sportive",
-  "subject_id": 73,
-  "category": "Cultura, Turismo e Sport",
-  "category_id": 7
-}
-,{
-  "subject": "Uscita dall'Euro",
-  "subject_id": 14,
-  "category": "Economia",
-  "category_id": 4
 }
 ]
