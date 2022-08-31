@@ -177,15 +177,15 @@ If you wanna use indecis.it data in your works, you can follow these easy instru
 
 ### R
 ```r
-categories <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv")
-sources <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv")
-lists <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv")
-parties <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv")
-coalitions <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv")
-leaders <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv")
-items <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv")
-glossary <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv")
-endorsements <- readr::read_csv("https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv")
+categories <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv")
+sources <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv")
+lists <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv")
+parties <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv")
+coalitions <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv")
+leaders <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv")
+items <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv")
+glossary <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv")
+endorsements <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv")
 ```
 
 ### MATLAB
