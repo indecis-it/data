@@ -12,6 +12,8 @@ jobs:
       
       - name: Git checkout
         uses: actions/checkout@v2
+        with:
+        fetch-depth: 0
           
       - name: Download data
         run: |
@@ -33,19 +35,12 @@ jobs:
 
       - name: Test Install miller
         run: |-
-          sudo apt-get install -y libappindicator1 fonts-liberation
-          sudo apt-get -f install
-          wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome*.deb
+          curl -kL "https://raw.githubusercontent.com/ondata/covid19italia/master/bin/mlr" > mlr
           mkdir -p ~/bin
-          cp bin/mlr ~/bin
+          cp mlr ~/bin
           cd ~/bin
           chmod +x mlr
-          sudo locale-gen it_IT
-          sudo locale-gen it_IT.UTF-8
-          sudo update-locale
           export PATH=$PATH:~/bin
-          export PATH=$PATH:~/.local/bin
       
       - name: Build json
         run: |-
