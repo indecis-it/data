@@ -36,8 +36,8 @@ jobs:
           chmod +x script/convert.sh
           script/convert.sh
           
-#      - name: Validate data
-#        uses: frictionlessdata/repository@v2
+      - name: Validate data
+        uses: frictionlessdata/repository@v2
         
       - name: Update Repository
         run: |-
