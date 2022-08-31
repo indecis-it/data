@@ -43,10 +43,6 @@ resources:
         - name: slug
           type: string
           title: Category slug
-        - name: source
-          type: string
-          title: Source
-          description: Source of the classification
         - name: name_en
           type: string
           title: English name
