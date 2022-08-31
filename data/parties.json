@@ -583,4 +583,76 @@
   "coalition_id": 9,
   "coalition": "Noi di Centro-Europeisti"
 }
+,{
+  "id": 74,
+  "party": "R2020",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 75,
+  "party": "Movimento 3V",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 76,
+  "party": "No Paura Day",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 77,
+  "party": "Sentinelle della Costituzione - Io sto con l'Avvocato Polacco",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 78,
+  "party": "Il Popolo Italiano",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 79,
+  "party": "Popolo delle mamme",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 80,
+  "party": "Alleanza Italiana Stop 5G",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 81,
+  "party": "Unione Popolare per l'Italia libera",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
+,{
+  "id": 82,
+  "party": "ENZIAN-Südtirol",
+  "list_id": 16,
+  "list": "Vita",
+  "coalition_id": 10,
+  "coalition": "Vita"
+}
 ]

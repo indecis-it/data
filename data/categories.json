@@ -4,9 +4,9 @@
   "slug": "government-and-administrative-bodies",
   "source": "EUROSTAT",
   "name_en": "Government and administrative bodies",
-  "description_en": "",
+  "description_en": "We mean all policies relating to the management of the PA and the role of government and parliamentary managers",
   "name_it": "Organi di governo e amministrativi",
-  "description_it": ""
+  "description_it": "Intendiamo tutte le politiche relative alla gestione della PA e al ruolo dei responsabili governativi e parlamentari"
 }
 ,{
   "id": 2,
@@ -98,13 +98,3 @@
   "name_it": "Affari Esteri",
   "description_it": "Affari esteri inteso come politiche relative a: gestione dei rapporti con le istituzioni e con i paesi UE e non. Nonché con le principali organizzazioni internazionali governative e le aziende multinazionali"
 }
-,{
-  "id": 12,
-  "slug": "work-and-taxes",
-  "source": "",
-  "name_en": "Work and taxes",
-  "description_en": "",
-  "name_it": "Lavoro e tasse",
-  "description_it": ""
-}
-]

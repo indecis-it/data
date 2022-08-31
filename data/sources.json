@@ -233,4 +233,22 @@
   "list": "Fratelli d'Italia",
   "list_id": 1
 }
+,{
+  "id": 27,
+  "title": "Programma elettorale Forza Italia",
+  "slug": "programma-elettorale-forza-italia",
+  "type": "programma",
+  "url": "http://www.forza-italia.it/speciali/Programma_Elettorale_Forza_Italia.pdf",
+  "list": "Forza Italia",
+  "list_id": 3
+}
+,{
+  "id": 28,
+  "title": "Programma elettorale Vita",
+  "slug": "programma-elettorale-vita",
+  "type": "programma",
+  "url": "https://www.votalavita.it/programma/",
+  "list": "Vita",
+  "list_id": 16
+}
 ]

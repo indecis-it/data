@@ -595,8 +595,38 @@
 }
 ,{
   "id": 100,
-  "subject": "Importante: non aggiungere altri subject per ora",
-  "subject_slug": "importante-non-aggiungere-altri-subject-per-ora",
+  "subject": "Lotta alla corruzione",
+  "subject_slug": "lotta-alla-corruzione",
+  "url": ""
+}
+,{
+  "id": 101,
+  "subject": "Aumento spese militari",
+  "subject_slug": "aumento-spese-militari",
+  "url": ""
+}
+,{
+  "id": 102,
+  "subject": "Servizio militare obbligatorio",
+  "subject_slug": "servizio-militare-obbligatorio",
+  "url": ""
+}
+,{
+  "id": 103,
+  "subject": "Condono/pace fiscale",
+  "subject_slug": "condonopace-fiscale",
+  "url": ""
+}
+,{
+  "id": 104,
+  "subject": "Sostegno alle imprese turistiche (promozione turismo)",
+  "subject_slug": "sostegno-alle-imprese-turistiche-promozione-turismo",
+  "url": ""
+}
+,{
+  "id": 105,
+  "subject": "Riforma sistema penitenziario",
+  "subject_slug": "riforma-sistema-penitenziario",
   "url": ""
 }
 ]

@@ -104,4 +104,11 @@
   "symbol_name": "unione-popolare.jpg",
   "symbol_url": "https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/unione-popolare.jpg"
 }
+,{
+  "id": 16,
+  "list": "Vita",
+  "slug": "vita",
+  "symbol_name": "vita.jpg",
+  "symbol_url": "https://raw.githubusercontent.com/indecis-it/indecis.it/main/public/symbols/vita.jpg"
+}
 ]
