@@ -85,17 +85,26 @@
   "slug": "values-and-rights",
   "source": "indecis.it",
   "name_en": "Values ​​and rights",
-  "description_en": "",
+  "description_en": "With values ​​and rights we mean all the policies that have to do with civil and political rights and the guaranteed freedoms or that the parties intend to achieve.",
   "name_it": "Valori e Diritti",
-  "description_it": ""
+  "description_it": "Con Valori e diritti intendiamo tutte le politiche che hanno a che fare con diritti civili e politici e le libertà garantite o che i partiti intendono raggiungere."
 }
 ,{
   "id": 11,
   "slug": "foreign-affairs",
   "source": "indecis.it",
   "name_en": "Foreign Affairs",
-  "description_en": "",
+  "description_en": "Foreign affairs intended as policies related to: management of relations with institutions and with EU and non -EU countries. As well as with the main international government organizations and multinational companies",
   "name_it": "Affari Esteri",
+  "description_it": "Affari esteri inteso come politiche relative a: gestione dei rapporti con le istituzioni e con i paesi UE e non. Nonché con le principali organizzazioni internazionali governative e le aziende multinazionali"
+}
+,{
+  "id": 12,
+  "slug": "work-and-taxes",
+  "source": "",
+  "name_en": "Work and taxes",
+  "description_en": "",
+  "name_it": "Lavoro e tasse",
   "description_it": ""
 }
 ]

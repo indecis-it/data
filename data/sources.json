@@ -190,15 +190,6 @@
 }
 ,{
   "id": 22,
-  "title": "Post Facebook Meloni 27 agosto 2022",
-  "slug": "post-facebook-meloni-27-agosto-2022",
-  "type": "post",
-  "url": "https://www.facebook.com/photo?fbid=622050905955123&set=a.498115868348628",
-  "list": "Fratelli d'Italia",
-  "list_id": 1
-}
-,{
-  "id": 23,
   "title": "Tweet Toti 26 agosto 2022",
   "slug": "tweet-toti-26-agosto-2022",
   "type": "tweet",
@@ -207,7 +198,7 @@
   "list_id": 4
 }
 ,{
-  "id": 24,
+  "id": 23,
   "title": "Post Berlusconi 21 agosto 2022",
   "slug": "post-berlusconi-21-agosto-2022",
   "type": "post",
@@ -216,7 +207,7 @@
   "list_id": 3
 }
 ,{
-  "id": 25,
+  "id": 24,
   "title": "Programma elettorale Fratelli d'Italia",
   "slug": "programma-elettorale-fratelli-ditalia",
   "type": "programma",
@@ -225,12 +216,21 @@
   "list_id": 1
 }
 ,{
-  "id": 26,
+  "id": 25,
   "title": "Tweet Adinolfi 30 agosto 2022",
   "slug": "tweet-adinolfi-30-agosto-2022",
-  "type": "",
+  "type": "programma",
   "url": "https://twitter.com/marioadinolfi/status/1564613651146965012",
   "list": "Alternativa Per l'Italia",
   "list_id": 12
+}
+,{
+  "id": 26,
+  "title": "Programma elettorale Fratelli d'Italia",
+  "slug": "programma-elettorale-fratelli-ditalia",
+  "type": "programma",
+  "url": "https://www.fratelli-italia.it/wp-content/uploads/2022/08/Brochure_programma_FdI_qr_def.pdf",
+  "list": "Fratelli d'Italia",
+  "list_id": 1
 }
 ]
