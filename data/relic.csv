@@ -20,7 +20,7 @@ Aumento assegno sociale per gli invalidi,66,Politiche Sociali,9
 Aumento assegno sociale per gli invalidi,66,Economia,4
 Aumento assegno unico universale,29,Economia,4
 Aumento numero di medici,59,Economia,4
-Aumento numero di medici,59,Salute,6
+Aumento numero di medici,59,Salute,#N/A
 Aumento offerta asili nido,48,Politiche Sociali,9
 Aumento pensioni,12,Politiche Sociali,9
 Aumento spese militari,101,Economia,4
@@ -28,7 +28,7 @@ Aumento spese militari,101,Difesa,2
 Aumento stipendio docenti,60,Economia,4
 Aumento stipendio docenti,60,"Istruzione, Università e Ricerca",8
 Autonomia differenziata,70,Organi di governo e amministrativi,1
-Commissione di inchiesta COVID,99,Salute,6
+Commissione di inchiesta COVID,99,Salute,#N/A
 Condono/pace fiscale,103,Lavoro e Tasse,12
 Congedo paternità,49,Politiche Sociali,9
 Congedo paternità,49,Valori e Diritti,10
@@ -38,7 +38,7 @@ Contribuiti per edilizia scolastica,61,"Istruzione, Università e Ricerca",8
 Contributo affitto giovani,33,Politiche Sociali,9
 Didattica a distanza garantita,69,"Istruzione, Università e Ricerca",8
 Difesa comune europea,58,Difesa,2
-Diritto all'aborto,46,Salute,6
+Diritto all'aborto,46,Salute,#N/A
 Diritto all'aborto,46,Valori e Diritti,10
 Educazione sessuale,52,"Istruzione, Università e Ricerca",8
 Eliminazione del precariato,65,"Istruzione, Università e Ricerca",8
@@ -47,7 +47,7 @@ Favorire creazione delle comunità energetiche,79,Protezione Ambientale ed Energ
 Favorire riscatto della laurea,91,Lavoro e Tasse,12
 Fine del segreto di Stato sulle stragi,97,Affari Interni,3
 Flat tax,5,Economia,4
-Green Pass,63,Salute,6
+Green Pass,63,Salute,#N/A
 Inceneritori-Termovalorizzatori,20,Protezione Ambientale ed Energia,5
 Integrazione università-aziende,85,"Istruzione, Università e Ricerca",8
 Investimenti infrastrutture,21,Economia,4
@@ -72,7 +72,7 @@ No al dumping sociale dei lavoratori,78,Politiche Sociali,9
 No al dumping sociale dei lavoratori,78,Affari Interni,3
 Nucleare,16,Protezione Ambientale ed Energia,5
 Obbligo scolastico fino a 18 anni,68,"Istruzione, Università e Ricerca",8
-Obbligo Vaccinale,64,Salute,6
+Obbligo Vaccinale,64,Salute,#N/A
 Parità salariale,42,Valori e Diritti,10
 Patrimoniale,28,Lavoro e Tasse,12
 Più attività extrascolastiche,94,"Istruzione, Università e Ricerca",8
@@ -84,7 +84,7 @@ Promuovere lavoro agile,55,Politiche Sociali,9
 Promuovere lavoro agile,55,Lavoro e Tasse,12
 Promuovere Made in Italy,56,Economia,4
 Promuovere parità di genere,83,Valori e Diritti,10
-Promuovere sicurezza sul lavoro,84,Salute,6
+Promuovere sicurezza sul lavoro,84,Salute,#N/A
 Promuovere sicurezza sul lavoro,84,Lavoro e Tasse,12
 Realizzazione grandi opere,54,Economia,4
 Reddito di cittadinanza,11,Politiche Sociali,9
@@ -113,14 +113,14 @@ Sostegno piccole e medie imprese,26,Economia,4
 Sostegno psicologico scolastico,71,"Istruzione, Università e Ricerca",8
 Super bonus,7,Economia,4
 Supporto maternità,47,Politiche Sociali,9
-Sviluppare servizi sanitari di prossimità,89,Salute,6
+Sviluppare servizi sanitari di prossimità,89,Salute,#N/A
 Taglio cuneo fiscale,2,Lavoro e Tasse,12
 Taglio tasse partite IVA,3,Lavoro e Tasse,12
 Tetto al prezzo del gas,1,Economia,4
 Trasporto scolastico gratuito,87,"Istruzione, Università e Ricerca",8
 Trivelle,15,Protezione Ambientale ed Energia,5
 Tutela ambiente e paesaggio,90,Protezione Ambientale ed Energia,5
-Tutela del Benessere Animale,98,Salute,6
+Tutela del Benessere Animale,98,Salute,#N/A
 Tutela del Benessere Animale,98,Valori e Diritti,10
 Uscita dall'Euro,14,Affari Interni,3
 Uscita dall'Euro,14,Economia,4
