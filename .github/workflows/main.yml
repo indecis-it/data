@@ -44,6 +44,8 @@ jobs:
           sudo locale-gen it_IT
           sudo locale-gen it_IT.UTF-8
           sudo update-locale
+          export PATH=$PATH:~/bin
+          export PATH=$PATH:~/.local/bin
       
       - name: Build json
         run: |-
