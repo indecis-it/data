@@ -27,9 +27,23 @@ jobs:
       - name: Run R script. Reshape items
         run: Rscript script/reshape.R
     
-      - name: Install miller
+#      - name: Install miller
+#        run: |-
+#          sudo apt-get install miller
+
+      - name: Test Install miller
         run: |-
-          sudo apt-get install miller
+          sudo apt-get install -y libappindicator1 fonts-liberation
+          sudo apt-get -f install
+          wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo dpkg -i google-chrome*.deb
+          mkdir -p ~/bin
+          cp bin/mlr ~/bin
+          cd ~/bin
+          chmod +x mlr
+          sudo locale-gen it_IT
+          sudo locale-gen it_IT.UTF-8
+          sudo update-locale
       
       - name: Build json
         run: |-
