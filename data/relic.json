@@ -38,18 +38,12 @@
 ,{
   "subject": "Energia rinnovabile",
   "subject_id": 19,
-  "category": "Economia",
-  "category_id": 4
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
 }
 ,{
   "subject": "Flat tax",
   "subject_id": 5,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Inceneritori-Termovalorizzatori",
-  "subject_id": 20,
   "category": "Economia",
   "category_id": 4
 }
@@ -68,20 +62,20 @@
 ,{
   "subject": "Nucleare",
   "subject_id": 16,
-  "category": "Economia",
-  "category_id": 4
-}
-,{
-  "subject": "Nucleare",
-  "subject_id": 16,
   "category": "Protezione Ambientale ed Energia",
   "category_id": 5
 }
 ,{
   "subject": "Patrimoniale",
   "subject_id": 28,
-  "category": "Servizi pubblici generali",
-  "category_id": "#N/A"
+  "category": "Economia",
+  "category_id": 4
+}
+,{
+  "subject": "Patrimoniale",
+  "subject_id": 28,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Ponte sullo Stretto",
@@ -104,8 +98,8 @@
 ,{
   "subject": "Riduzione IVA",
   "subject_id": 4,
-  "category": "Servizi pubblici generali",
-  "category_id": "#N/A"
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Rigassificatori",
@@ -140,20 +134,14 @@
 ,{
   "subject": "Taglio cuneo fiscale",
   "subject_id": 2,
-  "category": "Servizi pubblici generali",
-  "category_id": "#N/A"
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Taglio tasse partite IVA",
   "subject_id": 3,
-  "category": "Servizi pubblici generali",
-  "category_id": "#N/A"
-}
-,{
-  "subject": "Trivelle",
-  "subject_id": 15,
-  "category": "Economia",
-  "category_id": 4
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Trivelle",
@@ -356,8 +344,8 @@
 ,{
   "subject": "Tutela del Benessere Animale",
   "subject_id": 98,
-  "category": "Valori e diritti",
-  "category_id": 10
+  "category": "Salute",
+  "category_id": 6
 }
 ,{
   "subject": "Legge fine vita",
@@ -374,14 +362,20 @@
 ,{
   "subject": "Investimento su politiche sportive",
   "subject_id": 73,
-  "category": "Salute",
-  "category_id": 6
+  "category": "Cultura, Turismo e Sport",
+  "category_id": 7
 }
 ,{
   "subject": "Promuovere sicurezza sul lavoro",
   "subject_id": 84,
   "category": "Salute",
   "category_id": 6
+}
+,{
+  "subject": "Promuovere sicurezza sul lavoro",
+  "subject_id": 84,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Aumento offerta asili nido",
@@ -394,6 +388,12 @@
   "subject_id": 55,
   "category": "Politiche sociali",
   "category_id": 9
+}
+,{
+  "subject": "Promuovere lavoro agile",
+  "subject_id": 55,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Promuovere parità di genere",
@@ -434,14 +434,20 @@
 ,{
   "subject": "Favorire riscatto della laurea",
   "subject_id": 91,
-  "category": "Servizi pubblici generali",
-  "category_id": "#N/A"
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Riduzione o eliminazione IRAP",
   "subject_id": 25,
   "category": "Economia",
   "category_id": 4
+}
+,{
+  "subject": "Riduzione o eliminazione IRAP",
+  "subject_id": 25,
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Promuovere Made in Italy",
@@ -464,8 +470,8 @@
 ,{
   "subject": "Autonomia differenziata",
   "subject_id": 70,
-  "category": "Economia",
-  "category_id": 4
+  "category": "Organi di governo e amministrativi",
+  "category_id": 1
 }
 ,{
   "subject": "Tetto al prezzo del gas",
@@ -476,8 +482,8 @@
 ,{
   "subject": "Favorire creazione delle comunità energetiche",
   "subject_id": 79,
-  "category": "Economia",
-  "category_id": 4
+  "category": "Protezione Ambientale ed Energia",
+  "category_id": 5
 }
 ,{
   "subject": "Adesione alla NATO",
@@ -500,8 +506,8 @@
 ,{
   "subject": "Contrasto evasione fiscale",
   "subject_id": 31,
-  "category": "Servizi pubblici generali",
-  "category_id": "#N/A"
+  "category": "Lavoro e Tasse",
+  "category_id": 12
 }
 ,{
   "subject": "Supporto maternità",

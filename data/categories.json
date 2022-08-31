@@ -4,97 +4,97 @@
   "slug": "government-and-administrative-bodies",
   "source": "EUROSTAT",
   "name_en": "Government and administrative bodies",
-  "description_en": "We mean all policies relating to the management of the PA and the role of government and parliamentary managers",
+  "description_en": "Management of public administration, role of government and parliamentary managers",
   "name_it": "Organi di governo e amministrativi",
-  "description_it": "Intendiamo tutte le politiche relative alla gestione della PA e al ruolo dei responsabili governativi e parlamentari"
+  "description_it": "Gestione della Pubblica Amministrazione, ruolo dei responsabili governativi e parlamentari"
 }
 ,{
   "id": 2,
   "slug": "defence",
   "source": "EUROSTAT",
   "name_en": "Defence",
-  "description_en": "There are policies relating to: military defense, civil defense and military aid abroad.",
+  "description_en": "Military defense, civil defense and military aid abroad",
   "name_it": "Difesa",
-  "description_it": "Si intendono le politiche relative alla: difesa militare, difesa civile e aiuti militari all’estero."
+  "description_it": "Difesa militare, difesa civile e aiuti militari all’estero"
 }
 ,{
   "id": 3,
   "slug": "internal-business",
   "source": "EUROSTAT",
   "name_en": "Internal business",
-  "description_en": "Policies relating to: public order and security management through the police and firefighters, management of migratory flows, as well as the policies aimed at organizing the civil, criminal and juvenile administration are",
+  "description_en": "Public order and safety management through the police and firefighters, management of migratory flows, as well as the policies aimed at organizing the civil, criminal and juvenile administration",
   "name_it": "Affari Interni",
-  "description_it": "Si intendono le politiche relative a: ordine pubblico e gestione della sicurezza tramite le forze di polizia e vigili del fuoco, gestione dei flussi migratorri, nonché le politiche volte all’organizzazione dell’amministrazione civile, penale e minorile"
+  "description_it": "Ordine pubblico e gestione della sicurezza tramite le forze di polizia e vigili del fuoco, gestione dei flussi migratorri, nonché le politiche volte all’organizzazione dell’amministrazione civile, penale e minorile"
 }
 ,{
   "id": 4,
   "slug": "economy",
   "source": "EUROSTAT",
   "name_en": "Economy",
-  "description_en": "Policies relating to: economic growth, employment, public finances, trade, industries, communications, agriculture, hunting, fishing, transport and infrastructure are meant.",
+  "description_en": "Economic growth, employment, public finances, trade, industries, communications, agriculture, hunting, fishing, transport and infrastructure.",
   "name_it": "Economia",
-  "description_it": "Si intendono le politiche relative a: crescita economica, occupazione, finanze pubbliche, commercio, industrie, comunicazioni, agricoltura, caccia, pesca, trasporto e infrastrutture."
+  "description_it": "Crescita economica, occupazione, finanze pubbliche, commercio, industrie, comunicazioni, agricoltura, caccia, pesca, trasporto e infrastrutture."
 }
 ,{
   "id": 5,
   "slug": "environmental-protection-and-energy",
   "source": "EUROSTAT",
   "name_en": "Environmental protection and energy",
-  "description_en": "We mean policies relating to: energy management and fuel, waste management, pollution reduction, biodiversity protection and landscape.",
+  "description_en": "Energy and fuel management, waste management, pollution reduction, biodiversity protection and landscape",
   "name_it": "Protezione Ambientale ed Energia",
-  "description_it": "Si intendono le politiche relative a: gestione dell’energia e del carburante, gestione dei rifiuti, abbattimento dell'inquinamento, protezione della biodiversità e del paesaggio."
+  "description_it": "Gestione dell’energia e del carburante, gestione dei rifiuti, abbattimento dell'inquinamento, protezione della biodiversità e del paesaggio"
 }
 ,{
   "id": 6,
   "slug": "health",
   "source": "EUROSTAT",
   "name_en": "Health",
-  "description_en": "Policies aimed at the protection and prevention of human health, veterinary health, health protection in the workplace, hygiene and safety of food are intended.",
+  "description_en": "Protection and prevention of human health, veterinary health, health protection in the workplace, hygiene and food safety",
   "name_it": "Salute",
-  "description_it": "Si intendono le politiche volte alla  tutela e prevenzione della salute umana, di sanità veterinaria, di tutela della salute nei luoghi di lavoro, di igiene e sicurezza degli alimenti."
+  "description_it": "Tutela e prevenzione della salute umana, di sanità veterinaria, tutela della salute nei luoghi di lavoro, di igiene e sicurezza degli alimenti"
 }
 ,{
   "id": 7,
   "slug": "culture-tourism-and-sport",
   "source": "EUROSTAT",
   "name_en": "Culture, Tourism and Sport",
-  "description_en": "Policies relating to: recreational, sporting, cultural and tourist services are meant, enhancement of cultural and artistic heritage.",
+  "description_en": "Recreational, sporting, cultural and tourist services, enhancement of cultural and artistic heritage",
   "name_it": "Cultura, Turismo e Sport",
-  "description_it": "Si intendono le politiche relative a: servizi ricreativi, sportivi, culturali e turistici, valorizzazione del patrimonio culturale e artistico."
+  "description_it": "Servizi ricreativi, sportivi, culturali e turistici, valorizzazione del patrimonio culturale e artistico"
 }
 ,{
   "id": 8,
   "slug": "education-university-and-research",
   "source": "EUROSTAT",
   "name_en": "Education, University and Research",
-  "description_en": "We mean policies relating to the management of education programs in schools of all levels, both public and private, as well as policies relating to scientific and technological research and the administration of universities.",
+  "description_en": "Management of education programs in schools of all levels, both public and private, as well as policies relating to scientific and technological research and the administration of universities.",
   "name_it": "Istruzione, Università e Ricerca",
-  "description_it": "Si intendono le politiche relative alla gestione dei programmi di istruzione nelle scuole di ogni ordine e grado, sia pubbliche che private, nonché le politiche relative alle ricerche scientifiche e tecnologiche e all'amministrazione delle università. "
+  "description_it": "Gestione dei programmi di istruzione nelle scuole di ogni ordine e grado, sia pubbliche che private, nonché le politiche relative alle ricerche scientifiche e tecnologiche e all'amministrazione delle università. "
 }
 ,{
   "id": 9,
   "slug": "social-policies",
   "source": "EUROSTAT",
   "name_en": "Social policies",
-  "description_en": "There are policies in support of families and people in uncomfortable conditions, with particular reference to unemployed, people suffering from diseases and disabilities, elderly, immigrants and survivors.",
+  "description_en": "Policies in support of families and people in conditions of unease, with particular reference to unemployed, people with disease and disabilities, elderly people, immigrants and survivors.",
   "name_it": "Politiche Sociali",
-  "description_it": "Si intendono le politiche a sostegno di famiglie e persone in condizioni di disagio, con particolare riferimento a disoccupati, persone affette da malattie e disabilità, anziani, immigrati e sopravvissuti."
+  "description_it": "Politiche a sostegno di famiglie e persone in condizioni di disagio, con particolare riferimento a disoccupati, persone affette da malattie e disabilità, anziani, immigrati e sopravvissuti."
 }
 ,{
   "id": 10,
   "slug": "values-and-rights",
   "source": "indecis.it",
   "name_en": "Values ​​and rights",
-  "description_en": "With values ​​and rights we mean all the policies that have to do with civil and political rights and the guaranteed freedoms or that the parties intend to achieve.",
+  "description_en": "All the policies that have to do with civil and political rights and the guaranteed freedoms or that the parties intend to reach.",
   "name_it": "Valori e Diritti",
-  "description_it": "Con Valori e diritti intendiamo tutte le politiche che hanno a che fare con diritti civili e politici e le libertà garantite o che i partiti intendono raggiungere."
+  "description_it": "Tutte le politiche che hanno a che fare con diritti civili e politici e le libertà garantite o che i partiti intendono raggiungere."
 }
 ,{
   "id": 11,
   "slug": "foreign-affairs",
   "source": "indecis.it",
   "name_en": "Foreign Affairs",
-  "description_en": "Foreign affairs intended as policies related to: management of relations with institutions and with EU and non -EU countries. As well as with the main international government organizations and multinational companies",
+  "description_en": "Management of relations with institutions and with EU and non -EU countries. As well as with the main international government organizations and multinational companies",
   "name_it": "Affari Esteri",
-  "description_it": "Affari esteri inteso come politiche relative a: gestione dei rapporti con le istituzioni e con i paesi UE e non. Nonché con le principali organizzazioni internazionali governative e le aziende multinazionali"
+  "description_it": "Gestione dei rapporti con le istituzioni e con i paesi UE e non. Nonché con le principali organizzazioni internazionali governative e le aziende multinazionali"
 }
