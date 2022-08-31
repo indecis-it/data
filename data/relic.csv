@@ -5,26 +5,24 @@ Aumento assegno unico universale,29,Economia,4
 Aumento numero di medici,59,Economia,4
 Aumento numero di medici,59,Salute,6
 Conto unico fiscale,30,Economia,4
-Energia rinnovabile,19,Economia,4
+Energia rinnovabile,19,Protezione Ambientale ed Energia,5
 Flat tax,5,Economia,4
-Inceneritori-Termovalorizzatori,20,Economia,4
 Inceneritori-Termovalorizzatori,20,Protezione Ambientale ed Energia,5
 Investimenti infrastrutture,21,Economia,4
-Nucleare,16,Economia,4
 Nucleare,16,Protezione Ambientale ed Energia,5
-Patrimoniale,28,Servizi pubblici generali,#N/A
+Patrimoniale,28,Economia,4
+Patrimoniale,28,Lavoro e Tasse,12
 Ponte sullo Stretto,53,Economia,4
 Realizzazione grandi opere,54,Economia,4
 Revisione PNRR,24,Economia,4
-Riduzione IVA,4,Servizi pubblici generali,#N/A
+Riduzione IVA,4,Lavoro e Tasse,12
 Rigassificatori,17,Economia,4
 Rigassificatori,17,Protezione Ambientale ed Energia,5
 Salario minimo,6,Economia,4
 Aumento stipendio docenti,60,Economia,4
 Super bonus,7,Economia,4
-Taglio cuneo fiscale,2,Servizi pubblici generali,#N/A
-Taglio tasse partite IVA,3,Servizi pubblici generali,#N/A
-Trivelle,15,Economia,4
+Taglio cuneo fiscale,2,Lavoro e Tasse,12
+Taglio tasse partite IVA,3,Lavoro e Tasse,12
 Trivelle,15,Protezione Ambientale ed Energia,5
 Scuola infanzia obbligatoria,93,"Istruzione, Università e Ricerca",8
 Aumento stipendio docenti,60,"Istruzione, Università e Ricerca",8
@@ -58,31 +56,34 @@ Educazione sessuale,52,"Istruzione, Università e Ricerca",8
 Tutela ambiente e paesaggio,90,Protezione Ambientale ed Energia,5
 Tutela del Benessere Animale,98,Salute,6
 Agevolazione mutui giovani,32,Politiche sociali,9
-Tutela del Benessere Animale,98,Valori e diritti,10
+Tutela del Benessere Animale,98,Salute,6
 Legge fine vita,41,Valori e diritti,10
 Sviluppare servizi sanitari di prossimità,89,Salute,6
-Investimento su politiche sportive,73,Salute,6
+Investimento su politiche sportive,73,"Cultura, Turismo e Sport",7
 Promuovere sicurezza sul lavoro,84,Salute,6
+Promuovere sicurezza sul lavoro,84,Lavoro e Tasse,12
 Aumento offerta asili nido,48,Politiche sociali,9
 Promuovere lavoro agile,55,Politiche sociali,9
+Promuovere lavoro agile,55,Lavoro e Tasse,12
 Promuovere parità di genere,83,Valori e diritti,10
 Promuovere Istituti Tecnici Superiori,82,"Istruzione, Università e Ricerca",8
 Sostegno per universitari fuori sede,75,"Istruzione, Università e Ricerca",8
 Legalizzazione Cannabis,51,Valori e diritti,10
 Legalizzazione Cannabis,51,"Cultura, Turismo e Sport",7
 Voto fuorisede,45,Valori e diritti,10
-Favorire riscatto della laurea,91,Servizi pubblici generali,#N/A
+Favorire riscatto della laurea,91,Lavoro e Tasse,12
 Riduzione o eliminazione IRAP,25,Economia,4
+Riduzione o eliminazione IRAP,25,Lavoro e Tasse,12
 Promuovere Made in Italy,56,Economia,4
 Aumentare poteri e risorse dei piccoli comuni,57,Economia,4
 Investimenti per il Mezzogiorno,22,Economia,4
-Autonomia differenziata,70,Economia,4
+Autonomia differenziata,70,Organi di governo e amministrativi,1
 Tetto al prezzo del gas,1,Economia,4
-Favorire creazione delle comunità energetiche,79,Economia,4
+Favorire creazione delle comunità energetiche,79,Protezione Ambientale ed Energia,5
 Adesione alla NATO,9,Difesa,2
 Adesione alla NATO,9,Affari Esteri,11
 Adesione all'UE,13,Affari Esteri,11
-Contrasto evasione fiscale,31,Servizi pubblici generali,#N/A
+Contrasto evasione fiscale,31,Lavoro e Tasse,12
 Supporto maternità,47,Politiche sociali,9
 Sostegno piccole e medie imprese,26,Economia,4
 Aumento pensioni,12,Politiche sociali,9
