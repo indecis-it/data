@@ -43,12 +43,12 @@ long <- df %>%
 write_csv(long, here("data/items.csv"), na ="")
 print("Reshaping completed! items.csv created.")
 
-# generating infos.csv
-infos <- df %>%
+# generating glossary.csv
+df %>%
     select(subject_id, subject, subject_slug, info) %>%
-    rename(id = subject_id, url = info)
+    rename(id = subject_id, url = info) %>%
+    write_csv(infos, here("data/glossary.csv"), na ="")
 
-write_csv(infos, here("data/glossary.csv"), na ="")
 print("glossary.csv created")
 
 # delete temp file
