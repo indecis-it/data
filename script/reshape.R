@@ -47,7 +47,7 @@ print("Reshaping completed! items.csv created.")
 df %>%
     select(subject_id, subject, subject_slug, info) %>%
     rename(id = subject_id, url = info) %>%
-    write_csv(infos, here("data/glossary.csv"), na ="")
+    write_csv(., here("data/glossary.csv"), na ="")
 
 print("glossary.csv created")
 
