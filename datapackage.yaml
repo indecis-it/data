@@ -390,31 +390,31 @@ resources:
           type: integer
         - name: list_id
           type: integer
-      foreignKeys:
-        - fields:
-            - list
-          reference:
-            fields:
-              - list
-            resource: lists
-        - fields:
-            - list_id
-          reference:
-            fields:
-              - id
-            resource: lists
-        - fields:
-            - subject
-          reference:
-            fields:
-              - subject
-            resource: glossary
-        - fields:
-            - subject_id
-          reference:
-            fields:
-              - id
-            resource: glossary
+#      foreignKeys:
+#        - fields:
+#            - list
+#          reference:
+#            fields:
+#              - list
+#            resource: lists
+#        - fields:
+#            - list_id
+#          reference:
+#            fields:
+#              - id
+#            resource: lists
+#        - fields:
+#            - subject
+#          reference:
+#            fields:
+#              - subject
+#            resource: glossary
+#        - fields:
+#            - subject_id
+#          reference:
+#            fields:
+#              - id
+#            resource: glossary
   - path: data/categories.json
     name: categories-json-version
     dialect:
