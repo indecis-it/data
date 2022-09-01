@@ -37,6 +37,13 @@ ldr %>%
     write_csv(., here("data/leaders.csv"), na ="")
 print("leaders.csv updated")
 
+# update sources.csv with the sources to display
+src %>%
+    left_join(., dsp, by = "list_id") %>%
+    filter(display == TRUE) %>%
+    select(id, title, slug, type, url, list, list_id) %>%
+    write_csv(., here("data/sources.csv"), na ="")
+
 # removing useless columns from src
 src <- src %>%
     rename(source = title,
