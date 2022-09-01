@@ -24,14 +24,14 @@ jobs:
 
       - name: Set-up R. Install R packages
         run: |
-          R -e 'install.packages(c("here", "dplyr", "tidyr", "readr"))'
+          R -e 'install.packages(c("here", "dplyr", "tidyr", "readr", "jsonlite"))'
       
-      - name: Run R script. Reshape items
+      - name: Run R script. Reshape items & build json
         run: Rscript script/reshape.R
     
-      - name: Install miller
-        run: |-
-          sudo apt-get install miller
+#      - name: Install miller
+#        run: |-
+#          sudo apt-get install miller
 
 #      - name: Test Install miller
 #        run: |-
@@ -41,11 +41,11 @@ jobs:
 #          cd ~/bin
 #          chmod +x mlr
 #          export PATH=$PATH:~/bin
-      
-      - name: Build json
-        run: |-
-          chmod +x script/convert.sh
-          script/convert.sh
+
+#      - name: Build json
+#        run: |-
+#          chmod +x script/convert.sh
+#          script/convert.sh
           
       - name: Validate data
         uses: frictionlessdata/repository@v2
