@@ -1,127 +1,127 @@
 subject,subject_id,category,category_id
-"Abolizione ""buona Scuola""",34,"Istruzione, Università e Ricerca",8
-Abolizione del numero chiuso università,95,"Istruzione, Università e Ricerca",8
-Abolizione legge Gelmini,35,"Istruzione, Università e Ricerca",8
-Abrogazione legge Fornero,37,Politiche Sociali,9
+"Abolizione della ""Buona Scuola""",34,"Istruzione, Università e Ricerca",8
+Abolizione del numero chiuso all'università,95,"Istruzione, Università e Ricerca",8
+"Abolizione della ""legge Gelmini""",35,"Istruzione, Università e Ricerca",8
+"Abrogazione della ""legge Fornero""",37,Politiche Sociali,9
 Adesione all'UE,13,Affari Esteri,11
 Adesione alla NATO,9,Difesa,2
 Adesione alla NATO,9,Affari Esteri,11
-Agevolazione mutui giovani,32,Politiche Sociali,9
-Aiutare giovani laureati/e a rimanere in Italia,76,"Istruzione, Università e Ricerca",8
-Aiuti militari Ucraina,8,Difesa,2
-Aiuti militari Ucraina,8,Affari Esteri,11
+Agevolazioni ai giovani per i mutui,32,Politiche Sociali,9
+Aiutare i giovani laureati a rimanere in Italia,76,"Istruzione, Università e Ricerca",8
+Aiuti militari all'Ucraina,8,Difesa,2
+Aiuti militari all'Ucraina,8,Affari Esteri,11
 Alloggi popolari,38,Politiche Sociali,9
 Alloggi popolari,38,Politiche Sociali,9
 Alternanza scuola-lavoro,67,"Istruzione, Università e Ricerca",8
 Apprendistato retribuito,62,Economia,4
-Aumentare poteri e risorse dei piccoli comuni,57,Economia,4
-Aumentare poteri e risorse dei piccoli comuni,57,Organi di governo e amministrativi,1
-Aumento assegno sociale per gli invalidi,66,Politiche Sociali,9
-Aumento assegno sociale per gli invalidi,66,Economia,4
-Aumento assegno unico universale,29,Economia,4
-Aumento numero di medici,59,Economia,4
-Aumento numero di medici,59,Salute,#N/A
-Aumento offerta asili nido,48,Politiche Sociali,9
-Aumento pensioni,12,Politiche Sociali,9
-Aumento spese militari,101,Economia,4
-Aumento spese militari,101,Difesa,2
-Aumento stipendio docenti,60,Economia,4
-Aumento stipendio docenti,60,"Istruzione, Università e Ricerca",8
+Più risorse ai piccoli comuni,57,Economia,4
+Più risorse ai piccoli comuni,57,Organi di governo e amministrativi,1
+Aumento dell'assegno sociale per gli invalidi,66,Politiche Sociali,9
+Aumento dell'assegno sociale per gli invalidi,66,Economia,4
+Aumento dell'assegno unico universale,29,Economia,4
+Aumento del numero di medici,59,Economia,4
+Aumento del numero di medici,59,Salute,6
+Aumento degli asili nido,48,Politiche Sociali,9
+Aumento delle pensioni,12,Politiche Sociali,9
+Aumento delle spese militari,101,Economia,4
+Aumento delle spese militari,101,Difesa,2
+Aumento dello stipendio dei docenti,60,Economia,4
+Aumento dello stipendio dei docenti,60,"Istruzione, Università e Ricerca",8
 Autonomia differenziata,70,Organi di governo e amministrativi,1
-Commissione di inchiesta COVID,99,Salute,#N/A
-Condono/pace fiscale,103,Lavoro e Tasse,12
-Congedo paternità,49,Politiche Sociali,9
-Congedo paternità,49,Valori e Diritti,10
-Conto unico fiscale,30,Economia,4
-Contrasto evasione fiscale,31,Lavoro e Tasse,12
-Contribuiti per edilizia scolastica,61,"Istruzione, Università e Ricerca",8
-Contributo affitto giovani,33,Politiche Sociali,9
-Didattica a distanza garantita,69,"Istruzione, Università e Ricerca",8
+Commissione di inchiesta sulla Covid-19,99,Salute,6
+Condoni fiscali,103,Lavoro e Tasse,12
+Congedo di paternità,49,Politiche Sociali,9
+Congedo di paternità,49,Valori e Diritti,10
+Introduzione del conto unico fiscale,30,Economia,4
+Lotta all'evasione fiscale,31,Lavoro e Tasse,12
+Contributi per l'edilizia scolastica,61,"Istruzione, Università e Ricerca",8
+Contributi ai giovani per gli affitti,33,Politiche Sociali,9
+Didattica a distanza,69,"Istruzione, Università e Ricerca",8
 Difesa comune europea,58,Difesa,2
-Diritto all'aborto,46,Salute,#N/A
+Diritto all'aborto,46,Salute,6
 Diritto all'aborto,46,Valori e Diritti,10
 Educazione sessuale,52,"Istruzione, Università e Ricerca",8
 Eliminazione del precariato,65,"Istruzione, Università e Ricerca",8
-Energia rinnovabile,19,Protezione Ambientale ed Energia,5
-Favorire creazione delle comunità energetiche,79,Protezione Ambientale ed Energia,5
-Favorire riscatto della laurea,91,Lavoro e Tasse,12
+Energie rinnovabili,19,Protezione Ambientale ed Energia,5
+Favorire la creazione delle comunità energetiche,79,Protezione Ambientale ed Energia,5
+Favorire il riscatto della laurea,91,Lavoro e Tasse,12
 Fine del segreto di Stato sulle stragi,97,Affari Interni,3
 Flat tax,5,Economia,4
-Green Pass,63,Salute,#N/A
-Inceneritori-Termovalorizzatori,20,Protezione Ambientale ed Energia,5
-Integrazione università-aziende,85,"Istruzione, Università e Ricerca",8
-Investimenti infrastrutture,21,Economia,4
+Green Pass,63,Salute,6
+Termovalorizzatori,20,Protezione Ambientale ed Energia,5
+Integrazione tra università e aziende,85,"Istruzione, Università e Ricerca",8
+Investimenti in infrastrutture,21,Economia,4
 Investimenti per il Mezzogiorno,22,Economia,4
 Investimenti per la formazione dei docenti,72,"Istruzione, Università e Ricerca",8
-Investimento su politiche sportive,73,"Cultura, Turismo e Sport",7
-Investimento su politiche sportive,73,"Cultura, Turismo e Sport",7
+Investimenti per le politiche sportive,73,"Cultura, Turismo e Sport",7
+Investimenti per le politiche sportive,73,Economia,4
 Ius scholae,43,Valori e Diritti,10
 Ius soli,44,Valori e Diritti,10
-Legalizzazione Cannabis,51,Valori e Diritti,10
-Legalizzazione Cannabis,51,"Cultura, Turismo e Sport",7
-Legge fine vita,41,Valori e Diritti,10
+Legalizzazione della cannabis,51,Valori e Diritti,10
+Legalizzazione della cannabis,51,"Cultura, Turismo e Sport",7
+Legge sul fine vita,41,Valori e Diritti,10
 Libri di testo gratuiti,80,"Istruzione, Università e Ricerca",8
 Lotta alla corruzione,100,Affari Interni,3
 Lotta alla mafia,39,Affari Interni,3
 Lotta alla omotransfobia,40,Valori e Diritti,10
-Maggiore sostegno per disabili nelle scuole,74,"Istruzione, Università e Ricerca",8
-Maggiori investimenti per la ricerca,23,"Istruzione, Università e Ricerca",8
+Sostegno ai disabili nelle scuole,74,"Istruzione, Università e Ricerca",8
+Investimenti per la ricerca,23,"Istruzione, Università e Ricerca",8
 Matrimonio egualitario,50,Valori e Diritti,10
 Mense scolastiche gratuite,77,"Istruzione, Università e Ricerca",8
 No al dumping sociale dei lavoratori,78,Politiche Sociali,9
 No al dumping sociale dei lavoratori,78,Affari Interni,3
 Nucleare,16,Protezione Ambientale ed Energia,5
 Obbligo scolastico fino a 18 anni,68,"Istruzione, Università e Ricerca",8
-Obbligo Vaccinale,64,Salute,#N/A
+Obbligo Vaccinale,64,Salute,6
 Parità salariale,42,Valori e Diritti,10
 Patrimoniale,28,Lavoro e Tasse,12
 Più attività extrascolastiche,94,"Istruzione, Università e Ricerca",8
 Più meritocrazia a scuola e nei concorsi,81,"Istruzione, Università e Ricerca",8
 Ponte sullo Stretto,53,Economia,4
 Presidenzialismo,18,Organi di governo e amministrativi,1
-Promuovere Istituti Tecnici Superiori,82,"Istruzione, Università e Ricerca",8
-Promuovere lavoro agile,55,Politiche Sociali,9
-Promuovere lavoro agile,55,Lavoro e Tasse,12
-Promuovere Made in Italy,56,Economia,4
-Promuovere parità di genere,83,Valori e Diritti,10
-Promuovere sicurezza sul lavoro,84,Salute,#N/A
-Promuovere sicurezza sul lavoro,84,Lavoro e Tasse,12
-Realizzazione grandi opere,54,Economia,4
+Promozione degli Istituti tecnici superiori,82,"Istruzione, Università e Ricerca",8
+Lavoro agile,55,Politiche Sociali,9
+Lavoro agile,55,Lavoro e Tasse,12
+Made in Italy,56,Economia,4
+Promozione della parità di genere,83,Valori e Diritti,10
+Promozione della sicurezza sul lavoro,84,Salute,6
+Promozione della sicurezza sul lavoro,84,Lavoro e Tasse,12
+Realizzazione delle grandi opere,54,Economia,4
 Reddito di cittadinanza,11,Politiche Sociali,9
-Revisione PNRR,24,Economia,4
-Riduzione bolletta energetica,27,Politiche Sociali,9
-Riduzione IVA,4,Lavoro e Tasse,12
-Riduzione o eliminazione IRAP,25,Economia,4
-Riduzione o eliminazione IRAP,25,Lavoro e Tasse,12
-Riforma Cartabia,36,Affari Interni,3
-Riforma sistema penitenziario,105,Affari Interni,3
-Riforma sistema penitenziario,105,Organi di governo e amministrativi,1
+Revisione del PNRR,24,Economia,4
+Riduzione delle bollette energetiche,27,Politiche Sociali,9
+Riduzione dell'IVA,4,Lavoro e Tasse,12
+Riduzione o eliminazione dell'IRAP,25,Economia,4
+Riduzione o eliminazione dell'IRAP,25,Lavoro e Tasse,12
+"Attuazione della ""riforma Cartabia""",36,Affari Interni,3
+Riforma del sistema penitenziario,105,Affari Interni,3
+Riforma del sistema penitenziario,105,Organi di governo e amministrativi,1
 Rigassificatori,17,Protezione Ambientale ed Energia,5
-Ripristino articolo 18,96,Politiche Sociali,9
+Ripristino dell'articolo 18,96,Politiche Sociali,9
 Salario minimo,6,Economia,4
-Sanzioni Russia,10,Affari Esteri,11
+Sanzioni contro la Russia,10,Affari Esteri,11
 Scuola infanzia gratuita,86,Politiche Sociali,9
-Scuola infanzia obbligatoria,93,"Istruzione, Università e Ricerca",8
+Scuola dell'infanzia obbligatoria,93,"Istruzione, Università e Ricerca",8
 Servizio militare obbligatorio,102,Difesa,2
 Sostegno alla scuola paritaria,92,"Istruzione, Università e Ricerca",8
-Sostegno alle imprese turistiche (promozione turismo),104,"Cultura, Turismo e Sport",7
-Sostegno alle imprese turistiche (promozione turismo),104,Economia,4
-Sostegno alle imprese turistiche (promozione turismo),104,Lavoro e Tasse,12
-Sostegno meno abbienti e incapienti,88,"Istruzione, Università e Ricerca",8
-Sostegno per universitari fuori sede,75,"Istruzione, Università e Ricerca",8
-Sostegno piccole e medie imprese,26,Economia,4
+Sostegno alle imprese turistiche,104,"Cultura, Turismo e Sport",7
+Sostegno alle imprese turistiche,104,Economia,4
+Sostegno alle imprese turistiche,104,Lavoro e Tasse,12
+Sostegno ai meno abbienti e incapienti,88,"Istruzione, Università e Ricerca",8
+Sostegno per gli universitari fuorisede,75,"Istruzione, Università e Ricerca",8
+Sostegno a piccole e medie imprese,26,Economia,4
 Sostegno psicologico scolastico,71,"Istruzione, Università e Ricerca",8
-Super bonus,7,Economia,4
-Supporto maternità,47,Politiche Sociali,9
-Sviluppare servizi sanitari di prossimità,89,Salute,#N/A
-Taglio cuneo fiscale,2,Lavoro e Tasse,12
-Taglio tasse partite IVA,3,Lavoro e Tasse,12
+Superbonus 110%,7,Economia,4
+Supporto alla maternità,47,Politiche Sociali,9
+Sviluppo dei servizi sanitari di prossimità,89,Salute,6
+Taglio del cuneo fiscale,2,Lavoro e Tasse,12
+Taglio delle tasse per le partite IVA,3,Lavoro e Tasse,12
 Tetto al prezzo del gas,1,Economia,4
 Trasporto scolastico gratuito,87,"Istruzione, Università e Ricerca",8
 Trivelle,15,Protezione Ambientale ed Energia,5
-Tutela ambiente e paesaggio,90,Protezione Ambientale ed Energia,5
-Tutela del Benessere Animale,98,Salute,#N/A
+Tutela dell'ambiente e del paesaggio,90,Protezione Ambientale ed Energia,5
+Tutela del Benessere Animale,98,Salute,6
 Tutela del Benessere Animale,98,Valori e Diritti,10
 Uscita dall'Euro,14,Affari Interni,3
 Uscita dall'Euro,14,Economia,4
-Voto fuorisede,45,Valori e Diritti,10
+Voto per i fuorisede,45,Valori e Diritti,10
