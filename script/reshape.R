@@ -3,6 +3,7 @@ library(here)
 library(dplyr)
 library(tidyr)
 library(readr)
+library(jsonlite)
 
 # function for modifying colnames
 reverse_string <- function(x) {
@@ -40,6 +41,7 @@ long <- df %>%
 
 # exporting csv
 write_csv(long, here("data/items.csv"), na ="")
+print("Reshaping completed! items.csv created.")
 
 # generating infos.csv
 infos <- df %>%
@@ -47,3 +49,19 @@ infos <- df %>%
     rename(id = subject_id, url = info)
 
 write_csv(infos, here("data/glossary.csv"), na ="")
+print("glossary.csv created")
+
+# delete temp file
+file.remove(here("data/wide.csv"))
+print("wide.csv deleted")
+
+# generating json
+
+files <- list.files(path="data/", pattern="*.csv", full.names=TRUE, recursive=FALSE)
+
+lapply(files, function(x) {
+    read_csv(x) %>%
+    toJSON() %>%
+    write(., gsub(".csv", ".json", x))
+})
+print("csv2json completed")
