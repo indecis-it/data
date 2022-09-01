@@ -16,6 +16,7 @@ relic <- read_csv(here("data/relic.csv"))
 src <- read_csv(here("data/sources.csv"))
 dsp <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v_x2EiVC-kxjtiLBJR_Gm2zmLqftenCTQqK7lwnEat1CyhBbec2r0czvsb/pub?gid=1068258295&single=true&output=csv")
 lst <- read_csv(here("data/lists.csv"))
+ldr <- read_csv(here("data/leaders.csv"))
 
 # update list.csv with the lists to display
 lst %>%
@@ -27,6 +28,14 @@ print("lists.csv updated")
 
 dsp <- dsp %>%
     select(-list)
+
+# update leaders.csv with the leaders to display
+ldr %>%
+    left_join(., dsp, by = "list_id") %>%
+    filter(display == TRUE) %>%
+    select(id, name, surname, list, list_id, profile_pic, wikipedia_url) %>%
+    write_csv(., here("data/leaders.csv"), na ="")
+print("leaders.csv updated")
 
 # removing useless columns from src
 src <- src %>%
