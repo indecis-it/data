@@ -1,0 +1,22 @@
+name: dispatch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - data/**
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repo: indecis.it
+          owner: indecis-it
+          event_type: sample_push
