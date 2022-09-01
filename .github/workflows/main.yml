@@ -26,7 +26,7 @@ jobs:
         run: |
           R -e 'install.packages(c("here", "dplyr", "tidyr", "readr", "jsonlite"))'
       
-      - name: Run R script. Reshape items & build json
+      - name: Reshape items & Build json (R script)
         run: Rscript script/reshape.R
     
 #      - name: Install miller
