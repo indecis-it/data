@@ -47,7 +47,11 @@ src %>%
 print("sources.csv updated")
 
 # update pagella_politica.csv with the data to display
-# to do
+pgp %>%
+    left_join(., dsp, by = "list_id") %>%
+    filter(display != FALSE | is.na(list_id)) %>%
+    select(id, url, type, subject, list, subject_id, list_id) %>%
+    write_csv(., here("data/pagella_politica.csv"), na ="")
 
 # removing useless columns from src
 src <- src %>%
