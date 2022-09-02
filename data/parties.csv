@@ -34,24 +34,24 @@ id,party,list_id,list,coalition_id,coalition
 33,Partito Progressista,6,Alleanza Verdi e Sinistra,1,Centro-sinistra
 34,Proposta Socialista Democratica Innovativa,8,Impegno Civico,1,Centro-sinistra
 35,Movimento 5 Stelle,9,Movimento 5 Stelle,4,Movimento 5 Stelle
-36,Il popolo della famiglia,12,Alternativa Per l'Italia,6,Alternativa Per l'Italia
-37,Exit,12,Alternativa Per l'Italia,6,Alternativa Per l'Italia
-38,Noi di Centro,14,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
+36,Il popolo della famiglia,15,Alternativa Per l'Italia,6,Alternativa Per l'Italia
+37,Exit,15,Alternativa Per l'Italia,6,Alternativa Per l'Italia
+38,Noi di Centro,16,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
 39,Italexit,11,Italexit,5,Italexit
 40,CasaPound,11,Italexit,5,Italexit
-41,Ancora Italia,13,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-42,Partito Comunista,13,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-43,Riconquistare l’Italia,13,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-44,Azione Civile,13,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-45,Patria Socialista,13,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-46,Italia Unita,13,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
-47,DemA,15,Unione Popolare,7,Unione Popolare
-48,Rifondazione Comunista,15,Unione Popolare,7,Unione Popolare
-49,Potere al Popolo!,15,Unione Popolare,7,Unione Popolare
-50,ManifestA,15,Unione Popolare,7,Unione Popolare
-51,Partito del Sud,15,Unione Popolare,7,Unione Popolare
-52,Risorgimento Socialista,15,Unione Popolare,7,Unione Popolare
-53,Europeisti,14,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
+41,Ancora Italia,12,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+42,Partito Comunista,12,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+43,Riconquistare l’Italia,12,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+44,Azione Civile,12,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+45,Patria Socialista,12,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+46,Italia Unita,12,Italia Sovrana e Popolare,8,Italia Sovrana e Popolare
+47,DemA,13,Unione Popolare,7,Unione Popolare
+48,Rifondazione Comunista,13,Unione Popolare,7,Unione Popolare
+49,Potere al Popolo!,13,Unione Popolare,7,Unione Popolare
+50,ManifestA,13,Unione Popolare,7,Unione Popolare
+51,Partito del Sud,13,Unione Popolare,7,Unione Popolare
+52,Risorgimento Socialista,13,Unione Popolare,7,Unione Popolare
+53,Europeisti,16,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
 54,Movimento Per l'Autonomia,2,Lega,3,Centro-destra
 55,Destra Liberale Italiana,2,Lega,3,Centro-destra
 56,Verde è Popolare,1,Fratelli d'Italia,3,Centro-destra
@@ -60,7 +60,7 @@ id,party,list_id,list,coalition_id,coalition
 59,Partito Gay,9,Movimento 5 Stelle,4,Movimento 5 Stelle
 60,Puglia Popolare,10,Azione-Italia Viva-Calenda,2,Centro
 61,Vox Italia,11,Italexit,5,Italexit
-62,Democrazia Cristiana,14,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
+62,Democrazia Cristiana,16,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
 63,Associazione Fassa,2,Lega,3,Centro-destra
 64,Partito Valore Umano,1,Fratelli d'Italia,3,Centro-destra
 65,Autonomia Responsabile,4,Noi moderati,3,Centro-destra
@@ -71,13 +71,13 @@ id,party,list_id,list,coalition_id,coalition
 70,Identità e Azione,4,Noi moderati,3,Centro-destra
 71,Partito degli Europei e Liberali,4,Noi moderati,3,Centro-destra
 72,Con Emiliano,5,Partito Democratico,1,Centro-sinistra
-73,NOI-Nuovi Orizzonti per l'Italia,14,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
-74,R2020,16,Vita,10,Vita
-75,Movimento 3V,16,Vita,10,Vita
-76,No Paura Day,16,Vita,10,Vita
-77,Sentinelle della Costituzione - Io sto con l'Avvocato Polacco,16,Vita,10,Vita
-78,Il Popolo Italiano,16,Vita,10,Vita
-79,Popolo delle mamme,16,Vita,10,Vita
-80,Alleanza Italiana Stop 5G,16,Vita,10,Vita
-81,Unione Popolare per l'Italia libera,16,Vita,10,Vita
-82,ENZIAN-Sudtirol,16,Vita,10,Vita
+73,NOI-Nuovi Orizzonti per l'Italia,16,Noi di Centro-Europeisti,9,Noi di Centro-Europeisti
+74,R2020,14,Vita,10,Vita
+75,Movimento 3V,14,Vita,10,Vita
+76,No Paura Day,14,Vita,10,Vita
+77,Sentinelle della Costituzione - Io sto con l'Avvocato Polacco,14,Vita,10,Vita
+78,Il Popolo Italiano,14,Vita,10,Vita
+79,Popolo delle mamme,14,Vita,10,Vita
+80,Alleanza Italiana Stop 5G,14,Vita,10,Vita
+81,Unione Popolare per l'Italia libera,14,Vita,10,Vita
+82,ENZIAN-Sudtirol,14,Vita,10,Vita
