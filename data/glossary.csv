@@ -72,13 +72,13 @@ id,subject,subject_slug,url
 71,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo
 72,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,https://it.wikipedia.org/wiki/Docente_in_Italia
 73,Investimenti per le politiche sportive,investimenti-per-le-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
-74,Sostegno ai disabili nelle scuole,sostegno-ai-disabili-nelle-scuole,
+74,Sostegno ai disabili nelle scuole,sostegno-ai-disabili-nelle-scuole,https://it.wikipedia.org/wiki/Integrazione_scolastica
 75,Sostegno per gli universitari fuorisede,sostegno-per-gli-universitari-fuorisede,
 76,Aiutare i giovani laureati a rimanere in Italia,aiutare-i-giovani-laureati-a-rimanere-in-italia,https://it.wikipedia.org/wiki/Laurea
 77,Mense scolastiche gratuite,mense-scolastiche-gratuite,https://it.wikipedia.org/wiki/Mensa_(pubblico_esercizio)
 78,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping
 79,Favorire la creazione delle comunità energetiche,favorire-la-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
-80,Libri di testo gratuiti,libri-di-testo-gratuiti,
+80,Libri di testo gratuiti,libri-di-testo-gratuiti,https://it.wikipedia.org/wiki/Libro_di_testo
 81,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
 82,Promozione degli Istituti tecnici superiori,promozione-degli-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
 83,Promozione della parità di genere,promozione-della-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
@@ -90,10 +90,10 @@ id,subject,subject_slug,url
 89,Sviluppo dei servizi sanitari di prossimità,sviluppo-dei-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
 90,Tutela dell'ambiente e del paesaggio,tutela-dellambiente-e-del-paesaggio,
 91,Favorire il riscatto della laurea,favorire-il-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
-92,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,
+92,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,https://it.wikipedia.org/wiki/Scuola_privata
 93,Scuola dell'infanzia obbligatoria,scuola-dellinfanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
 94,Più attività extrascolastiche,pi-attivit-extrascolastiche,
-95,Abolizione del numero chiuso all'università,abolizione-del-numero-chiuso-alluniversit,
+95,Abolizione del numero chiuso all'università,abolizione-del-numero-chiuso-alluniversit,https://it.wikipedia.org/wiki/Universit%C3%A0_in_Italia#Accesso_ai_corsi
 96,Ripristino dell'articolo 18,ripristino-dellarticolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
 97,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
 98,Tutela del benessere animale,tutela-del-benessere-animale,
@@ -105,20 +105,20 @@ id,subject,subject_slug,url
 104,Sostegno alle imprese turistiche,sostegno-alle-imprese-turistiche,
 105,Riforma del sistema penitenziario,riforma-del-sistema-penitenziario,https://it.wikipedia.org/wiki/Ordinamento_penitenziario_italiano
 106,Ripristino dei decreti Sicurezza,ripristino-dei-decreti-sicurezza,
-107,Riforma del sistema di accoglienza,riforma-del-sistema-di-accoglienza,
+107,Riforma del sistema di accoglienza,riforma-del-sistema-di-accoglienza,https://it.wikipedia.org/wiki/Immigrazione_in_Italia
 108,Blocco navale,blocco-navale,https://it.wikipedia.org/wiki/Blocco_navale
 109,Contrasto alle baby gang,contrasto-alle-baby-gang,https://it.wikipedia.org/wiki/Baby_gang
-110,Investimenti in cybersicurezza,investimenti-in-cybersicurezza,
-111,Maggiore inclusione per gli immigrati regolari,maggiore-inclusione-per-gli-immigrati-regolari,
+110,Investimenti in cybersicurezza,investimenti-in-cybersicurezza,https://it.wikipedia.org/wiki/Sicurezza_informatica
+111,Maggiore inclusione per gli immigrati regolari,maggiore-inclusione-per-gli-immigrati-regolari,https://it.wikipedia.org/wiki/Modelli_di_integrazione
 112,Creazione di hot-spot fuori dall'Ue,creazione-di-hotspot-fuori-dallue,
-113,"Abolizione della legge ""Bossi-Fini""",abolizione-della-legge-bossifini,
+113,"Abolizione della legge ""Bossi-Fini""",abolizione-della-legge-bossifini,https://it.wikipedia.org/wiki/Legge_Bossi-Fini
 114,Allargamento dei corridoi umanitari,allargamento-dei-corridoi-umanitari,
-115,Riforma dei trattati Ue sull'immigrazione,riforma-dei-trattati-ue-sullimmigrazione,
-116,Riforma del Patto di stabilità e crescita,riforma-del-patto-di-stabilit-e-crescita,
+115,Riforma dei trattati Ue sull'immigrazione,riforma-dei-trattati-ue-sullimmigrazione,https://it.wikipedia.org/wiki/Convenzione_di_Dublino
+116,Riforma del Patto di stabilità e crescita,riforma-del-patto-di-stabilit-e-crescita,https://it.wikipedia.org/wiki/Patto_di_stabilit%C3%A0_e_crescita
 117,Accordi di cooperazione con Paesi d'origine,accordi-di-cooperazione-con-paesi-dorigine,
 118,Maggiori risorse alla cooperazione per lo sviluppo,maggiori-risorse-alla-cooperazione-per-lo-sviluppo,
-119,Elezione diretta del presidente del Consiglio,elezione-diretta-del-presidente-del-consiglio,
-120,Riforma della legge elettorale,riforma-della-legge-elettorale,
+119,Elezione diretta del presidente del Consiglio,elezione-diretta-del-presidente-del-consiglio,https://it.wikipedia.org/wiki/Premierato
+120,Riforma della legge elettorale,riforma-della-legge-elettorale,https://it.wikipedia.org/wiki/Sistema_elettorale_in_Italia
 121,Digitalizzazione della giustizia,digitalizzazione-della-giustizia,
 122,Minore durata dei processi,minore-durata-dei-processi,
 123,Maggiore ricorso alla depenalizzazione,maggiore-ricorso-alla-depenalizzazione,
@@ -126,10 +126,10 @@ id,subject,subject_slug,url
 125,Investimenti nell'edilizia per la giustizia,investimenti-nelledilizia-per-la-giustizia,
 126,Separazione delle carriere dei Magistrati,separazione-delle-carriere-dei-magistrati,
 127,Riforma della giustizia civile e penale,riforma-della-giustizia-civile-e-penale,
-128,Riforma della giustizia tributaria,riforma-della-giustizia-tributaria,
-129,"Modifica della legge ""Severino""",modifica-della-legge-severino,
-130,Revisione della riforma del CSM,revisione-della-riforma-del-csm,
-131,Riforma della custodia cautelare,riforma-della-custodia-cautelare,
+128,Riforma della giustizia tributaria,riforma-della-giustizia-tributaria,https://it.wikipedia.org/wiki/Giustizia_tributaria
+129,"Modifica della legge ""Severino""",modifica-della-legge-severino,https://it.wikipedia.org/wiki/Legge_Severino
+130,Revisione della riforma del CSM,revisione-della-riforma-del-csm,https://it.wikipedia.org/wiki/Consiglio_superiore_della_magistratura
+131,Riforma della custodia cautelare,riforma-della-custodia-cautelare,https://it.wikipedia.org/wiki/Custodia_cautelare_in_carcere
 132,Riduzione del sovraffolamento carcerario,riduzione-del-sovraffolamento-carcerario,
-133,Eliminazione della prescrizione,eliminazione-della-prescrizione,
-134,Responsabilità civile dei magistrati,responsabilit-civile-dei-magistrati,
+133,Eliminazione della prescrizione,eliminazione-della-prescrizione,https://it.wikipedia.org/wiki/Prescrizione_(ordinamento_civile_italiano)
+134,Responsabilità civile dei magistrati,responsabilit-civile-dei-magistrati,https://it.wikipedia.org/wiki/Procedimenti_riguardanti_i_magistrati_italiani
