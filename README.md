@@ -35,10 +35,8 @@ field | type | description | example
 -- | -- | -- | --
 id | integer | Category ID | 1
 slug | string | Category slug | economic-affairs
-name_en | string | English name of the category | Economic affairs
-description_en | string | English description of the category | Lorem ipsum
-name_it | string | Italian name of the category | Affari economici
-description_it | string | Italian description of the category | Lorem ipsum
+name | string | Italian name of the category | Affari economici
+description | string | Italian description of the category | Lorem ipsum
 
 ### [📄 sources.csv](https://github.com/indecis-it/data/blob/main/data/sources.csv)
 

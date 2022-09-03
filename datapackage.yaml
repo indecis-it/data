@@ -43,21 +43,11 @@ resources:
         - name: slug
           type: string
           title: Category slug
-        - name: name_en
+        - name: name
           type: string
-          title: English name
-          description: English name of the category
-        - name: description_en
-          type: string
-          title: English description
-          description: English description of the category
-        - name: name_it
-          type: string
-          title: Italian name
           description: Italian name of the category
-        - name: description_it
+        - name: description
           type: string
-          title: Italian description
           description: Italian description of the category
   - path: data/coalitions.csv
     name: coalitions

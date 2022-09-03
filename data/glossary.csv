@@ -8,9 +8,9 @@ id,subject,subject_slug,url
 7,Superbonus 110%,superbonus-110,https://it.wikipedia.org/wiki/Superbonus_110%25
 8,Aiuti militari all'Ucraina,aiuti-militari-allucraina,
 9,Adesione alla NATO,adesione-alla-nato,https://it.wikipedia.org/wiki/NATO
-10,Sanzioni contro la Russia,sanzioni-contro-la-russia,
+10,Sanzioni contro la Russia,sanzioni-contro-la-russia,https://it.wikipedia.org/wiki/Sanzioni_internazionali_durante_la_crisi_russo-ucraina
 11,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
-12,Aumento delle pensioni,aumento-delle-pensioni,
+12,Aumento delle pensioni,aumento-delle-pensioni,https://it.wikipedia.org/wiki/Pensione
 13,Adesione all'UE,adesione-allue,https://it.wikipedia.org/wiki/Unione_europea
 14,Uscita dall'Euro,uscita-dalleuro,https://it.wikipedia.org/wiki/Euro
 15,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
@@ -19,54 +19,54 @@ id,subject,subject_slug,url
 18,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
 19,Energie rinnovabili,energie-rinnovabili,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
 20,Termovalorizzatori,termovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
-21,Investimenti in infrastrutture,investimenti-in-infrastrutture,
-22,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,
-23,Investimenti per la ricerca,investimenti-per-la-ricerca,
+21,Investimenti in infrastrutture,investimenti-in-infrastrutture,https://it.wikipedia.org/wiki/Infrastruttura
+22,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,https://it.wikipedia.org/wiki/Mezzogiorno_(Italia)
+23,Investimenti per la ricerca,investimenti-per-la-ricerca,https://it.wikipedia.org/wiki/Ricerca_scientifica
 24,Revisione del PNRR,revisione-del-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
 25,Riduzione o eliminazione dell'IRAP,riduzione-o-eliminazione-dellirap,https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive
-26,Sostegno a piccole e medie imprese,sostegno-a-piccole-e-medie-imprese,
-27,Riduzione delle bollette energetiche,riduzione-delle-bollette-energetiche,
-28,Patrimoniale,patrimoniale,
+26,Sostegno a piccole e medie imprese,sostegno-a-piccole-e-medie-imprese,https://it.wikipedia.org/wiki/Piccole_e_medie_imprese
+27,Riduzione delle bollette energetiche,riduzione-delle-bollette-energetiche,https://it.wikipedia.org/wiki/Bolletta
+28,Patrimoniale,patrimoniale,https://it.wikipedia.org/wiki/Imposta_patrimoniale
 29,Aumento dell'assegno unico universale,aumento-dellassegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
 30,Introduzione del conto unico fiscale,introduzione-del-conto-unico-fiscale,
-31,Lotta all'evasione fiscale,lotta-allevasione-fiscale,
-32,Agevolazioni ai giovani per i mutui,agevolazioni-ai-giovani-per-i-mutui,
-33,Contributi ai giovani per gli affitti,contributi-ai-giovani-per-gli-affitti,
+31,Lotta all'evasione fiscale,lotta-allevasione-fiscale,https://it.wikipedia.org/wiki/Evasione_fiscale
+32,Agevolazioni ai giovani per i mutui,agevolazioni-ai-giovani-per-i-mutui,https://it.wikipedia.org/wiki/Mutuo#Mutui_per_la_casa
+33,Contributi ai giovani per gli affitti,contributi-ai-giovani-per-gli-affitti,https://it.wikipedia.org/wiki/Locazione
 34,"Abolizione della ""Buona Scuola""",abolizione-della-buona-scuola,https://it.wikipedia.org/wiki/Storia_dell%27istruzione_in_Italia#Riforma_%22Buona_Scuola%22
 35,"Abolizione della ""legge Gelmini""",abolizione-della-legge-gelmini,https://it.wikipedia.org/wiki/Riforma_Gelmini
-36,"Attuazione della ""riforma Cartabia""",attuazione-della-riforma-cartabia,
+36,"Attuazione della ""riforma Cartabia""",attuazione-della-riforma-cartabia,https://it.wikipedia.org/wiki/Marta_Cartabia#Ministro_della_Giustizia
 37,"Abrogazione della ""legge Fornero""",abrogazione-della-legge-fornero,https://it.wikipedia.org/wiki/Riforma_delle_pensioni_Fornero
 38,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari
 39,Lotta alla mafia,lotta-alla-mafia,https://it.wikipedia.org/wiki/Mafia_in_Italia
 40,Lotta alla omotransfobia,lotta-alla-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
-41,Legge sul fine vita,legge-sul-fine-vita,
+41,Legge sul fine vita,legge-sul-fine-vita,https://it.wikipedia.org/wiki/Suicidio_assistito
 42,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere
 43,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
 44,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
 45,Voto per i fuorisede,voto-per-i-fuorisede,
-46,Diritto all'aborto,diritto-allaborto,
+46,Diritto all'aborto,diritto-allaborto,https://it.wikipedia.org/wiki/Aborto
 47,Supporto alla maternità,supporto-alla-maternit,
 48,Aumento degli asili nido,aumento-degli-asili-nido,https://it.wikipedia.org/wiki/Asilo_nido
-49,Congedo di paternità,congedo-di-paternit,
-50,Matrimonio egualitario,matrimonio-egualitario,
-51,Legalizzazione della cannabis,legalizzazione-della-cannabis,
+49,Congedo di paternità,congedo-di-paternit,https://it.wikipedia.org/wiki/Congedo_parentale
+50,Matrimonio egualitario,matrimonio-egualitario,https://it.wikipedia.org/wiki/Matrimonio_tra_persone_dello_stesso_sesso
+51,Legalizzazione della cannabis,legalizzazione-della-cannabis,https://it.wikipedia.org/wiki/Legalit%C3%A0_della_cannabis
 52,Educazione sessuale,educazione-sessuale,https://it.wikipedia.org/wiki/Educazione_sessuale
 53,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina
 54,Realizzazione delle grandi opere,realizzazione-delle-grandi-opere,
-55,Lavoro agile,lavoro-agile,https://www.lavoro.gov.it/strumenti-e-servizi/smart-working/Pagine/default.aspx
+55,Lavoro agile,lavoro-agile,https://it.wikipedia.org/wiki/Lavoro_agile
 56,Made in Italy,made-in-italy,https://it.wikipedia.org/wiki/Made_in_Italy
 57,Più risorse ai piccoli comuni,pi-risorse-ai-piccoli-comuni,
-58,Difesa comune europea,difesa-comune-europea,
+58,Difesa comune europea,difesa-comune-europea,https://it.wikipedia.org/wiki/Politica_di_sicurezza_e_di_difesa_comune
 59,Aumento del numero di medici,aumento-del-numero-di-medici,https://it.wikipedia.org/wiki/Medico_di_famiglia
-60,Aumento dello stipendio dei docenti,aumento-dello-stipendio-dei-docenti,
-61,Contributi per l'edilizia scolastica,contributi-per-ledilizia-scolastica,
+60,Aumento dello stipendio dei docenti,aumento-dello-stipendio-dei-docenti,https://it.wikipedia.org/wiki/Docente
+61,Contributi per l'edilizia scolastica,contributi-per-ledilizia-scolastica,https://it.wikipedia.org/wiki/Edilizia_scolastica
 62,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
-63,Green pass,green-pass,
-64,Obbligo vaccinale,obbligo-vaccinale,
+63,Green pass,green-pass,https://it.wikipedia.org/wiki/Certificato_COVID_digitale_dell%27UE
+64,Obbligo vaccinale,obbligo-vaccinale,https://it.wikipedia.org/wiki/Vaccinazioni_obbligatorie
 65,Eliminazione del precariato,eliminazione-del-precariato,https://it.wikipedia.org/wiki/Precariato
 66,Aumento dell'assegno sociale per gli invalidi,aumento-dellassegno-sociale-per-gli-invalidi,https://it.wikipedia.org/wiki/Assegno_ordinario_di_invalidit%C3%A0
-67,Alternanza scuola-lavoro,alternanza-scuolalavoro,
-68,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,
+67,Alternanza scuola-lavoro,alternanza-scuolalavoro,https://it.wikipedia.org/wiki/PCTO_-_Percorsi_per_le_Competenze_Trasversali_e_per_l%27Orientamento
+68,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,https://it.wikipedia.org/wiki/Obbligo_formativo_in_Italia
 69,Didattica a distanza,didattica-a-distanza,https://it.wikipedia.org/wiki/Didattica_a_distanza
 70,Autonomia differenziata,autonomia-differenziata,https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html
 71,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo
@@ -74,8 +74,8 @@ id,subject,subject_slug,url
 73,Investimenti per le politiche sportive,investimenti-per-le-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
 74,Sostegno ai disabili nelle scuole,sostegno-ai-disabili-nelle-scuole,
 75,Sostegno per gli universitari fuorisede,sostegno-per-gli-universitari-fuorisede,
-76,Aiutare i giovani laureati a rimanere in Italia,aiutare-i-giovani-laureati-a-rimanere-in-italia,
-77,Mense scolastiche gratuite,mense-scolastiche-gratuite,
+76,Aiutare i giovani laureati a rimanere in Italia,aiutare-i-giovani-laureati-a-rimanere-in-italia,https://it.wikipedia.org/wiki/Laurea
+77,Mense scolastiche gratuite,mense-scolastiche-gratuite,https://it.wikipedia.org/wiki/Mensa_(pubblico_esercizio)
 78,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping
 79,Favorire la creazione delle comunità energetiche,favorire-la-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
 80,Libri di testo gratuiti,libri-di-testo-gratuiti,
@@ -97,17 +97,17 @@ id,subject,subject_slug,url
 96,Ripristino dell'articolo 18,ripristino-dellarticolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
 97,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
 98,Tutela del benessere animale,tutela-del-benessere-animale,
-99,Commissione di inchiesta sulla Covid-19,commissione-di-inchiesta-sulla-covid19,
-100,Lotta alla corruzione,lotta-alla-corruzione,
-101,Aumento delle spese militari,aumento-delle-spese-militari,
-102,Leva militare obbligatoria,leva-militare-obbligatoria,
-103,Condoni fiscali o edilizi,condoni-fiscali-o-edilizi,
+99,Commissione di inchiesta sulla Covid-19,commissione-di-inchiesta-sulla-covid19,https://it.wikipedia.org/wiki/COVID-19
+100,Lotta alla corruzione,lotta-alla-corruzione,https://it.wikipedia.org/wiki/Corruzione
+101,Aumento delle spese militari,aumento-delle-spese-militari,https://it.wikipedia.org/wiki/Spesa_per_la_difesa_in_Italia
+102,Leva militare obbligatoria,leva-militare-obbligatoria,https://it.wikipedia.org/wiki/Servizio_militare_di_leva_in_Italia
+103,Condoni fiscali o edilizi,condoni-fiscali-o-edilizi,https://it.wikipedia.org/wiki/Condono
 104,Sostegno alle imprese turistiche,sostegno-alle-imprese-turistiche,
-105,Riforma del sistema penitenziario,riforma-del-sistema-penitenziario,
+105,Riforma del sistema penitenziario,riforma-del-sistema-penitenziario,https://it.wikipedia.org/wiki/Ordinamento_penitenziario_italiano
 106,Ripristino dei decreti Sicurezza,ripristino-dei-decreti-sicurezza,
 107,Riforma del sistema di accoglienza,riforma-del-sistema-di-accoglienza,
-108,Blocco navale,blocco-navale,
-109,Contrasto alle baby gang,contrasto-alle-baby-gang,
+108,Blocco navale,blocco-navale,https://it.wikipedia.org/wiki/Blocco_navale
+109,Contrasto alle baby gang,contrasto-alle-baby-gang,https://it.wikipedia.org/wiki/Baby_gang
 110,Investimenti in cybersicurezza,investimenti-in-cybersicurezza,
 111,Maggiore inclusione per gli immigrati regolari,maggiore-inclusione-per-gli-immigrati-regolari,
 112,Creazione di hot-spot fuori dall'Ue,creazione-di-hotspot-fuori-dallue,
