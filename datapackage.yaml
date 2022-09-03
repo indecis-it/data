@@ -374,22 +374,22 @@ resources:
     format: csv
     hashing: md5
     encoding: utf-8
-    schema:
-      fields:
-        - name: id
-          type: integer
-        - name: url
-          type: string
-        - name: type
-          type: string
-        - name: subject
-          type: string
-        - name: list
-          type: string
-        - name: subject_id
-          type: integer
-        - name: list_id
-          type: integer
+#    schema:
+#      fields:
+#        - name: id
+#          type: integer
+#        - name: url
+#          type: string
+#        - name: type
+#          type: string
+#        - name: subject
+#          type: string
+#        - name: list
+#          type: string
+#        - name: subject_id
+#          type: integer
+#        - name: list_id
+#          type: integer
 #      foreignKeys:
 #        - fields:
 #            - list
