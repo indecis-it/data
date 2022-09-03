@@ -1,15 +1,15 @@
 id,url,type,subject,list,subject_id,list_id
-1,https://pagellapolitica.it/articoli/guida-sondaggi-politici,articolo,,,90,3
-2,https://pagellapolitica.it/articoli/promesse-2022-berlusconi-alberi,articolo,Tutela dell'ambiente e del paesaggio,Forza Italia,,1
-3,https://pagellapolitica.it/articoli/vecchi-programmi-fdi,articolo,,Fratelli d'Italia,12,3
-4,https://pagellapolitica.it/articoli/promessa-berlusconi-pensioni-mille-euro,articolo,Aumento delle pensioni,Forza Italia,,
-5,https://pagellapolitica.it/articoli/scadenze-politica-elezioni,articolo,,,,10
-6,https://pagellapolitica.it/articoli/fact-checking-patto-repubblicano-azione-piu-europa,articolo,,Azione-Italia Viva-Calenda,,2
-7,https://pagellapolitica.it/articoli/lega-pd-immigrazione-fact-checking,articolo,,Lega,,5
-8,https://pagellapolitica.it/articoli/lega-pd-immigrazione-fact-checking,articolo,,Partito Democratico,,3
-9,https://pagellapolitica.it/articoli/fact-checking-berlusconi-intervista-zona-bianca,articolo,,Forza Italia,,
-10,https://pagellapolitica.it/articoli/sondaggi-politici-affidabili,articolo,,,,5
-11,https://pagellapolitica.it/articoli/letta-tasse-successione,articolo,,Partito Democratico,,
+1,https://pagellapolitica.it/articoli/guida-sondaggi-politici,articolo,,,,
+2,https://pagellapolitica.it/articoli/promesse-2022-berlusconi-alberi,articolo,Tutela dell'ambiente e del paesaggio,Forza Italia,90,3
+3,https://pagellapolitica.it/articoli/vecchi-programmi-fdi,articolo,,Fratelli d'Italia,,1
+4,https://pagellapolitica.it/articoli/promessa-berlusconi-pensioni-mille-euro,articolo,Aumento delle pensioni,Forza Italia,12,3
+5,https://pagellapolitica.it/articoli/scadenze-politica-elezioni,articolo,,,,
+6,https://pagellapolitica.it/articoli/fact-checking-patto-repubblicano-azione-piu-europa,articolo,,Azione-Italia Viva-Calenda,,10
+7,https://pagellapolitica.it/articoli/lega-pd-immigrazione-fact-checking,articolo,,Lega,,2
+8,https://pagellapolitica.it/articoli/lega-pd-immigrazione-fact-checking,articolo,,Partito Democratico,,5
+9,https://pagellapolitica.it/articoli/fact-checking-berlusconi-intervista-zona-bianca,articolo,,Forza Italia,,3
+10,https://pagellapolitica.it/articoli/sondaggi-politici-affidabili,articolo,,,,
+11,https://pagellapolitica.it/articoli/letta-tasse-successione,articolo,,Partito Democratico,,5
 12,https://pagellapolitica.it/articoli/discussioni-candidati-seggi-uninominali,articolo,,,,
 13,https://pagellapolitica.it/articoli/indicazione-ministri-leader-voto,articolo,,,,
 14,https://pagellapolitica.it/articoli/alleanza-centrosinistra-azione-pd,articolo,,,,
@@ -92,37 +92,50 @@ id,url,type,subject,list,subject_id,list_id
 91,https://pagellapolitica.it/fact-checking/berlusconi-disoccupazione-italia-ue,fact-checking,,,,
 92,https://pagellapolitica.it/fact-checking/salvini-dossier-viminale,fact-checking,,,,
 93,https://pagellapolitica.it/fact-checking/crosetto-aumento-debito-pubblico,fact-checking,,,,
-94,https://pagellapolitica.it/fact-checking/zan-matrimonio-egualitario-europa,fact-checking,,,,
-95,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,fact-checking,,,,
-96,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,fact-checking,,,,
-97,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,fact-checking,,,,
-98,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,fact-checking,,,,
-99,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,fact-checking,,,,
-100,https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni,fact-checking,,,,
-101,https://pagellapolitica.it/fact-checking/segretari-cgil-partito-democratico,fact-checking,,,,
-102,https://pagellapolitica.it/fact-checking/berlusconi-taglio-tasse-reagan,fact-checking,,,,
-103,https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari,fact-checking,,,,
-104,https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7,fact-checking,,,,
-105,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,fact-checking,,,,
-106,https://pagellapolitica.it/fact-checking/consumo-suolo-italia,fact-checking,,,,
-107,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,fact-checking,,,,
-108,https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria,fact-checking,,,,
-109,https://pagellapolitica.it/fact-checking/carfagna-pd-asilo,fact-checking,,,,
-110,https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia,fact-checking,,,,
-111,https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati,fact-checking,,,,
-112,https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania,fact-checking,,,,
-113,https://pagellapolitica.it/fact-checking/conte-draghi-spread-record,fact-checking,,,,
-114,https://pagellapolitica.it/fact-checking/berlusconi-abolizione-leva-obbligatoria,fact-checking,,,,
-115,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,fact-checking,,,,
-116,https://pagellapolitica.it/fact-checking/emissioni-ricchi-poveri-mondo,fact-checking,,,,
-117,https://pagellapolitica.it/fact-checking/meloni-presidenzialismo-governi-europei,fact-checking,,,,
-118,https://pagellapolitica.it/fact-checking/letta-carbon-tax-ue,fact-checking,,,,
-119,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,fact-checking,,,,
-120,https://pagellapolitica.it/fact-checking/quanto-emissioni-co2-jet-privato,fact-checking,,,,
-121,https://pagellapolitica.it/fact-checking/inflazione-sanzioni-russia,fact-checking,,,,
-122,https://pagellapolitica.it/fact-checking/lega-promesse-non-mantenute,fact-checking,,,,
-123,https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico,fact-checking,,,,
-124,https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia,fact-checking,,,,
-125,https://pagellapolitica.it/fact-checking/importazioni-gas-russia-berlusconi,fact-checking,,,,
-126,https://pagellapolitica.it/fact-checking/meloni-esagera-occupati-automotive,fact-checking,,,,
-127,https://pagellapolitica.it/fact-checking/salvini-numero-chiuso-medicina-costo,fact-checking,,,,
+94,https://pagellapolitica.it/fact-checking/zan-matrimonio-egualitario-europa,fact-checking,Matrimonio egualitario,Partito Democratico,50,5
+95,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,fact-checking,Aumento delle pensioni,Lega,12,2
+96,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,fact-checking,Aumento delle pensioni,Azione-Italia Viva-Calenda,12,10
+97,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,fact-checking,,Partito Democratico,,5
+98,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,fact-checking,,Fratelli d'Italia,,1
+99,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,fact-checking,Flat tax,Lega,5,2
+100,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,fact-checking,Reddito di cittadinanza,Lega,11,2
+101,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,fact-checking,Legalizzazione della cannabis,Partito Democratico,51,5
+102,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,fact-checking,Legalizzazione della cannabis,Lega,51,2
+103,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,fact-checking,Revisione del PNRR,Partito Democratico,24,5
+104,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,fact-checking,Revisione del PNRR,Azione-Italia Viva-Calenda,24,10
+105,https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni,fact-checking,,Azione-Italia Viva-Calenda,,10
+106,https://pagellapolitica.it/fact-checking/segretari-cgil-partito-democratico,fact-checking,,Partito Democratico,,5
+107,https://pagellapolitica.it/fact-checking/berlusconi-taglio-tasse-reagan,fact-checking,,Forza Italia,,3
+108,https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari,fact-checking,Flat tax,Lega,5,2
+109,https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7,fact-checking,Nucleare,Azione-Italia Viva-Calenda,16,10
+110,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,fact-checking,Flat tax,Forza Italia,5,3
+111,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,fact-checking,Lotta all'evasione fiscale,Forza Italia,31,3
+112,https://pagellapolitica.it/fact-checking/consumo-suolo-italia,fact-checking,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,90,6
+113,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,fact-checking,Lotta all'evasione fiscale,Partito Democratico,31,5
+114,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,fact-checking,Lotta all'evasione fiscale,Forza Italia,31,3
+115,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,fact-checking,Lotta all'evasione fiscale,Lega,31,2
+116,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,fact-checking,Lotta all'evasione fiscale,Fratelli d'Italia,31,1
+117,https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria,fact-checking,,Lega,,2
+118,https://pagellapolitica.it/fact-checking/carfagna-pd-asilo,fact-checking,Aumento degli asili nido,Azione-Italia Viva-Calenda,48,10
+119,https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia,fact-checking,Sanzioni contro la Russia,Lega,10,2
+120,https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati,fact-checking,,Lega,,2
+121,https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania,fact-checking,Promozione degli Istituti tecnici superiori,Partito Democratico,82,5
+122,https://pagellapolitica.it/fact-checking/conte-draghi-spread-record,fact-checking,Tetto al prezzo del gas,Movimento 5 Stelle,1,9
+123,https://pagellapolitica.it/fact-checking/berlusconi-abolizione-leva-obbligatoria,fact-checking,Servizio militare obbligatorio,Forza Italia,102,3
+124,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,fact-checking,Reddito di cittadinanza,Lega,11,2
+125,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,fact-checking,Reddito di cittadinanza,Partito Democratico,11,5
+126,https://pagellapolitica.it/fact-checking/emissioni-ricchi-poveri-mondo,fact-checking,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,90,6
+127,https://pagellapolitica.it/fact-checking/meloni-presidenzialismo-governi-europei,fact-checking,Presidenzialismo,Fratelli d'Italia,18,1
+128,https://pagellapolitica.it/fact-checking/letta-carbon-tax-ue,fact-checking,,Partito Democratico,,5
+129,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,fact-checking,Trivelle,Azione-Italia Viva-Calenda,15,10
+130,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,fact-checking,Trivelle,Fratelli d'Italia,15,1
+131,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,fact-checking,Trivelle,Lega,15,2
+132,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,fact-checking,Trivelle,Forza Italia,15,3
+133,https://pagellapolitica.it/fact-checking/quanto-emissioni-co2-jet-privato,fact-checking,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,90,6
+134,https://pagellapolitica.it/fact-checking/inflazione-sanzioni-russia,fact-checking,,,,
+135,https://pagellapolitica.it/fact-checking/lega-promesse-non-mantenute,fact-checking,,,,
+136,https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico,fact-checking,,Fratelli d'Italia,,1
+137,https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia,fact-checking,,,,
+138,https://pagellapolitica.it/fact-checking/importazioni-gas-russia-berlusconi,fact-checking,,Forza Italia,,3
+139,https://pagellapolitica.it/fact-checking/meloni-esagera-occupati-automotive,fact-checking,,Fratelli d'Italia,,1
+140,https://pagellapolitica.it/fact-checking/salvini-numero-chiuso-medicina-costo,fact-checking,Abolizione del numero chiuso all'università,Lega,95,2
