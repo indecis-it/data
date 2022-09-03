@@ -168,7 +168,7 @@ resources:
             - category
           reference:
             fields:
-              - name_it
+              - name
             resource: categories
         - fields:
             - category_id
