@@ -26,7 +26,8 @@ rlc <- relic %>%
 
 # reshaping
 long <- df %>%
-    rename_with(reverse_string, 6:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
+    select(-subject_id) %>%
+    rename_with(reverse_string, 5:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
     select(-info) %>%
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
