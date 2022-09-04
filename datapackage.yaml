@@ -357,8 +357,8 @@ resources:
             fields:
               - id
             resource: lists
-  - path: data/pagella_politica.csv
-    name: pagella_politica
+  - path: data/press.csv
+    name: press
     profile: tabular-data-resource
     scheme: file
     format: csv
