@@ -17,7 +17,7 @@ src <- read_csv(here("data/sources.csv"))
 dsp <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v_x2EiVC-kxjtiLBJR_Gm2zmLqftenCTQqK7lwnEat1CyhBbec2r0czvsb/pub?gid=1068258295&single=true&output=csv")
 lst <- read_csv(here("data/lists.csv"))
 ldr <- read_csv(here("data/leaders.csv"))
-pgp <- read_csv(here("data/pagella_politica.csv"))
+pgp <- read_csv(here("data/press.csv"))
 
 # update list.csv with the lists to display
 lst %>%
@@ -66,8 +66,8 @@ rlc <- relic %>%
 
 # reshaping
 long <- df %>%
-    rename_with(reverse_string, 6:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
-    select(-info) %>%
+    rename_with(reverse_string, 5:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
+    select(-info, -subject_description) %>%
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
@@ -85,7 +85,7 @@ print("Reshaping completed! items.csv created.")
 
 # generating glossary.csv
 df %>%
-    select(subject_id, subject, subject_slug, info) %>%
+    select(subject_id, subject, subject_slug, info, subject_description) %>%
     rename(id = subject_id, url = info) %>%
     write_csv(., here("data/glossary.csv"), na ="")
 print("glossary.csv created")

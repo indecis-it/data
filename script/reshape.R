@@ -26,9 +26,8 @@ rlc <- relic %>%
 
 # reshaping
 long <- df %>%
-    select(-subject_description) %>%
-    rename_with(reverse_string, 5:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
-    select(-info) %>%
+    rename_with(reverse_string, 6:ncol(df)) %>% #secondo argomento debole, ma per ora funziona
+    select(-info, -subject_description) %>%
     pivot_longer(cols = starts_with("item"),
           names_to = c(".value", "field"), names_sep = "_") %>%
     separate(field, into = c("type", "list"), sep = "\\.") %>%
@@ -46,7 +45,7 @@ print("Reshaping completed! items.csv created.")
 
 # generating glossary.csv
 df %>%
-    select(subject_id, subject, subject_slug, info) %>%
+    select(subject_id, subject, subject_slug, info, subject_description) %>%
     rename(id = subject_id, url = info) %>%
     write_csv(., here("data/glossary.csv"), na ="")
 

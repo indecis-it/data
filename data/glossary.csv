@@ -1,135 +1,283 @@
-id,subject,subject_slug,url
-1,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,https://it.wikipedia.org/wiki/Tariffe_del_gas
-2,Taglio del cuneo fiscale,taglio-del-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale
-3,Taglio delle tasse per le partite IVA,taglio-delle-tasse-per-le-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
-4,Riduzione dell'IVA,riduzione-delliva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto
-5,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax
-6,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo
-7,Superbonus 110%,superbonus-110,https://it.wikipedia.org/wiki/Superbonus_110%25
-8,Aiuti militari all'Ucraina,aiuti-militari-allucraina,
-9,Adesione alla NATO,adesione-alla-nato,https://it.wikipedia.org/wiki/NATO
-10,Sanzioni contro la Russia,sanzioni-contro-la-russia,https://it.wikipedia.org/wiki/Sanzioni_internazionali_durante_la_crisi_russo-ucraina
-11,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia)
-12,Aumento delle pensioni,aumento-delle-pensioni,https://it.wikipedia.org/wiki/Pensione
-13,Adesione all'UE,adesione-allue,https://it.wikipedia.org/wiki/Unione_europea
-14,Uscita dall'Euro,uscita-dalleuro,https://it.wikipedia.org/wiki/Euro
-15,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto
-16,Nucleare,nucleare,https://it.wikipedia.org/wiki/Energia_nucleare
-17,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore
-18,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale
-19,Energie rinnovabili,energie-rinnovabili,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile
-20,Termovalorizzatori,termovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore
-21,Investimenti in infrastrutture,investimenti-in-infrastrutture,https://it.wikipedia.org/wiki/Infrastruttura
-22,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,https://it.wikipedia.org/wiki/Mezzogiorno_(Italia)
-23,Investimenti per la ricerca,investimenti-per-la-ricerca,https://it.wikipedia.org/wiki/Ricerca_scientifica
-24,Revisione del PNRR,revisione-del-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza
-25,Riduzione o eliminazione dell'IRAP,riduzione-o-eliminazione-dellirap,https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive
-26,Sostegno a piccole e medie imprese,sostegno-a-piccole-e-medie-imprese,https://it.wikipedia.org/wiki/Piccole_e_medie_imprese
-27,Riduzione delle bollette energetiche,riduzione-delle-bollette-energetiche,https://it.wikipedia.org/wiki/Bolletta
-28,Patrimoniale,patrimoniale,https://it.wikipedia.org/wiki/Imposta_patrimoniale
-29,Aumento dell'assegno unico universale,aumento-dellassegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari
-30,Introduzione del conto unico fiscale,introduzione-del-conto-unico-fiscale,
-31,Lotta all'evasione fiscale,lotta-allevasione-fiscale,https://it.wikipedia.org/wiki/Evasione_fiscale
-32,Agevolazioni ai giovani per i mutui,agevolazioni-ai-giovani-per-i-mutui,https://it.wikipedia.org/wiki/Mutuo#Mutui_per_la_casa
-33,Contributi ai giovani per gli affitti,contributi-ai-giovani-per-gli-affitti,https://it.wikipedia.org/wiki/Locazione
-34,"Abolizione della ""Buona Scuola""",abolizione-della-buona-scuola,https://it.wikipedia.org/wiki/Storia_dell%27istruzione_in_Italia#Riforma_%22Buona_Scuola%22
-35,"Abolizione della ""legge Gelmini""",abolizione-della-legge-gelmini,https://it.wikipedia.org/wiki/Riforma_Gelmini
-36,"Attuazione della ""riforma Cartabia""",attuazione-della-riforma-cartabia,https://it.wikipedia.org/wiki/Marta_Cartabia#Ministro_della_Giustizia
-37,"Abrogazione della ""legge Fornero""",abrogazione-della-legge-fornero,https://it.wikipedia.org/wiki/Riforma_delle_pensioni_Fornero
-38,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari
-39,Lotta alla mafia,lotta-alla-mafia,https://it.wikipedia.org/wiki/Mafia_in_Italia
-40,Lotta alla omotransfobia,lotta-alla-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia
-41,Legge sul fine vita,legge-sul-fine-vita,https://it.wikipedia.org/wiki/Suicidio_assistito
-42,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere
-43,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/
-44,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli
-45,Voto per i fuorisede,voto-per-i-fuorisede,
-46,Diritto all'aborto,diritto-allaborto,https://it.wikipedia.org/wiki/Aborto
-47,Supporto alla maternità,supporto-alla-maternit,
-48,Aumento degli asili nido,aumento-degli-asili-nido,https://it.wikipedia.org/wiki/Asilo_nido
-49,Congedo di paternità,congedo-di-paternit,https://it.wikipedia.org/wiki/Congedo_parentale
-50,Matrimonio egualitario,matrimonio-egualitario,https://it.wikipedia.org/wiki/Matrimonio_tra_persone_dello_stesso_sesso
-51,Legalizzazione della cannabis,legalizzazione-della-cannabis,https://it.wikipedia.org/wiki/Legalit%C3%A0_della_cannabis
-52,Educazione sessuale,educazione-sessuale,https://it.wikipedia.org/wiki/Educazione_sessuale
-53,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina
-54,Realizzazione delle grandi opere,realizzazione-delle-grandi-opere,
-55,Lavoro agile,lavoro-agile,https://it.wikipedia.org/wiki/Lavoro_agile
-56,Made in Italy,made-in-italy,https://it.wikipedia.org/wiki/Made_in_Italy
-57,Più risorse ai piccoli comuni,pi-risorse-ai-piccoli-comuni,
-58,Difesa comune europea,difesa-comune-europea,https://it.wikipedia.org/wiki/Politica_di_sicurezza_e_di_difesa_comune
-59,Aumento del numero di medici,aumento-del-numero-di-medici,https://it.wikipedia.org/wiki/Medico_di_famiglia
-60,Aumento dello stipendio dei docenti,aumento-dello-stipendio-dei-docenti,https://it.wikipedia.org/wiki/Docente
-61,Contributi per l'edilizia scolastica,contributi-per-ledilizia-scolastica,https://it.wikipedia.org/wiki/Edilizia_scolastica
-62,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato
-63,Green pass,green-pass,https://it.wikipedia.org/wiki/Certificato_COVID_digitale_dell%27UE
-64,Obbligo vaccinale,obbligo-vaccinale,https://it.wikipedia.org/wiki/Vaccinazioni_obbligatorie
-65,Eliminazione del precariato,eliminazione-del-precariato,https://it.wikipedia.org/wiki/Precariato
-66,Aumento dell'assegno sociale per gli invalidi,aumento-dellassegno-sociale-per-gli-invalidi,https://it.wikipedia.org/wiki/Assegno_ordinario_di_invalidit%C3%A0
-67,Alternanza scuola-lavoro,alternanza-scuolalavoro,https://it.wikipedia.org/wiki/PCTO_-_Percorsi_per_le_Competenze_Trasversali_e_per_l%27Orientamento
-68,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,https://it.wikipedia.org/wiki/Obbligo_formativo_in_Italia
-69,Didattica a distanza,didattica-a-distanza,https://it.wikipedia.org/wiki/Didattica_a_distanza
-70,Autonomia differenziata,autonomia-differenziata,https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html
-71,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo
-72,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,https://it.wikipedia.org/wiki/Docente_in_Italia
-73,Investimenti per le politiche sportive,investimenti-per-le-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche
-74,Sostegno ai disabili nelle scuole,sostegno-ai-disabili-nelle-scuole,https://it.wikipedia.org/wiki/Integrazione_scolastica
-75,Sostegno per gli universitari fuorisede,sostegno-per-gli-universitari-fuorisede,
-76,Aiutare i giovani laureati a rimanere in Italia,aiutare-i-giovani-laureati-a-rimanere-in-italia,https://it.wikipedia.org/wiki/Laurea
-77,Mense scolastiche gratuite,mense-scolastiche-gratuite,https://it.wikipedia.org/wiki/Mensa_(pubblico_esercizio)
-78,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping
-79,Favorire la creazione delle comunità energetiche,favorire-la-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile
-80,Libri di testo gratuiti,libri-di-testo-gratuiti,https://it.wikipedia.org/wiki/Libro_di_testo
-81,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia
-82,Promozione degli Istituti tecnici superiori,promozione-degli-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its
-83,Promozione della parità di genere,promozione-della-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere
-84,Promozione della sicurezza sul lavoro,promozione-della-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro
-85,Integrazione tra università e aziende,integrazione-tra-universit-e-aziende,
-86,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-87,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,https://it.wikipedia.org/wiki/Scuolabus
-88,Sostegno ai meno abbienti e incapienti,sostegno-ai-meno-abbienti-e-incapienti,
-89,Sviluppo dei servizi sanitari di prossimità,sviluppo-dei-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale
-90,Tutela dell'ambiente e del paesaggio,tutela-dellambiente-e-del-paesaggio,
-91,Favorire il riscatto della laurea,favorire-il-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati
-92,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,https://it.wikipedia.org/wiki/Scuola_privata
-93,Scuola dell'infanzia obbligatoria,scuola-dellinfanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia
-94,Più attività extrascolastiche,pi-attivit-extrascolastiche,
-95,Abolizione del numero chiuso all'università,abolizione-del-numero-chiuso-alluniversit,https://it.wikipedia.org/wiki/Universit%C3%A0_in_Italia#Accesso_ai_corsi
-96,Ripristino dell'articolo 18,ripristino-dellarticolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori
-97,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)
-98,Tutela del benessere animale,tutela-del-benessere-animale,
-99,Commissione di inchiesta sulla Covid-19,commissione-di-inchiesta-sulla-covid19,https://it.wikipedia.org/wiki/COVID-19
-100,Lotta alla corruzione,lotta-alla-corruzione,https://it.wikipedia.org/wiki/Corruzione
-101,Aumento delle spese militari,aumento-delle-spese-militari,https://it.wikipedia.org/wiki/Spesa_per_la_difesa_in_Italia
-102,Leva militare obbligatoria,leva-militare-obbligatoria,https://it.wikipedia.org/wiki/Servizio_militare_di_leva_in_Italia
-103,Condoni fiscali o edilizi,condoni-fiscali-o-edilizi,https://it.wikipedia.org/wiki/Condono
-104,Sostegno alle imprese turistiche,sostegno-alle-imprese-turistiche,
-105,Riforma del sistema penitenziario,riforma-del-sistema-penitenziario,https://it.wikipedia.org/wiki/Ordinamento_penitenziario_italiano
-106,Ripristino dei decreti Sicurezza,ripristino-dei-decreti-sicurezza,
-107,Riforma del sistema di accoglienza,riforma-del-sistema-di-accoglienza,https://it.wikipedia.org/wiki/Immigrazione_in_Italia
-108,Blocco navale,blocco-navale,https://it.wikipedia.org/wiki/Blocco_navale
-109,Contrasto alle baby gang,contrasto-alle-baby-gang,https://it.wikipedia.org/wiki/Baby_gang
-110,Investimenti in cybersicurezza,investimenti-in-cybersicurezza,https://it.wikipedia.org/wiki/Sicurezza_informatica
-111,Maggiore inclusione per gli immigrati regolari,maggiore-inclusione-per-gli-immigrati-regolari,https://it.wikipedia.org/wiki/Modelli_di_integrazione
-112,Creazione di hot-spot fuori dall'Ue,creazione-di-hotspot-fuori-dallue,
-113,"Abolizione della legge ""Bossi-Fini""",abolizione-della-legge-bossifini,https://it.wikipedia.org/wiki/Legge_Bossi-Fini
-114,Allargamento dei corridoi umanitari,allargamento-dei-corridoi-umanitari,
-115,Riforma dei trattati Ue sull'immigrazione,riforma-dei-trattati-ue-sullimmigrazione,https://it.wikipedia.org/wiki/Convenzione_di_Dublino
-116,Riforma del Patto di stabilità e crescita,riforma-del-patto-di-stabilit-e-crescita,https://it.wikipedia.org/wiki/Patto_di_stabilit%C3%A0_e_crescita
-117,Accordi di cooperazione con Paesi d'origine,accordi-di-cooperazione-con-paesi-dorigine,
-118,Maggiori risorse alla cooperazione per lo sviluppo,maggiori-risorse-alla-cooperazione-per-lo-sviluppo,
-119,Elezione diretta del presidente del Consiglio,elezione-diretta-del-presidente-del-consiglio,https://it.wikipedia.org/wiki/Premierato
-120,Riforma della legge elettorale,riforma-della-legge-elettorale,https://it.wikipedia.org/wiki/Sistema_elettorale_in_Italia
-121,Digitalizzazione della giustizia,digitalizzazione-della-giustizia,
-122,Minore durata dei processi,minore-durata-dei-processi,
-123,Maggiore ricorso alla depenalizzazione,maggiore-ricorso-alla-depenalizzazione,
-124,Riforma delle professioni penitenziarie,riforma-delle-professioni-penitenziarie,
-125,Investimenti nell'edilizia per la giustizia,investimenti-nelledilizia-per-la-giustizia,
-126,Separazione delle carriere dei Magistrati,separazione-delle-carriere-dei-magistrati,
-127,Riforma della giustizia civile e penale,riforma-della-giustizia-civile-e-penale,
-128,Riforma della giustizia tributaria,riforma-della-giustizia-tributaria,https://it.wikipedia.org/wiki/Giustizia_tributaria
-129,"Modifica della legge ""Severino""",modifica-della-legge-severino,https://it.wikipedia.org/wiki/Legge_Severino
-130,Revisione della riforma del CSM,revisione-della-riforma-del-csm,https://it.wikipedia.org/wiki/Consiglio_superiore_della_magistratura
-131,Riforma della custodia cautelare,riforma-della-custodia-cautelare,https://it.wikipedia.org/wiki/Custodia_cautelare_in_carcere
-132,Riduzione del sovraffolamento carcerario,riduzione-del-sovraffolamento-carcerario,
-133,Eliminazione della prescrizione,eliminazione-della-prescrizione,https://it.wikipedia.org/wiki/Prescrizione_(ordinamento_civile_italiano)
-134,Responsabilità civile dei magistrati,responsabilit-civile-dei-magistrati,https://it.wikipedia.org/wiki/Procedimenti_riguardanti_i_magistrati_italiani
+id,subject,subject_slug,url,subject_description
+1,Tetto al prezzo del gas,tetto-al-prezzo-del-gas,https://it.wikipedia.org/wiki/Tariffe_del_gas,"Le tariffe di distribuzione e misura del gas naturale sono fissate dall'Autorità per l'energia elettrica il gas ed il sistema idrico (AEEGSI) e sono dirette a remunerare gli operatori della distribuzione del 
+gas per i servizi resi all'utente finale in ragione dei contratti di 
+concessione locale di cui sono titolari."
+2,Taglio del cuneo fiscale,taglio-del-cuneo-fiscale,https://it.wikipedia.org/wiki/Cuneo_fiscale,"Il cuneo fiscale è un indicatore degli effetti della tassazione sul reddito dei lavoratori, 
+l'occupazione e il mercato del lavoro."
+3,Taglio delle tasse per le partite IVA,taglio-delle-tasse-per-le-partite-iva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto,"L'imposta sul valore aggiunto, in acronimoIVA, è un'imposta – adottata nel 1968 da numerosi Paesi del mondo (tra i quali anche i membri dell'UE) – applicata sul valore aggiunto di ogni fase della produzione, di scambio di beni e servizi."
+4,Riduzione dell'IVA,riduzione-delliva,https://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto,"L'imposta sul valore aggiunto, in acronimoIVA, è un'imposta – adottata nel 1968 da numerosi Paesi del mondo (tra i quali anche i membri dell'UE) – applicata sul valore aggiunto di ogni fase della produzione, di scambio di beni e servizi."
+5,Flat tax,flat-tax,https://it.wikipedia.org/wiki/Flat_tax,"In scienza delle finanze la flat tax (letteralmente in italiano: tassa piatta, calcolata come percentuale costante) è un sistema fiscale non progressivo, basato su un'aliquota fissa, al netto di eventuali deduzioni fiscali o detrazioni."
+6,Salario minimo,salario-minimo,https://it.wikipedia.org/wiki/Salario_minimo,"Il salario minimo, nel diritto del lavoro, è la più bassa remunerazione o paga oraria, giornaliera o mensile che in taluni stati i datori di lavoro devono per legge corrispondere ai propri lavoratori dipendenti ovvero impiegati e operai."
+7,Superbonus 110%,superbonus-110,https://it.wikipedia.org/wiki/Superbonus_110%25,"Il Superbonus 110%[1][2] è una misura di incentivazione introdotta il 19 maggio 2020 dal governo Conte II. Consiste in una serie di meccanismi d'agevolazione, detrazioni e rimborsi 
+per interventi di natura edilizia, con l'obiettivo di ammodernare 
+costruzioni e infrastrutture migliorandone l'efficienza energetica e al contempo di stimolare e risollevare il settore edile in crisi[3] a causa della pandemia di COVID-19.[4][5] È risultata una misura economicamente distorsiva[6][7] e inflazionistica[8][9], con benefici relativamente modesti sul piano della riduzione delle 
+emissioni di CO₂.[10][11][12][13][14]"
+8,Aiuti militari all'Ucraina,aiuti-militari-allucraina,,
+9,Adesione alla NATO,adesione-alla-nato,https://it.wikipedia.org/wiki/NATO,"L'Organizzazione del Trattato dell'Atlantico del Nord (in inglese: North Atlantic Treaty Organization, in siglaNATO, in francese: Organisation du Traité de l'Atlantique Nord, in sigla OTAN) è un'organizzazione internazionale per la collaborazione nel settore della difesa."
+10,Sanzioni contro la Russia,sanzioni-contro-la-russia,https://it.wikipedia.org/wiki/Sanzioni_internazionali_durante_la_crisi_russo-ucraina,"Le sanzioni internazionali durante la crisi ucraina furono intraprese da numerosi Stati contro la Russia a seguito dell'intervento militare russo in Ucraina cominciato alla fine di febbraio 2014. Le sanzioni furono imposte da Stati Uniti, Unione europea e altri Stati e organizzazioni internazionali contro singoli individui, 
+tra cui imprenditori e funzionari russi e ucraini.[1] La Russia ha risposto con sanzioni contro alcuni paesi, bandendo 
+l'importazione di cibo da Unione europea, Stati Uniti, Norvegia, Canada e Australia."
+11,Reddito di cittadinanza,reddito-di-cittadinanza,https://it.wikipedia.org/wiki/Reddito_di_cittadinanza_(Italia),"Il sussidio istituito con il Decreto Legge n°4 del 28 gennaio 2019 dalla Repubblica Italiana è una forma condizionata e non individuale di reddito minimo garantito; viene chiamato impropriamente reddito di cittadinanza nel DL stesso, pur essendo totalmente privo delle caratteristiche di tale reddito di base."
+12,Aumento delle pensioni,aumento-delle-pensioni,https://it.wikipedia.org/wiki/Pensione,"La pensione è una obbligazione che consiste in una rendita[1] vitalizia o temporanea corrisposta a una persona fisica in base a un rapporto giuridico con l'ente o la società che è obbligata a corrisponderla per la tutela del rischio di longevità o di altri rischi (invalidità, inabilità, superstiti, indiretta).[2]"
+13,Adesione all'UE,adesione-allue,https://it.wikipedia.org/wiki/Unione_europea,"L'Unione europea,[14] abbreviata in UE o, erroneamente, Ue (pronuncia/ˈue/),[15] è un'unione politica ed economica[16] a carattere sovranazionale, che comprende 27 Stati membri."
+14,Uscita dall'Euro,uscita-dalleuro,https://it.wikipedia.org/wiki/Euro,"L'euro (simbolo: €, codice ISO 4217: EUR;AFI: /ˈɛuro/[2]; plurale invariabile oppure, meno comunemente, ""euri""[3][4]) è la valuta ufficiale dei paesi della zona euro[5] e quella unica attualmente adottata da 19 dei 27 Stati membri dell'Unione 
+aderenti all'Unione economica e monetaria dell'Unione europea (UEM).[6] La moneta è suddivisa in 100 centesimi."
+15,Trivelle,trivelle,https://it.wikipedia.org/wiki/Trivellazione_in_mare_aperto,"La trivellazione in mare aperto è un processo meccanico in cui viene praticato un pozzo attraverso il fondale marino. Viene in genere effettuato per esplorare e successivamente estrarre petrolio o gas naturale che si trova in formazioni rocciose sotto il fondo del mare. Più 
+comunemente, il termine è usato per descrivere le attività di perforazione 
+sulla piattaforma continentale, sebbene il termine possa essere applicato anche alla perforazione in laghi, acque costiere e mari interni."
+16,Nucleare,nucleare,https://it.wikipedia.org/wiki/Energia_nucleare,"L'energia nucleare, o energia atomica, è l'energia liberata dalle reazioni nucleari e dal decadimento radioattivo sotto forma di energia elettromagnetica e cinetica. Questa energia è sfruttata da numerose tecnologie nucleari e ha una particolare rilevanza nel settore energetico, infatti comunemente 
+ci si riferisce all'energia nucleare come a quella liberata in modo 
+controllato nelle centrali nucleari per la produzione di energia elettrica.[2] In una centrale l'energia nucleare viene liberata dalla fissione del combustibile (isotopi di uranio e plutonio) nel reattore e qui convertita in energia termica sfruttabile per la produzione di energia elettrica. È in fase di ricerca la possibilità di sfruttare per scopi energetici 
+anche le reazioni di fusione nucleare.[3][4]"
+17,Rigassificatori,rigassificatori,https://it.wikipedia.org/wiki/Rigassificatore,"Un rigassificatore è un impianto che permette di riportare un fluido che normalmente in natura si presenta sotto forma di gas, dallo stato fisicoliquido a quello aeriforme. L'impianto non è da confondersi invece con il gassificatore, che ha tutt'altre funzioni. I più noti impianti di questo tipo sono i rigassificatori GNL, utilizzati nel ciclo di trasporto del gas naturale."
+18,Presidenzialismo,presidenzialismo,https://it.wikipedia.org/wiki/Repubblica_presidenziale,"La repubblica presidenziale (o presidenzialismo) è una forma di governo, che appartiene alle forme di democrazia rappresentativa, in cui il potere esecutivo si concentra nella figura del Presidente che è sia il capo dello Stato sia il capo del governo. Generalmente questo è democraticamente eletto direttamente dai cittadini e forma il suo governo; essendo capo di Stato 
+non ha bisogno di voto di fiduciaparlamentare anche perché, avendo già ottenuto il voto della maggioranza dei cittadini, 
+non ha bisogno della fiducia dei loro rappresentanti. La legittimazione 
+attraverso il voto conferisce al presidente una chiara superiorità rispetto 
+ai suoi ministri, non sempre rimarcata nei sistemi parlamentari."
+19,Energie rinnovabili,energie-rinnovabili,https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabile,"Le fonti di energia rinnovabile sono fonti energetiche non soggette ad esaurimento[1] perché naturalmente reintegrate in una scala temporale umana tramite processi fisici, come avviene per la luce solare, il vento, il ciclo dell'acqua, le maree, le onde e il calore geotermico, o chimici, come avviene per la biomassa.[2] Le energie rinnovabili trovano applicazione nella produzione di energia elettrica,[3] nel riscaldamento e raffrescamento degli ambienti[4][5] e nei servizi di trasporto.[6]"
+20,Termovalorizzatori,termovalorizzatori,https://it.wikipedia.org/wiki/Termovalorizzatore,"Il termovalorizzatore è un inceneritore che converte il calore generato dalla combustione dei rifiuti in energia destinata ad altro uso.[1] I termovalorizzatori possono svolgere la funzione di centrali elettriche producendo energia elettrica tramite un impianto costituito da una turbina a vapore. Il vapore è generato dal riscaldamento, dovuto alla combustione dei 
+rifiuti, di acqua contenuta in apposite caldaie. Oltre alla produzione di 
+energia elettrica al termovalorizzatore può essere associato un impianto cogenerazione per il teleriscaldamento o un impianto di gassificazione per la produzione del gas di sintesi."
+21,Investimenti in infrastrutture,investimenti-in-infrastrutture,https://it.wikipedia.org/wiki/Infrastruttura,"Per infrastruttura s'intende uno o la serie di elementi o di dispositivi organizzati che 
+compongono, collegano ed intermediano i rapporti tra i vari componenti di 
+una struttura."
+22,Investimenti per il Mezzogiorno,investimenti-per-il-mezzogiorno,https://it.wikipedia.org/wiki/Mezzogiorno_(Italia),Il Mezzogiorno o Meridione d'Italia è un'area geografica italiana comprendente l'Italia meridionale e quella insulare.
+23,Investimenti per la ricerca,investimenti-per-la-ricerca,https://it.wikipedia.org/wiki/Ricerca_scientifica,"La ricerca scientifica è un'attività condotta da scienziati, ricercatori o altri studiosi avente lo scopo di scoprire, interpretare e revisionare 
+fatti, eventi, per poi trascriverli. Comportamenti e teorie relative a qualunque ambito della conoscenza e dell'esperienza umana (sebbene il senso comune tenda a restringerla all'ambito della natura), usando metodi intersoggettivi e condivisi, cioè basati sul metodo scientifico."
+24,Revisione del PNRR,revisione-del-pnrr,https://it.wikipedia.org/wiki/Piano_Nazionale_di_Ripresa_e_Resilienza,"Il Piano Nazionale di Ripresa e Resilienza[1] (PNRR; in ingleseNational Recovery and Resilience Plan, abbreviato in Recovery Plan[2] o NRRP[3]) è il piano approvato nel 2021 dall'Italia per rilanciarne l'economia dopo la pandemia di COVID-19, al fine di permettere lo sviluppo verde e digitale del Paese.[1]"
+25,Riduzione o eliminazione dell'IRAP,riduzione-o-eliminazione-dellirap,https://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive,"L'imposta regionale sulle attività produttive, nota anche con l'acronimoIRAP, è un'imposta istituita in Italia con il decreto legislativo 15 dicembre 1997, n. 446 e attualmente in vigore."
+26,Sostegno a piccole e medie imprese,sostegno-a-piccole-e-medie-imprese,https://it.wikipedia.org/wiki/Piccole_e_medie_imprese,"Le piccole e medie imprese o PMI sono aziende le cui dimensioni rientrano entro certi limiti occupazionali e finanziari 
+prefissati. Per questa ragione, e anche per le oggettive difficoltà di 
+attrarre capitali, Stati e Regioni di solito mettono in atto politiche di sostegno verso le 
+PMI."
+27,Riduzione delle bollette energetiche,riduzione-delle-bollette-energetiche,https://it.wikipedia.org/wiki/Bolletta,"Una bolletta è una fatturazione postale o elettronica di un contratto di fornitura di servizi. La tipologia giuridica di questi contratti è il contratto di somministrazione, che in origine e, propriamente ancora oggi, indicano la somministrazione 
+di servizi, da non confondere, dunque, con il contratto di somministrazione 
+di lavoro."
+28,Patrimoniale,patrimoniale,https://it.wikipedia.org/wiki/Imposta_patrimoniale,"L'imposta patrimoniale, talvolta anche indicata in ambito giornalistico come ""imposta o tassa sui 
+ricchi"",[1][2] è un'imposta sul patrimonio personale e generale delle persone fisiche."
+29,Aumento dell'assegno unico universale,aumento-dellassegno-unico-universale,https://it.wikipedia.org/wiki/Assegni_familiari,"Gli assegni familiari sono un contributo economico, concesso dallo Stato italiano, ai lavoratori per il coniuge e i figli dello stesso, a condizione che 
+questi non prestino alcuna attività lavorativa retribuita."
+30,Introduzione del conto unico fiscale,introduzione-del-conto-unico-fiscale,,
+31,Lotta all'evasione fiscale,lotta-allevasione-fiscale,https://it.wikipedia.org/wiki/Evasione_fiscale,"La locuzione evasione fiscale, nell'ambito della scienza delle finanze, indica tutti quei metodi volti a ridurre o eliminare il prelievo fiscale da parte di uno Stato sul cittadino o azienda contribuente attraverso la violazione di specifiche norme fiscali da parte di questi 
+ultimi. Costituisce di fatto un fenomeno deleterio all'interno della politica fiscale attuata da un governo e che contribuisce a far perdere allo Stato una parte non trascurabile 
+delle entrate a esso dovute (gettito fiscale), similmente all'elusione fiscale che persegue lo stesso fine con strategie legali o non normate."
+32,Agevolazioni ai giovani per i mutui,agevolazioni-ai-giovani-per-i-mutui,https://it.wikipedia.org/wiki/Mutuo#Mutui_per_la_casa,"Il mutuo è un contratto mediante il quale una parte, detta mutuante, consegna all'altra, detta mutuataria, in credito o prestito una somma di denaro o una quantità di beni fungibili, che l'altra parte si obbliga a restituire alla scadenza con altrettante cose della stessa specie, 
+qualità o valore. Un mutuo è generalmente utilizzato dal contraente per l'acquisto di beni o servizi: tipico è il mutuo bancario richiesto per la compravendita di beni immobili oppure ristrutturazioni di edifici o quello richiesto da un imprenditore per le sue attività aziendali (es. investimenti in ricerca e sviluppo, ampliamento ecc...)."
+33,Contributi ai giovani per gli affitti,contributi-ai-giovani-per-gli-affitti,https://it.wikipedia.org/wiki/Locazione,"La locazione, in diritto, costituisce il contratto con il quale una parte (detta locatore) si obbliga a permettere a un altro soggetto (conduttore o locatario) 
+l'utilizzo di una cosa per un dato tempo in cambio di un determinato 
+corrispettivo (la cosiddetta ""pigione"" o ""canone"")."
+34,"Abolizione della ""Buona Scuola""",abolizione-della-buona-scuola,https://it.wikipedia.org/wiki/Storia_dell%27istruzione_in_Italia#Riforma_%22Buona_Scuola%22,La storia dell'istruzione in Italia si riferisce all'evoluzione dell'istruzione scolastica in Italia a partire dal periodo medioevale fino ai giorni nostri.
+35,"Abolizione della ""legge Gelmini""",abolizione-della-legge-gelmini,https://it.wikipedia.org/wiki/Riforma_Gelmini,"Come riforma Gelmini[1][2][3] si indica comunemente l'insieme degli atti normativi della Repubblica Italiana – emanati durante il governo Berlusconi IV – durante la permanenza in carica del Ministro dell'istruzione, dell'università e della ricercaMariastella Gelmini, riguardanti il settore dell'istruzione in Italia."
+36,"Attuazione della ""riforma Cartabia""",attuazione-della-riforma-cartabia,https://it.wikipedia.org/wiki/Marta_Cartabia#Ministro_della_Giustizia,"Marta Maria Carla Cartabia (San Giorgio su Legnano, 14 maggio1963) è una giurista e accademicaitaliana, dal 13 febbraio 2021 ministro della giustizia nel governo Draghi."
+37,"Abrogazione della ""legge Fornero""",abrogazione-della-legge-fornero,https://it.wikipedia.org/wiki/Riforma_delle_pensioni_Fornero,"La riforma delle pensioni Fornero, chiamata anche semplicemente riforma Fornero o – impropriamente – legge Fornero, è il nome con cui viene comunemente indicato l'articolo 24 del decreto 
+legge 6 dicembre 2011, n. 201, intitolato ""Disposizioni in materia di trattamenti pensionistici"", che, su proposta del Ministro del lavoro e delle politiche socialiElsa Fornero, ha modificato il funzionamento del sistema pensionistico italiano."
+38,Alloggi popolari,alloggi-popolari,https://it.wikipedia.org/wiki/Istituto_Autonomo_Case_Popolari,"L'Istituto Autonomo Case Popolari (in sigla IACP) è un tipo di enteitaliano, avente lo scopo di promuovere, realizzare e gestire edilizia pubblica finalizzata all'assegnazione di abitazioni ai meno abbienti, segnatamente in locazione a canonicalmierati."
+39,Lotta alla mafia,lotta-alla-mafia,https://it.wikipedia.org/wiki/Mafia_in_Italia,"La mafia in Italia ha origini e tradizioni secolari e ha avuto un ruolo importante nella storia, prima, durante e dopo l'unità d'Italia."
+40,Lotta alla omotransfobia,lotta-alla-omotransfobia,https://it.wikipedia.org/wiki/Diritti_LGBT_in_Italia,"I diritti delle persone LGBT in Italia sono meno tutelati rispetto agli altri Paesi dell'Europa occidentale.[1][2][3][4][5] I cittadini italiani LGBT, infatti, affrontano ostacoli dal punto di vista legale non incontrati da 
+cittadini non-LGBT per quanto riguarda le adozioni e il riconoscimento del matrimonio egualitario, a causa della mancanza di specifiche norme nel Paese.[3][5]"
+41,Legge sul fine vita,legge-sul-fine-vita,https://it.wikipedia.org/wiki/Suicidio_assistito,Il suicidio assistito è l'aiuto medico e amministrativo portato a un soggetto che ha deciso di morire tramite suicidio.[1][2]
+42,Parità salariale,parit-salariale,https://it.wikipedia.org/wiki/Divario_retributivo_di_genere,"Il divario retributivo di genere è la differenza tra il salario annuale medio percepito dalle donne e 
+quello percepito dagli uomini. Esistono due diversi parametri che 
+rappresentano il divario retributivo di genere: il divario non rettificato 
+e quello rettificato. Quest'ultimo solitamente tiene conto nelle ore di 
+lavoro, occupazioni scelte, educazione scolastica ed esperienza lavorativa. 
+Per esempio secondo l'Eurostat, nel 2014 in Italia il divario retributivo di genere non rettificato 
+valeva il 43,7%, a fronte di una media —nell'UE— del 39,3%[1] . Ciò è dovuto sostanzialmente alla differenza del numero di ore 
+lavorative, le donne in media lavorano meno ore al giorno rispetto agli 
+uomini. Invece se si considera il parametro rettificato il divario 
+retributivo in Italia è pari al 5% a fronte di una media europea del 14,8%[2]. In Italia e in molti altri paesi dell'Unione è illegale pagare una donna 
+meno di una controparte maschile a parità di tempo impiegato."
+43,Ius scholae,ius-scholae,https://www.wired.it/article/ius-scholae-scuola-diritti-cittadinanza-stranieri/,
+44,Ius soli,ius-soli,https://it.wikipedia.org/wiki/Ius_soli,"Ius soli (in lingua latina «diritto del suolo») è un'espressione giuridica che indica l'acquisizione 
+della cittadinanza di un dato Paese come conseguenza del fatto giuridico di essere nati sul suo territorio, indipendentemente dalla cittadinanza 
+dei genitori.[1][2][3][4] Si contrappone allo ius sanguinis (o «diritto del sangue»), che indica invece la trasmissione alla prole 
+della cittadinanza del genitore, sulla base pertanto della discendenza e 
+non del luogo di nascita.[1][3][4]"
+45,Voto per i fuorisede,voto-per-i-fuorisede,,
+46,Diritto all'aborto,diritto-allaborto,https://it.wikipedia.org/wiki/Aborto,"L'aborto (dal latino abortus, derivato di aboriri, «perire», composto di ab, «via da», e oriri, «nascere») è l'interruzione della gravidanza prima della ventesima o ventiduesima settimana (cioè nel periodo in cui il 
+feto non è capace di vita extrauterina[1][2]), con conseguente espulsione del feto o dell'embrione dall'utero;[3] può avvenire spontaneamente, o essere procurato.[3]"
+47,Supporto alla maternità,supporto-alla-maternit,,
+48,Aumento degli asili nido,aumento-degli-asili-nido,https://it.wikipedia.org/wiki/Asilo_nido,"Con asilo nido oppure asilo (in Italia anche nido d'infanzia) si intende la struttura educativa destinata ai bambini di età compresa 
+fra tre mesi e tre anni, che precede l'ingresso alla scuola dell'infanzia (chiamata anche scuola materna)."
+49,Congedo di paternità,congedo-di-paternit,https://it.wikipedia.org/wiki/Congedo_parentale,"Il congedo parentale è un periodo di astensione dal lavoro di un genitore. La legge disciplina i tempi e le modalità di astensione, che per alcuni 
+periodi può essere retribuita. La sua funzione è quella di consentire la 
+presenza del genitore accanto al bambino al fine di soddisfare i bisogni 
+affettivi e relazionali del minore."
+50,Matrimonio egualitario,matrimonio-egualitario,https://it.wikipedia.org/wiki/Matrimonio_tra_persone_dello_stesso_sesso,"In vari Paesi il matrimonio è aperto alle coppie formate da persone dello stesso sesso. All'eventuale 
+identicità di sesso di chi contrae matrimonio ci si riferisce comunemente 
+parlando di matrimonio tra persone dello stesso sesso, matrimonio omosessuale o matrimonio gay."
+51,Legalizzazione della cannabis,legalizzazione-della-cannabis,https://it.wikipedia.org/wiki/Legalit%C3%A0_della_cannabis,Questa lista è suscettibile di variazioni e potrebbe non essere completa o aggiornata.
+52,Educazione sessuale,educazione-sessuale,https://it.wikipedia.org/wiki/Educazione_sessuale,"L'educazione sessuale è un termine generale che comprende vari temi e varie discipline connessi 
+all'educazione, in modo particolare il rapporto tra i ragazzi e i coetanei (e anche con 
+gli adulti) in periodo di maturazione sessuale, l'anatomia e la fisiologia dell'apparato genitale, i cambiamenti che avvengono durante la pubertà, la psicologia, le problematiche di tipo morale, la conoscenza delle abitudini legate all'ambiente di provenienza dei 
+ragazzi oggetto di educazione, le curiosità dei ragazzi stessi (che 
+abbracciano tutti gli aspetti del comportamento sessuale umano)."
+53,Ponte sullo Stretto,ponte-sullo-stretto,https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina,"Il ponte sullo stretto di Messina è un'opera futuribile di cui si parla da tempo, oggetto di accesi 
+dibattiti relativi a costi, utilità e fattibilità tecnica, proposta con una 
+serie di variegati progetti di ingegneria civile, approntati in tempi diversi e con soluzioni differenti, per realizzare un 
+attraversamento stradale e ferroviario stabile dello stretto di Messina, nel quale è attualmente necessario il traghettamento dei mezzi, e 
+collegare la Sicilia con la Calabria, la penisola italiana e il continente europeo."
+54,Realizzazione delle grandi opere,realizzazione-delle-grandi-opere,,
+55,Lavoro agile,lavoro-agile,https://it.wikipedia.org/wiki/Lavoro_agile,"Il lavoro agile[2][3], anche detto lavoro da remoto, lavoro da casa o più generalmente lavoro a distanza, è una forma di telelavoro definito nell'ordinamento italiano[4] come:"
+56,Made in Italy,made-in-italy,https://it.wikipedia.org/wiki/Made_in_Italy,"Made in Italy è un'indicazione di provenienza che indica l'origine di un bene in base 
+alle disposizioni comunitarie in materia di origine non preferenziale di un 
+prodotto ed in questo caso riferite ai prodotti che hanno origine in Italia.[1]"
+57,Più risorse ai piccoli comuni,pi-risorse-ai-piccoli-comuni,,
+58,Difesa comune europea,difesa-comune-europea,https://it.wikipedia.org/wiki/Politica_di_sicurezza_e_di_difesa_comune,"La Politica di sicurezza e di difesa comune (acronimo PSDC) è una delle parti più importanti della Politica estera e di sicurezza comune (PESC), ossia l'ex ""secondo pilastro"" dell'Unione europea (i pilastri sono stati aboliti dal Trattato di Lisbona). Con lo stesso Trattato di Lisbona la PESD ha cambiato nome in PSDC 
+ovverosia Politica di Sicurezza e Difesa Comune (Art.42 TUE). In 
+particolare l'articolo 42 al punto 7 contiene una clausola di mutua difesa 
+che obbliga tutti gli stati UE ad intervenire in solido in caso di 
+necessità."
+59,Aumento del numero di medici,aumento-del-numero-di-medici,https://it.wikipedia.org/wiki/Medico_di_famiglia,"Il medico di famiglia, formalmente medico di medicina generale (MMG) o medico di assistenza primaria (MAP), in riferimento al ruolo all'interno del servizio sanitario nazionale italiano, è un medico che fornisce assistenza sanitaria sul territorio rivestendo il ruolo di medico curante."
+60,Aumento dello stipendio dei docenti,aumento-dello-stipendio-dei-docenti,https://it.wikipedia.org/wiki/Docente,"Un docente (dal latino docēre, insegnare) o insegnante, è un professionista nel campo dell'istruzione in strutture apposite come scuole e università. Il 5 ottobre di ogni anno, a partire dal 1994, si celebra la ""Giornata mondiale degli insegnanti""."
+61,Contributi per l'edilizia scolastica,contributi-per-ledilizia-scolastica,https://it.wikipedia.org/wiki/Edilizia_scolastica,"Si definisce edilizia scolastica l'attività di costruzione di edifici destinati esclusivamente all'uso 
+scolastico. Gli edifici sono definiti per ordine di studio e per età degli 
+alunni. Dopo la cosiddetta riforma Gelmini si distingue quindi un'edilizia scolastica per l'infanzia, per la scuola primaria, e per la scuola superiore di primo e di secondo grado."
+62,Apprendistato retribuito,apprendistato-retribuito,https://it.wikipedia.org/wiki/Apprendistato,"Per apprendistato si intende generalmente un percorso di apprendimento relativo ad un 
+settore economico-professionale, finalizzato all'acquisizione di 
+qualificazioni o di crediti professionali e caratterizzato da periodi 
+svolti in contesto di lavoro, di durata significativa, e da periodi svolti 
+presso istituzioni formative o scolastiche. L'apprendista, a partire da un limite d'età generalmente corrispondente a quella 
+prevista per l'assolvimento dell'obbligo scolastico, appartenente a diverse fasce d'età a seconda della tipologia di 
+apprendistato, svolge le attività in contesto lavorativo prevalentemente 
+con lo status di lavoratore, sulla base di un contratto. Nel processo di apprendimento sul lavoro l’apprendista è seguito da una figura tutoriale."
+63,Green pass,green-pass,https://it.wikipedia.org/wiki/Certificato_COVID_digitale_dell%27UE,"Il Certificato COVID digitale dell'UE[1][2] (in inglese: EU Digital COVID Certificate, EUDCC; in francese: Certificat COVID numérique de l’UE[3]), comunemente noto in Italia anche con lo pseudoanglicismoGreen Pass, è un certificato interoperabile all'interno dell'Unione europea, contenente le informazioni che attestano che il titolare è stato vaccinato contro la COVID-19, o ha da poco effettuato un test diagnostico per SARS-CoV-2 con risultato negativo, oppure è guarito dalla COVID-19.[1]"
+64,Obbligo vaccinale,obbligo-vaccinale,https://it.wikipedia.org/wiki/Vaccinazioni_obbligatorie,In Europa è diffusa la pratica di rendere obbligatorie alcune vaccinazioni.[1]
+65,Eliminazione del precariato,eliminazione-del-precariato,https://it.wikipedia.org/wiki/Precariato,"Con il termine precariato si intende l'insieme dei soggetti lavoratori che vivono una generale condizione lavorativa di incertezza che si 
+protrae, involontariamente, per molto tempo. Viene da precario (colui che deve pregare qualcuno per ottenere qualcosa), un contratto 
+agrario otto-novecentesco, «consistente nella concessione di un immobile a titolo provvisorio, col 
+godimento dell'usufrutto» [1]."
+66,Aumento dell'assegno sociale per gli invalidi,aumento-dellassegno-sociale-per-gli-invalidi,https://it.wikipedia.org/wiki/Assegno_ordinario_di_invalidit%C3%A0,"L'assegno ordinario di invalidità è una prestazione economica erogata dalla Repubblica Italiana, erogabile a domanda, ai lavoratori dipendenti assicurati presso l'INPS affetti da infermità o difetto fisico o mentale che abbiano ridotto in 
+modo permanente la loro capacità di lavoro, in attività confacenti le 
+proprie attitudini, in misura superiore ai due terzi."
+67,Alternanza scuola-lavoro,alternanza-scuolalavoro,https://it.wikipedia.org/wiki/PCTO_-_Percorsi_per_le_Competenze_Trasversali_e_per_l%27Orientamento,"I PCTO (Percorsi per le Competenze Trasversali e per l'Orientamento) sono progetti di carattere curricolare[1], che permettono agli studenti di integrare la tradizionale formazione d'aula con periodi formativi presso imprese o enti privati o pubblici 
+convenzionati, ma anche nei laboratori della scuola o in ambienti di 
+simulazione[2]. Per quanto riguarda le attività esterne, le norme prevedono la tutela 
+della salute e sicurezza ed escludono esplicitamente che tali attività si possano configurare come lavoro[3]."
+68,Obbligo scolastico fino a 18 anni,obbligo-scolastico-fino-a-18-anni,https://it.wikipedia.org/wiki/Obbligo_formativo_in_Italia,"L'obbligo formativo[1]in Italia, ridefinito come diritto-dovere[2], si riferisce, in generale, alla fruizione di un diritto e 
+all’assolvimento di un dovere in tema di istruzione e formazione[3] fino a diciotto anni, con il conseguimento di un titolo di scuola secondaria di secondo grado o di una qualifica professionale almeno triennale. Il completamento del secondo ciclo rappresenta la 
+finalità dell’obbligo scolastico - obbligo d'istruzione, che prevede l’obbligatorietà dell'istruzione e formazione per almeno 10 
+anni di frequenza, fino al compimento dei sedici anni[4], età minima per l'accesso al lavoro. Oltre alla frequenza di una 
+istituzione scolastica o formativa, si prevede che l'istruzione possa 
+essere ""parentale""[5], su richiesta documentata della famiglia."
+69,Didattica a distanza,didattica-a-distanza,https://it.wikipedia.org/wiki/Didattica_a_distanza,"La didattica a distanza (anche indicata con gli acronimiDAD, Dad o DaD) è una forma di didattica che avviene senza la presenza degli insegnanti e degli studenti in aula, 
+avvalendosi di strumenti elettronici o online. L'espressione si contrappone a didattica in presenza, che è invece caratterizzata dalla presenza fisica degli studenti e degli 
+insegnanti in aula."
+70,Autonomia differenziata,autonomia-differenziata,https://temi.camera.it/leg18/temi/tl18_lautonomia_differenziata_delle_regioni_a_statuto_ordinario.html,
+71,Sostegno psicologico scolastico,sostegno-psicologico-scolastico,https://it.wikipedia.org/wiki/Psicologo,"Lo psicologo è un professionista sanitario che svolge attività di prevenzione, diagnosi, intervento, promozione della salute, abilitazione-riabilitazione, sostegno e consulenza in ambito psicologico, rivolte al singolo individuo, alla coppia, al gruppo e altri organismi 
+sociali o comunità[1][2]."
+72,Investimenti per la formazione dei docenti,investimenti-per-la-formazione-dei-docenti,https://it.wikipedia.org/wiki/Docente_in_Italia,"Un docente in Italia è un docente nel campo dell'istruzione che opera all'interno della scuola italiana e dell'università italiana, in possesso di requisiti e preparazione differenti, a seconda degli 
+ordini e delle rispettive normative."
+73,Investimenti per le politiche sportive,investimenti-per-le-politiche-sportive,https://www.miur.gov.it/politiche-sportive-scolastiche,
+74,Sostegno ai disabili nelle scuole,sostegno-ai-disabili-nelle-scuole,https://it.wikipedia.org/wiki/Integrazione_scolastica,"L'integrazione scolastica si ottiene attraverso l'affiancamento di un operatore qualificato 
+nell'ambiente scolastico alla persona con disabilità, e la programmazione di un'attività scolastica specifica tale da 
+permetterle l'apprendimento e soprattutto la relazione nell'ambiente scolastico e sociale."
+75,Sostegno per gli universitari fuorisede,sostegno-per-gli-universitari-fuorisede,,
+76,Aiutare i giovani laureati a rimanere in Italia,aiutare-i-giovani-laureati-a-rimanere-in-italia,https://it.wikipedia.org/wiki/Laurea,"La laurea (formalmente anche diploma di laurea) è un titolo di studio universitario rilasciato da un istituto di istruzione superiore, generalmente un'università, dopo aver frequentato dei corsi della durata di 3 anni."
+77,Mense scolastiche gratuite,mense-scolastiche-gratuite,https://it.wikipedia.org/wiki/Mensa_(pubblico_esercizio),"Una mensa è un'area in cui vengono serviti e/o consumati i pasti collettivamente.[1] Le mense possono essere esercizi pubblici dotati di un servizio di self-service, oppure aree riservate al personale di un'azienda, di una scuola, di un 
+ospedale e di altri tipi di servizi.[2][3] La mensa si distingue dal ristorante in quanto, a differenza di quest'ultimo, il costo del servizio è 
+solitamente a carico dell'azienda di appartenenza.[2]"
+78,No al dumping sociale dei lavoratori,no-al-dumping-sociale-dei-lavoratori,https://it.wikipedia.org/wiki/Dumping,"Il dumping (""scaricare"") è un anglicismo, utilizzato nel settore dell'economia, che definisce la politica 
+commerciale predatoria consistente nella procedura di vendita di un bene o 
+servizio su di un mercato estero a un prezzo inferiore rispetto a quello di 
+vendita o produzione del medesimo prodotto sul mercato di origine al fine 
+di conquistare un nuovo mercato[1][2]."
+79,Favorire la creazione delle comunità energetiche,favorire-la-creazione-delle-comunit-energetiche,https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile,"Una comunità di energia rinnovabile (CER; in ingleseRenewable Energy Community, abbreviato REC), anche detta comunità energetica rinnovabile o semplicemente comunità energetica, è un gruppo di soggetti che si organizzano per produrre e condividere 
+localmente l'energia prodotta da fonti rinnovabili."
+80,Libri di testo gratuiti,libri-di-testo-gratuiti,https://it.wikipedia.org/wiki/Libro_di_testo,"Il libro di testo è un particolare libro usato per fini didattici all'interno delle scuole e 
+delle università."
+81,Più meritocrazia a scuola e nei concorsi,pi-meritocrazia-a-scuola-e-nei-concorsi,https://it.wikipedia.org/wiki/Meritocrazia,La meritocrazia (neologismo coniato dal sociologo britannico Michael Young nel romanzo distopicoL'avvento della meritocrazia del 1958) è un concetto usato in origine per indicare una forma di governodistopica di estrema disuguaglianza economica e sociale nella quale la posizione sociale di un individuo viene determinata dal suo quoziente intellettivo e dalla sua attitudine al lavoro.[1][2]
+82,Promozione degli Istituti tecnici superiori,promozione-degli-istituti-tecnici-superiori,https://www.miur.gov.it/tematica-its,
+83,Promozione della parità di genere,promozione-della-parit-di-genere,https://it.wikipedia.org/wiki/Uguaglianza_di_genere,"L'uguaglianza di genere, conosciuta anche come parità tra i sessi, parità di genere, uguaglianza sessuale o uguaglianza dei generi, è una condizione nella quale le persone ricevono pari trattamenti, con uguale facilità di accesso a risorse e opportunità, indipendentemente 
+dal genere, a meno che non ci sia una valida ragione biologica per un trattamento diverso[1]."
+84,Promozione della sicurezza sul lavoro,promozione-della-sicurezza-sul-lavoro,https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro,
+85,Integrazione tra università e aziende,integrazione-tra-universit-e-aziende,,
+86,Scuola infanzia gratuita,scuola-infanzia-gratuita,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia,La scuola dell'infanzia (nota anche e in passato unicamente come scuola materna) consiste in Italia nel percorso pre-scolastico rivolto ai bambini dai tre ai sei anni d'età.
+87,Trasporto scolastico gratuito,trasporto-scolastico-gratuito,https://it.wikipedia.org/wiki/Scuolabus,"Lo scuolabus è un veicolo destinato al trasporto degli studenti delle scuole primarie sia di primo grado e che di secondo grado. Negli Stati Uniti D'America lo scuolabus può trasportare qualsiasi tipo di studente scolastico o 
+studente di scuola in tutte quante le scuole americane."
+88,Sostegno ai meno abbienti e incapienti,sostegno-ai-meno-abbienti-e-incapienti,,
+89,Sviluppo dei servizi sanitari di prossimità,sviluppo-dei-servizi-sanitari-di-prossimit,https://it.wikipedia.org/wiki/Azienda_sanitaria_locale,"Un'azienda sanitaria locale (abbreviato ASL) o azienda unità sanitaria locale (AUSL) è un ente pubblico della pubblica amministrazione italiana, deputato all'erogazione di servizi sanitari in un determinato territorio, 
+di solito provinciale. In singole regioni assume diverse denominazioni 
+(ASP, ASM, ATS)."
+90,Tutela dell'ambiente e del paesaggio,tutela-dellambiente-e-del-paesaggio,,
+91,Favorire il riscatto della laurea,favorire-il-riscatto-della-laurea,https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati,
+92,Sostegno alla scuola paritaria,sostegno-alla-scuola-paritaria,https://it.wikipedia.org/wiki/Scuola_privata,"Per scuola privata si intende una scuola non amministrata dallo Stato. Queste hanno totale libertà circa materie e insegnanti, nel caso in cui 
+siano scuole solamente private e non paritarie. Una scuola paritaria, essendo pubblica, sebbene la gestione non sia di competenza dello Stato, 
+può rilasciare i medesimi titoli della scuola statale, le scuole paritarie 
+devono impiegare docenti abilitati e seguire gli stessi programmi della 
+scuola statale. Le rette pagate dagli studenti costituiscono fondi 
+necessari all'ordinaria gestione della scuola, potrebbero però esserci 
+scuole paritarie senza scopo di lucro.[1]"
+93,Scuola dell'infanzia obbligatoria,scuola-dellinfanzia-obbligatoria,https://it.wikipedia.org/wiki/Scuola_dell%27infanzia,La scuola dell'infanzia (nota anche e in passato unicamente come scuola materna) consiste in Italia nel percorso pre-scolastico rivolto ai bambini dai tre ai sei anni d'età.
+94,Più attività extrascolastiche,pi-attivit-extrascolastiche,,
+95,Abolizione del numero chiuso all'università,abolizione-del-numero-chiuso-alluniversit,https://it.wikipedia.org/wiki/Universit%C3%A0_in_Italia#Accesso_ai_corsi,"Le università in Italia sono enti che hanno il compito di promuovere la ricerca, il progresso delle scienze e l'istruzione di livello superiore. Possono essere enti pubblici o di diritto privato: nel primo caso fanno parte della pubblica amministrazione italiana."
+96,Ripristino dell'articolo 18,ripristino-dellarticolo-18,https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori,"L'articolo 18 dello statuto dei lavoratori è un articolo della legge 20 maggio 1970, n. 300 della Repubblica Italiana (meglio conosciuta come statuto dei lavoratori)."
+97,Fine del segreto di Stato sulle stragi,fine-del-segreto-di-stato-sulle-stragi,https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia),"Il segreto di Stato, secondo la normativa italiana, è distinto in quattro possibili livelli di 
+classificazione dei documenti (cartacei o informatici): riservato, 
+riservatissimo, segreto, segretissimo. L'originatore provvede ad apporre la 
+stampigliatura o la sigla del documento, indicante il relativo livello di 
+sicurezza e di segretezza."
+98,Tutela del benessere animale,tutela-del-benessere-animale,,
+99,Commissione di inchiesta sulla Covid-19,commissione-di-inchiesta-sulla-covid19,https://it.wikipedia.org/wiki/COVID-19,"La COVID-19,[2] acronimo dell'ingleseCOronaVIrus Disease 19, conosciuta anche come malattia respiratoria acuta da SARS-CoV-2 o malattia da coronavirus 2019, è una malattia infettiva respiratoria causata dal virus denominato SARS-CoV-2 appartenente alla famiglia dei coronavirus."
+100,Lotta alla corruzione,lotta-alla-corruzione,https://it.wikipedia.org/wiki/Corruzione,"La corruzione indica, in senso generico fisico-biologico un processo di degenerazione e decomposizione[1]."
+101,Aumento delle spese militari,aumento-delle-spese-militari,https://it.wikipedia.org/wiki/Spesa_per_la_difesa_in_Italia,La spesa per la difesa in Italia indica la spesa per la difesa per le forze armate italiane.
+102,Leva militare obbligatoria,leva-militare-obbligatoria,https://it.wikipedia.org/wiki/Servizio_militare_di_leva_in_Italia,"Il servizio militare di leva in Italia (formalmente coscrizione obbligatoria di una classe, popolarmente naja) indica, in Italia, il servizio militare obbligatorio."
+103,Condoni fiscali o edilizi,condoni-fiscali-o-edilizi,https://it.wikipedia.org/wiki/Condono,"Il condono, in diritto, è un provvedimento emanato dal legislatore o dal governo, tramite il quale i cittadini che vi aderiscono possono ottenere 
+l'annullamento, totale o parziale, di una pena o di una sanzione (es. condono fiscale/tributario, condono edilizio ecc...)."
+104,Sostegno alle imprese turistiche,sostegno-alle-imprese-turistiche,,
+105,Riforma del sistema penitenziario,riforma-del-sistema-penitenziario,https://it.wikipedia.org/wiki/Ordinamento_penitenziario_italiano,"L'ordinamento penitenziario italiano, noto anche come OP, è l'insieme delle norme che regolamentano gli istituti di reclusione e la loro organizzazione."
+106,Ripristino dei decreti Sicurezza,ripristino-dei-decreti-sicurezza,,
+107,Riforma del sistema di accoglienza,riforma-del-sistema-di-accoglienza,https://it.wikipedia.org/wiki/Immigrazione_in_Italia,"L'immigrazione in Italia cominciò a raggiungere dimensioni significative all'incirca dagli anni 1970, per poi diventare un fenomeno caratterizzante della demografia italiana nei primi anni del terzo millennio[1]."
+108,Blocco navale,blocco-navale,https://it.wikipedia.org/wiki/Blocco_navale,"Il blocco navale è un'azione militare finalizzata a impedire l'accesso e l'uscita di navi dai porti di un Paese o di un territorio. Dopo la creazione delle Nazioni Unite è stato disciplinato dal diritto internazionale, in particolare dall'articolo 42 dello statuto delle Nazioni Unite e non è consentito al di fuori dei casi di legittima difesa ovvero consentito solo in caso di stato di guerra tra due o più stati."
+109,Contrasto alle baby gang,contrasto-alle-baby-gang,https://it.wikipedia.org/wiki/Baby_gang,"Con baby gang o banda giovanile si intende un fenomeno di microcriminalitàorganizzata, generalmente diffuso nei contesti urbani, per il quale minorenni assumono 
+comportamenti devianti ai danni di cose o persone.[1]"
+110,Investimenti in cybersicurezza,investimenti-in-cybersicurezza,https://it.wikipedia.org/wiki/Sicurezza_informatica,"La sicurezza informatica (in inglesecomputer security), è l'insieme dei mezzi, delle tecnologie e delle procedure tesi alla 
+protezione dei sistemi informatici in termini di disponibilità, confidenzialità e integrità dei beni o asset informatici."
+111,Maggiore inclusione per gli immigrati regolari,maggiore-inclusione-per-gli-immigrati-regolari,https://it.wikipedia.org/wiki/Modelli_di_integrazione,"I modelli di integrazione sono costrutti teorici elaborati con lo scopo di gestire le problematiche 
+di integrazione dei migranti nella società d'accoglienza."
+112,Creazione di hot-spot fuori dall'Ue,creazione-di-hotspot-fuori-dallue,https://it.wikipedia.org/wiki/Convenzioni_sui_profughi#Il_metodo_%E2%80%9Chotspot%E2%80%9D[4],"Nel diritto internazionale esistono ancora gravi lacune riguardanti il tema dei rifugiati e lo 
+svolgimento delle procedure da attuare nei casi di domanda di asilo e di 
+protezione internazionale. Si tratta di una problematica sempre più viva e 
+pressante che coinvolge tutti i paesi del mondo, in particolar modo quelli 
+dell’Unione europea che sono da sempre interessati dai maggiori flussi di migrazione. Una 
+prima consapevolezza si è presa dopo la seconda guerra mondiale e da quel momento in tutti gli Stati membri si sono avviate procedure ben 
+organizzate e sicure a favore sia dei profughi che degli Stati stessi. Allo 
+stesso tempo sono state approvate convenzioni che hanno reso possibile disciplinare meglio la materia in esame."
+113,"Abolizione della legge ""Bossi-Fini""",abolizione-della-legge-bossifini,https://it.wikipedia.org/wiki/Legge_Bossi-Fini,"La legge 30 luglio 2002, n. 189, meglio nota come legge Bossi-Fini, è una normativa della Repubblica Italiana che disciplina l'immigrazione, detta così dai primi firmatari Gianfranco Fini e Umberto Bossi che nel governo Berlusconi II ricoprivano rispettivamente le cariche di vicepresidente del Consiglio dei 
+ministri e di ministro per le Riforme istituzionali e la Devoluzione."
+114,Allargamento dei corridoi umanitari,allargamento-dei-corridoi-umanitari,,
+115,Riforma dei trattati Ue sull'immigrazione,riforma-dei-trattati-ue-sullimmigrazione,https://it.wikipedia.org/wiki/Convenzione_di_Dublino,"La Convenzione sulla determinazione dello stato competente per l'esame di una 
+domanda di asilo presentata in uno degli stati membri della Comunità Europea, comunemente conosciuta come Convenzione di Dublino[1], è un trattato internazionale multilaterale in tema di diritto di asilo."
+116,Riforma del Patto di stabilità e crescita,riforma-del-patto-di-stabilit-e-crescita,https://it.wikipedia.org/wiki/Patto_di_stabilit%C3%A0_e_crescita,"Il patto di stabilità e crescita (PSC) è un accordo internazionale, stipulato e sottoscritto nel 1997 dagli Stati membri dell'Unione europea, inerente al controllo delle rispettive politiche di bilancio pubbliche, al fine di mantenere fermi i requisiti di adesione all'Unione economica e monetaria dell'Unione europea (Eurozona) ovvero rafforzare il percorso d'integrazione monetaria intrapreso nel 1992 con la sottoscrizione del trattato di Maastricht.[1] Le regole di applicazione del PSC sono state modificate nel 2011 con 
+l'adozione del c.d. Six Pack e l'introduzione del semestre europeo."
+117,Accordi di cooperazione con Paesi d'origine,accordi-di-cooperazione-con-paesi-dorigine,,
+118,Maggiori risorse alla cooperazione per lo sviluppo,maggiori-risorse-alla-cooperazione-per-lo-sviluppo,,
+119,Elezione diretta del presidente del Consiglio,elezione-diretta-del-presidente-del-consiglio,https://it.wikipedia.org/wiki/Premierato,"Col termine premierato (dal francesepremier, ""primo"", qui nel senso di primo ministro) si indicano nel linguaggio politico varianti della forma di governo parlamentare dai contorni non sempre ben definiti."
+120,Riforma della legge elettorale,riforma-della-legge-elettorale,https://it.wikipedia.org/wiki/Sistema_elettorale_in_Italia,"Il sistema elettorale italiano è l'insieme delle regole con cui, sulla base dei voti espressi dai cittadini italiani durante le elezioni, sono assegnati i seggi all'interno degli organi politico-istituzionali 
+locali, nazionali ed europei. La situazione è articolata e differenziata a 
+seconda delle varie categorie di votazione previste dall'ordinamento politico italiano:"
+121,Digitalizzazione della giustizia,digitalizzazione-della-giustizia,,
+122,Minore durata dei processi,minore-durata-dei-processi,https://it.wikipedia.org/wiki/Processo_(diritto),"Il processo (talvolta indicato come giudizio), in diritto, è il procedimento attraverso il quale viene esercitata la funzione giurisdizionale, e si conclude con una sentenza. Talvolta viene usato anche il termine procedimento che, a rigore, si riferisce a un concetto più ampio, essendo il processo 
+un particolare tipo di procedimento."
+123,Maggiore ricorso alla depenalizzazione,maggiore-ricorso-alla-depenalizzazione,https://it.wikipedia.org/wiki/Depenalizzazione,"La depenalizzazione, nel gergo giuridico italiano, consiste nel trasformare illeciti penali in illeciti amministrativi."
+124,Riforma delle professioni penitenziarie,riforma-delle-professioni-penitenziarie,,
+125,Investimenti nell'edilizia per la giustizia,investimenti-nelledilizia-per-la-giustizia,,
+126,Separazione delle carriere dei Magistrati,separazione-delle-carriere-dei-magistrati,,
+127,Riforma della giustizia civile e penale,riforma-della-giustizia-civile-e-penale,,
+128,Riforma della giustizia tributaria,riforma-della-giustizia-tributaria,https://it.wikipedia.org/wiki/Giustizia_tributaria,Col termine giustizia tributaria si fa riferimento nel diritto tributario all'insieme di mezzi che l'ordinamento giuridico predispone a tutela delle situazioni giuridiche dei soggetti nei confronti delle pubbliche amministrazioni impositrici di prestazioni tributarie.
+129,"Modifica della legge ""Severino""",modifica-della-legge-severino,https://it.wikipedia.org/wiki/Legge_Severino,"La legge 6 novembre 2012, n. 190 (nota anche come legge Severino dal nome del Ministro della giustizia del governo Monti, Paola Severino) è una legge della Repubblica Italiana in tema di prevenzione e repressione della corruzione."
+130,Revisione della riforma del CSM,revisione-della-riforma-del-csm,https://it.wikipedia.org/wiki/Consiglio_superiore_della_magistratura,"Il Consiglio superiore della magistratura[1] (CSM) è un organo di rilievo costituzionale[2] dell'ordinamento politico italiano, di governo autonomo della magistratura italiana ordinaria."
+131,Riforma della custodia cautelare,riforma-della-custodia-cautelare,https://it.wikipedia.org/wiki/Custodia_cautelare_in_carcere,"La custodia cautelare in carcere è una misura cautelare personale, coercitiva e custodiale, prevista e disciplinata dall'art. 285 codice di procedura penale.[1]"
+132,Riduzione del sovraffolamento carcerario,riduzione-del-sovraffolamento-carcerario,https://en.wikipedia.org/wiki/Prison_overcrowding,"Prison overcrowding is a social phenomenon occurring when the demand for space in prisons in a jurisdiction exceeds the capacity for prisoners.[1] The issues associated with prison overcrowding are not new, and have been 
+brewing for many years. During the United States' War on Drugs, the states were left responsible for solving the prison overcrowding 
+issue with a limited amount of money.[2] Moreover, federal prison populations may increase if states adhere to 
+federal policies, such as mandatory minimum sentences.[2] On the other hand, the Justice Department provides billions of dollars a 
+year for state and local law enforcement to ensure they follow the policies 
+set forth by the federal government concerning U.S. prisons.[2] Prison overcrowding has affected some states more than others, but 
+overall, the risks of overcrowding are substantial and there are solutions 
+to this problem."
+133,Eliminazione della prescrizione,eliminazione-della-prescrizione,https://it.wikipedia.org/wiki/Prescrizione_(ordinamento_civile_italiano),"La prescrizione nell'ordinamento civileitaliano indica l'estinzione di un diritto conseguente al suo mancato esercizio per 
+un determinato periodo di tempo."
+134,Responsabilità civile dei magistrati,responsabilit-civile-dei-magistrati,https://it.wikipedia.org/wiki/Procedimenti_riguardanti_i_magistrati_italiani,"I procedimenti riguardanti i magistrati italiani sono dei procedimenti previsti dall'ordinamento giudiziario italiano, al 
+fine di evitare potenziali situazioni di conflitto di interesse."
