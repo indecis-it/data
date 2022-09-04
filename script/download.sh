@@ -31,4 +31,4 @@ curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v
 echo "wide.csv downloaded"
 
 curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vRY42hEclKzUGEN3YfhZ_v_x2EiVC-kxjtiLBJR_Gm2zmLqftenCTQqK7lwnEat1CyhBbec2r0czvsb/pub?gid=905787669&single=true&output=csv" > data/pagella_politica.csv
-echo "pagella_politica.csv downloaded"
+echo "press.csv downloaded"
