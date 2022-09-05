@@ -7,8 +7,8 @@
   "list_id": 1,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Giorgia_Meloni_2018.jpg/800px-Giorgia_Meloni_2018.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Giorgia_Meloni"
-},
-{
+}
+,{
   "id": 2,
   "name": "Matteo",
   "surname": "Salvini",
@@ -16,8 +16,8 @@
   "list_id": 2,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Matteo_Salvini_Viminale.jpg/800px-Matteo_Salvini_Viminale.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Matteo_Salvini"
-},
-{
+}
+,{
   "id": 3,
   "name": "Silvio",
   "surname": "Berlusconi",
@@ -25,8 +25,8 @@
   "list_id": 3,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Silvio_Berlusconi_May_2019.jpg/800px-Silvio_Berlusconi_May_2019.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Silvio_Berlusconi"
-},
-{
+}
+,{
   "id": 4,
   "name": "Enrico",
   "surname": "Letta",
@@ -34,8 +34,8 @@
   "list_id": 5,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Enrico_Letta_2022_%28cropped%29.jpg/800px-Enrico_Letta_2022_%28cropped%29.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Enrico_Letta"
-},
-{
+}
+,{
   "id": 5,
   "name": "Angelo",
   "surname": "Bonelli",
@@ -43,8 +43,8 @@
   "list_id": 6,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Angelo_Bonelli_%282006%29.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Angelo_Bonelli"
-},
-{
+}
+,{
   "id": 6,
   "name": "Emma",
   "surname": "Bonino",
@@ -52,8 +52,8 @@
   "list_id": 7,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emma_Bonino_2017_crop.jpg/800px-Emma_Bonino_2017_crop.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Emma_Bonino"
-},
-{
+}
+,{
   "id": 7,
   "name": "Luigi",
   "surname": "Di Maio",
@@ -61,8 +61,8 @@
   "list_id": 8,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Luigi_Di_Maio_2021_%28cropped%29.jpg/800px-Luigi_Di_Maio_2021_%28cropped%29.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Luigi_Di_Maio"
-},
-{
+}
+,{
   "id": 8,
   "name": "Giuseppe",
   "surname": "Conte",
@@ -70,8 +70,8 @@
   "list_id": 9,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/6/60/Giuseppe_Conte_-_Foto.jpeg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte"
-},
-{
+}
+,{
   "id": 9,
   "name": "Carlo",
   "surname": "Calenda",
@@ -79,8 +79,8 @@
   "list_id": 10,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Calenda-photos2_%28cropped%29.jpg/800px-Calenda-photos2_%28cropped%29.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Carlo_Calenda"
-},
-{
+}
+,{
   "id": 10,
   "name": "Maurizio Enzo",
   "surname": "Lupi",
@@ -88,8 +88,8 @@
   "list_id": 4,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/2/21/Maurizio_Lupi_Official.jpeg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Maurizio_Enzo_Lupi"
-},
-{
+}
+,{
   "id": 11,
   "name": "Mario",
   "surname": "Adinolfi",
@@ -97,8 +97,8 @@
   "list_id": 15,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mario_Adinolfi.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Mario_Adinolfi"
-},
-{
+}
+,{
   "id": 12,
   "name": "Raffaele",
   "surname": "Fantetti",
@@ -106,8 +106,8 @@
   "list_id": 16,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raffaele_Fantetti_datisenato_2018.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Raffaele_Fantetti"
-},
-{
+}
+,{
   "id": 13,
   "name": "Gianluigi",
   "surname": "Paragone",
@@ -115,8 +115,8 @@
   "list_id": 11,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gianluigi_Paragone_datisenato_2018.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Gianluigi_Paragone"
-},
-{
+}
+,{
   "id": 14,
   "name": "Giovanna",
   "surname": "Colone",
@@ -124,8 +124,8 @@
   "list_id": 12,
   "profile_pic": "",
   "wikipedia_url": ""
-},
-{
+}
+,{
   "id": 15,
   "name": "Luigi",
   "surname": "de Magistris",
@@ -133,8 +133,8 @@
   "list_id": 13,
   "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/1/11/Luigi_de_Magistris_%28cropped%29.jpg",
   "wikipedia_url": "https://it.wikipedia.org/wiki/Luigi_de_Magistris"
-},
-{
+}
+,{
   "id": 16,
   "name": "Sara",
   "surname": "Cunial",

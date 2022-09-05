@@ -10,8 +10,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 2,
   "post_id": 2,
   "url": "https://pagellapolitica.it/articoli/promesse-2022-berlusconi-alberi",
@@ -22,8 +22,8 @@
   "list": "Forza Italia",
   "subject_id": 90,
   "list_id": 3
-},
-{
+}
+,{
   "id": 3,
   "post_id": 3,
   "url": "https://pagellapolitica.it/articoli/vecchi-programmi-fdi",
@@ -34,8 +34,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 4,
   "post_id": 4,
   "url": "https://pagellapolitica.it/articoli/promessa-berlusconi-pensioni-mille-euro",
@@ -46,20 +46,20 @@
   "list": "Forza Italia",
   "subject_id": 12,
   "list_id": 3
-},
-{
+}
+,{
   "id": 5,
   "post_id": 5,
   "url": "https://pagellapolitica.it/articoli/scadenze-politica-elezioni",
   "post_title": "Dalle elezioni al Pnrr: le tante scadenze della politica italiana di qui a \nfine anno",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "Governo e Parlamento dovranno rispettare una serie di scadenze serrate, non \nsempre legate alle necessità elettorali",
   "type": "articolo",
   "subject": "Revisione del PNRR",
   "list": "",
   "subject_id": 24,
   "list_id": ""
-},
-{
+}
+,{
   "id": 6,
   "post_id": 6,
   "url": "https://pagellapolitica.it/articoli/fact-checking-patto-repubblicano-azione-piu-europa",
@@ -70,8 +70,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 7,
   "post_id": 7,
   "url": "https://pagellapolitica.it/articoli/lega-pd-immigrazione-fact-checking",
@@ -82,8 +82,8 @@
   "list": "Lega",
   "subject_id": "",
   "list_id": 2
-},
-{
+}
+,{
   "id": 8,
   "post_id": 7,
   "url": "https://pagellapolitica.it/articoli/lega-pd-immigrazione-fact-checking",
@@ -94,8 +94,8 @@
   "list": "Partito Democratico",
   "subject_id": "",
   "list_id": 5
-},
-{
+}
+,{
   "id": 9,
   "post_id": 8,
   "url": "https://pagellapolitica.it/articoli/fact-checking-berlusconi-intervista-zona-bianca",
@@ -106,8 +106,8 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 10,
   "post_id": 9,
   "url": "https://pagellapolitica.it/articoli/sondaggi-politici-affidabili",
@@ -118,8 +118,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 11,
   "post_id": 10,
   "url": "https://pagellapolitica.it/articoli/letta-tasse-successione",
@@ -130,8 +130,8 @@
   "list": "Partito Democratico",
   "subject_id": "",
   "list_id": 5
-},
-{
+}
+,{
   "id": 12,
   "post_id": 11,
   "url": "https://pagellapolitica.it/articoli/discussioni-candidati-seggi-uninominali",
@@ -142,8 +142,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 13,
   "post_id": 12,
   "url": "https://pagellapolitica.it/articoli/indicazione-ministri-leader-voto",
@@ -154,8 +154,8 @@
   "list": "Lega",
   "subject_id": "",
   "list_id": 2
-},
-{
+}
+,{
   "id": 14,
   "post_id": 13,
   "url": "https://pagellapolitica.it/articoli/alleanza-centrosinistra-azione-pd",
@@ -166,8 +166,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 15,
   "post_id": 14,
   "url": "https://pagellapolitica.it/articoli/testo-accordo-partito-democratico-azione-calenda",
@@ -178,8 +178,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 16,
   "post_id": 15,
   "url": "https://pagellapolitica.it/articoli/parlamentarie-m5s-2022",
@@ -190,8 +190,8 @@
   "list": "Movimento 5 Stelle",
   "subject_id": "",
   "list_id": 9
-},
-{
+}
+,{
   "id": 17,
   "post_id": 16,
   "url": "https://pagellapolitica.it/articoli/ponte-stretto-messina-campagna-elettorale",
@@ -202,8 +202,8 @@
   "list": "",
   "subject_id": 53,
   "list_id": ""
-},
-{
+}
+,{
   "id": 18,
   "post_id": 17,
   "url": "https://pagellapolitica.it/articoli/problemi-rosatellum",
@@ -214,8 +214,8 @@
   "list": "",
   "subject_id": 120,
   "list_id": ""
-},
-{
+}
+,{
   "id": 19,
   "post_id": 18,
   "url": "https://pagellapolitica.it/articoli/alleanza-centrosinistra-calenda",
@@ -226,8 +226,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 20,
   "post_id": 19,
   "url": "https://pagellapolitica.it/articoli/azione-raccolta-firme-elezioni",
@@ -238,8 +238,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 21,
   "post_id": 20,
   "url": "https://pagellapolitica.it/articoli/fact-checking-calenda-strappo-pd",
@@ -250,8 +250,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 22,
   "post_id": 21,
   "url": "https://pagellapolitica.it/articoli/pd-parita-salariale",
@@ -262,8 +262,8 @@
   "list": "Partito Democratico",
   "subject_id": 42,
   "list_id": 5
-},
-{
+}
+,{
   "id": 23,
   "post_id": 22,
   "url": "https://pagellapolitica.it/articoli/promessa-fdi-blocco-navale",
@@ -274,20 +274,20 @@
   "list": "Fratelli d'Italia",
   "subject_id": 108,
   "list_id": 1
-},
-{
+}
+,{
   "id": 24,
   "post_id": 23,
   "url": "https://pagellapolitica.it/articoli/azione-italia-viva-elezioni",
-  "post_title": "Loading...",
-  "post_subtitle": "Loading...",
+  "post_title": "Italia viva e Azione saranno alleati alle elezioni",
+  "post_subtitle": "Lo hanno annunciato i due leader, Matteo Renzi e Carlo Calenda. I due \npartiti parteciperanno al voto del 25 settembre con una lista unica",
   "type": "articolo",
   "subject": "",
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 25,
   "post_id": 24,
   "url": "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
@@ -298,8 +298,8 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 26,
   "post_id": 24,
   "url": "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
@@ -310,8 +310,8 @@
   "list": "Lega",
   "subject_id": "",
   "list_id": 2
-},
-{
+}
+,{
   "id": 27,
   "post_id": 24,
   "url": "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
@@ -322,8 +322,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 28,
   "post_id": 24,
   "url": "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
@@ -334,8 +334,8 @@
   "list": "Noi moderati",
   "subject_id": "",
   "list_id": 4
-},
-{
+}
+,{
   "id": 29,
   "post_id": 25,
   "url": "https://pagellapolitica.it/articoli/flat-tax-promessa-centrodestra",
@@ -346,8 +346,8 @@
   "list": "",
   "subject_id": 5,
   "list_id": ""
-},
-{
+}
+,{
   "id": 30,
   "post_id": 26,
   "url": "https://pagellapolitica.it/articoli/berlusconi-centrodestra-presidenzialismo",
@@ -358,8 +358,8 @@
   "list": "",
   "subject_id": 18,
   "list_id": ""
-},
-{
+}
+,{
   "id": 31,
   "post_id": 27,
   "url": "https://pagellapolitica.it/articoli/programma-movimento-5-stelle-elezioni-2022",
@@ -370,8 +370,8 @@
   "list": "Movimento 5 Stelle",
   "subject_id": "",
   "list_id": 9
-},
-{
+}
+,{
   "id": 32,
   "post_id": 28,
   "url": "https://pagellapolitica.it/articoli/risultati-elezioni-partiti-centro",
@@ -382,20 +382,20 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 33,
   "post_id": 29,
   "url": "https://pagellapolitica.it/articoli/lega-programma-elezioni-2022",
   "post_title": "Il testo del programma della Lega",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "È lungo 202 pagine ed è composto da 41 capitoli, da “Agricoltura” a \n“Università”",
   "type": "articolo",
   "subject": "",
   "list": "Lega",
   "subject_id": "",
   "list_id": 2
-},
-{
+}
+,{
   "id": 34,
   "post_id": 30,
   "url": "https://pagellapolitica.it/articoli/italexit-alternativa-italia-elezioni-2022",
@@ -406,8 +406,8 @@
   "list": "Italexit",
   "subject_id": "",
   "list_id": 11
-},
-{
+}
+,{
   "id": 35,
   "post_id": 30,
   "url": "https://pagellapolitica.it/articoli/italexit-alternativa-italia-elezioni-2022",
@@ -418,20 +418,20 @@
   "list": "Alternativa Per l'Italia",
   "subject_id": "",
   "list_id": 15
-},
-{
+}
+,{
   "id": 36,
   "post_id": 31,
   "url": "https://pagellapolitica.it/articoli/simboli-elettorali-curiosi",
-  "post_title": "Loading...",
-  "post_subtitle": "Loading...",
+  "post_title": "I dieci simboli elettorali più curiosi",
+  "post_subtitle": "Dal Partito della follia al Sacro Romano Impero Cattolico, ecco quali sono \ni contrassegni più strani depositati al Ministero dell’Interno in vista \ndelle elezioni",
   "type": "articolo",
   "subject": "",
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 37,
   "post_id": 32,
   "url": "https://pagellapolitica.it/articoli/partito-democratico-programma-elezioni-2022",
@@ -442,8 +442,8 @@
   "list": "Partito Democratico",
   "subject_id": "",
   "list_id": 5
-},
-{
+}
+,{
   "id": 38,
   "post_id": 33,
   "url": "https://pagellapolitica.it/articoli/unione-popolare-programma-elezioni-2022",
@@ -454,8 +454,8 @@
   "list": "Unione Popolare",
   "subject_id": "",
   "list_id": 13
-},
-{
+}
+,{
   "id": 39,
   "post_id": 34,
   "url": "https://pagellapolitica.it/articoli/rivoluzione-sanitaria-gilet-arancioni-forza-popolo-elezioni-2022",
@@ -466,8 +466,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 40,
   "post_id": 35,
   "url": "https://pagellapolitica.it/articoli/pnrr-programmi-elezioni",
@@ -478,8 +478,8 @@
   "list": "",
   "subject_id": 24,
   "list_id": ""
-},
-{
+}
+,{
   "id": 41,
   "post_id": 36,
   "url": "https://pagellapolitica.it/articoli/perche-le-liste-dei-candidati-del-pd-stanno-facendo-discutere",
@@ -490,8 +490,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 42,
   "post_id": 37,
   "url": "https://pagellapolitica.it/articoli/europa-verde-sinistra-italiana-programma-elezioni-2022",
@@ -502,8 +502,8 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": "",
   "list_id": 6
-},
-{
+}
+,{
   "id": 43,
   "post_id": 38,
   "url": "https://pagellapolitica.it/articoli/azione-italia-viva-programma-elezioni-2022",
@@ -514,20 +514,20 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 44,
   "post_id": 39,
   "url": "https://pagellapolitica.it/articoli/italia-sovrana-popolare-elezioni-2022",
   "post_title": "Chi sono gli “antisistema”: Italia sovrana e popolare",
-  "post_subtitle": "La terza parte della guida di Pagella Politica ai partiti che si collocano \nfuori dal sistema della politica nazionale",
+  "post_subtitle": "Loading...",
   "type": "articolo",
   "subject": "",
   "list": "Italia Sovrana e Popolare",
   "subject_id": "",
   "list_id": 12
-},
-{
+}
+,{
   "id": 45,
   "post_id": 40,
   "url": "https://pagellapolitica.it/articoli/fact-checking-meloni-reddito-cittadinanza",
@@ -538,8 +538,8 @@
   "list": "Forza Italia",
   "subject_id": 11,
   "list_id": 3
-},
-{
+}
+,{
   "id": 46,
   "post_id": 41,
   "url": "https://pagellapolitica.it/articoli/berlusconi-sentenze-assoluzione-inappellabili",
@@ -550,8 +550,8 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 47,
   "post_id": 42,
   "url": "https://pagellapolitica.it/articoli/risultati-parlamentarie-movimento-5-stelle",
@@ -562,20 +562,20 @@
   "list": "Movimento 5 Stelle",
   "subject_id": "",
   "list_id": 9
-},
-{
+}
+,{
   "id": 48,
   "post_id": 43,
   "url": "https://pagellapolitica.it/articoli/reddito-cittadinanza-modifiche-elezioni",
   "post_title": "Come i partiti promettono di cambiare il reddito di cittadinanza",
-  "post_subtitle": "Tutti i programmi elettorali propongono di modificare il sussidio, ma in \nmodi diversi: ecco le posizioni in campo",
+  "post_subtitle": "Loading...",
   "type": "articolo",
   "subject": "Reddito di cittadinanza",
   "list": "",
   "subject_id": 11,
   "list_id": ""
-},
-{
+}
+,{
   "id": 49,
   "post_id": 44,
   "url": "https://pagellapolitica.it/articoli/vita-ucdl-elezioni-2022",
@@ -586,8 +586,8 @@
   "list": "Vita",
   "subject_id": "",
   "list_id": 14
-},
-{
+}
+,{
   "id": 50,
   "post_id": 45,
   "url": "https://pagellapolitica.it/articoli/meloni-fuorviante-immigrazione-sicurezza-ue",
@@ -598,8 +598,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": 108,
   "list_id": 1
-},
-{
+}
+,{
   "id": 51,
   "post_id": 46,
   "url": "https://pagellapolitica.it/articoli/programmi-partiti-elezioni-2022",
@@ -610,8 +610,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 52,
   "post_id": 47,
   "url": "https://pagellapolitica.it/articoli/possibile-elezioni-2022",
@@ -622,8 +622,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 53,
   "post_id": 48,
   "url": "https://pagellapolitica.it/articoli/presidenzialismo-stabilita-governi",
@@ -634,8 +634,8 @@
   "list": "",
   "subject_id": 18,
   "list_id": ""
-},
-{
+}
+,{
   "id": 54,
   "post_id": 49,
   "url": "https://pagellapolitica.it/articoli/superbonus-programmi-partiti-elezioni-2022",
@@ -646,8 +646,8 @@
   "list": "",
   "subject_id": 7,
   "list_id": ""
-},
-{
+}
+,{
   "id": 55,
   "post_id": 50,
   "url": "https://pagellapolitica.it/articoli/italexit-italia-sovrana-popolare-alternativa-italia-liste-elezioni-2022",
@@ -658,8 +658,8 @@
   "list": "Italexit",
   "subject_id": "",
   "list_id": 11
-},
-{
+}
+,{
   "id": 56,
   "post_id": 51,
   "url": "https://pagellapolitica.it/articoli/candidata-italia-viva-azione-disinformazione-guerra-ucraina",
@@ -670,8 +670,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 8,
   "list_id": 10
-},
-{
+}
+,{
   "id": 57,
   "post_id": 52,
   "url": "https://pagellapolitica.it/articoli/piu-europa-programma-elezioni-2022",
@@ -682,8 +682,8 @@
   "list": "+Europa",
   "subject_id": "",
   "list_id": 7
-},
-{
+}
+,{
   "id": 58,
   "post_id": 53,
   "url": "https://pagellapolitica.it/articoli/liste-partiti-elezioni-2022",
@@ -694,8 +694,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 59,
   "post_id": 54,
   "url": "https://pagellapolitica.it/articoli/fact-checking-meeting-rimini-2022",
@@ -706,8 +706,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 60,
   "post_id": 55,
   "url": "https://pagellapolitica.it/articoli/salvini-contro-trivelle-gas",
@@ -718,8 +718,8 @@
   "list": "Lega",
   "subject_id": 15,
   "list_id": 2
-},
-{
+}
+,{
   "id": 61,
   "post_id": 56,
   "url": "https://pagellapolitica.it/articoli/politici-partiti-tiktok-elezioni-2022",
@@ -730,8 +730,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 62,
   "post_id": 57,
   "url": "https://pagellapolitica.it/articoli/unione-popolare-de-magistris-elezioni-2022",
@@ -742,8 +742,8 @@
   "list": "Unione Popolare",
   "subject_id": "",
   "list_id": 13
-},
-{
+}
+,{
   "id": 63,
   "post_id": 58,
   "url": "https://pagellapolitica.it/articoli/fact-checking-draghi-meeting-rimini-2022",
@@ -754,8 +754,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 64,
   "post_id": 59,
   "url": "https://pagellapolitica.it/articoli/meloni-incandidabile-elezioni-video-stupro-piacenza",
@@ -766,8 +766,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 65,
   "post_id": 60,
   "url": "https://pagellapolitica.it/articoli/fratelli-italia-programma-elezioni-2022",
@@ -778,8 +778,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 66,
   "post_id": 61,
   "url": "https://pagellapolitica.it/articoli/italexit-paragone-programma-elezioni-2022",
@@ -790,8 +790,8 @@
   "list": "Italexit",
   "subject_id": "",
   "list_id": 11
-},
-{
+}
+,{
   "id": 67,
   "post_id": 62,
   "url": "https://pagellapolitica.it/articoli/forza-italia-programma-elezioni-2022",
@@ -802,8 +802,8 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 68,
   "post_id": 63,
   "url": "https://pagellapolitica.it/articoli/italia-sovrana-popolare-programma-elezioni-2022",
@@ -814,20 +814,20 @@
   "list": "Italia Sovrana e Popolare",
   "subject_id": "",
   "list_id": 12
-},
-{
+}
+,{
   "id": 69,
   "post_id": 64,
   "url": "https://pagellapolitica.it/articoli/promesse-mantenute-movimento-5-stelle",
   "post_title": "No, il Movimento 5 stelle non ha realizzato l’80 per cento del suo programma",
-  "post_subtitle": "Dei 20 punti promessi nel 2018, solo due sono stati completamente \nrealizzati. Altri dieci sono stati realizzati in parte e otto non sono \nstati realizzati",
+  "post_subtitle": "Loading...",
   "type": "articolo",
   "subject": "",
   "list": "Movimento 5 Stelle",
   "subject_id": "",
   "list_id": 9
-},
-{
+}
+,{
   "id": 70,
   "post_id": 65,
   "url": "https://pagellapolitica.it/articoli/violenza-donne-programmi-elezioni-2022",
@@ -838,32 +838,32 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 71,
   "post_id": 66,
   "url": "https://pagellapolitica.it/articoli/candidato-azione-camorrista",
-  "post_title": "Loading...",
+  "post_title": "La storia del candidato di Azione «fiero di essere camorrista»",
   "post_subtitle": "La frase è stata detta in modo provocatorio nel 2020 da Pasquale Del Prete, \na sostegno di un ex sindaco di un comune in provincia di Napoli",
   "type": "articolo",
   "subject": "",
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 72,
   "post_id": 67,
   "url": "https://pagellapolitica.it/articoli/ronzulli-rigassificatori-estrazione-gas",
-  "post_title": "No, i rigassificatori non servono per l’estrazione del gas",
+  "post_title": "Loading...",
   "post_subtitle": "Lo ha scritto sui social la senatrice di Forza Italia Licia Ronzulli, \nfacendo un po’ di confusione",
   "type": "articolo",
   "subject": "Rigassificatori",
   "list": "Forza Italia",
   "subject_id": 17,
   "list_id": 3
-},
-{
+}
+,{
   "id": 73,
   "post_id": 68,
   "url": "https://pagellapolitica.it/articoli/pd-obbligo-scolastico-elezioni-2022",
@@ -874,8 +874,8 @@
   "list": "Partito Democratico",
   "subject_id": 68,
   "list_id": 5
-},
-{
+}
+,{
   "id": 74,
   "post_id": 69,
   "url": "https://pagellapolitica.it/articoli/posizioni-partiti-rigassificatore-piombino",
@@ -886,8 +886,8 @@
   "list": "",
   "subject_id": 17,
   "list_id": ""
-},
-{
+}
+,{
   "id": 75,
   "post_id": 70,
   "url": "https://pagellapolitica.it/articoli/centrodestra-modifica-costituzione-elezioni-2022",
@@ -898,8 +898,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 76,
   "post_id": 70,
   "url": "https://pagellapolitica.it/articoli/centrodestra-modifica-costituzione-elezioni-2022",
@@ -910,8 +910,8 @@
   "list": "Lega",
   "subject_id": "",
   "list_id": 2
-},
-{
+}
+,{
   "id": 77,
   "post_id": 70,
   "url": "https://pagellapolitica.it/articoli/centrodestra-modifica-costituzione-elezioni-2022",
@@ -922,8 +922,8 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 78,
   "post_id": 71,
   "url": "https://pagellapolitica.it/articoli/letta-pd-condoni-fiscali",
@@ -934,8 +934,8 @@
   "list": "Partito Democratico",
   "subject_id": 103,
   "list_id": 5
-},
-{
+}
+,{
   "id": 79,
   "post_id": 72,
   "url": "https://pagellapolitica.it/articoli/promessa-nucleare-italia-elezioni-2022",
@@ -946,20 +946,20 @@
   "list": "",
   "subject_id": 16,
   "list_id": ""
-},
-{
+}
+,{
   "id": 80,
   "post_id": 73,
   "url": "https://pagellapolitica.it/articoli/spese-partiti-facebook-elezioni-2022",
-  "post_title": "Loading...",
+  "post_title": "Il Pd è il partito che spende di più nelle pubblicità su Facebook",
   "post_subtitle": "Nel primo mese di campagna elettorale, il partito di Letta ha investito \nquasi 34 mila euro in sponsorizzate, una cifra simile a quella di Salvini. \nEcco quanto spendono gli altri partiti e leader",
   "type": "articolo",
   "subject": "",
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 81,
   "post_id": 74,
   "url": "https://pagellapolitica.it/articoli/mappa-centrali-nucleare-verdi",
@@ -970,8 +970,8 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": 16,
   "list_id": 6
-},
-{
+}
+,{
   "id": 82,
   "post_id": 74,
   "url": "https://pagellapolitica.it/articoli/mappa-centrali-nucleare-verdi",
@@ -982,32 +982,32 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 16,
   "list_id": 10
-},
-{
+}
+,{
   "id": 83,
   "post_id": 75,
   "url": "https://pagellapolitica.it/articoli/salvini-servizio-miliare-obbligatorio",
-  "post_title": "Salvini e la leva obbligatoria: molte parole, pochi fatti",
+  "post_title": "Loading...",
   "post_subtitle": "Da anni il segretario della Lega propone di reintrodurre l’obbligo di \nservizio militare per i giovani, senza provarci mai sul serio",
   "type": "articolo",
   "subject": "Leva militare obbligatoria",
   "list": "Lega",
   "subject_id": 102,
   "list_id": 2
-},
-{
+}
+,{
   "id": 84,
   "post_id": 76,
   "url": "https://pagellapolitica.it/articoli/scostamento-bilancio-rincari-bollette",
   "post_title": "Chi vuole lo scostamento di bilancio e chi no",
-  "post_subtitle": "Ecco quali sono i partiti che chiedono al governo di prendere soldi a \ndebito per contrastare i rincari energetici e quelli che invece sono \ndubbiosi o contrari",
+  "post_subtitle": "Loading...",
   "type": "articolo",
   "subject": "Riduzione delle bollette energetiche",
   "list": "",
   "subject_id": 27,
   "list_id": ""
-},
-{
+}
+,{
   "id": 85,
   "post_id": 77,
   "url": "https://pagellapolitica.it/articoli/fratelli-italia-blocco-navale-sophia",
@@ -1018,20 +1018,20 @@
   "list": "Fratelli d'Italia",
   "subject_id": 108,
   "list_id": 1
-},
-{
+}
+,{
   "id": 86,
   "post_id": 78,
   "url": "https://pagellapolitica.it/articoli/camera-regolamento-taglio-parlamentari",
-  "post_title": "La Camera rischia di funzionare male dopo le elezioni",
+  "post_title": "Loading...",
   "post_subtitle": "I partiti non hanno trovato un accordo per modificare il regolamento dei \ndeputati, cosa invece successa in Senato. Gli effetti del taglio dei \nparlamentari potrebbero essere negativi",
   "type": "articolo",
   "subject": "Riforma della legge elettorale",
   "list": "",
   "subject_id": 120,
   "list_id": ""
-},
-{
+}
+,{
   "id": 87,
   "post_id": 79,
   "url": "https://pagellapolitica.it/articoli/curriculum-politici-leader-elezioni-2022",
@@ -1042,8 +1042,8 @@
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 88,
   "post_id": 80,
   "url": "https://pagellapolitica.it/articoli/riscatto-laurea-gratuito-m5s",
@@ -1054,8 +1054,8 @@
   "list": "Movimento 5 Stelle",
   "subject_id": 91,
   "list_id": 9
-},
-{
+}
+,{
   "id": 89,
   "post_id": 81,
   "url": "https://pagellapolitica.it/fact-checking/bonelli-energia-nucleare-siccita",
@@ -1066,20 +1066,20 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": 16,
   "list_id": 6
-},
-{
+}
+,{
   "id": 90,
   "post_id": 82,
   "url": "https://pagellapolitica.it/fact-checking/madia-fuorisede-voto",
   "post_title": "Madia è troppo ottimista: i fuorisede che rischiano di non votare sono più \ndi «due milioni»",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "«Circa due milioni di persone, molte delle quali giovani, che lavorano e \nstudiano fuori casa non potranno votare perché la caduta del governo ha \nimpedito l’approvazione della proposta di legge #votodovevivo. Eravamo a un \npasso»",
   "type": "fact-checking",
   "subject": "Voto per i fuorisede",
   "list": "Partito Democratico",
   "subject_id": 45,
   "list_id": 5
-},
-{
+}
+,{
   "id": 91,
   "post_id": 83,
   "url": "https://pagellapolitica.it/fact-checking/letta-voto-leggi-elettorali",
@@ -1090,8 +1090,8 @@
   "list": "Partito Democratico",
   "subject_id": 120,
   "list_id": 5
-},
-{
+}
+,{
   "id": 92,
   "post_id": 84,
   "url": "https://pagellapolitica.it/fact-checking/vero-gli-insegnanti-italiani-sono-tra-i-meno-pagati-nellue",
@@ -1102,8 +1102,8 @@
   "list": "Partito Democratico",
   "subject_id": 60,
   "list_id": 5
-},
-{
+}
+,{
   "id": 93,
   "post_id": 85,
   "url": "https://pagellapolitica.it/fact-checking/berlsuconi-pd-patrimoniale-casa-eredita",
@@ -1114,8 +1114,8 @@
   "list": "Forza Italia",
   "subject_id": 28,
   "list_id": 3
-},
-{
+}
+,{
   "id": 94,
   "post_id": 85,
   "url": "https://pagellapolitica.it/fact-checking/berlsuconi-pd-patrimoniale-casa-eredita",
@@ -1126,8 +1126,8 @@
   "list": "Partito Democratico",
   "subject_id": 28,
   "list_id": 5
-},
-{
+}
+,{
   "id": 95,
   "post_id": 86,
   "url": "https://pagellapolitica.it/fact-checking/tajani-pace-fiscale-condono",
@@ -1138,8 +1138,8 @@
   "list": "Forza Italia",
   "subject_id": 103,
   "list_id": 3
-},
-{
+}
+,{
   "id": 96,
   "post_id": 87,
   "url": "https://pagellapolitica.it/fact-checking/flat-tax-lega-18-aliquote",
@@ -1150,8 +1150,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 5,
   "list_id": 10
-},
-{
+}
+,{
   "id": 97,
   "post_id": 87,
   "url": "https://pagellapolitica.it/fact-checking/flat-tax-lega-18-aliquote",
@@ -1162,8 +1162,8 @@
   "list": "Lega",
   "subject_id": 5,
   "list_id": 2
-},
-{
+}
+,{
   "id": 98,
   "post_id": 88,
   "url": "https://pagellapolitica.it/fact-checking/evasione-italia-80-miliardi",
@@ -1174,8 +1174,8 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": 31,
   "list_id": 6
-},
-{
+}
+,{
   "id": 99,
   "post_id": 89,
   "url": "https://pagellapolitica.it/fact-checking/berlusconi-disoccupazione-italia-ue",
@@ -1186,8 +1186,8 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 100,
   "post_id": 90,
   "url": "https://pagellapolitica.it/fact-checking/salvini-dossier-viminale",
@@ -1198,8 +1198,8 @@
   "list": "Lega",
   "subject_id": 105,
   "list_id": 2
-},
-{
+}
+,{
   "id": 101,
   "post_id": 90,
   "url": "https://pagellapolitica.it/fact-checking/salvini-dossier-viminale",
@@ -1210,8 +1210,8 @@
   "list": "Lega",
   "subject_id": 115,
   "list_id": 2
-},
-{
+}
+,{
   "id": 102,
   "post_id": 91,
   "url": "https://pagellapolitica.it/fact-checking/crosetto-aumento-debito-pubblico",
@@ -1222,8 +1222,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 103,
   "post_id": 92,
   "url": "https://pagellapolitica.it/fact-checking/zan-matrimonio-egualitario-europa",
@@ -1234,32 +1234,32 @@
   "list": "Partito Democratico",
   "subject_id": 50,
   "list_id": 5
-},
-{
+}
+,{
   "id": 104,
   "post_id": 93,
   "url": "https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni",
-  "post_title": "Loading...",
+  "post_title": "Vero: “quota 41” della Lega costerebbe 65 miliardi di euro",
   "post_subtitle": "«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ",
   "type": "fact-checking",
   "subject": "Aumento delle pensioni",
   "list": "Lega",
   "subject_id": 12,
   "list_id": 2
-},
-{
+}
+,{
   "id": 105,
   "post_id": 93,
   "url": "https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni",
-  "post_title": "Loading...",
+  "post_title": "Vero: “quota 41” della Lega costerebbe 65 miliardi di euro",
   "post_subtitle": "«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ",
   "type": "fact-checking",
   "subject": "Aumento delle pensioni",
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 12,
   "list_id": 10
-},
-{
+}
+,{
   "id": 106,
   "post_id": 94,
   "url": "https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni",
@@ -1270,8 +1270,8 @@
   "list": "Partito Democratico",
   "subject_id": "",
   "list_id": 5
-},
-{
+}
+,{
   "id": 107,
   "post_id": 94,
   "url": "https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni",
@@ -1282,8 +1282,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 108,
   "post_id": 95,
   "url": "https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza",
@@ -1294,8 +1294,8 @@
   "list": "Lega",
   "subject_id": 5,
   "list_id": 2
-},
-{
+}
+,{
   "id": 109,
   "post_id": 95,
   "url": "https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza",
@@ -1306,8 +1306,8 @@
   "list": "Lega",
   "subject_id": 11,
   "list_id": 2
-},
-{
+}
+,{
   "id": 110,
   "post_id": 96,
   "url": "https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra",
@@ -1318,8 +1318,8 @@
   "list": "Partito Democratico",
   "subject_id": 51,
   "list_id": 5
-},
-{
+}
+,{
   "id": 111,
   "post_id": 96,
   "url": "https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra",
@@ -1330,8 +1330,8 @@
   "list": "Lega",
   "subject_id": 51,
   "list_id": 2
-},
-{
+}
+,{
   "id": 112,
   "post_id": 97,
   "url": "https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr",
@@ -1342,8 +1342,8 @@
   "list": "Partito Democratico",
   "subject_id": 24,
   "list_id": 5
-},
-{
+}
+,{
   "id": 113,
   "post_id": 97,
   "url": "https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr",
@@ -1354,8 +1354,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 24,
   "list_id": 10
-},
-{
+}
+,{
   "id": 114,
   "post_id": 98,
   "url": "https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni",
@@ -1366,8 +1366,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": "",
   "list_id": 10
-},
-{
+}
+,{
   "id": 115,
   "post_id": 99,
   "url": "https://pagellapolitica.it/fact-checking/segretari-cgil-partito-democratico",
@@ -1378,8 +1378,8 @@
   "list": "Partito Democratico",
   "subject_id": "",
   "list_id": 5
-},
-{
+}
+,{
   "id": 116,
   "post_id": 100,
   "url": "https://pagellapolitica.it/fact-checking/berlusconi-taglio-tasse-reagan",
@@ -1390,20 +1390,20 @@
   "list": "Forza Italia",
   "subject_id": "",
   "list_id": 3
-},
-{
+}
+,{
   "id": 117,
   "post_id": 101,
   "url": "https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari",
-  "post_title": "Loading...",
+  "post_title": "Salvini sbaglia: con la flat tax i milionari pagherebbero meno tasse",
   "post_subtitle": "«Con la flat tax i milionari continueranno a pagare quello che stanno \npagando ovviamente»",
   "type": "fact-checking",
   "subject": "Flat tax",
   "list": "Lega",
   "subject_id": 5,
   "list_id": 2
-},
-{
+}
+,{
   "id": 118,
   "post_id": 102,
   "url": "https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7",
@@ -1414,8 +1414,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 16,
   "list_id": 10
-},
-{
+}
+,{
   "id": 119,
   "post_id": 103,
   "url": "https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale",
@@ -1426,8 +1426,8 @@
   "list": "Forza Italia",
   "subject_id": 5,
   "list_id": 3
-},
-{
+}
+,{
   "id": 120,
   "post_id": 103,
   "url": "https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale",
@@ -1438,8 +1438,8 @@
   "list": "Forza Italia",
   "subject_id": 31,
   "list_id": 3
-},
-{
+}
+,{
   "id": 121,
   "post_id": 104,
   "url": "https://pagellapolitica.it/fact-checking/consumo-suolo-italia",
@@ -1450,8 +1450,8 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": 90,
   "list_id": 6
-},
-{
+}
+,{
   "id": 122,
   "post_id": 105,
   "url": "https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra",
@@ -1462,8 +1462,8 @@
   "list": "Partito Democratico",
   "subject_id": 31,
   "list_id": 5
-},
-{
+}
+,{
   "id": 123,
   "post_id": 105,
   "url": "https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra",
@@ -1474,8 +1474,8 @@
   "list": "Forza Italia",
   "subject_id": 31,
   "list_id": 3
-},
-{
+}
+,{
   "id": 124,
   "post_id": 105,
   "url": "https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra",
@@ -1486,8 +1486,8 @@
   "list": "Lega",
   "subject_id": 31,
   "list_id": 2
-},
-{
+}
+,{
   "id": 125,
   "post_id": 105,
   "url": "https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra",
@@ -1498,8 +1498,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": 31,
   "list_id": 1
-},
-{
+}
+,{
   "id": 126,
   "post_id": 106,
   "url": "https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria",
@@ -1510,8 +1510,8 @@
   "list": "Lega",
   "subject_id": "",
   "list_id": 2
-},
-{
+}
+,{
   "id": 127,
   "post_id": 107,
   "url": "https://pagellapolitica.it/fact-checking/carfagna-pd-asilo",
@@ -1522,8 +1522,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 48,
   "list_id": 10
-},
-{
+}
+,{
   "id": 128,
   "post_id": 108,
   "url": "https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia",
@@ -1534,8 +1534,8 @@
   "list": "Lega",
   "subject_id": 10,
   "list_id": 2
-},
-{
+}
+,{
   "id": 129,
   "post_id": 109,
   "url": "https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati",
@@ -1546,8 +1546,8 @@
   "list": "Lega",
   "subject_id": 108,
   "list_id": 2
-},
-{
+}
+,{
   "id": 130,
   "post_id": 110,
   "url": "https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania",
@@ -1558,8 +1558,8 @@
   "list": "Partito Democratico",
   "subject_id": 82,
   "list_id": 5
-},
-{
+}
+,{
   "id": 131,
   "post_id": 111,
   "url": "https://pagellapolitica.it/fact-checking/conte-draghi-spread-record",
@@ -1570,8 +1570,8 @@
   "list": "Movimento 5 Stelle",
   "subject_id": 1,
   "list_id": 9
-},
-{
+}
+,{
   "id": 132,
   "post_id": 112,
   "url": "https://pagellapolitica.it/fact-checking/berlusconi-abolizione-leva-obbligatoria",
@@ -1582,8 +1582,8 @@
   "list": "Forza Italia",
   "subject_id": 102,
   "list_id": 3
-},
-{
+}
+,{
   "id": 133,
   "post_id": 113,
   "url": "https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati",
@@ -1594,8 +1594,8 @@
   "list": "Lega",
   "subject_id": 11,
   "list_id": 2
-},
-{
+}
+,{
   "id": 134,
   "post_id": 113,
   "url": "https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati",
@@ -1606,8 +1606,8 @@
   "list": "Partito Democratico",
   "subject_id": 11,
   "list_id": 5
-},
-{
+}
+,{
   "id": 135,
   "post_id": 114,
   "url": "https://pagellapolitica.it/fact-checking/emissioni-ricchi-poveri-mondo",
@@ -1618,8 +1618,8 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": 90,
   "list_id": 6
-},
-{
+}
+,{
   "id": 136,
   "post_id": 115,
   "url": "https://pagellapolitica.it/fact-checking/meloni-presidenzialismo-governi-europei",
@@ -1630,8 +1630,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": 18,
   "list_id": 1
-},
-{
+}
+,{
   "id": 137,
   "post_id": 116,
   "url": "https://pagellapolitica.it/fact-checking/letta-carbon-tax-ue",
@@ -1642,8 +1642,8 @@
   "list": "Partito Democratico",
   "subject_id": 19,
   "list_id": 5
-},
-{
+}
+,{
   "id": 138,
   "post_id": 117,
   "url": "https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle",
@@ -1654,8 +1654,8 @@
   "list": "Azione-Italia Viva-Calenda",
   "subject_id": 15,
   "list_id": 10
-},
-{
+}
+,{
   "id": 139,
   "post_id": 117,
   "url": "https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle",
@@ -1666,8 +1666,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": 15,
   "list_id": 1
-},
-{
+}
+,{
   "id": 140,
   "post_id": 117,
   "url": "https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle",
@@ -1678,8 +1678,8 @@
   "list": "Lega",
   "subject_id": 15,
   "list_id": 2
-},
-{
+}
+,{
   "id": 141,
   "post_id": 117,
   "url": "https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle",
@@ -1690,8 +1690,8 @@
   "list": "Forza Italia",
   "subject_id": 15,
   "list_id": 3
-},
-{
+}
+,{
   "id": 142,
   "post_id": 118,
   "url": "https://pagellapolitica.it/fact-checking/quanto-emissioni-co2-jet-privato",
@@ -1702,8 +1702,8 @@
   "list": "Alleanza Verdi e Sinistra",
   "subject_id": 90,
   "list_id": 6
-},
-{
+}
+,{
   "id": 143,
   "post_id": 119,
   "url": "https://pagellapolitica.it/fact-checking/inflazione-sanzioni-russia",
@@ -1714,8 +1714,8 @@
   "list": "",
   "subject_id": 10,
   "list_id": ""
-},
-{
+}
+,{
   "id": 144,
   "post_id": 120,
   "url": "https://pagellapolitica.it/fact-checking/lega-promesse-non-mantenute",
@@ -1726,8 +1726,8 @@
   "list": "",
   "subject_id": 5,
   "list_id": ""
-},
-{
+}
+,{
   "id": 145,
   "post_id": 121,
   "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico",
@@ -1738,20 +1738,20 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 146,
   "post_id": 122,
   "url": "https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia",
   "post_title": "È vero che la povertà in Italia è triplicata negli ultimi 15 anni?",
-  "post_subtitle": "«In Italia la povertà assoluta è triplicata negli ultimi 15 anni»",
+  "post_subtitle": "Loading...",
   "type": "fact-checking",
   "subject": "",
   "list": "",
   "subject_id": "",
   "list_id": ""
-},
-{
+}
+,{
   "id": 147,
   "post_id": 123,
   "url": "https://pagellapolitica.it/fact-checking/importazioni-gas-russia-berlusconi",
@@ -1762,8 +1762,8 @@
   "list": "Forza Italia",
   "subject_id": 19,
   "list_id": 3
-},
-{
+}
+,{
   "id": 148,
   "post_id": 124,
   "url": "https://pagellapolitica.it/fact-checking/meloni-esagera-occupati-automotive",
@@ -1774,8 +1774,8 @@
   "list": "Fratelli d'Italia",
   "subject_id": "",
   "list_id": 1
-},
-{
+}
+,{
   "id": 149,
   "post_id": 125,
   "url": "https://pagellapolitica.it/fact-checking/salvini-numero-chiuso-medicina-costo",
