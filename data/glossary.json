@@ -540,398 +540,363 @@
 }
 ,{
   "id": 78,
-  "subject": "No al dumping sociale dei lavoratori",
-  "slug": "no-al-dumping-sociale-dei-lavoratori",
-  "url": "https://it.wikipedia.org/wiki/Dumping",
-  "description": "Il dumping (\"scaricare\") è un anglicismo, utilizzato nel settore dell'economia, che definisce la politica commerciale predatoria consistente nella procedura di vendita di un bene o servizio su di un mercato estero a un prezzo inferiore rispetto a quello di vendita o produzione del medesimo prodotto sul mercato di origine, al fine di conquistare un nuovo mercato."
-}
-,{
-  "id": 79,
   "subject": "Favorire la creazione delle comunità energetiche",
   "slug": "favorire-la-creazione-delle-comunit-energetiche",
   "url": "https://it.wikipedia.org/wiki/Comunit%C3%A0_di_energia_rinnovabile",
   "description": "Una comunità di energia rinnovabile, anche detta comunità energetica rinnovabile o semplicemente comunità energetica, è un gruppo di soggetti che si organizzano per produrre e condividere localmente l'energia prodotta da fonti rinnovabili."
 }
 ,{
-  "id": 80,
+  "id": 79,
   "subject": "Libri di testo gratuiti",
   "slug": "libri-di-testo-gratuiti",
   "url": "https://it.wikipedia.org/wiki/Libro_di_testo",
   "description": ""
 }
 ,{
-  "id": 81,
+  "id": 80,
   "subject": "Più meritocrazia a scuola e nei concorsi",
   "slug": "pi-meritocrazia-a-scuola-e-nei-concorsi",
   "url": "https://it.wikipedia.org/wiki/Meritocrazia",
   "description": "Indica una forma di governo in cui le cariche pubbliche, amministrative, e qualsiasi ruolo o professione che richieda responsabilità nei confronti di altri, è affidata secondo criteri di merito, e non di appartenenza a lobby, o altri tipi di conoscenze familiari (nepotismo e in senso allargato clientelismo) o di casta economica (oligarchia)."
 }
 ,{
-  "id": 82,
+  "id": 81,
   "subject": "Promozione degli Istituti tecnici superiori",
   "slug": "promozione-degli-istituti-tecnici-superiori",
   "url": "https://www.miur.gov.it/tematica-its",
   "description": ""
 }
 ,{
-  "id": 83,
+  "id": 82,
   "subject": "Promozione della parità di genere",
   "slug": "promozione-della-parit-di-genere",
   "url": "https://it.wikipedia.org/wiki/Uguaglianza_di_genere",
   "description": "L'uguaglianza di genere, conosciuta anche come parità tra i sessi, parità di genere, uguaglianza sessuale o uguaglianza dei generi, è una condizione nella quale le persone ricevono pari trattamenti, con uguale facilità di accesso a risorse e opportunità, indipendentemente dal genere, a meno che non ci sia una valida ragione biologica per un trattamento diverso."
 }
 ,{
-  "id": 84,
+  "id": 83,
   "subject": "Promozione della sicurezza sul lavoro",
   "slug": "promozione-della-sicurezza-sul-lavoro",
   "url": "https://www.interno.gov.it/it/temi/prevenzione-e-soccorso/sicurezza-sul-lavoro",
   "description": ""
 }
 ,{
-  "id": 85,
+  "id": 84,
   "subject": "Integrazione tra università e aziende",
   "slug": "integrazione-tra-universit-e-aziende",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 86,
+  "id": 85,
   "subject": "Scuola infanzia gratuita",
   "slug": "scuola-infanzia-gratuita",
   "url": "https://it.wikipedia.org/wiki/Scuola_dell%27infanzia",
   "description": "La scuola dell'infanzia (nota anche e in passato unicamente come scuola materna) consiste in Italia nel percorso pre-scolastico rivolto ai bambini dai tre ai sei anni d'età."
 }
 ,{
-  "id": 87,
+  "id": 86,
   "subject": "Trasporto scolastico gratuito",
   "slug": "trasporto-scolastico-gratuito",
   "url": "https://it.wikipedia.org/wiki/Scuolabus",
   "description": "Lo scuolabus è un veicolo destinato al trasporto degli studenti delle scuole primarie sia di primo sia di secondo grado. Negli Stati Uniti d'America lo scuolabus può trasportare qualsiasi tipo di studente scolastico o studente di scuola in tutte  le tipologie di scuola americana."
 }
 ,{
-  "id": 88,
+  "id": 87,
   "subject": "Sostegno ai meno abbienti e incapienti",
   "slug": "sostegno-ai-meno-abbienti-e-incapienti",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 89,
+  "id": 88,
   "subject": "Sviluppo dei servizi sanitari di prossimità",
   "slug": "sviluppo-dei-servizi-sanitari-di-prossimit",
   "url": "https://it.wikipedia.org/wiki/Azienda_sanitaria_locale",
   "description": "Un'azienda sanitaria locale (abbreviato ASL) o azienda unità sanitaria locale (AUSL) è un ente pubblico della pubblica amministrazione italiana, deputato all'erogazione di servizi sanitari in un determinato territorio, di solito provinciale. In singole regioni assume diverse denominazioni (ASP, ASM, ATS)."
 }
 ,{
-  "id": 90,
+  "id": 89,
   "subject": "Tutela dell'ambiente e del paesaggio",
   "slug": "tutela-dellambiente-e-del-paesaggio",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 91,
+  "id": 90,
   "subject": "Favorire il riscatto della laurea",
   "slug": "favorire-il-riscatto-della-laurea",
   "url": "https://www.inps.it/prestazioni-servizi/riscatto-della-laurea-ai-fini-pensionistici-gestioni-dipendenti-privati",
   "description": ""
 }
 ,{
-  "id": 92,
+  "id": 91,
   "subject": "Sostegno alla scuola paritaria",
   "slug": "sostegno-alla-scuola-paritaria",
   "url": "https://www.miur.gov.it/sapere-la-differenza-tra-le-scuole-paritarie-e-le-scuole-private",
   "description": ""
 }
 ,{
-  "id": 93,
+  "id": 92,
   "subject": "Scuola dell'infanzia obbligatoria",
   "slug": "scuola-dellinfanzia-obbligatoria",
   "url": "https://it.wikipedia.org/wiki/Scuola_dell%27infanzia",
   "description": "La scuola dell'infanzia (nota anche e in passato unicamente come scuola materna) consiste in Italia nel percorso pre-scolastico rivolto ai bambini dai tre ai sei anni d'età."
 }
 ,{
-  "id": 94,
+  "id": 93,
   "subject": "Più attività extrascolastiche",
   "slug": "pi-attivit-extrascolastiche",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 95,
+  "id": 94,
   "subject": "Abolizione del numero chiuso all'università",
   "slug": "abolizione-del-numero-chiuso-alluniversit",
   "url": "https://it.wikipedia.org/wiki/Universit%C3%A0_in_Italia#Accesso_ai_corsi",
   "description": "Le università in Italia sono enti che hanno il compito di promuovere la ricerca, il progresso delle scienze e l'istruzione di livello superiore. Possono essere enti pubblici o di diritto privato: nel primo caso fanno parte della pubblica amministrazione italiana. Alcuni corsi di studio prevedono l'accesso ad un numero prestabilito di studenti (come nel caso delle facoltà di medicina e altre)."
 }
 ,{
-  "id": 96,
-  "subject": "Ripristino dell'articolo 18",
-  "slug": "ripristino-dellarticolo-18",
-  "url": "https://it.wikipedia.org/wiki/Articolo_18_dello_statuto_dei_lavoratori",
-  "description": "L'articolo 18 dello statuto dei lavoratori è un articolo della legge 20 maggio 1970, n. 300 della Repubblica Italiana (meglio conosciuta come statuto dei lavoratori)."
-}
-,{
-  "id": 97,
-  "subject": "Fine del segreto di Stato sulle stragi",
-  "slug": "fine-del-segreto-di-stato-sulle-stragi",
-  "url": "https://it.wikipedia.org/wiki/Segreto_di_Stato_(Italia)",
-  "description": "Il segreto di Stato, secondo la normativa italiana, è distinto in quattro possibili livelli di classificazione dei documenti (cartacei o informatici): riservato, riservatissimo, segreto, segretissimo. L'originatore provvede ad apporre la stampigliatura o la sigla del documento, indicante il relativo livello di sicurezza e di segretezza."
-}
-,{
-  "id": 98,
+  "id": 95,
   "subject": "Tutela del benessere animale",
   "slug": "tutela-del-benessere-animale",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 99,
+  "id": 96,
   "subject": "Commissione di inchiesta sulla Covid-19",
   "slug": "commissione-di-inchiesta-sulla-covid19",
   "url": "https://it.wikipedia.org/wiki/Commissione_parlamentare_d%27inchiesta#Fondamento_normativo_nella_Costituzione_italiana",
   "description": "Le commissioni parlamentari d'inchiesta sono degli organi parlamentari investite della funzione ispettiva, conoscitiva o anche di indagine, su materie di interesse pubblico.Una commissione d'inchiesta viene istituita per mezzo di una legge dedicata (se bicamerale) o da semplice risoluzione della camera interessata (se monocamerale), solitamente in casi gravi per effettuare indagini da affiancare (e non sostituire) a quelle della magistratura."
 }
 ,{
-  "id": 100,
+  "id": 97,
   "subject": "Lotta alla corruzione",
   "slug": "lotta-alla-corruzione",
   "url": "https://it.wikipedia.org/wiki/Corruzione",
   "description": "La corruzione indica la condotta di un soggetto che induce qualcuno, in cambio di denaro oppure di altre utilità e/o vantaggi, ad agire contro i propri doveri e obblighi."
 }
 ,{
-  "id": 101,
+  "id": 98,
   "subject": "Aumento delle spese militari",
   "slug": "aumento-delle-spese-militari",
   "url": "https://it.wikipedia.org/wiki/Spesa_per_la_difesa_in_Italia",
   "description": "La spesa per la difesa in Italia indica la spesa per la difesa per le forze armate italiane. Per quanto riguarda la procedura di autorizzazione delle spese, la legge 4 ottobre 1988 n. 436 è successivamente confluita negli articoli 536 e seguenti del Codice dell'ordinamento militare. Il DPR 15 novembre 2012, n. 236 regolamenta la definizione del prezzo e delle condizioni di acquisto per appalti e forniture, ad affidamento diretto o con gara d'appalto pubblicata nella Gazzetta Ufficiale della Repubblica Italiana, con le procedure della NATO. Il criterio generale è quello dell'offerta al prezzo più basso (art. 33-34), salvo valutazione di congruità."
 }
 ,{
-  "id": 102,
+  "id": 99,
   "subject": "Leva militare obbligatoria",
   "slug": "leva-militare-obbligatoria",
   "url": "https://it.wikipedia.org/wiki/Servizio_militare_di_leva_in_Italia",
   "description": "Il servizio militare di leva indica, in Italia, il servizio militare obbligatorio. Istituito nello stato unitario italiano con la nascita del Regno d'Italia e confermato con la nascita della Repubblica italiana, è stato in regime operativo dal 1861 al 2004. L'obbligatorietà del servizio, prevista dalla costituzione della Repubblica Italiana, è ordinariamente inattiva dal 1º gennaio 2005, come stabilito dalla legge 23 agosto 2004, n. 226."
 }
 ,{
-  "id": 103,
+  "id": 100,
   "subject": "Condoni fiscali o edilizi",
   "slug": "condoni-fiscali-o-edilizi",
   "url": "https://it.wikipedia.org/wiki/Condono",
   "description": "Il condono, in diritto, è un provvedimento emanato dal legislatore o dal governo, tramite il quale i cittadini che vi aderiscono possono ottenere l'annullamento, totale o parziale, di una pena o di una sanzione (es. condono fiscale/tributario, condono edilizio ecc...). Condono fiscale (o \"condono tributario\"): è un dispositivo normativo che ha come oggetto principale le imposte e le tasse. Sana comportamenti illeciti o irregolari effettuati dal contribuente e riguarda, soprattutto, dichiarazioni dei redditi errate, infedeli o assenti. Talvolta può riferirsi solo ad alcune tipologie di violazioni. Quando, invece, sana per intero e in via definitiva la posizione del contribuente dinanzi al fisco, assume il nome di \"condono tombale\". Il condono edilizio, infine, previa autodenuncia, sana fenomeni di abusivismo nell'ambito delle regole di costruzione, di ampliamento o di modifica di natura edile."
 }
 ,{
-  "id": 104,
+  "id": 101,
   "subject": "Sostegno alle imprese turistiche",
   "slug": "sostegno-alle-imprese-turistiche",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 105,
+  "id": 102,
   "subject": "Riforma del sistema penitenziario",
   "slug": "riforma-del-sistema-penitenziario",
   "url": "https://it.wikipedia.org/wiki/Ordinamento_penitenziario_italiano",
   "description": "L'ordinamento penitenziario italiano è l'insieme delle norme che regolamentano gli istituti di reclusione e la loro organizzazione."
 }
 ,{
-  "id": 106,
+  "id": 103,
   "subject": "Ripristino dei decreti Sicurezza",
   "slug": "ripristino-dei-decreti-sicurezza",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 107,
+  "id": 104,
   "subject": "Riforma del sistema di accoglienza",
   "slug": "riforma-del-sistema-di-accoglienza",
   "url": "https://it.wikipedia.org/wiki/Centri_per_l%27immigrazione_in_Italia",
   "description": "I centri per l'immigrazione in Italia offrono accoglienza ai cittadini stranieri arrivati nel paese irregolarmente in vista della loro identificazione ed eventuale richiesta di asilo o espulsione.\nI centri, gestiti dalla Direzione centrale dei servizi civili per l'immigrazione e dell'asilo del Ministero dell'Interno, sono di quattro tipologie: Centri di Primo Soccorso e Accoglienza (CPSA), Centri di Accoglienza (CDA), Centri di Accoglienza per Richiedenti Asilo (CARA), Centri di Identificazione ed Espulsione (CIE)."
 }
 ,{
-  "id": 108,
+  "id": 105,
   "subject": "Blocco navale",
   "slug": "blocco-navale",
   "url": "https://it.wikipedia.org/wiki/Blocco_navale",
   "description": "Il blocco navale è un'azione militare finalizzata a impedire l'accesso e l'uscita di navi dai porti di un Paese o di un territorio. Dopo la creazione delle Nazioni Unite è stato disciplinato dal diritto internazionale, in particolare dall'articolo 42 dello statuto delle Nazioni Unite e non è consentito al di fuori dei casi di legittima difesa ovvero consentito solo in caso di stato di guerra tra due o più Stati."
 }
 ,{
-  "id": 109,
+  "id": 106,
   "subject": "Contrasto alle baby gang",
   "slug": "contrasto-alle-baby-gang",
   "url": "https://it.wikipedia.org/wiki/Baby_gang",
   "description": "Con baby gang o banda giovanile si intende un fenomeno di micro criminalità organizzata, generalmente diffuso nei contesti urbani, per il quale minorenni assumono comportamenti devianti ai danni di cose o persone."
 }
 ,{
-  "id": 110,
+  "id": 107,
   "subject": "Investimenti in cybersicurezza",
   "slug": "investimenti-in-cybersicurezza",
   "url": "https://it.wikipedia.org/wiki/Sicurezza_informatica",
   "description": "La sicurezza informatica (in inglese computer security) è l'insieme dei mezzi, delle tecnologie e delle procedure tesi alla \nprotezione dei sistemi informatici in termini di disponibilità, confidenzialità e integrità dei beni o asset informatici. La sicurezza informatica è un problema molto sentito in ambito tecnico-informatico per via della crescente informatizzazione della società e dei servizi (pubblici e privati) in termini di apparati e sistemi informatici e della parallela diffusione e specializzazione degli attaccanti."
 }
 ,{
-  "id": 111,
+  "id": 108,
   "subject": "Maggiore inclusione per gli immigrati regolari",
   "slug": "maggiore-inclusione-per-gli-immigrati-regolari",
   "url": "https://it.wikipedia.org/wiki/Inclusione_sociale#Inclusione,_integrazione,_normalizzazione",
   "description": "Il termine inclusione sociale si riferisce alla società e alle sue attività inclusive. Abbraccia numerosi aspetti e ambiti tra i quali l'inclusione scolastica e l'inclusione lavorativa. Il fine ultimo dell'inclusione sociale è garantire l'inserimento di ciascun individuo all'interno della società indipendentemente dalla presenza di elementi limitanti."
 }
 ,{
-  "id": 112,
+  "id": 109,
   "subject": "Creazione di hot-spot fuori dall'Ue",
   "slug": "creazione-di-hotspot-fuori-dallue",
   "url": "https://it.wikipedia.org/wiki/Convenzioni_sui_profughi#Il_metodo_%E2%80%9Chotspot%E2%80%9D[4]",
   "description": "Il termine hotspot indica le “zone di crisi”, ossia quelle aree situate esternamente alle frontiere dell’UE che sono interessate da uno sproporzionato flusso migratorio. In questi punti, i funzionari nazionali sono affiancati da “squadre di sostegno per la gestione della migrazione”, a loro volta composte da personale proveniente da varie Agenzie dell’UE."
 }
 ,{
-  "id": 113,
+  "id": 110,
   "subject": "Abolizione della legge \"Bossi-Fini\"",
   "slug": "abolizione-della-legge-bossifini",
   "url": "https://it.wikipedia.org/wiki/Legge_Bossi-Fini",
   "description": "La legge 30 luglio 2002, n. 189, meglio nota come legge Bossi-Fini, è una normativa della Repubblica Italiana che disciplina l'immigrazione, detta così dai primi firmatari Gianfranco Fini e Umberto Bossi che nel governo Berlusconi II ricoprivano rispettivamente le cariche di vicepresidente del Consiglio dei ministri e di ministro per le riforme istituzionali e la devoluzione. Le principali novità della legge furono le seguenti: espulsioni con accompagnamento alla frontiera, permesso di soggiorno legato ad un lavoro effettivo, inasprimento delle pene per i trafficanti di esseri umani, sanatoria per colf, assistenti ad anziani, malati e diversamente abili, lavoratori con contratto di lavoro di almeno 1 anno, uso delle navi della Marina Militare per contrastare il traffico di clandestini."
 }
 ,{
-  "id": 114,
+  "id": 111,
   "subject": "Allargamento dei corridoi umanitari",
   "slug": "allargamento-dei-corridoi-umanitari",
   "url": "https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/temi_globali/diritti_umani/i-corridoi-umanitari/",
   "description": "I corridoi umanitari sono un progetto pilota di “patrocinio privato” nell’accoglienza e integrazione di migranti vulnerabili e rifugiati. L’esperienza dimostra come, utilizzando gli strumenti legislativi già a disposizione degli Stati membri dell’Unione europea, si possano garantire ingressi regolari scongiurando rischiosi “viaggi della speranza” a favore di persone in condizioni di particolare vulnerabilità e di effettivo bisogno di protezione internazionale."
 }
 ,{
-  "id": 115,
+  "id": 112,
   "subject": "Riforma dei trattati Ue sull'immigrazione",
   "slug": "riforma-dei-trattati-ue-sullimmigrazione",
   "url": "https://it.wikipedia.org/wiki/Convenzione_di_Dublino",
   "description": "La Convenzione sulla determinazione dello Stato competente per l'esame di una domanda di asilo presentata in uno degli Stati membri della Comunità europea, comunemente conosciuta come Convenzione di Dublino, è un trattato internazionale multilaterale in tema di diritto di asilo. Il corrispondente regolamento di Dublino (formalmente chiamato \"Regolamento UE n. 604/2013\" oppure Regolamento di Dublino III) è un regolamento dell'Unione europea, che stabilisce \"i criteri e i meccanismi di determinazione dello Stato membro competente per l'esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione)\", nell'ambito della Convenzione relativa allo status dei rifugiati del 1951 e la relativa direttiva UE."
 }
 ,{
-  "id": 116,
+  "id": 113,
   "subject": "Riforma del Patto di stabilità e crescita",
   "slug": "riforma-del-patto-di-stabilit-e-crescita",
   "url": "https://it.wikipedia.org/wiki/Patto_di_stabilit%C3%A0_e_crescita",
   "description": "Il patto di stabilità e crescita (PSC) è un accordo internazionale, stipulato e sottoscritto nel 1997 dagli Stati membri dell'Unione europea, inerente al controllo delle rispettive politiche di bilancio pubbliche, al fine di mantenere fermi i requisiti di adesione all'Unione economica e monetaria dell'Unione europea (Eurozona) ovvero rafforzare il percorso d'integrazione monetaria intrapreso nel 1992 con la sottoscrizione del trattato di Maastricht."
 }
 ,{
-  "id": 117,
+  "id": 114,
   "subject": "Accordi di cooperazione con Paesi d'origine",
   "slug": "accordi-di-cooperazione-con-paesi-dorigine",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 118,
-  "subject": "Maggiori risorse alla cooperazione per lo sviluppo",
-  "slug": "maggiori-risorse-alla-cooperazione-per-lo-sviluppo",
-  "url": "",
-  "description": ""
-}
-,{
-  "id": 119,
+  "id": 115,
   "subject": "Elezione diretta del presidente del Consiglio",
   "slug": "elezione-diretta-del-presidente-del-consiglio",
   "url": "https://it.wikipedia.org/wiki/Premierato",
   "description": "Col termine premierato si indicano nel linguaggio politico varianti della forma di governo parlamentare dai contorni non sempre ben definiti.  In generale le due caratteristiche che vengono attribuite (solo talvolta congiuntamente) al premierato sono - l'indicazione del capo di governo da parte dell'elettorato (se non l'elezione diretta) e/o - un ruolo rafforzato dello stesso capo di governo rispetto al parlamento. In Italia la carica non è elettiva ma viene assegnata dal Presidente della Repubblica ai sensi dell'articolo 92 della Costituzione."
 }
 ,{
-  "id": 120,
+  "id": 116,
   "subject": "Riforma della legge elettorale",
   "slug": "riforma-della-legge-elettorale",
   "url": "https://it.wikipedia.org/wiki/Sistema_elettorale_in_Italia",
   "description": "Il sistema elettorale italiano è l'insieme delle regole con cui, sulla base dei voti espressi dai cittadini italiani durante le elezioni, sono assegnati i seggi all'interno degli organi politico-istituzionali locali, nazionali ed europei."
 }
 ,{
-  "id": 121,
+  "id": 117,
   "subject": "Digitalizzazione della giustizia",
   "slug": "digitalizzazione-della-giustizia",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 122,
+  "id": 118,
   "subject": "Minore durata dei processi",
   "slug": "minore-durata-dei-processi",
   "url": "https://it.wikipedia.org/wiki/Processo_(diritto)",
   "description": "Il processo (talvolta indicato come giudizio), in diritto, è il procedimento attraverso il quale viene esercitata la funzione giurisdizionale e si conclude con una sentenza."
 }
 ,{
-  "id": 123,
+  "id": 119,
   "subject": "Maggiore ricorso alla depenalizzazione",
   "slug": "maggiore-ricorso-alla-depenalizzazione",
   "url": "https://it.wikipedia.org/wiki/Depenalizzazione",
   "description": "La depenalizzazione, nel gergo giuridico italiano, consiste nel trasformare illeciti penali in illeciti amministrativi."
 }
 ,{
-  "id": 124,
+  "id": 120,
   "subject": "Riforma delle professioni penitenziarie",
   "slug": "riforma-delle-professioni-penitenziarie",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 125,
+  "id": 121,
   "subject": "Investimenti nell'edilizia per la giustizia",
   "slug": "investimenti-nelledilizia-per-la-giustizia",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 126,
+  "id": 122,
   "subject": "Separazione delle carriere dei Magistrati",
   "slug": "separazione-delle-carriere-dei-magistrati",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 127,
+  "id": 123,
   "subject": "Riforma della giustizia civile e penale",
   "slug": "riforma-della-giustizia-civile-e-penale",
   "url": "",
   "description": ""
 }
 ,{
-  "id": 128,
+  "id": 124,
   "subject": "Riforma della giustizia tributaria",
   "slug": "riforma-della-giustizia-tributaria",
   "url": "https://it.wikipedia.org/wiki/Giustizia_tributaria",
   "description": "Con il termine giustizia tributaria si fa riferimento, nel diritto tributario, all'insieme di mezzi che l'ordinamento giuridico predispone a tutela delle situazioni giuridiche dei soggetti nei confronti delle pubbliche amministrazioni impositrici di prestazioni tributarie."
 }
 ,{
-  "id": 129,
+  "id": 125,
   "subject": "Modifica della legge \"Severino\"",
   "slug": "modifica-della-legge-severino",
   "url": "https://it.wikipedia.org/wiki/Legge_Severino",
   "description": "La legge 6 novembre 2012, n. 190 (nota anche come legge Severino dal nome del Ministro della giustizia del governo Monti, Paola Severino) è una legge della Repubblica Italiana in tema di prevenzione e repressione della corruzione."
 }
 ,{
-  "id": 130,
-  "subject": "Revisione della riforma del CSM",
-  "slug": "revisione-della-riforma-del-csm",
-  "url": "https://it.wikipedia.org/wiki/Consiglio_superiore_della_magistratura",
-  "description": "Il CSM è organo di autogoverno che ha lo scopo di garantire l'autonomia e l'indipendenza della magistratura dagli altri poteri dello Stato, in particolare da quello esecutivo, secondo il principio di separazione dei poteri espresso nella Costituzione della Repubblica italiana. In particolare è un organo di rilievo costituzionale e si fa riferimento ad esso nella Costituzione italiana agli articoli 104, 105, 106 e 107."
-}
-,{
-  "id": 131,
+  "id": 126,
   "subject": "Riforma della custodia cautelare",
   "slug": "riforma-della-custodia-cautelare",
   "url": "https://it.wikipedia.org/wiki/Custodia_cautelare_in_carcere",
   "description": "La custodia cautelare in carcere è una misura cautelare personale, coercitiva e custodiale, prevista e disciplinata dall'art. 285 codice di procedura penale. Col provvedimento che dispone la custodia, il giudice ordina agli ufficiali e agli agenti di polizia giudiziaria che l'indagato o imputato sia catturato e immediatamente condotto in un istituto di custodia per rimanervi a disposizione dell'autorità giudiziaria."
 }
 ,{
-  "id": 132,
+  "id": 127,
   "subject": "Riduzione del sovraffolamento carcerario",
   "slug": "riduzione-del-sovraffolamento-carcerario",
   "url": "https://en.wikipedia.org/wiki/Prison_overcrowding",
   "description": ""
 }
 ,{
-  "id": 133,
+  "id": 128,
   "subject": "Eliminazione della prescrizione",
   "slug": "eliminazione-della-prescrizione",
   "url": "https://it.wikipedia.org/wiki/Prescrizione_(ordinamento_civile_italiano)",
   "description": "La prescrizione del reato è l'istituto che risponde a un principio di economia dei sistemi giudiziari in base al quale lo Stato rinuncia a perseguire l'autore di un reato, quando dalla sua commissione sia trascorso un periodo di tempo giudicato eccessivamente lungo e solitamente proporzionale alla gravità dello stesso. In altre parole, si intende evitare che la macchina giudiziaria continui a impegnare risorse per la punizione di reati commessi troppo tempo prima e per i quali è socialmente meno sentita l'esigenza di una tutela giuridica penale, e ciò anche nell'ottica della funzione socialmente rieducativa della pena (art. 27 Cost.)."
 }
 ,{
-  "id": 134,
+  "id": 129,
   "subject": "Responsabilità civile dei magistrati",
   "slug": "responsabilit-civile-dei-magistrati",
   "url": "https://it.wikipedia.org/wiki/Magistratura_italiana#La_responsabilit%C3%A0",

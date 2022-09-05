@@ -1,6 +1,6 @@
 subject,subject_id,category,category_id
 "Abolizione della ""Buona Scuola""",34,Istruzione e ricerca,8
-Abolizione del numero chiuso all'università,95,Istruzione e ricerca,8
+Abolizione del numero chiuso all'università,94,Istruzione e ricerca,8
 "Abolizione della ""legge Gelmini""",35,Istruzione e ricerca,8
 "Abrogazione della ""legge Fornero""",37,Lavoro e politiche sociali,9
 Adesione all'UE,13,Esteri e difesa,2
@@ -14,16 +14,16 @@ Apprendistato retribuito,62,Lavoro e politiche sociali,9
 Più risorse ai piccoli comuni,57,Istituzioni e giustizia,1
 Aumento dell'assegno sociale per gli invalidi,66,Lavoro e politiche sociali,9
 Aumento dell'assegno unico universale,29,Lavoro e politiche sociali,9
-Aumento del numero di medici,59,Sanità,6
+Aumento del numero di medici,59,Sanità e sport,6
 Aumento degli asili nido,48,Lavoro e politiche sociali,9
 Aumento delle pensioni,12,Lavoro e politiche sociali,9
-Aumento delle spese militari,101,Esteri e difesa,2
-Aumento delle spese militari,101,Economia e fisco,4
+Aumento delle spese militari,98,Esteri e difesa,2
+Aumento delle spese militari,98,Economia e fisco,4
 Aumento dello stipendio dei docenti,60,Lavoro e politiche sociali,9
 Aumento dello stipendio dei docenti,60,Istruzione e ricerca,8
 Autonomia differenziata,70,Istituzioni e giustizia,1
-Commissione di inchiesta sulla Covid-19,99,Sanità,6
-Condoni fiscali o edilizi,103,Economia e fisco,4
+Commissione di inchiesta sulla Covid-19,96,Sanità e sport,6
+Condoni fiscali o edilizi,100,Economia e fisco,4
 Congedo di paternità,49,Lavoro e politiche sociali,9
 Introduzione del conto unico fiscale,30,Economia e fisco,4
 Lotta all'evasione fiscale,31,Economia e fisco,4
@@ -35,45 +35,44 @@ Diritto all'aborto,46,Diritti civili,10
 Educazione sessuale,52,Istruzione e ricerca,8
 Eliminazione del precariato,65,Istruzione e ricerca,8
 Energie rinnovabili,19,Ambiente ed energia,5
-Favorire la creazione delle comunità energetiche,79,Ambiente ed energia,5
-Favorire il riscatto della laurea,91,Lavoro e politiche sociali,9
-Fine del segreto di Stato sulle stragi,97,Istituzioni e giustizia,1
+Favorire la creazione delle comunità energetiche,78,Ambiente ed energia,5
+Favorire il riscatto della laurea,90,Lavoro e politiche sociali,9
+Fine del segreto di Stato sulle stragi,#N/A,Istituzioni e giustizia,1
 Flat tax,5,Economia e fisco,4
-Green Pass,63,Sanità,6
+Green Pass,63,Sanità e sport,6
 Termovalorizzatori,20,Ambiente ed energia,5
-Integrazione tra università e aziende,85,Istruzione e ricerca,8
-Integrazione tra università e aziende,85,Lavoro e politiche sociali,9
+Integrazione tra università e aziende,84,Istruzione e ricerca,8
+Integrazione tra università e aziende,84,Lavoro e politiche sociali,9
 Investimenti in infrastrutture,21,Economia e fisco,4
 Investimenti per il Mezzogiorno,22,Economia e fisco,4
 Investimenti per la formazione dei docenti,72,Istruzione e ricerca,8
-Investimenti per le politiche sportive,73,"Cultura, turismo e sport",7
+Investimenti per le politiche sportive,73,Sanità e sport,6
 Ius scholae,43,Diritti civili,10
 Ius soli,44,Diritti civili,10
 Legalizzazione della cannabis,51,Diritti civili,10
 Legge sul fine vita,41,Diritti civili,10
-Libri di testo gratuiti,80,Istruzione e ricerca,8
-Lotta alla corruzione,100,Sicurezza e immigrazione,3
+Libri di testo gratuiti,79,Istruzione e ricerca,8
+Lotta alla corruzione,97,Sicurezza e immigrazione,3
 Lotta alla mafia,39,Sicurezza e immigrazione,3
 Lotta alla omotransfobia,40,Diritti civili,10
 Sostegno ai disabili nelle scuole,74,Istruzione e ricerca,8
 Investimenti per la ricerca,23,Istruzione e ricerca,8
 Matrimonio egualitario,50,Diritti civili,10
 Mense scolastiche gratuite,77,Istruzione e ricerca,8
-No al dumping sociale dei lavoratori,78,Lavoro e politiche sociali,9
 Nucleare,16,Ambiente ed energia,5
 Obbligo scolastico fino a 18 anni,68,Istruzione e ricerca,8
-Obbligo Vaccinale,64,Sanità,6
+Obbligo Vaccinale,64,Sanità e sport,6
 Parità salariale,42,Lavoro e politiche sociali,9
 Patrimoniale,28,Economia e fisco,4
-Più attività extrascolastiche,94,Istruzione e ricerca,8
-Più meritocrazia a scuola e nei concorsi,81,Istruzione e ricerca,8
+Più attività extrascolastiche,93,Istruzione e ricerca,8
+Più meritocrazia a scuola e nei concorsi,80,Istruzione e ricerca,8
 Ponte sullo Stretto,53,Economia e fisco,4
 Presidenzialismo,18,Istituzioni e giustizia,1
-Promozione degli Istituti tecnici superiori,82,Istruzione e ricerca,8
+Promozione degli Istituti tecnici superiori,81,Istruzione e ricerca,8
 Lavoro agile,55,Lavoro e politiche sociali,9
 Made in Italy,56,Economia e fisco,4
-Promozione della parità di genere,83,Diritti civili,10
-Promozione della sicurezza sul lavoro,84,Lavoro e politiche sociali,9
+Promozione della parità di genere,82,Diritti civili,10
+Promozione della sicurezza sul lavoro,83,Lavoro e politiche sociali,9
 Realizzazione delle grandi opere,54,Economia e fisco,4
 Reddito di cittadinanza,11,Lavoro e politiche sociali,9
 Revisione del PNRR,24,Economia e fisco,4
@@ -81,61 +80,58 @@ Riduzione delle bollette energetiche,27,Ambiente ed energia,5
 Riduzione dell'IVA,4,Economia e fisco,4
 Riduzione o eliminazione dell'IRAP,25,Economia e fisco,4
 "Attuazione della ""riforma Cartabia""",36,Istituzioni e giustizia,1
-Riforma del sistema penitenziario,105,Istituzioni e giustizia,1
+Riforma del sistema penitenziario,102,Istituzioni e giustizia,1
 Rigassificatori,17,Ambiente ed energia,5
-Ripristino dell'articolo 18,96,Lavoro e politiche sociali,9
 Salario minimo,6,Lavoro e politiche sociali,9
 Sanzioni contro la Russia,10,Esteri e difesa,2
-Scuola infanzia gratuita,86,Istruzione e ricerca,8
-Scuola dell'infanzia obbligatoria,93,Istruzione e ricerca,8
-Leva militare obbligatoria,102,Esteri e difesa,2
-Sostegno alla scuola paritaria,92,Istruzione e ricerca,8
-Sostegno alle imprese turistiche,104,"Cultura, turismo e sport",7
-Sostegno ai meno abbienti e incapienti,88,Lavoro e politiche sociali,9
+Scuola infanzia gratuita,85,Istruzione e ricerca,8
+Scuola dell'infanzia obbligatoria,92,Istruzione e ricerca,8
+Leva militare obbligatoria,99,Esteri e difesa,2
+Sostegno alla scuola paritaria,91,Istruzione e ricerca,8
+Sostegno alle imprese turistiche,101,Economia e fisco,4
+Sostegno ai meno abbienti e incapienti,87,Lavoro e politiche sociali,9
 Sostegno per gli universitari fuorisede,75,Istruzione e ricerca,8
 Sostegno a piccole e medie imprese,26,Economia e fisco,4
 Sostegno a piccole e medie imprese,26,Lavoro e politiche sociali,9
 Sostegno psicologico scolastico,71,Istruzione e ricerca,8
 Superbonus 110%,7,Economia e fisco,4
 Supporto alla maternità,47,Lavoro e politiche sociali,9
-Sviluppo dei servizi sanitari di prossimità,89,Sanità,6
+Sviluppo dei servizi sanitari di prossimità,88,Sanità e sport,6
 Taglio del cuneo fiscale,2,Economia e fisco,4
 Taglio delle tasse per le partite IVA,3,Economia e fisco,4
 Tetto al prezzo del gas,1,Ambiente ed energia,5
-Trasporto scolastico gratuito,87,Istruzione e ricerca,8
+Trasporto scolastico gratuito,86,Istruzione e ricerca,8
 Trivelle,15,Ambiente ed energia,5
-Tutela dell'ambiente e del paesaggio,90,Ambiente ed energia,5
-Tutela del benessere animale,98,Ambiente ed energia,5
-Tutela del benessere animale,98,Sanità,6
+Tutela dell'ambiente e del paesaggio,89,Ambiente ed energia,5
+Tutela del benessere animale,95,Ambiente ed energia,5
+Tutela del benessere animale,95,Sanità e sport,6
 Uscita dall'Euro,14,Esteri e difesa,2
 Uscita dall'Euro,14,Economia e fisco,4
 Voto per i fuorisede,45,Diritti civili,10
-Ripristino dei decreti Sicurezza,106,Sicurezza e immigrazione,3
-Riforma del sistema di accoglienza,107,Sicurezza e immigrazione,3
-Blocco navale,108,Sicurezza e immigrazione,3
-Contrasto alle baby gang,109,Sicurezza e immigrazione,3
-Investimenti in cybersicurezza,110,Economia e fisco,4
-Maggiore inclusione per gli immigrati regolari,111,Sicurezza e immigrazione,3
-Creazione di hot-spot fuori dall'Ue,112,Sicurezza e immigrazione,3
-"Abolizione della legge ""Bossi-Fini""",113,Sicurezza e immigrazione,3
-Allargamento dei corridoi umanitari,114,Sicurezza e immigrazione,3
-Riforma dei trattati Ue sull'immigrazione,115,Sicurezza e immigrazione,3
-Riforma del Patto di stabilità e crescita,116,Esteri e difesa,2
-Accordi di cooperazione con Paesi d'origine,117,Sicurezza e immigrazione,3
-Maggiori risorse alla cooperazione per lo sviluppo ,118,Sicurezza e immigrazione,3
-Elezione diretta del presidente del Consiglio,119,Istituzioni e giustizia,1
-Riforma della legge elettorale,120,Istituzioni e giustizia,1
-Digitalizzazione della giustizia,121,Istituzioni e giustizia,1
-Minore durata dei processi,122,Istituzioni e giustizia,1
-Maggiore ricorso alla depenalizzazione,123,Istituzioni e giustizia,1
-Riforma delle professioni penitenziarie,124,Istituzioni e giustizia,1
-Investimenti nell'edilizia per la giustizia,125,Istituzioni e giustizia,1
-Separazione delle carriere dei Magistrati,126,Istituzioni e giustizia,1
-Riforma della giustizia civile e penale,127,Istituzioni e giustizia,1
-Riforma della giustizia tributaria,128,Istituzioni e giustizia,1
-"Modifica della legge ""Severino""",129,Istituzioni e giustizia,1
-Revisione della riforma del CSM,130,Istituzioni e giustizia,1
-Riforma della custodia cautelare,131,Istituzioni e giustizia,1
-Riduzione del sovraffolamento carcerario,132,Istituzioni e giustizia,1
-Eliminazione della prescrizione,133,Istituzioni e giustizia,1
-Responsabilità civile dei magistrati,134,Istituzioni e giustizia,1
+Ripristino dei decreti Sicurezza,103,Sicurezza e immigrazione,3
+Riforma del sistema di accoglienza,104,Sicurezza e immigrazione,3
+Blocco navale,105,Sicurezza e immigrazione,3
+Contrasto alle baby gang,106,Sicurezza e immigrazione,3
+Investimenti in cybersicurezza,107,Economia e fisco,4
+Maggiore inclusione per gli immigrati regolari,108,Sicurezza e immigrazione,3
+Creazione di hot-spot fuori dall'Ue,109,Sicurezza e immigrazione,3
+"Abolizione della legge ""Bossi-Fini""",110,Sicurezza e immigrazione,3
+Allargamento dei corridoi umanitari,111,Sicurezza e immigrazione,3
+Riforma dei trattati Ue sull'immigrazione,112,Sicurezza e immigrazione,3
+Riforma del Patto di stabilità e crescita,113,Esteri e difesa,2
+Accordi di cooperazione con Paesi d'origine,114,Sicurezza e immigrazione,3
+Elezione diretta del presidente del Consiglio,115,Istituzioni e giustizia,1
+Riforma della legge elettorale,116,Istituzioni e giustizia,1
+Digitalizzazione della giustizia,117,Istituzioni e giustizia,1
+Minore durata dei processi,118,Istituzioni e giustizia,1
+Maggiore ricorso alla depenalizzazione,119,Istituzioni e giustizia,1
+Riforma delle professioni penitenziarie,120,Istituzioni e giustizia,1
+Investimenti nell'edilizia per la giustizia,121,Istituzioni e giustizia,1
+Separazione delle carriere dei Magistrati,122,Istituzioni e giustizia,1
+Riforma della giustizia civile e penale,123,Istituzioni e giustizia,1
+Riforma della giustizia tributaria,124,Istituzioni e giustizia,1
+"Modifica della legge ""Severino""",125,Istituzioni e giustizia,1
+Riforma della custodia cautelare,126,Istituzioni e giustizia,1
+Riduzione del sovraffolamento carcerario,127,Istituzioni e giustizia,1
+Eliminazione della prescrizione,128,Istituzioni e giustizia,1
+Responsabilità civile dei magistrati,129,Istituzioni e giustizia,1

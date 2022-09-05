@@ -20,7 +20,7 @@
   "type": "articolo",
   "subject": "Tutela dell'ambiente e del paesaggio",
   "list": "Forza Italia",
-  "subject_id": 90,
+  "subject_id": 89,
   "list_id": 3
 }
 ,{
@@ -212,7 +212,7 @@
   "type": "articolo",
   "subject": "Riforma della legge elettorale",
   "list": "",
-  "subject_id": 120,
+  "subject_id": 116,
   "list_id": ""
 }
 ,{
@@ -272,7 +272,7 @@
   "type": "articolo",
   "subject": "Blocco navale",
   "list": "Fratelli d'Italia",
-  "subject_id": 108,
+  "subject_id": 105,
   "list_id": 1
 }
 ,{
@@ -520,7 +520,7 @@
   "post_id": 39,
   "url": "https://pagellapolitica.it/articoli/italia-sovrana-popolare-elezioni-2022",
   "post_title": "Chi sono gli “antisistema”: Italia sovrana e popolare",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "La terza parte della guida di Pagella Politica ai partiti che si collocano \nfuori dal sistema della politica nazionale",
   "type": "articolo",
   "subject": "",
   "list": "Italia Sovrana e Popolare",
@@ -568,7 +568,7 @@
   "post_id": 43,
   "url": "https://pagellapolitica.it/articoli/reddito-cittadinanza-modifiche-elezioni",
   "post_title": "Come i partiti promettono di cambiare il reddito di cittadinanza",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "Tutti i programmi elettorali propongono di modificare il sussidio, ma in \nmodi diversi: ecco le posizioni in campo",
   "type": "articolo",
   "subject": "Reddito di cittadinanza",
   "list": "",
@@ -591,12 +591,12 @@
   "id": 50,
   "post_id": 45,
   "url": "https://pagellapolitica.it/articoli/meloni-fuorviante-immigrazione-sicurezza-ue",
-  "post_title": "Meloni è fuorviante su migranti, sicurezza e Ue",
+  "post_title": "Loading...",
   "post_subtitle": "Dagli sbarchi alle richieste d’asilo accettate, abbiamo verificato cinque \nfrasi della presidente di Fratelli d’Italia sull’immigrazione",
   "type": "articolo",
   "subject": "Blocco navale",
   "list": "Fratelli d'Italia",
-  "subject_id": 108,
+  "subject_id": 105,
   "list_id": 1
 }
 ,{
@@ -855,7 +855,7 @@
   "id": 72,
   "post_id": 67,
   "url": "https://pagellapolitica.it/articoli/ronzulli-rigassificatori-estrazione-gas",
-  "post_title": "Loading...",
+  "post_title": "No, i rigassificatori non servono per l’estrazione del gas",
   "post_subtitle": "Lo ha scritto sui social la senatrice di Forza Italia Licia Ronzulli, \nfacendo un po’ di confusione",
   "type": "articolo",
   "subject": "Rigassificatori",
@@ -868,7 +868,7 @@
   "post_id": 68,
   "url": "https://pagellapolitica.it/articoli/pd-obbligo-scolastico-elezioni-2022",
   "post_title": "I fatti dietro la promessa: il Pd e l’estensione dell’obbligo scolastico",
-  "post_subtitle": "Il segretario Enrico Letta vorrebbe rendere obbligatoria l’istruzione dai 3 \nfino ai 18 anni: ecco quali sono le regole nel resto dell’Ue e le obiezioni \nprincipali",
+  "post_subtitle": "Loading...",
   "type": "articolo",
   "subject": "Obbligo scolastico fino a 18 anni",
   "list": "Partito Democratico",
@@ -932,7 +932,7 @@
   "type": "articolo",
   "subject": "Condoni fiscali o edilizi",
   "list": "Partito Democratico",
-  "subject_id": 103,
+  "subject_id": 100,
   "list_id": 5
 }
 ,{
@@ -987,12 +987,12 @@
   "id": 83,
   "post_id": 75,
   "url": "https://pagellapolitica.it/articoli/salvini-servizio-miliare-obbligatorio",
-  "post_title": "Loading...",
+  "post_title": "Salvini e la leva obbligatoria: molte parole, pochi fatti",
   "post_subtitle": "Da anni il segretario della Lega propone di reintrodurre l’obbligo di \nservizio militare per i giovani, senza provarci mai sul serio",
   "type": "articolo",
   "subject": "Leva militare obbligatoria",
   "list": "Lega",
-  "subject_id": 102,
+  "subject_id": 99,
   "list_id": 2
 }
 ,{
@@ -1000,7 +1000,7 @@
   "post_id": 76,
   "url": "https://pagellapolitica.it/articoli/scostamento-bilancio-rincari-bollette",
   "post_title": "Chi vuole lo scostamento di bilancio e chi no",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "Ecco quali sono i partiti che chiedono al governo di prendere soldi a \ndebito per contrastare i rincari energetici e quelli che invece sono \ndubbiosi o contrari",
   "type": "articolo",
   "subject": "Riduzione delle bollette energetiche",
   "list": "",
@@ -1016,7 +1016,7 @@
   "type": "articolo",
   "subject": "Blocco navale",
   "list": "Fratelli d'Italia",
-  "subject_id": 108,
+  "subject_id": 105,
   "list_id": 1
 }
 ,{
@@ -1028,7 +1028,7 @@
   "type": "articolo",
   "subject": "Riforma della legge elettorale",
   "list": "",
-  "subject_id": 120,
+  "subject_id": 116,
   "list_id": ""
 }
 ,{
@@ -1052,7 +1052,7 @@
   "type": "articolo",
   "subject": "Favorire il riscatto della laurea",
   "list": "Movimento 5 Stelle",
-  "subject_id": 91,
+  "subject_id": 90,
   "list_id": 9
 }
 ,{
@@ -1088,7 +1088,7 @@
   "type": "fact-checking",
   "subject": "Riforma della legge elettorale",
   "list": "Partito Democratico",
-  "subject_id": 120,
+  "subject_id": 116,
   "list_id": 5
 }
 ,{
@@ -1136,7 +1136,7 @@
   "type": "fact-checking",
   "subject": "Condoni fiscali o edilizi",
   "list": "Forza Italia",
-  "subject_id": 103,
+  "subject_id": 100,
   "list_id": 3
 }
 ,{
@@ -1196,7 +1196,7 @@
   "type": "fact-checking",
   "subject": "Riforma del sistema penitenziario",
   "list": "Lega",
-  "subject_id": 105,
+  "subject_id": 102,
   "list_id": 2
 }
 ,{
@@ -1208,7 +1208,7 @@
   "type": "fact-checking",
   "subject": "Riforma dei trattati Ue sull'immigrazione",
   "list": "Lega",
-  "subject_id": 115,
+  "subject_id": 112,
   "list_id": 2
 }
 ,{
@@ -1360,7 +1360,7 @@
   "post_id": 98,
   "url": "https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni",
   "post_title": "Calenda cita i sondaggi sulle elezioni di Roma in modo fuorviante",
-  "post_subtitle": "«A Roma prima delle elezioni comunali ci davano al 5,9 per cento e abbiamo \npreso il 19,8 per cento»",
+  "post_subtitle": "Loading...",
   "type": "fact-checking",
   "subject": "",
   "list": "Azione-Italia Viva-Calenda",
@@ -1448,7 +1448,7 @@
   "type": "fact-checking",
   "subject": "Tutela dell'ambiente e del paesaggio",
   "list": "Alleanza Verdi e Sinistra",
-  "subject_id": 90,
+  "subject_id": 89,
   "list_id": 6
 }
 ,{
@@ -1544,7 +1544,7 @@
   "type": "fact-checking",
   "subject": "Blocco navale",
   "list": "Lega",
-  "subject_id": 108,
+  "subject_id": 105,
   "list_id": 2
 }
 ,{
@@ -1552,11 +1552,11 @@
   "post_id": 110,
   "url": "https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania",
   "post_title": "È vero che gli studenti degli Its in Germania sono 50 volte quelli in \nItalia?",
-  "post_subtitle": "«Il nostro Paese ha meno di 20 mila studenti agli Its mentre la Germania ne \nha un milione»",
+  "post_subtitle": "Loading...",
   "type": "fact-checking",
   "subject": "Promozione degli Istituti tecnici superiori",
   "list": "Partito Democratico",
-  "subject_id": 82,
+  "subject_id": 81,
   "list_id": 5
 }
 ,{
@@ -1580,7 +1580,7 @@
   "type": "fact-checking",
   "subject": "Leva militare obbligatoria",
   "list": "Forza Italia",
-  "subject_id": 102,
+  "subject_id": 99,
   "list_id": 3
 }
 ,{
@@ -1616,7 +1616,7 @@
   "type": "fact-checking",
   "subject": "Tutela dell'ambiente e del paesaggio",
   "list": "Alleanza Verdi e Sinistra",
-  "subject_id": 90,
+  "subject_id": 89,
   "list_id": 6
 }
 ,{
@@ -1700,7 +1700,7 @@
   "type": "fact-checking",
   "subject": "Tutela dell'ambiente e del paesaggio",
   "list": "Alleanza Verdi e Sinistra",
-  "subject_id": 90,
+  "subject_id": 89,
   "list_id": 6
 }
 ,{
@@ -1732,7 +1732,7 @@
   "post_id": 121,
   "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico",
   "post_title": "Meloni ha ragione: in 15 mesi il debito pubblico è cresciuto di 116 \nmiliardi di euro",
-  "post_subtitle": "«Negli ultimi 15 mesi il debito pubblico italiano è cresciuto di 116 \nmiliardi»",
+  "post_subtitle": "Loading...",
   "type": "fact-checking",
   "subject": "",
   "list": "Fratelli d'Italia",
@@ -1744,7 +1744,7 @@
   "post_id": 122,
   "url": "https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia",
   "post_title": "È vero che la povertà in Italia è triplicata negli ultimi 15 anni?",
-  "post_subtitle": "Loading...",
+  "post_subtitle": "«In Italia la povertà assoluta è triplicata negli ultimi 15 anni»",
   "type": "fact-checking",
   "subject": "",
   "list": "",
@@ -1784,7 +1784,7 @@
   "type": "fact-checking",
   "subject": "Abolizione del numero chiuso all'università",
   "list": "Lega",
-  "subject_id": 95,
+  "subject_id": 94,
   "list_id": 2
 }
 ]
