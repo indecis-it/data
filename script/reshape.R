@@ -40,7 +40,8 @@ long <- df %>%
     select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
-write.csv(long, here("data/items.csv"), na = "", fileEncoding = "UTF-8")
+# write.csv(long, here("data/items.csv"), na = "", fileEncoding = "UTF-8")
+write_csv(long, here("data/items.csv"), na = "")
 print("Reshaping completed! items.csv created.")
 
 # generating glossary.csv
