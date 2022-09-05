@@ -26,26 +26,22 @@ jobs:
         run: |
           R -e 'install.packages(c("here", "dplyr", "tidyr", "readr", "jsonlite"))'
       
-      - name: Reshape items & Build json (R script)
+      - name: Reshape items (R script)
         run: Rscript script/reshape.R
-    
-#      - name: Install miller
-#        run: |-
-#          sudo apt-get install miller
 
-#      - name: Test Install miller
-#        run: |-
-#          curl -kL "https://raw.githubusercontent.com/ondata/covid19italia/master/bin/mlr" > mlr
-#          mkdir -p ~/bin
-#          mv mlr ~/bin
-#          cd ~/bin
-#          chmod +x mlr
-#          export PATH=$PATH:~/bin
+      - name: Install miller
+        run: |-
+          curl -kL "https://raw.githubusercontent.com/ondata/covid19italia/master/bin/mlr" > mlr
+          mkdir -p ~/bin
+          mv mlr ~/bin
+          cd ~/bin
+          chmod +x mlr
 
-#      - name: Build json
-#        run: |-
-#          chmod +x script/convert.sh
-#          script/convert.sh
+      - name: Build json
+        run: |-
+          export PATH=$PATH:~/bin
+          chmod +x script/convert.sh
+          script/convert.sh
           
       - name: Validate data
         uses: frictionlessdata/repository@v2

@@ -40,14 +40,18 @@ long <- df %>%
     select(id, category, category_id, subject, subject_slug, subject_id, source, source_slug, list, list_id, endorsement, description)
 
 # exporting csv
-write_csv(long, here("data/items.csv"), na ="")
+write.csv(long, here("data/items.csv"), na = "", fileEncoding = "UTF-8")
 print("Reshaping completed! items.csv created.")
 
 # generating glossary.csv
 df %>%
     select(subject_id, subject, subject_slug, info, subject_description) %>%
-    rename(id = subject_id, url = info) %>%
-    write_csv(., here("data/glossary.csv"), na ="")
+    rename(
+        id = subject_id,
+        url = info,
+        slug = subject_slug,
+        description = subject_description) %>%
+    write.csv(., here("data/glossary.csv"), na = "", fileEncoding = "UTF-8")
 
 print("glossary.csv created")
 
@@ -56,12 +60,11 @@ file.remove(here("data/wide.csv"))
 print("wide.csv deleted")
 
 # generating json
-
-files <- list.files(path="data/", pattern="*.csv", full.names=TRUE, recursive=FALSE)
-
-lapply(files, function(x) {
-    read_csv(x) %>%
-    toJSON() %>%
-    write(., gsub(".csv", ".json", x))
-})
-print("csv2json completed")
+# files <- list.files(path="data/", pattern="*.csv", full.names=TRUE, recursive=FALSE)
+# 
+# lapply(files, function(x) {
+#     read.csv(x, fileEncoding = "UTF-8") %>%
+#     toJSON(., encoding = "UTF-8") %>%
+#     write(., gsub(".csv", ".json", x))
+# })
+# print("csv2json completed")
