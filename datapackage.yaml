@@ -475,7 +475,7 @@ resources:
     encoding: utf-8
     format: json
     hashing: md5
-  - path: data/pagella_politica.json
+  - path: data/press.json
     name: pgpolitica-json-version
     dialect:
       keyed: true

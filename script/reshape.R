@@ -3,7 +3,7 @@ library(here)
 library(dplyr)
 library(tidyr)
 library(readr)
-library(jsonlite)
+# library(jsonlite)
 
 # function for modifying colnames
 reverse_string <- function(x) {
@@ -51,7 +51,7 @@ df %>%
         url = info,
         slug = subject_slug,
         description = subject_description) %>%
-    write.csv(., here("data/glossary.csv"), na = "", fileEncoding = "UTF-8")
+    write_csv(., here("data/glossary.csv"), na = "")
 
 print("glossary.csv created")
 
