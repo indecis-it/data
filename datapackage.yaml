@@ -14,8 +14,12 @@ contributors:
     email: chiara.adornetto@tiscali.it
   - title: Dennis Angemi
     email: dennisangemi@gmail.com
+  - title: Carlo Canepa
+    email: c.canepa@pagellapolitica.it
   - title: Moreno Colaiacovo
     email: moreno.colaiacovo@gmail.com
+  - title: Alice Nicole Ginosa
+    email: alicenicoleginosa@gmail.com
   - title: Angelo Gulina
     email: gulina.angelo@gmail.com
   - title: Vittorio Nicoletta
@@ -103,13 +107,16 @@ resources:
         - name: subject
           title: Subject name
           type: string
-        - name: subject_slug
+        - name: slug
           title: Subject slug
           type: string
         - name: url
           description: URL of an external reference 
           type: string
           format: uri
+        - name: description
+          type: string
+          description: Subject description
   - path: data/items.csv
     name: items
     profile: tabular-data-resource
