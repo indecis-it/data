@@ -251,4 +251,13 @@
   "list": "Noi moderati",
   "list_id": 4
 }
+,{
+  "id": 29,
+  "title": "Accordo quadro di programma per un Governo di centrodestra (Lega)",
+  "slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-lega",
+  "type": "accordo elettorale",
+  "url": "https://cdn.pagellapolitica.it/wp-content/uploads/2022/08/PER_L_ITALIA_Accordo_quadro_di_programma_per_un_Governo_di_centrodestra.pdf",
+  "list": "Lega",
+  "list_id": 2
+}
 ]
