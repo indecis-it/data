@@ -165,6 +165,26 @@ description | string | Description of endorsement types | Lorem ipsum
 icon | string | Color of the icon to display | green
 color_code | string | HEX code | #50CEBB
 
+### [📄 press.csv](https://github.com/indecis-it/data/blob/main/data/press.csv)
+
+- Path: `data/`
+- URL: https://raw.githubusercontent.com/indecis-it/data/main/data/press.csv
+- Delimiter: `,`
+- Encoding: `UTF-8`
+
+field | type | description | example
+-- | -- | -- | --
+id | integer | Row ID | 1
+post_id | integer | Post ID | 1
+url | string | Post URL | https://indecis.it
+post_title | string | Post title | Lorem ipsum
+post_subtitle | string | Post subtitle | Lorem ipsum
+type | string | Post type | articolo
+subject | string | Subject name | Nucleare
+list | string | Electoral list name | Partito Democratico
+subject_id | integer | Subject ID | 1
+list_id | integer | Electoral list ID | 1
+
 ## How to access data
 If you wanna use indecis.it data in your works, you can follow these easy instructions. First of all you have to locate the raw URL of the file you are interested in
 
