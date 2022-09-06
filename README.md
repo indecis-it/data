@@ -186,37 +186,44 @@ subject_id | integer | Subject ID | 1
 list_id | integer | Electoral list ID | 1
 
 ## How to access data
-If you wanna use indecis.it data in your works, you can follow these easy instructions. First of all you have to locate the raw URL of the file you are interested in
+If you wanna use indecis.it data in your works, you can follow these easy instructions. Locate the raw URL of the file you are interested in and use it as follows
 
 ### Google Sheets
+You can import a `CSV` file in your Google Spreadsheet by entering this formula in a cell
 ```
 =IMPORTDATA("https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv")
 ```
 
 ### R
+You can import the entire dataset in R using this code
 ```r
 categories <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv")
-sources <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv")
+coalitions <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv")
+endorsements <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv")
+glossary <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv")
+items <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv")
+leaders <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv")
 lists <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv")
 parties <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv")
-coalitions <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv")
-leaders <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv")
-items <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv")
-glossary <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv")
-endorsements <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv")
+press <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/press.csv")
+relic <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/relic.csv")
+sources <- read.csv("https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv") 
 ```
 
 ### MATLAB
+You can import the entire dataset in MATLAB using this code
 ```matlab
 categories = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/categories.csv")
-sources = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv")
+coalitions = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv")
+endorsements = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv")
+glossary = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv")
+items = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv")
+leaders = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv")
 lists = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/lists.csv")
 parties = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/parties.csv")
-coalitions = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/coalitions.csv")
-leaders = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/leaders.csv")
-items = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/items.csv")
-glossary = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/glossary.csv")
-endorsements = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/endorsements.csv")
+press = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/press.csv")
+relic = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/relic.csv")
+sources = readtable("https://raw.githubusercontent.com/indecis-it/data/main/data/sources.csv") 
 ```
 
 ## License
