@@ -37,24 +37,18 @@
 }
 ,{
   "id": 7,
-  "slug": "cultura-turismo-e-sport",
-  "name": "Cultura, turismo e sport",
-  "description": "Servizi ricreativi, sportivi, culturali e turistici, valorizzazione del patrimonio culturale e artistico."
-}
-,{
-  "id": 8,
   "slug": "istruzione-e-ricerca",
   "name": "Istruzione e ricerca",
   "description": "Gestione dei programmi di istruzione per le scuole di ogni ordine e grado, sia pubbliche sia private, e delle politiche relative alle ricerche scientifiche e tecnologiche e all'amministrazione delle università."
 }
 ,{
-  "id": 9,
+  "id": 8,
   "slug": "lavoro-e-politiche-sociali",
   "name": "Lavoro e politiche sociali",
   "description": "Politiche del lavoro e a sostegno di famiglie e persone in condizioni di disagio, con particolare riferimento a disoccupati, soggetti affetti da malattie e disabilità, anziani, immigrati e sopravvissuti."
 }
 ,{
-  "id": 10,
+  "id": 9,
   "slug": "diritti-civili",
   "name": "Diritti civili",
   "description": "Tutte le politiche relative ai diritti civili e politici e alle libertà garantite o che i partiti intendono raggiungere."
