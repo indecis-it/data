@@ -371,47 +371,61 @@ resources:
     format: csv
     hashing: md5
     encoding: utf-8
-#    schema:
-#      fields:
-#        - name: id
-#          type: integer
-#        - name: url
-#          type: string
-#        - name: type
-#          type: string
-#        - name: subject
-#          type: string
-#        - name: list
-#          type: string
-#        - name: subject_id
-#          type: integer
-#        - name: list_id
-#          type: integer
-#      foreignKeys:
-#        - fields:
-#            - list
-#          reference:
-#            fields:
-#              - list
-#            resource: lists
-#        - fields:
-#            - list_id
-#          reference:
-#            fields:
-#              - id
-#            resource: lists
-#        - fields:
-#            - subject
-#          reference:
-#            fields:
-#              - subject
-#            resource: glossary
-#        - fields:
-#            - subject_id
-#          reference:
-#            fields:
-#              - id
-#            resource: glossary
+    schema:
+      fields:
+        - name: id
+          type: integer
+        - name: post_id
+          type: integer
+          title: Post ID
+        - name: url
+          title: Post URL
+          type: string
+          format: uri
+        - name: post_title
+          type: string
+        - name: post_subtitle
+          type: string
+        - name: type
+          title: Post type
+          type: string
+          constraints:
+            enum:
+              - articolo
+              - fact-checking
+        - name: subject
+          type: string
+        - name: list
+          type: string
+        - name: subject_id
+          type: integer
+        - name: list_id
+          type: integer
+      foreignKeys:
+        - fields:
+            - subject
+          reference:
+            fields:
+              - subject
+            resource: glossary
+        - fields:
+            - subject_id
+          reference:
+            fields:
+              - id
+            resource: glossary
+        - fields:
+            - list
+          reference:
+            fields:
+              - list
+            resource: lists
+        - fields:
+            - list_id
+          reference:
+            fields:
+              - id
+            resource: lists
   - path: data/categories.json
     name: categories-json-version
     dialect:
