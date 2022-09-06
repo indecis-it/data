@@ -15942,8 +15942,8 @@
   "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 6,
-  "endorsement": "green",
-  "description": "Un “Piano straordinario per il trasporto pubblico locale”\nIl 74% degli spostamenti riguarda distanze entro i 10 km e viene soddisfatto per oltre il 62% ricorrendo all’auto privata.\n\nVogliamo affrontare le carenze organizzative, di infrastrutture e dotazione di mezzi per una più elevata qualità del servizio erogato; ampliare e mettere in sicurezza percorsi ciclabili e pedonali; digitalizzare tutti i servizi di mobilità; offrire tariffe agevolate e incentivi all’utilizzo delle alternative all’auto. Per raggiungere questi obiettivi si rende necessario rimodulare il fondo complementare del Pnrr pari a 30 miliardi di euro per destinarlo in via prioritaria agli investimenti sul trasporto pubblico. È necessario favorire lo smart working per tutti i lavoratori e lavoratrici la cui presenza non è richiesta fisicamente.\n\nProponiamo inoltre che i trasporti pubblici locali e i treni regionali siano resi gratuiti per gli Under 30, così da promuovere nuovi modelli di mobilità fra le giovani generazioni."
+  "endorsement": "grey",
+  "description": ""
 }
 ,{
   "id": 1140,
@@ -21804,11 +21804,11 @@
   "subject": "Tetto al prezzo del gas",
   "subject_slug": "tetto-al-prezzo-del-gas",
   "subject_id": 1,
-  "source": "Programma elettorale Forza Italia",
-  "source_slug": "programma-elettorale-forza-italia",
+  "source": "Accordo quadro di programma per un Governo di centrodestra (FI)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi",
   "list": "Forza Italia",
   "list_id": 3,
-  "endorsement": "grey",
+  "endorsement": "green",
   "description": "Sostegno alle politiche di price-cap a livello europeo."
 }
 ,{
@@ -21860,12 +21860,12 @@
   "subject": "Tetto al prezzo del gas",
   "subject_slug": "tetto-al-prezzo-del-gas",
   "subject_id": 1,
-  "source": "Programma elettorale Lega",
-  "source_slug": "programma-elettorale-lega",
+  "source": "Accordo quadro di programma per un Governo di centrodestra (Lega)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-lega",
   "list": "Lega",
   "list_id": 2,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Sostegno alle politiche di price-cap a livello europeo."
 }
 ,{
   "id": 1563,
