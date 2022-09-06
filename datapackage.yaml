@@ -318,6 +318,13 @@ resources:
         - name: coalition
           title: Coalition name
           type: string
+#      foreignKeys:
+#        - fields:
+#            - list_id
+#          reference:
+#            fields:
+#              - id
+#            resource: lists
   - path: data/sources.csv
     name: sources
     profile: tabular-data-resource
