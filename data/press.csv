@@ -1,5 +1,5 @@
 id,post_id,url,post_title,post_subtitle,type,source,subject,list,subject_id,list_id
-1,1,https://pagellapolitica.it/articoli/guida-sondaggi-politici,Guida alla lettura dei sondaggi politici,"Nelle prossime settimane ne vedremo decine: le informazioni utili per 
+1,1,https://pagellapolitica.it/articoli/guida-sondaggi-politici,Guida alla lettura dei sondaggi politic,"Nelle prossime settimane ne vedremo decine: le informazioni utili per 
 saperli leggere",articolo,Pagella Politica,,,,
 2,2,https://pagellapolitica.it/articoli/promesse-2022-berlusconi-alberi,"I fatti dietro la promessa: Berlusconi e un milione di alberi piantati 
 all’anno","Il presidente di Forza Italia ha indicato le nuove piante tra i punti del 
@@ -7,8 +7,7 @@ suo programma elettorale, ma l’iniziativa non è nuova e presenta diversi
 ostacoli",articolo,Pagella Politica,Tutela dell'ambiente e del paesaggio,Forza Italia,89,3
 3,3,https://pagellapolitica.it/articoli/vecchi-programmi-fdi,"Tutti commentano il programma di Fdi, che però ancora non c’è","Sui social circolano alcune proposte controverse, ma sono prese da vecchi 
 documenti del partito di Giorgia Meloni",articolo,Pagella Politica,,Fratelli d'Italia,,1
-4,4,https://pagellapolitica.it/articoli/promessa-berlusconi-pensioni-mille-euro,"I fatti dietro la promessa: Berlusconi e l’aumento delle pensioni a mille 
-euro al mese","In vista delle elezioni politiche del 25 settembre, il leader di Forza 
+4,4,https://pagellapolitica.it/articoli/promessa-berlusconi-pensioni-mille-euro,I fatti dietro la promessa: Berlusconi e l’aumento delle pensioni a mille euro al mese,"In vista delle elezioni politiche del 25 settembre, il leader di Forza 
 Italia ha riproposto uno dei suoi cavalli di battaglia. Al di là della 
 proposta, ecco che cosa dicono i dati",articolo,Pagella Politica,Aumento delle pensioni,Forza Italia,12,3
 5,5,https://pagellapolitica.it/articoli/scadenze-politica-elezioni,"Dalle elezioni al Pnrr: le tante scadenze della politica italiana di qui a 
@@ -28,8 +27,7 @@ rimpatri. Entrambi hanno ragione.",articolo,Pagella Politica,,Partito Democratic
 di Forza Italia, ospite della trasmissione di Rete4",articolo,Pagella Politica,,Forza Italia,,3
 10,9,https://pagellapolitica.it/articoli/sondaggi-politici-affidabili,Quanto sono affidabili i sondaggi politici in Italia?,"Nel 2013 e nel 2018 i risultati previsti a due settimane dal voto si 
 rivelarono piuttosto lontani dall’esito delle urne, per diversi motivi",articolo,Pagella Politica,,,,
-11,10,https://pagellapolitica.it/articoli/letta-tasse-successione,"I fatti dietro la promessa: Letta, le tasse di successione e la «dote» ai 
-diciottenni","Il segretario del Partito democratico ha rispolverato una proposta già 
+11,10,https://pagellapolitica.it/articoli/letta-tasse-successione,"I fatti dietro la promessa: Letta, le tasse di successione e la «dote» ai diciottenni","Il segretario del Partito democratico ha rispolverato una proposta già 
 avanzata a maggio 2021, ma criticata dalla maggior parte delle altre forze 
 politiche",articolo,Pagella Politica,,Partito Democratico,,5
 12,11,https://pagellapolitica.it/articoli/discussioni-candidati-seggi-uninominali,Perché si parla tanto dei candidati ai seggi uninominali,"Mentre il centrodestra si spartisce i seggi, la possibile alleanza tra Pd e 
@@ -38,8 +36,7 @@ dovrebbero rappresentare l’intera coalizione di centrosinistra",articolo,Pagel
 13,12,https://pagellapolitica.it/articoli/indicazione-ministri-leader-voto,"Indicare i ministri prima del voto ha poco senso, ma i partiti lo fanno lo 
 stesso","Il leader della Lega Matteo Salvini ha chiesto agli alleati di annunciare 
 «alcuni ministri» prima del voto: i precedenti non dovrebbero incoraggiarlo",articolo,Pagella Politica,,Lega,,2
-14,13,https://pagellapolitica.it/articoli/alleanza-centrosinistra-azione-pd,"Alleanza Pd-Azione: che cosa prevede l’accordo e qual è la posizione degli 
-altri partiti","Dopo giorni di discussioni, i segretari Enrico Letta e Carlo Calenda hanno 
+14,13,https://pagellapolitica.it/articoli/alleanza-centrosinistra-azione-pd,Alleanza Pd-Azione: che cosa prevede l’accordo e qual è la posizione degli altri partiti,"Dopo giorni di discussioni, i segretari Enrico Letta e Carlo Calenda hanno 
 raggiunto un’intesa. Restano incerte le posizioni di Italia viva e di 
 Impegno civico",articolo,Pagella Politica,,,,
 15,14,https://pagellapolitica.it/articoli/testo-accordo-partito-democratico-azione-calenda,Il testo integrale dell’accordo tra Azione/Più Europa e Partito Democratico,"Il “Patto elettorale” è stato sottoscritto il 2 agosto dai segretari dei 
@@ -227,131 +224,149 @@ fatto finora i leader dei principali partiti candidati alle elezioni",articolo,P
 88,80,https://pagellapolitica.it/articoli/riscatto-laurea-gratuito-m5s,"I fatti dietro la promessa: il riscatto gratuito della laurea e il 
 Movimento 5 stelle","La misura è prevista dal programma elettorale, che però non fa riferimento 
 ai costi necessari per finanziarla",articolo,Pagella Politica,Favorire il riscatto della laurea,Movimento 5 Stelle,90,9
-89,81,https://pagellapolitica.it/fact-checking/bonelli-energia-nucleare-siccita,"Bonelli (Verdi) esagera: le centrali nucleari francesi non sono «ferme per 
+89,81,https://pagellapolitica.it/articoli/peso-azione-italia-viva-elezioni-2022,"Numeri alla mano, il piano di Calenda per un nuovo governo Draghi non può 
+funzionare","In base agli attuali sondaggi e a un’eventuale crescita dei due partiti, 
+sembra difficile che la coalizione tra Azione e Italia viva possa limitare 
+la vittoria del centrodestra",articolo,Pagella Politica,,Azione-Italia Viva-Calenda,,10
+90,82,https://pagellapolitica.it/articoli/mappa-collegi-partiti-leader-elezioni-2022,Dove si presentano i partiti e i leader alle elezioni,"Quattro mappe per scoprire in quali aree del Paese si potranno votare le 
+liste presenti sulle schede elettorali",articolo,Pagella Politica,,,,
+91,83,https://pagellapolitica.it/articoli/programmi-coperture-elezioni-2022,Il 96 per cento delle promesse nei programmi è senza coperture,"Centrodestra, Pd, Movimento 5 stelle e Azione-Italia viva hanno promesso 
+circa 330 misure: solo in 13 casi hanno detto dove prenderanno le risorse 
+per finanziarle",articolo,Pagella Politica,,,,
+92,84,https://pagellapolitica.it/articoli/italia-viva-voti-reddito-cittadinanza,"Renzi ha la memoria corta sui voti di Italia viva a favore del reddito di 
+cittadinanza","Oggi accusa gli altri schieramenti di aver supportato il sussidio, ma negli 
+ultimi due anni anche il suo partito ha contribuito a rifinanziare la misura",articolo,Pagella Politica,Reddito di cittadinanza,Azione-Italia Viva-Calenda,11,10
+93,85,https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili,Quattro temi (più uno) su cui Meloni ha cambiato idea,"In questa campagna elettorale la presidente di Fratelli d’Italia si 
+presenta come una leader moderata, ma negli anni ha cambiato posizione su 
+diversi argomenti di stretta attualità, dalla Russia al gas",articolo,Pagella Politica,,Fratelli d'Italia,,1
+94,86,https://pagellapolitica.it/fact-checking/bonelli-energia-nucleare-siccita,"Bonelli (Verdi) esagera: le centrali nucleari francesi non sono «ferme per 
 la siccità»",«In Francia le centrali sono ferme per la siccità»,fact-checking,Pagella Politica,Nucleare,Alleanza Verdi e Sinistra,16,6
-90,82,https://pagellapolitica.it/fact-checking/madia-fuorisede-voto,"Madia è troppo ottimista: i fuorisede che rischiano di non votare sono più 
+95,87,https://pagellapolitica.it/fact-checking/madia-fuorisede-voto,"Madia è troppo ottimista: i fuorisede che rischiano di non votare sono più 
 di «due milioni»","«Circa due milioni di persone, molte delle quali giovani, che lavorano e 
 studiano fuori casa non potranno votare perché la caduta del governo ha 
 impedito l’approvazione della proposta di legge #votodovevivo. Eravamo a un 
 passo»",fact-checking,Pagella Politica,Voto per i fuorisede,Partito Democratico,45,5
-91,83,https://pagellapolitica.it/fact-checking/letta-voto-leggi-elettorali,"Sì, Letta non ha votato le ultime due leggi elettorali","«Io [al voto] di questa legge elettorale non c’ero, e a quella precedente 
+96,88,https://pagellapolitica.it/fact-checking/letta-voto-leggi-elettorali,"Sì, Letta non ha votato le ultime due leggi elettorali","«Io [al voto] di questa legge elettorale non c’ero, e a quella precedente 
 non votai la fiducia»",fact-checking,Pagella Politica,Riforma della legge elettorale,Partito Democratico,116,5
-92,84,https://pagellapolitica.it/fact-checking/vero-gli-insegnanti-italiani-sono-tra-i-meno-pagati-nellue,Vero: gli insegnanti italiani sono tra i meno pagati nell’Ue,"«L’Italia, tra tutti i Paesi europei, è uno di quelli che paga gli 
+97,89,https://pagellapolitica.it/fact-checking/vero-gli-insegnanti-italiani-sono-tra-i-meno-pagati-nellue,Vero: gli insegnanti italiani sono tra i meno pagati nell’Ue,"«L’Italia, tra tutti i Paesi europei, è uno di quelli che paga gli 
 insegnanti di scuola media e di scuola superiore meno»",fact-checking,Pagella Politica,Aumento dello stipendio dei docenti,Partito Democratico,60,5
-93,85,https://pagellapolitica.it/fact-checking/berlsuconi-pd-patrimoniale-casa-eredita,"Letta non vuole una patrimoniale sulla prima casa, ma alzare le imposte 
+98,90,https://pagellapolitica.it/fact-checking/berlsuconi-pd-patrimoniale-casa-eredita,"Letta non vuole una patrimoniale sulla prima casa, ma alzare le imposte 
 sulle eredità plurimilionarie","«Il segretario del Pd Letta ha annunciato di voler introdurre una tassa 
 patrimoniale sulla prima casa e sulle successioni»",fact-checking,Pagella Politica,Patrimoniale,Forza Italia,28,3
-94,85,https://pagellapolitica.it/fact-checking/berlsuconi-pd-patrimoniale-casa-eredita,"Letta non vuole una patrimoniale sulla prima casa, ma alzare le imposte 
+99,90,https://pagellapolitica.it/fact-checking/berlsuconi-pd-patrimoniale-casa-eredita,"Letta non vuole una patrimoniale sulla prima casa, ma alzare le imposte 
 sulle eredità plurimilionarie","«Il segretario del Pd Letta ha annunciato di voler introdurre una tassa 
 patrimoniale sulla prima casa e sulle successioni»",fact-checking,Pagella Politica,Patrimoniale,Partito Democratico,28,5
-95,86,https://pagellapolitica.it/fact-checking/tajani-pace-fiscale-condono,Tajani è fuorviante: la pace fiscale è un condono,"«Pace fiscale è: “Tu devi mille euro allo Stato, decidi di pagare domani 
+100,91,https://pagellapolitica.it/fact-checking/tajani-pace-fiscale-condono,Tajani è fuorviante: la pace fiscale è un condono,"«Pace fiscale è: “Tu devi mille euro allo Stato, decidi di pagare domani 
 mattina: ne paghi 500 [...]”. È una pace fiscale, perché tu paghi, il 
 condono vuol dire che non paghi nulla»",fact-checking,Pagella Politica,Condoni fiscali o edilizi,Forza Italia,100,3
-96,87,https://pagellapolitica.it/fact-checking/flat-tax-lega-18-aliquote,Marattin ha ragione: la flat tax della Lega prevede 18 aliquote,«La proposta della Lega [sulla flat tax al 15 per cento] ha 18 aliquote» ,fact-checking,Pagella Politica,Flat tax,Azione-Italia Viva-Calenda,5,10
-97,87,https://pagellapolitica.it/fact-checking/flat-tax-lega-18-aliquote,Marattin ha ragione: la flat tax della Lega prevede 18 aliquote,«La proposta della Lega [sulla flat tax al 15 per cento] ha 18 aliquote» ,fact-checking,Pagella Politica,Flat tax,Lega,5,2
-98,88,https://pagellapolitica.it/fact-checking/evasione-italia-80-miliardi,L’evasione italiana supera gli 80 miliardi di euro l’anno,«L’evasione fiscale in Italia supera gli 80 miliardi di euro ogni anno»,fact-checking,Pagella Politica,Lotta all'evasione fiscale,Alleanza Verdi e Sinistra,31,6
-99,89,https://pagellapolitica.it/fact-checking/berlusconi-disoccupazione-italia-ue,È vero che Berlusconi ha tenuto la disoccupazione sotto la media Ue?,"«Fino a quando siamo stati al governo, la disoccupazione è rimasta sotto la 
+101,92,https://pagellapolitica.it/fact-checking/flat-tax-lega-18-aliquote,Marattin ha ragione: la flat tax della Lega prevede 18 aliquote,«La proposta della Lega [sulla flat tax al 15 per cento] ha 18 aliquote» ,fact-checking,Pagella Politica,Flat tax,Azione-Italia Viva-Calenda,5,10
+102,92,https://pagellapolitica.it/fact-checking/flat-tax-lega-18-aliquote,Marattin ha ragione: la flat tax della Lega prevede 18 aliquote,«La proposta della Lega [sulla flat tax al 15 per cento] ha 18 aliquote» ,fact-checking,Pagella Politica,Flat tax,Lega,5,2
+103,93,https://pagellapolitica.it/fact-checking/evasione-italia-80-miliardi,L’evasione italiana supera gli 80 miliardi di euro l’anno,«L’evasione fiscale in Italia supera gli 80 miliardi di euro ogni anno»,fact-checking,Pagella Politica,Lotta all'evasione fiscale,Alleanza Verdi e Sinistra,31,6
+104,94,https://pagellapolitica.it/fact-checking/berlusconi-disoccupazione-italia-ue,È vero che Berlusconi ha tenuto la disoccupazione sotto la media Ue?,"«Fino a quando siamo stati al governo, la disoccupazione è rimasta sotto la 
 media europea»",fact-checking,Pagella Politica,,Forza Italia,,3
-100,90,https://pagellapolitica.it/fact-checking/salvini-dossier-viminale,"Salvini ha ragione: reati e sbarchi sono in aumento, ma c’è un però"," «I numeri del Viminale parlano chiaro: reati, sbarchi, insicurezza e 
+105,95,https://pagellapolitica.it/fact-checking/salvini-dossier-viminale,"Salvini ha ragione: reati e sbarchi sono in aumento, ma c’è un però"," «I numeri del Viminale parlano chiaro: reati, sbarchi, insicurezza e 
 cyber-attacchi in aumento»",fact-checking,Pagella Politica,Riforma del sistema penitenziario,Lega,102,2
-101,90,https://pagellapolitica.it/fact-checking/salvini-dossier-viminale,"Salvini ha ragione: reati e sbarchi sono in aumento, ma c’è un però"," «I numeri del Viminale parlano chiaro: reati, sbarchi, insicurezza e 
+106,95,https://pagellapolitica.it/fact-checking/salvini-dossier-viminale,"Salvini ha ragione: reati e sbarchi sono in aumento, ma c’è un però"," «I numeri del Viminale parlano chiaro: reati, sbarchi, insicurezza e 
 cyber-attacchi in aumento»",fact-checking,Pagella Politica,Riforma dei trattati Ue sull'immigrazione,Lega,112,2
-102,91,https://pagellapolitica.it/fact-checking/crosetto-aumento-debito-pubblico,Il debito pubblico italiano sta crescendo o calando?,«Record del debito pubblico. Eppure state dicendo da mesi che stava calando»,fact-checking,Pagella Politica,,Fratelli d'Italia,,1
-103,92,https://pagellapolitica.it/fact-checking/zan-matrimonio-egualitario-europa,Zan ha quasi ragione sul matrimonio egualitario in Europa,"«Il matrimonio egualitario è stato approvato pochi mesi fa anche in 
+107,96,https://pagellapolitica.it/fact-checking/crosetto-aumento-debito-pubblico,Il debito pubblico italiano sta crescendo o calando?,«Record del debito pubblico. Eppure state dicendo da mesi che stava calando»,fact-checking,Pagella Politica,,Fratelli d'Italia,,1
+108,97,https://pagellapolitica.it/fact-checking/zan-matrimonio-egualitario-europa,Zan ha quasi ragione sul matrimonio egualitario in Europa,"«Il matrimonio egualitario è stato approvato pochi mesi fa anche in 
 Slovenia e c’è in Germania, Austria, Francia, Spagna Portogallo, oltre che 
 nei Paesi nordici»",fact-checking,Pagella Politica,Matrimonio egualitario,Partito Democratico,50,5
-104,93,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,Vero: “quota 41” della Lega costerebbe 65 miliardi di euro,«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ,fact-checking,Pagella Politica,Aumento delle pensioni,Lega,12,2
-105,93,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,Vero: “quota 41” della Lega costerebbe 65 miliardi di euro,«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ,fact-checking,Pagella Politica,Aumento delle pensioni,Azione-Italia Viva-Calenda,12,10
-106,94,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,"Provenzano attacca Meloni sui disoccupati, ma dimentica la crisi economica","«Quando Meloni andò al governo, con Berlusconi, tra il 2008 e il 2010 
+109,98,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,Vero: “quota 41” della Lega costerebbe 65 miliardi di euro,«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ,fact-checking,Pagella Politica,Aumento delle pensioni,Lega,12,2
+110,98,https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni,Vero: “quota 41” della Lega costerebbe 65 miliardi di euro,«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ,fact-checking,Pagella Politica,Aumento delle pensioni,Azione-Italia Viva-Calenda,12,10
+111,99,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,"Provenzano attacca Meloni sui disoccupati, ma dimentica la crisi economica","«Quando Meloni andò al governo, con Berlusconi, tra il 2008 e il 2010 
 ricordiamo almeno un milione di disoccupati in più»",fact-checking,Pagella Politica,,Partito Democratico,,5
-107,94,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,"Provenzano attacca Meloni sui disoccupati, ma dimentica la crisi economica","«Quando Meloni andò al governo, con Berlusconi, tra il 2008 e il 2010 
+112,99,https://pagellapolitica.it/fact-checking/aumento-disoccupati-governo-meloni,"Provenzano attacca Meloni sui disoccupati, ma dimentica la crisi economica","«Quando Meloni andò al governo, con Berlusconi, tra il 2008 e il 2010 
 ricordiamo almeno un milione di disoccupati in più»",fact-checking,Pagella Politica,,Fratelli d'Italia,,1
-108,95,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,Salvini sbaglia: la flat tax costa sette volte il reddito di cittadinanza,"«Il costo [della flat tax] è sostanzialmente identico a quello del reddito 
+113,100,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,Salvini sbaglia: la flat tax costa sette volte il reddito di cittadinanza,"«Il costo [della flat tax] è sostanzialmente identico a quello del reddito 
 di cittadinanza»",fact-checking,Pagella Politica,Flat tax,Lega,5,2
-109,95,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,Salvini sbaglia: la flat tax costa sette volte il reddito di cittadinanza,"«Il costo [della flat tax] è sostanzialmente identico a quello del reddito 
+114,100,https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza,Salvini sbaglia: la flat tax costa sette volte il reddito di cittadinanza,"«Il costo [della flat tax] è sostanzialmente identico a quello del reddito 
 di cittadinanza»",fact-checking,Pagella Politica,Reddito di cittadinanza,Lega,11,2
-110,96,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,"No, Pd e sinistra non propongono spaccio e coltivazione legali della «droga»","«Nel programma della sinistra e del Pd c’è anche la possibilità di 
+115,101,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,"No, Pd e sinistra non propongono spaccio e coltivazione legali della «droga»","«Nel programma della sinistra e del Pd c’è anche la possibilità di 
 coltivarsi droga in casa, di consumarla e di spacciarla senza essere 
 sanzionato»",fact-checking,Pagella Politica,Legalizzazione della cannabis,Partito Democratico,51,5
-111,96,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,"No, Pd e sinistra non propongono spaccio e coltivazione legali della «droga»","«Nel programma della sinistra e del Pd c’è anche la possibilità di 
+116,101,https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra,"No, Pd e sinistra non propongono spaccio e coltivazione legali della «droga»","«Nel programma della sinistra e del Pd c’è anche la possibilità di 
 coltivarsi droga in casa, di consumarla e di spacciarla senza essere 
 sanzionato»",fact-checking,Pagella Politica,Legalizzazione della cannabis,Lega,51,2
-112,97,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,Boccia è fuorviante sui voti del centrodestra e il Pnrr,"«Gelmini e Carfagna, con Bignami, hanno votato contro il Pnrr il 15 luglio 
+117,102,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,Boccia è fuorviante sui voti del centrodestra e il Pnrr,"«Gelmini e Carfagna, con Bignami, hanno votato contro il Pnrr il 15 luglio 
 2020»",fact-checking,Pagella Politica,Revisione del PNRR,Partito Democratico,24,5
-113,97,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,Boccia è fuorviante sui voti del centrodestra e il Pnrr,"«Gelmini e Carfagna, con Bignami, hanno votato contro il Pnrr il 15 luglio 
+118,102,https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr,Boccia è fuorviante sui voti del centrodestra e il Pnrr,"«Gelmini e Carfagna, con Bignami, hanno votato contro il Pnrr il 15 luglio 
 2020»",fact-checking,Pagella Politica,Revisione del PNRR,Azione-Italia Viva-Calenda,24,10
-114,98,https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni,Calenda cita i sondaggi sulle elezioni di Roma in modo fuorviante,"«A Roma prima delle elezioni comunali ci davano al 5,9 per cento e abbiamo 
+119,103,https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni,Calenda cita i sondaggi sulle elezioni di Roma in modo fuorviante,"«A Roma prima delle elezioni comunali ci davano al 5,9 per cento e abbiamo 
 preso il 19,8 per cento»",fact-checking,Pagella Politica,,Azione-Italia Viva-Calenda,,10
-115,99,https://pagellapolitica.it/fact-checking/segretari-cgil-partito-democratico,Vero: tre degli ultimi quattro segretari della Cgil «sono finiti nel Pd»,«Tre degli ultimi quattro segretari generali della Cgil sono finiti nel Pd»,fact-checking,Pagella Politica,,Partito Democratico,,5
-116,100,https://pagellapolitica.it/fact-checking/berlusconi-taglio-tasse-reagan,Berlusconi sbaglia sugli effetti del taglio delle tasse di Reagan,"«Nell’America di Reagan, negli anni Ottanta il gettito fiscale è quasi 
+120,104,https://pagellapolitica.it/fact-checking/segretari-cgil-partito-democratico,Vero: tre degli ultimi quattro segretari della Cgil «sono finiti nel Pd»,«Tre degli ultimi quattro segretari generali della Cgil sono finiti nel Pd»,fact-checking,Pagella Politica,,Partito Democratico,,5
+121,105,https://pagellapolitica.it/fact-checking/berlusconi-taglio-tasse-reagan,Berlusconi sbaglia sugli effetti del taglio delle tasse di Reagan,"«Nell’America di Reagan, negli anni Ottanta il gettito fiscale è quasi 
 raddoppiato, a fronte di un taglio delle tasse ben superiore a quello che 
 proponiamo noi»",fact-checking,Pagella Politica,,Forza Italia,,3
-117,101,https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari,Salvini sbaglia: con la flat tax i milionari pagherebbero meno tasse,"«Con la flat tax i milionari continueranno a pagare quello che stanno 
+122,106,https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari,Salvini sbaglia: con la flat tax i milionari pagherebbero meno tasse,"«Con la flat tax i milionari continueranno a pagare quello che stanno 
 pagando ovviamente»",fact-checking,Pagella Politica,Flat tax,Lega,5,2
-118,102,https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7,Vero: l’Italia è l’unico Paese del G7 senza nucleare,«L’Italia è l’unico Paese del G7 a non utilizzare il nucleare»,fact-checking,Pagella Politica,Nucleare,Azione-Italia Viva-Calenda,16,10
-119,103,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,Non ci sono prove che la flat tax riduca l’evasione fiscale,"«La flat tax ovunque è stata applicata ha fatto emergere molta evasione e 
+123,107,https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7,Vero: l’Italia è l’unico Paese del G7 senza nucleare,«L’Italia è l’unico Paese del G7 a non utilizzare il nucleare»,fact-checking,Pagella Politica,Nucleare,Azione-Italia Viva-Calenda,16,10
+124,108,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,Non ci sono prove che la flat tax riduca l’evasione fiscale,"«La flat tax ovunque è stata applicata ha fatto emergere molta evasione e 
 molto sommerso»",fact-checking,Pagella Politica,Flat tax,Forza Italia,5,3
-120,103,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,Non ci sono prove che la flat tax riduca l’evasione fiscale,"«La flat tax ovunque è stata applicata ha fatto emergere molta evasione e 
+125,108,https://pagellapolitica.it/fact-checking/flat-tax-evasione-fiscale,Non ci sono prove che la flat tax riduca l’evasione fiscale,"«La flat tax ovunque è stata applicata ha fatto emergere molta evasione e 
 molto sommerso»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Forza Italia,31,3
-121,104,https://pagellapolitica.it/fact-checking/consumo-suolo-italia,"Sì, il consumo di suolo in Italia «viaggia» a due metri quadri al secondo",«Il consumo di suolo in Italia viaggia a due metri quadri al secondo» ,fact-checking,Pagella Politica,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,89,6
-122,105,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
+126,109,https://pagellapolitica.it/fact-checking/consumo-suolo-italia,"Sì, il consumo di suolo in Italia «viaggia» a due metri quadri al secondo",«Il consumo di suolo in Italia viaggia a due metri quadri al secondo» ,fact-checking,Pagella Politica,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,89,6
+127,110,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
 programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Partito Democratico,31,5
-123,105,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
+128,110,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
 programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Forza Italia,31,3
-124,105,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
+129,110,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
 programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Lega,31,2
-125,105,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
+130,110,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
 programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Fratelli d'Italia,31,1
-126,106,https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria,#N/A,«Il tasso di incremento demografico in Ungheria è il più avanzato d’Europa»,fact-checking,Pagella Politica,,Lega,,2
-127,107,https://pagellapolitica.it/fact-checking/carfagna-pd-asilo,"Carfagna ha ragione sui pochi asili nido, ma non c’entrano con la proposta 
+131,111,https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria,"No, l’Ungheria non ha la crescita demografica più alta d’Europa",«Il tasso di incremento demografico in Ungheria è il più avanzato d’Europa»,fact-checking,Pagella Politica,,Lega,,2
+132,112,https://pagellapolitica.it/fact-checking/carfagna-pd-asilo,"Carfagna ha ragione sui pochi asili nido, ma non c’entrano con la proposta 
 del Pd","«Al Sud l’offerta di asili nido non arriva al 15 per cento dei bambini 
 residenti»",fact-checking,Pagella Politica,Aumento degli asili nido,Azione-Italia Viva-Calenda,48,10
-128,108,https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia,I dati di Salvini sull’avanzo commerciale della Russia sono corretti," «Da gennaio a luglio di quest’anno l’avanzo commerciale in Russia, dopo le 
+133,113,https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia,I dati di Salvini sull’avanzo commerciale della Russia sono corretti," «Da gennaio a luglio di quest’anno l’avanzo commerciale in Russia, dopo le 
 sanzioni, tra esportazioni e importazioni, presenta un +192 miliardi di 
 dollari»",fact-checking,Pagella Politica,Sanzioni contro la Russia,Lega,10,2
-129,109,https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati,Salvini esagera sugli sbarchi «azzerati» quando era ministro,«[Con me ministro] abbiamo azzerato gli sbarchi»,fact-checking,Pagella Politica,Blocco navale,Lega,105,2
-130,110,https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania,"È vero che gli studenti degli Its in Germania sono 50 volte quelli in 
+134,114,https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati,Salvini esagera sugli sbarchi «azzerati» quando era ministro,«[Con me ministro] abbiamo azzerato gli sbarchi»,fact-checking,Pagella Politica,Blocco navale,Lega,105,2
+135,115,https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania,"È vero che gli studenti degli Its in Germania sono 50 volte quelli in 
 Italia?","«Il nostro Paese ha meno di 20 mila studenti agli Its mentre la Germania ne 
 ha un milione»",fact-checking,Pagella Politica,Promozione degli Istituti tecnici superiori,Partito Democratico,81,5
-131,111,https://pagellapolitica.it/fact-checking/conte-draghi-spread-record,Conte sbaglia: lo spread con Draghi non ha toccato un «record storico»,"«Ho lasciato al termine del Conte II lo spread sotto i 100. Adesso con il 
+136,116,https://pagellapolitica.it/fact-checking/conte-draghi-spread-record,Conte sbaglia: lo spread con Draghi non ha toccato un «record storico»,"«Ho lasciato al termine del Conte II lo spread sotto i 100. Adesso con il 
 governo Draghi abbiamo superato i 200, abbiamo toccato punte di 250: un 
 record storico»",fact-checking,Pagella Politica,Tetto al prezzo del gas,Movimento 5 Stelle,1,9
-132,112,https://pagellapolitica.it/fact-checking/berlusconi-abolizione-leva-obbligatoria,Non è vero che Berlusconi ha abolito la leva obbligatoria,«Siamo stati noi i soli ad abolire il servizio militare obbligatorio» ,fact-checking,Pagella Politica,Leva militare obbligatoria,Forza Italia,99,3
-133,113,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,"No, il Pd non vuole «regalare» il reddito di cittadinanza agli immigrati",«Letta vuole regalare il reddito di cittadinanza agli immigrati»,fact-checking,Pagella Politica,Reddito di cittadinanza,Lega,11,2
-134,113,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,"No, il Pd non vuole «regalare» il reddito di cittadinanza agli immigrati",«Letta vuole regalare il reddito di cittadinanza agli immigrati»,fact-checking,Pagella Politica,Reddito di cittadinanza,Partito Democratico,11,5
-135,114,https://pagellapolitica.it/fact-checking/emissioni-ricchi-poveri-mondo,"È vero che l’1 per cento più ricco nel mondo «inquina» il doppio della metà 
+137,117,https://pagellapolitica.it/fact-checking/berlusconi-abolizione-leva-obbligatoria,Non è vero che Berlusconi ha abolito la leva obbligatoria,«Siamo stati noi i soli ad abolire il servizio militare obbligatorio» ,fact-checking,Pagella Politica,Leva militare obbligatoria,Forza Italia,99,3
+138,118,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,"No, il Pd non vuole «regalare» il reddito di cittadinanza agli immigrati",«Letta vuole regalare il reddito di cittadinanza agli immigrati»,fact-checking,Pagella Politica,Reddito di cittadinanza,Lega,11,2
+139,118,https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati,"No, il Pd non vuole «regalare» il reddito di cittadinanza agli immigrati",«Letta vuole regalare il reddito di cittadinanza agli immigrati»,fact-checking,Pagella Politica,Reddito di cittadinanza,Partito Democratico,11,5
+140,119,https://pagellapolitica.it/fact-checking/emissioni-ricchi-poveri-mondo,"È vero che l’1 per cento più ricco nel mondo «inquina» il doppio della metà 
 più povera?","«L’1 per cento della popolazione più ricca del pianeta inquina il doppio 
 della metà più povera»",fact-checking,Pagella Politica,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,89,6
-136,115,https://pagellapolitica.it/fact-checking/meloni-presidenzialismo-governi-europei,Gli errori di Meloni nel confronto tra i capi di governo europei,"«Negli ultimi 20 anni la Francia ha avuto quattro capi di governo, che 
+141,120,https://pagellapolitica.it/fact-checking/meloni-presidenzialismo-governi-europei,Gli errori di Meloni nel confronto tra i capi di governo europei,"«Negli ultimi 20 anni la Francia ha avuto quattro capi di governo, che 
 coincide con il presidente della Repubblica. Il Regno Unito ha avuto cinque 
 primi ministri, la Germania tre cancellieri, l’Italia 11 presidenti del 
 Consiglio»",fact-checking,Pagella Politica,Presidenzialismo,Fratelli d'Italia,18,1
-137,116,https://pagellapolitica.it/fact-checking/letta-carbon-tax-ue,Letta la fa troppo semplice sul voto per la carbon tax nell’Ue,"«A livello europeo abbiamo dato l’okay alla carbon tax [...]. La destra 
+142,121,https://pagellapolitica.it/fact-checking/letta-carbon-tax-ue,Letta la fa troppo semplice sul voto per la carbon tax nell’Ue,"«A livello europeo abbiamo dato l’okay alla carbon tax [...]. La destra 
 italiana ha votato contro»",fact-checking,Pagella Politica,Energie rinnovabili,Partito Democratico,19,5
-138,117,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
+143,122,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
 produzione nazionale»",fact-checking,Pagella Politica,Trivelle,Azione-Italia Viva-Calenda,15,10
-139,117,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
+144,122,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
 produzione nazionale»",fact-checking,Pagella Politica,Trivelle,Fratelli d'Italia,15,1
-140,117,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
+145,122,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
 produzione nazionale»",fact-checking,Pagella Politica,Trivelle,Lega,15,2
-141,117,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
+146,122,https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle,"Vero: Fratelli d’Italia, Lega e Forza Italia erano contro le trivelle","«Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più 
 produzione nazionale»",fact-checking,Pagella Politica,Trivelle,Forza Italia,15,3
-142,118,https://pagellapolitica.it/fact-checking/quanto-emissioni-co2-jet-privato,"Sì, un jet privato emette in poche ore quanto quattro persone in un anno","«Il singolo volo di un jet privato per poche ore inquina quanto tutti gli 
+147,123,https://pagellapolitica.it/fact-checking/quanto-emissioni-co2-jet-privato,"Sì, un jet privato emette in poche ore quanto quattro persone in un anno","«Il singolo volo di un jet privato per poche ore inquina quanto tutti gli 
 spostamenti di quattro persone in un anno»",fact-checking,Pagella Politica,Tutela dell'ambiente e del paesaggio,Alleanza Verdi e Sinistra,89,6
-143,119,https://pagellapolitica.it/fact-checking/inflazione-sanzioni-russia,Di Maio sbaglia sull’inflazione nei Paesi che non hanno sanzionato la Russia,"«I Paesi che non hanno imposto le sanzioni alla Russia hanno un’inflazione 
+148,124,https://pagellapolitica.it/fact-checking/inflazione-sanzioni-russia,Di Maio sbaglia sull’inflazione nei Paesi che non hanno sanzionato la Russia,"«I Paesi che non hanno imposto le sanzioni alla Russia hanno un’inflazione 
 più alta della nostra»",fact-checking,Pagella Politica,Sanzioni contro la Russia,,10,
-144,120,https://pagellapolitica.it/fact-checking/lega-promesse-non-mantenute,"Non è vero che «quello che la Lega ha proposto, ha realizzato»","«In passato, sull’immigrazione, su “quota 100”, sulla legittima difesa, 
+149,125,https://pagellapolitica.it/fact-checking/lega-promesse-non-mantenute,"Non è vero che «quello che la Lega ha proposto, ha realizzato»","«In passato, sull’immigrazione, su “quota 100”, sulla legittima difesa, 
 sulla flat tax, quello che la Lega ha proposto, ha realizzato» (min. 5:20)",fact-checking,Pagella Politica,Flat tax,,5,
-145,121,https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico,"Meloni ha ragione: in 15 mesi il debito pubblico è cresciuto di 116 
+150,126,https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico,"Meloni ha ragione: in 15 mesi il debito pubblico è cresciuto di 116 
 miliardi di euro","«Negli ultimi 15 mesi il debito pubblico italiano è cresciuto di 116 
 miliardi»",fact-checking,Pagella Politica,,Fratelli d'Italia,,1
-146,122,https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia,È vero che la povertà in Italia è triplicata negli ultimi 15 anni?,«In Italia la povertà assoluta è triplicata negli ultimi 15 anni»,fact-checking,Pagella Politica,,,,
-147,123,https://pagellapolitica.it/fact-checking/importazioni-gas-russia-berlusconi,Davvero Berlusconi importava meno gas russo di Letta e Conte?,"«Con il mio ultimo governo, all’inizio del 2011, avevamo ridotto la quota 
+151,127,https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia,È vero che la povertà in Italia è triplicata negli ultimi 15 anni?,«In Italia la povertà assoluta è triplicata negli ultimi 15 anni»,fact-checking,Pagella Politica,,,,
+152,128,https://pagellapolitica.it/fact-checking/importazioni-gas-russia-berlusconi,Davvero Berlusconi importava meno gas russo di Letta e Conte?,"«Con il mio ultimo governo, all’inizio del 2011, avevamo ridotto la quota 
 del gas russo al 19,9 per cento. Tre anni dopo, all’inizio del 2014, con il 
 governo Letta la dipendenza dalla Russia era salita al 45,3 per cento: più 
 del doppio. Con il governo Conte nel 2019 ha raggiunto il livello record 
 del 47,1 per cento»",fact-checking,Pagella Politica,Energie rinnovabili,Forza Italia,19,3
-148,124,https://pagellapolitica.it/fact-checking/meloni-esagera-occupati-automotive,Meloni esagera il numero di posti di lavoro nell’automotive,«Noi abbiamo 700 mila persone che lavorano nel campo dell’automotive» ,fact-checking,Pagella Politica,,Fratelli d'Italia,,1
-149,125,https://pagellapolitica.it/fact-checking/salvini-numero-chiuso-medicina-costo,"Salvini sbaglia: eliminare il test a medicina non è a «costo zero» per lo 
+153,129,https://pagellapolitica.it/fact-checking/meloni-esagera-occupati-automotive,Meloni esagera il numero di posti di lavoro nell’automotive,«Noi abbiamo 700 mila persone che lavorano nel campo dell’automotive» ,fact-checking,Pagella Politica,,Fratelli d'Italia,,1
+154,130,https://pagellapolitica.it/fact-checking/salvini-numero-chiuso-medicina-costo,"Salvini sbaglia: eliminare il test a medicina non è a «costo zero» per lo 
 Stato","«Ho ribadito la proposta della Lega a costo zero per lo Stato: libero 
 accesso al primo anno per tutti alla facoltà di medicina»",fact-checking,Pagella Politica,Abolizione del numero chiuso all'università,Lega,94,2
+155,131,https://pagellapolitica.it/fact-checking/condoni-fiscali-tremonti-centrodestra,"No, l’ultimo condono del centrodestra non è degli anni Novanta","«L’ultimo condono in Italia fu fatto nel 1995-1996. Da allora noi non ne 
+abbiamo fatti»",fact-checking,Pagella Politica,Condoni fiscali o edilizi,Fratelli d'Italia,100,1
+156,132,https://pagellapolitica.it/fact-checking/programma-pd-elezioni-patrimoniale,È vero che nel programma del Pd non c’è «nessuna patrimoniale»?,«Nel programma del Pd non c’è nessuna proposta di patrimoniale»,fact-checking,Pagella Politica,Patrimoniale,Partito Democratico,28,5

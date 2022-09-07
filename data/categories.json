@@ -4,50 +4,50 @@
   "slug": "istituzioni-e-giustizia",
   "name": "Istituzioni e giustizia",
   "description": "Riforme costituzionali, giustizia, amministrazione penitenziaria, gestione della pubblica amministrazione, ruolo dei responsabili governativi e parlamentari."
-},
-{
+}
+,{
   "id": 2,
   "slug": "esteri-e-difesa",
   "name": "Esteri e difesa",
   "description": "Affari esteri, Unione europea, difesa militare, difesa civile e aiuti militari all’estero."
-},
-{
+}
+,{
   "id": 3,
   "slug": "sicurezza-e-immigrazione",
   "name": "Sicurezza e immigrazione",
   "description": "Ordine pubblico e gestione della sicurezza tramite le forze di polizia e vigili del fuoco, gestione dei flussi migratori, nonché le politiche volte all’organizzazione dell’amministrazione civile, penale e minorile, immigrazione."
-},
-{
+}
+,{
   "id": 4,
   "slug": "economia-e-fisco",
   "name": "Economia e fisco",
   "description": "Tasse, crescita economica, occupazione, finanze pubbliche, commercio, industrie, comunicazioni, agricoltura, caccia, pesca, trasporto e infrastrutture."
-},
-{
+}
+,{
   "id": 5,
   "slug": "ambiente-ed-energia",
   "name": "Ambiente ed energia",
   "description": "Gestione dell’energia e del carburante, gestione dei rifiuti, abbattimento dell'inquinamento, salvaguardia della biodiversità e tutela del paesaggio."
-},
-{
+}
+,{
   "id": 6,
   "slug": "sanita-e-sport",
   "name": "Sanità e sport",
   "description": "Tutela e prevenzione della salute umana e della sanità veterinaria, tutela della salute nei luoghi di lavoro e dell'igiene e sicurezza degli alimenti."
-},
-{
+}
+,{
   "id": 7,
   "slug": "istruzione-e-ricerca",
   "name": "Istruzione e ricerca",
   "description": "Gestione dei programmi di istruzione per le scuole di ogni ordine e grado, sia pubbliche sia private, e delle politiche relative alle ricerche scientifiche e tecnologiche e all'amministrazione delle università."
-},
-{
+}
+,{
   "id": 8,
   "slug": "lavoro-e-politiche-sociali",
   "name": "Lavoro e politiche sociali",
   "description": "Politiche del lavoro e a sostegno di famiglie e persone in condizioni di disagio, con particolare riferimento a disoccupati, soggetti affetti da malattie e disabilità, anziani, immigrati e sopravvissuti."
-},
-{
+}
+,{
   "id": 9,
   "slug": "diritti-civili",
   "name": "Diritti civili",
