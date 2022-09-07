@@ -114,6 +114,12 @@ resources:
           description: URL of an external reference 
           type: string
           format: uri
+        - name: source
+          type: string
+          title: Description source
+        - name: title
+          type: string
+          title: Website title
         - name: description
           type: string
           description: Subject description
@@ -400,6 +406,9 @@ resources:
             enum:
               - articolo
               - fact-checking
+        - name: source
+          type: string
+          title: Post source
         - name: subject
           type: string
         - name: list
