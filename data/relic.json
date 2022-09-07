@@ -4,806 +4,806 @@
   "subject_id": 34,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Abolizione del numero chiuso all'università",
   "subject_id": 94,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Abolizione della \"legge Gelmini\"",
   "subject_id": 35,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Abrogazione della \"legge Fornero\"",
   "subject_id": 37,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Adesione all'UE",
   "subject_id": 13,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Adesione alla NATO",
   "subject_id": 9,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Agevolazioni ai giovani per i mutui",
   "subject_id": 32,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aiutare i giovani laureati a rimanere in Italia",
   "subject_id": 76,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aiuti militari all'Ucraina",
   "subject_id": 8,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Alloggi popolari",
   "subject_id": 38,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Alternanza scuola-lavoro",
   "subject_id": 67,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Apprendistato retribuito",
   "subject_id": 62,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Più risorse ai piccoli comuni",
   "subject_id": 57,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Aumento dell'assegno sociale per gli invalidi",
   "subject_id": 66,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aumento dell'assegno unico universale",
   "subject_id": 29,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aumento del numero di medici",
   "subject_id": 59,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Aumento degli asili nido",
   "subject_id": 48,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aumento delle pensioni",
   "subject_id": 12,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aumento delle spese militari",
   "subject_id": 98,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Aumento delle spese militari",
   "subject_id": 98,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Aumento dello stipendio dei docenti",
   "subject_id": 60,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Aumento dello stipendio dei docenti",
   "subject_id": 60,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Autonomia differenziata",
   "subject_id": 70,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Commissione di inchiesta sulla Covid-19",
   "subject_id": 96,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Condoni fiscali o edilizi",
   "subject_id": 100,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Congedo di paternità",
   "subject_id": 49,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Introduzione del conto unico fiscale",
   "subject_id": 30,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Lotta all'evasione fiscale",
   "subject_id": 31,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Contributi per l'edilizia scolastica",
   "subject_id": 61,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Contributi ai giovani per gli affitti",
   "subject_id": 33,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Didattica a distanza",
   "subject_id": 69,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Difesa comune europea",
   "subject_id": 58,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Diritto all'aborto",
   "subject_id": 46,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Educazione sessuale",
   "subject_id": 52,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Eliminazione del precariato",
   "subject_id": 65,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Energie rinnovabili",
   "subject_id": 19,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Favorire la creazione delle comunità energetiche",
   "subject_id": 78,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Favorire il riscatto della laurea",
   "subject_id": 90,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Flat tax",
   "subject_id": 5,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Green Pass",
   "subject_id": 63,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Termovalorizzatori",
   "subject_id": 20,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Integrazione tra università e aziende",
   "subject_id": 84,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Integrazione tra università e aziende",
   "subject_id": 84,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Investimenti in infrastrutture",
   "subject_id": 21,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Investimenti per il Mezzogiorno",
   "subject_id": 22,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Investimenti per la formazione dei docenti",
   "subject_id": 72,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Investimenti per le politiche sportive",
   "subject_id": 73,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Ius scholae",
   "subject_id": 43,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Ius soli",
   "subject_id": 44,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Legalizzazione della cannabis",
   "subject_id": 51,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Legge sul fine vita",
   "subject_id": 41,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Libri di testo gratuiti",
   "subject_id": 79,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Lotta alla corruzione",
   "subject_id": 97,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Lotta alla mafia",
   "subject_id": 39,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Lotta alla omotransfobia",
   "subject_id": 40,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Sostegno ai disabili nelle scuole",
   "subject_id": 74,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Investimenti per la ricerca",
   "subject_id": 23,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Matrimonio egualitario",
   "subject_id": 50,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Mense scolastiche gratuite",
   "subject_id": 77,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Nucleare",
   "subject_id": 16,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Obbligo scolastico fino a 18 anni",
   "subject_id": 68,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Obbligo Vaccinale",
   "subject_id": 64,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Parità salariale",
   "subject_id": 42,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Patrimoniale",
   "subject_id": 28,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Più attività extrascolastiche",
   "subject_id": 93,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Più meritocrazia a scuola e nei concorsi",
   "subject_id": 80,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Ponte sullo Stretto",
   "subject_id": 53,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Presidenzialismo",
   "subject_id": 18,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Promozione degli Istituti tecnici superiori",
   "subject_id": 81,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Lavoro agile",
   "subject_id": 55,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Made in Italy",
   "subject_id": 56,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Promozione della parità di genere",
   "subject_id": 82,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Promozione della sicurezza sul lavoro",
   "subject_id": 83,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Realizzazione delle grandi opere",
   "subject_id": 54,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Reddito di cittadinanza",
   "subject_id": 11,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Revisione del PNRR",
   "subject_id": 24,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Riduzione delle bollette energetiche",
   "subject_id": 27,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Riduzione dell'IVA",
   "subject_id": 4,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Riduzione o eliminazione dell'IRAP",
   "subject_id": 25,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Attuazione della \"riforma Cartabia\"",
   "subject_id": 36,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riforma del sistema penitenziario",
   "subject_id": 102,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Rigassificatori",
   "subject_id": 17,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Salario minimo",
   "subject_id": 6,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Sanzioni contro la Russia",
   "subject_id": 10,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Scuola infanzia gratuita",
   "subject_id": 85,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Scuola dell'infanzia obbligatoria",
   "subject_id": 92,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Leva militare obbligatoria",
   "subject_id": 99,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Sostegno alla scuola paritaria",
   "subject_id": 91,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Sostegno alle imprese turistiche",
   "subject_id": 101,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Sostegno ai meno abbienti e incapienti",
   "subject_id": 87,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Sostegno per gli universitari fuorisede",
   "subject_id": 75,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Sostegno a piccole e medie imprese",
   "subject_id": 26,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Sostegno a piccole e medie imprese",
   "subject_id": 26,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Sostegno psicologico scolastico",
   "subject_id": 71,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Superbonus 110%",
   "subject_id": 7,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Supporto alla maternità",
   "subject_id": 47,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
-}
-,{
+},
+{
   "subject": "Sviluppo dei servizi sanitari di prossimità",
   "subject_id": 88,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Taglio del cuneo fiscale",
   "subject_id": 2,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Taglio delle tasse per le partite IVA",
   "subject_id": 3,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Tetto al prezzo del gas",
   "subject_id": 1,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Trasporto scolastico gratuito",
   "subject_id": 86,
   "category": "Istruzione e ricerca",
   "category_id": 7
-}
-,{
+},
+{
   "subject": "Trivelle",
   "subject_id": 15,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Tutela dell'ambiente e del paesaggio",
   "subject_id": 89,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Tutela del benessere animale",
   "subject_id": 95,
   "category": "Ambiente ed energia",
   "category_id": 5
-}
-,{
+},
+{
   "subject": "Tutela del benessere animale",
   "subject_id": 95,
   "category": "Sanità e sport",
   "category_id": 6
-}
-,{
+},
+{
   "subject": "Uscita dall'Euro",
   "subject_id": 14,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Uscita dall'Euro",
   "subject_id": 14,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Voto per i fuorisede",
   "subject_id": 45,
   "category": "Diritti civili",
   "category_id": 9
-}
-,{
+},
+{
   "subject": "Ripristino dei decreti Sicurezza",
   "subject_id": 103,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Riforma del sistema di accoglienza",
   "subject_id": 104,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Blocco navale",
   "subject_id": 105,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Contrasto alle baby gang",
   "subject_id": 106,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Investimenti in cybersicurezza",
   "subject_id": 107,
   "category": "Economia e fisco",
   "category_id": 4
-}
-,{
+},
+{
   "subject": "Maggiore inclusione per gli immigrati regolari",
   "subject_id": 108,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Creazione di hot-spot fuori dall'Ue",
   "subject_id": 109,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Abolizione della legge \"Bossi-Fini\"",
   "subject_id": 110,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Allargamento dei corridoi umanitari",
   "subject_id": 111,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Riforma dei trattati Ue sull'immigrazione",
   "subject_id": 112,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Riforma del Patto di stabilità e crescita",
   "subject_id": 113,
   "category": "Esteri e difesa",
   "category_id": 2
-}
-,{
+},
+{
   "subject": "Accordi di cooperazione con Paesi d'origine",
   "subject_id": 114,
   "category": "Sicurezza e immigrazione",
   "category_id": 3
-}
-,{
+},
+{
   "subject": "Elezione diretta del presidente del Consiglio",
   "subject_id": 115,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riforma della legge elettorale",
   "subject_id": 116,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Digitalizzazione della giustizia",
   "subject_id": 117,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Minore durata dei processi",
   "subject_id": 118,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Maggiore ricorso alla depenalizzazione",
   "subject_id": 119,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riforma delle professioni penitenziarie",
   "subject_id": 120,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Investimenti nell'edilizia per la giustizia",
   "subject_id": 121,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Separazione delle carriere dei Magistrati",
   "subject_id": 122,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riforma della giustizia civile e penale",
   "subject_id": 123,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riforma della giustizia tributaria",
   "subject_id": 124,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Modifica della legge \"Severino\"",
   "subject_id": 125,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riforma della custodia cautelare",
   "subject_id": 126,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Riduzione del sovraffolamento carcerario",
   "subject_id": 127,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Eliminazione della prescrizione",
   "subject_id": 128,
   "category": "Istituzioni e giustizia",
   "category_id": 1
-}
-,{
+},
+{
   "subject": "Responsabilità civile dei magistrati",
   "subject_id": 129,
   "category": "Istituzioni e giustizia",
