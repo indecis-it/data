@@ -260,4 +260,13 @@
   "list": "Noi moderati",
   "list_id": 4
 }
+,{
+  "id": 30,
+  "title": "Tweet Adinolfi 4 settembre 2022",
+  "slug": "tweet-adinolfi-4-settembre-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/marioadinolfi/status/1566296572794732544",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15
+}
 ]

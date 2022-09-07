@@ -143,7 +143,7 @@
   "id": 21,
   "subject": "Investimenti in infrastrutture",
   "slug": "investimenti-in-infrastrutture",
-  "url": "https://www.treccani.it/enciclopedia/infrastrutture_%28Enciclopedia-delle-scienze-sociali%29/#:~:text=Il%20termine%20'infrastrutture'%20viene%20usato,%2C%20scuole%2C%20ospedali%2C%20ecc.",
+  "url": "https://www.treccani.it/enciclopedia/infrastrutture_%28Enciclopedia-delle-scienze-sociali%29",
   "description": "Il termine \"infrastrutture\" viene usato per designare quel complesso di beni capitali che, pur non utilizzati direttamente nel processo produttivo, forniscono una serie di servizi indispensabili per il funzionamento del sistema economico: strade, linee ferroviarie, porti, scuole, ospedali, ecc."
 }
 ,{
@@ -915,5 +915,12 @@
   "slug": "maternit-surrogata",
   "url": "https://it.wikipedia.org/wiki/Surrogazione_di_maternit%C3%A0",
   "description": "La surrogazione di maternità, maternità surrogata o gestazione per altri (spesso abbreviata in GPA) è una forma di procreazione assistita in cui una donna provvede alla gestazione per conto di una o più persone, che saranno il genitore o i genitori del nascituro."
+}
+,{
+  "id": 132,
+  "subject": "Contrasto al lavoro nero",
+  "slug": "contrasto-al-lavoro-nero",
+  "url": "https://it.wikipedia.org/wiki/Lavoro_nero",
+  "description": "Con la locuzione lavoro nero, lavoro irregolare o lavoro in nero si intende un rapporto di lavoro nel quale un datore di lavoro, sia esso una persona fisica o giuridica, si avvale di prestazioni professionali e/o lavorative di un lavoratore senza riconoscere a questi alcuna copertura previdenziale, di garanzia, e di tutela previste dalla legge, e senza pagare le imposte previste dalla legge, in virtù di un'assenza di un contratto di lavoro ufficiale ovvero non registrato e dunque giuridicamente nullo/irregolare per le vigenti norme del diritto del lavoro. Il fenomeno ancora oggi non presenta una definizione giuridica univoca nei vari ordinamenti giuridici statali."
 }
 ]
