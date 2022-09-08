@@ -49,8 +49,14 @@
 }
 ,{
   "id": 9,
-  "slug": "diritti-civili",
-  "name": "Diritti civili",
+  "slug": "diritti-civili-e-bioetica",
+  "name": "Diritti civili e bioetica",
   "description": "Tutte le politiche relative ai diritti civili e politici e alle libertà garantite o che i partiti intendono raggiungere."
+}
+,{
+  "id": 10,
+  "slug": "innovazione-e-tecnologia",
+  "name": "Innovazione e tecnologia",
+  "description": "Politiche relative alla transizione digitale e nuove tecnologie"
 }
 ]

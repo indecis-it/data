@@ -31,7 +31,7 @@ Contributi per l'edilizia scolastica,61,Istruzione e ricerca,7
 Contributi ai giovani per gli affitti,33,Lavoro e politiche sociali,8
 Didattica a distanza,69,Istruzione e ricerca,7
 Difesa comune europea,58,Esteri e difesa,2
-Diritto all'aborto,46,Diritti civili,9
+Diritto all'aborto,46,Diritti civili e bioetica,9
 Educazione sessuale,52,Istruzione e ricerca,7
 Eliminazione del precariato,65,Istruzione e ricerca,7
 Energie rinnovabili,19,Ambiente ed energia,5
@@ -46,17 +46,17 @@ Investimenti in infrastrutture,21,Economia e fisco,4
 Investimenti per il Mezzogiorno,22,Economia e fisco,4
 Investimenti per la formazione dei docenti,72,Istruzione e ricerca,7
 Investimenti per le politiche sportive,73,Sanità e sport,6
-Ius scholae,43,Diritti civili,9
-Ius soli,44,Diritti civili,9
-Legalizzazione della cannabis,51,Diritti civili,9
-Legge sul fine vita,41,Diritti civili,9
+Ius scholae,43,Diritti civili e bioetica,9
+Ius soli,44,Diritti civili e bioetica,9
+Legalizzazione della cannabis,51,Diritti civili e bioetica,9
+Legge sul fine vita,41,Diritti civili e bioetica,9
 Libri di testo gratuiti,79,Istruzione e ricerca,7
 Lotta alla corruzione,97,Sicurezza e immigrazione,3
 Lotta alla mafia,39,Sicurezza e immigrazione,3
-Lotta alla omotransfobia,40,Diritti civili,9
+Lotta alla omotransfobia,40,Diritti civili e bioetica,9
 Sostegno ai disabili nelle scuole,74,Istruzione e ricerca,7
 Investimenti per la ricerca,23,Istruzione e ricerca,7
-Matrimonio egualitario,50,Diritti civili,9
+Matrimonio egualitario,50,Diritti civili e bioetica,9
 Mense scolastiche gratuite,77,Istruzione e ricerca,7
 Nucleare,16,Ambiente ed energia,5
 Obbligo scolastico fino a 18 anni,68,Istruzione e ricerca,7
@@ -70,7 +70,7 @@ Presidenzialismo,18,Istituzioni e giustizia,1
 Promozione degli Istituti tecnici superiori,81,Istruzione e ricerca,7
 Lavoro agile,55,Lavoro e politiche sociali,8
 Made in Italy,56,Economia e fisco,4
-Promozione della parità di genere,82,Diritti civili,9
+Promozione della parità di genere,82,Diritti civili e bioetica,9
 Promozione della sicurezza sul lavoro,83,Lavoro e politiche sociali,8
 Realizzazione delle grandi opere,54,Economia e fisco,4
 Reddito di cittadinanza,11,Lavoro e politiche sociali,8
@@ -106,7 +106,7 @@ Tutela del benessere animale,95,Ambiente ed energia,5
 Tutela del benessere animale,95,Sanità e sport,6
 Uscita dall'Euro,14,Esteri e difesa,2
 Uscita dall'Euro,14,Economia e fisco,4
-Voto per i fuorisede,45,Diritti civili,9
+Voto per i fuorisede,45,Diritti civili e bioetica,9
 Ripristino dei decreti Sicurezza,103,Sicurezza e immigrazione,3
 Riforma del sistema di accoglienza,104,Sicurezza e immigrazione,3
 Blocco navale,105,Sicurezza e immigrazione,3
@@ -134,3 +134,14 @@ Riforma della custodia cautelare,126,Istituzioni e giustizia,1
 Riduzione del sovraffolamento carcerario,127,Istituzioni e giustizia,1
 Eliminazione della prescrizione,128,Istituzioni e giustizia,1
 Responsabilità civile dei magistrati,129,Istituzioni e giustizia,1
+Riduzione cambi di gruppo in Parlamento,130,Istituzioni e giustizia,1
+Maternità surrogata,131,Diritti civili e bioetica,9
+Contrasto al lavoro nero,132,Lavoro e politiche sociali,8
+Contrasto alla violenza sulle donne,133,Sicurezza e immigrazione,3
+Transizione digitale,134,Innovazione e tecnologia,10
+Incentivare il trasporto pubblico,135,Ambiente ed energia,5
+Connessione ad alta velocità,136,Innovazione e tecnologia,10
+Protezione dei dati,137,Innovazione e tecnologia,10
+Videosorveglianza di massa,138,Sicurezza e immigrazione,3
+Videosorveglianza di massa,138,Innovazione e tecnologia,10
+Investimenti in cybersicurezza,107,Innovazione e tecnologia,10
