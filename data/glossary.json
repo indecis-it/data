@@ -849,10 +849,10 @@
   "id": 95,
   "subject": "Tutela del benessere animale",
   "slug": "tutela-del-benessere-animale",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
+  "url": "https://it.wikipedia.org/wiki/Diritti_degli_animali",
+  "source": "Wikipedia",
+  "title": "Diritti degli animali",
+  "description": "L'espressione diritti animali (o diritti degli animali) si riferisce all'estensione alle specie animali di alcuni dei diritti fondamentali dell'uomo, quali il diritto di vivere in libertà o di non soffrire inutilmente. Il termine \"diritto\" viene inteso in senso morale e legale."
 }
 ,{
   "id": 96,
@@ -1200,19 +1200,19 @@
   "id": 134,
   "subject": "Transizione digitale",
   "slug": "transizione-digitale",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
+  "url": "https://it.wikipedia.org/wiki/Digital_transformation",
+  "source": "Wikipedia",
+  "title": "Digital transformation",
+  "description": "La locuzione digital transformation (in italiano trasformazione digitale) indica un insieme di cambiamenti prevalentemente tecnologici, culturali, organizzativi, sociali, creativi e manageriali, associati con le applicazioni di tecnologia digitale, in tutti gli aspetti della società umana."
 }
 ,{
   "id": 135,
   "subject": "Incentivare il trasporto pubblico",
   "slug": "incentivare-il-trasporto-pubblico",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
+  "url": "https://it.wikipedia.org/wiki/Trasporto_pubblico",
+  "source": "Wikipedia",
+  "title": "Trasporto pubblico",
+  "description": "Con trasporto pubblico si intende il trasporto di persone con l'utilizzo dei vari mezzi di trasporto preposti. Esso non va confuso con il trasporto di turisti o passeggeri operato dalle compagnie aeree o dai pullman."
 }
 ,{
   "id": 136,
@@ -1240,5 +1240,14 @@
   "source": "",
   "title": "",
   "description": ""
+}
+,{
+  "id": 139,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "slug": "gestione-nazionale-del-servizio-sanitario",
+  "url": "https://it.wikipedia.org/wiki/Servizio_sanitario_nazionale_(Italia)#Struttura",
+  "source": "Wikipedia",
+  "title": "Servizio Sanitario Nazionale",
+  "description": "Il Servizio sanitario nazionale non è un'unica amministrazione, ma un insieme di enti ed organi che concorrono al raggiungimento degli obiettivi di tutela della salute dei cittadini."
 }
 ]
