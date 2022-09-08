@@ -21916,12 +21916,12 @@
   "subject": "Tetto al prezzo del gas",
   "subject_slug": "tetto-al-prezzo-del-gas",
   "subject_id": 1,
-  "source": "Programma elettorale PD",
-  "source_slug": "programma-elettorale-pd",
+  "source": "Tweet Partito Democratico 5 settembre 2022",
+  "source_slug": "tweet-partito-democratico-5-settembre-2022",
   "list": "Partito Democratico",
   "list_id": 5,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "\"Subito un tetto europeo al prezzo del gas\""
 }
 ,{
   "id": 1567,
@@ -32248,6 +32248,230 @@
   "subject": "Investimenti in cybersicurezza",
   "subject_slug": "investimenti-in-cybersicurezza",
   "subject_id": 107,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2305,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "red",
+  "description": "Adottare per le materie a cui si applica l'autonomia differenziata il modello adottato per la sanità per cui le risorse per la spesa fornite dallo stato sono distribuite alle regioni sulla base di un criterio oggettivo di ripartizione, ma sono gestite dalle regioni sotto il vincolo di livelli essenziali di qualità dei servizi prestati."
+}
+,{
+  "id": 2306,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2307,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2308,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "yellow",
+  "description": "Riformare i meccanismi di governance e coordinamento tra Stato e regioni \nRidefinire la disciplina di competenza di Stato e Regioni con riferimento ed oltre al titolo V della Costituzione Italiana. In particolare, è necessario riconoscere allo Stato funzioni di analisi di dati e bisogni, valutazione delle tecnologie sanitarie, indirizzo e coordinamento delle Regioni. Alle Regioni si riconosce la funzione di erogazione e gestione dei servizi, con il conferimento di accreditamento in base a criteri oggettivi ed esigenze territoriali. Nel caso in cui le Regioni non siano in grado di garantire l'erogazione dei LEA, va riconosciuta allo Stato la possibilità di intervenire."
+}
+,{
+  "id": 2309,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2310,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "red",
+  "description": "Attuazione di un modello di federalismo responsabile che armonizzi la maggiore autonomia prevista dal titolo V della Costituzione e già richiesta da alcune regioni in attuazione dell'articolo 116, portando a conclusione le trattative attualmente aperte tra Stato e Regioni."
+}
+,{
+  "id": 2311,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2312,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2313,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "yellow",
+  "description": "Superare la confusione nei rapporti Stato-Regioni, determinata dalla revisione del Titolo V del 2001, superando il criterio per «materie» e riordinando le rispettive competenze sulla base della dimensione (nazionale o regionale) dell'interesse."
+}
+,{
+  "id": 2314,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2315,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Riforma Titolo V della Costituzione per riportare la salute alla gestione diretta dello Stato ed evitare le attuali disfunzioni dei 20 sistemi regionali, a maggior ragione emerse con la pandemia."
+}
+,{
+  "id": 2316,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2317,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2318,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2319,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Ricostruzione del Servizio Sanitario Nazionale unico per tutte le regioni, superando la controriforma del 2001, eliminando l’aziendalizzazione e tornando alle USL con controllo democratico del territorio. Ripristinare l’intera filiera della medicina territoriale."
+}
+,{
+  "id": 2320,
+  "category": "Sanità e sport",
+  "category_id": 6,
+  "subject": "Gestione nazionale del Servizio Sanitario",
+  "subject_slug": "gestione-nazionale-del-servizio-sanitario",
+  "subject_id": 139,
   "source": "Programma elettorale Vita",
   "source_slug": "programma-elettorale-vita",
   "list": "Vita",
