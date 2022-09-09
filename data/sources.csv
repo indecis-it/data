@@ -13,7 +13,7 @@ id,title,slug,type,url,list,list_id
 12,Programma elettorale Azione Italia Viva,programma-elettorale-azione-italia-viva,programma,https://issuu.com/azione_it/docs/impaginato,Azione-Italia Viva-Calenda,10
 13,Programma elettorale Forza Italia,programma-elettorale-forza-italia,programma,http://www.forza-italia.it/speciali/Programma_Elettorale_Forza_Italia.pdf,Forza Italia,3
 14,Programma elettorale Fratelli d'Italia,programma-elettorale-fratelli-ditalia,programma,https://www.fratelli-italia.it/wp-content/uploads/2022/08/Brochure_programma_FdI_qr_def.pdf,Fratelli d'Italia,1
-15,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,programma,https://www.impegno-civico.it/,Impegno Civico,8
+15,Programma elettorale Impegno Civico,programma-elettorale-impegno-civico,programma,https://www.impegno-civico.it/wp-content/uploads/2022/09/Programma-politico_Impegno-Civico.pdf,Impegno Civico,8
 16,Programma elettorale Italexit,programma-elettorale-italexit,programma,https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/16/(16_progr_2_)-italexit_per_l_italia.programma.pdf,Italexit,11
 17,Programma elettorale Italia Sovrana e Popolare,programma-elettorale-italia-sovrana-e-popolare,programma,https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/86/(86_progr_2_)-programma.pdf,Italia Sovrana e Popolare,12
 18,Programma elettorale Lega,programma-elettorale-lega,programma,https://static.legaonline.it/files/Programma_Lega_2022.pdf,Lega,2
@@ -31,3 +31,5 @@ id,title,slug,type,url,list,list_id
 30,Tweet Adinolfi 4 settembre 2022,tweet-adinolfi-4-settembre-2022,tweet,https://twitter.com/marioadinolfi/status/1566296572794732544,Alternativa Per l'Italia,15
 31,Tweet Partito Democratico 5 settembre 2022,tweet-partito-democratico-5-settembre-2022,tweet,https://twitter.com/pdnetwork/status/1566834748496003075,Partito Democratico,5
 32,Tweet Letta 4 settembre 2022,tweet-letta-4-settembre-2022,tweet,https://twitter.com/EnricoLetta/status/1566354398544072705,Partito Democratico,5
+33,Programma giovani AVS,programma-giovani-avs,programma,https://verdisinistra.it/pretendiamo-il-futuro/,Alleanza Verdi e Sinistra,6
+34,Programma turismo Fratelli d'Italia,programma-turismo-fratelli-ditalia,programma,https://www.fratelli-italia.it/wp-content/uploads/2022/08/Programma-turismo_2022.pdf,Fratelli d'Italia,1

@@ -130,7 +130,7 @@
   "title": "Programma elettorale Impegno Civico",
   "slug": "programma-elettorale-impegno-civico",
   "type": "programma",
-  "url": "https://www.impegno-civico.it/",
+  "url": "https://www.impegno-civico.it/wp-content/uploads/2022/09/Programma-politico_Impegno-Civico.pdf",
   "list": "Impegno Civico",
   "list_id": 8
 }
@@ -286,5 +286,23 @@
   "url": "https://twitter.com/EnricoLetta/status/1566354398544072705",
   "list": "Partito Democratico",
   "list_id": 5
+}
+,{
+  "id": 33,
+  "title": "Programma giovani AVS",
+  "slug": "programma-giovani-avs",
+  "type": "programma",
+  "url": "https://verdisinistra.it/pretendiamo-il-futuro/",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6
+}
+,{
+  "id": 34,
+  "title": "Programma turismo Fratelli d'Italia",
+  "slug": "programma-turismo-fratelli-ditalia",
+  "type": "programma",
+  "url": "https://www.fratelli-italia.it/wp-content/uploads/2022/08/Programma-turismo_2022.pdf",
+  "list": "Fratelli d'Italia",
+  "list_id": 1
 }
 ]
