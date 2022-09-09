@@ -8382,7 +8382,7 @@
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
+  "endorsement": "green",
   "description": "Bisogna implementare nuovi strumenti per favorire il riscatto della laurea."
 }
 ,{
@@ -27138,12 +27138,12 @@
   "subject": "Riforma della legge elettorale",
   "subject_slug": "riforma-della-legge-elettorale",
   "subject_id": 116,
-  "source": "Programma elettorale AVS",
-  "source_slug": "programma-elettorale-avs",
+  "source": "Programma giovani AVS",
+  "source_slug": "programma-giovani-avs",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 6,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Voto ai sedicenni: Crediamo sia fondamentale coinvolgere nelle decisioni di carattere politico generazioni di giovani cittadini che già attivamente partecipano alle dinamiche della società civile. Inoltre, secondo l’articolo 2 del codice civile un sedicenne può esercitare diritti e doveri collegati al lavoro, quindi perché non dovrebbe anche essere titolare del dovere civico del voto?\n18 anni per l’esercizio dell’elettorato passivo alla Camera: Con la riduzione a 18 anni, si permette l’ingresso nelle istituzioni dei giovani e delle giovani, permettendogli così di lottare attivamente anche in ambiti come l’istruzione, il lavoro, l’università, la ricerca.\n30 anni per l’esercizio dell’elettorato passivo al Senato: Riducendo a 30 anni l’età minima per accedere al Senato, si permette a un gran numero di cittadine e cittadini di introdurre nel dibattito di Palazzo Madama, in maniera diretta, le proprie istanze. Si tratta di quella fetta di popolazione che, molto spesso, affronta non poche diﬃcoltà legate al mercato del lavoro."
 }
 ,{
   "id": 1940,
