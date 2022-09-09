@@ -278,4 +278,13 @@
   "list": "Partito Democratico",
   "list_id": 5
 }
+,{
+  "id": 32,
+  "title": "Tweet Letta 4 settembre 2022",
+  "slug": "tweet-letta-4-settembre-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/EnricoLetta/status/1566354398544072705",
+  "list": "Partito Democratico",
+  "list_id": 5
+}
 ]
