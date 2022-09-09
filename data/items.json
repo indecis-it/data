@@ -1658,12 +1658,12 @@
   "subject": "Aiutare i giovani laureati a rimanere in Italia",
   "subject_slug": "aiutare-i-giovani-laureati-a-rimanere-in-italia",
   "subject_id": 76,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Dobbiamo creare le condizioni affinché i nostri giovani scelgano l'Italia come sede della loro crescita e prosperità."
 }
 ,{
   "id": 120,
@@ -2778,12 +2778,12 @@
   "subject": "Più risorse ai piccoli comuni",
   "subject_slug": "pi-risorse-ai-piccoli-comuni",
   "subject_id": 57,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Bisogna avere riguardo dei piccoli comuni, aumentandone poteri e risorse."
 }
 ,{
   "id": 200,
@@ -7706,12 +7706,12 @@
   "subject": "Eliminazione del precariato",
   "subject_slug": "eliminazione-del-precariato",
   "subject_id": 65,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Dobbiamo favorire le assunzioni a tempo indeterminato."
 }
 ,{
   "id": 552,
@@ -8154,12 +8154,12 @@
   "subject": "Favorire la creazione delle comunità energetiche",
   "subject_slug": "favorire-la-creazione-delle-comunit-energetiche",
   "subject_id": 78,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Favorire la creazione delle Comunità Energetiche."
 }
 ,{
   "id": 584,
@@ -9946,12 +9946,12 @@
   "subject": "Investimenti per il Mezzogiorno",
   "subject_slug": "investimenti-per-il-mezzogiorno",
   "subject_id": 22,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Per il Sud deve nascere la Riserva nazionale dell'agricoltura e della ricerca industriale."
 }
 ,{
   "id": 712,
@@ -15546,12 +15546,12 @@
   "subject": "Lavoro agile",
   "subject_slug": "lavoro-agile",
   "subject_id": 55,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Occorre sostenere nelle imprese l'adozione di modelli organizzativi che valorizzino l'autonomia personale nella scelta dei tempi, dei luoghi e delle modalità di lavoro."
 }
 ,{
   "id": 1112,
@@ -20250,12 +20250,12 @@
   "subject": "Sostegno per gli universitari fuorisede",
   "subject_slug": "sostegno-per-gli-universitari-fuorisede",
   "subject_id": 75,
-  "source": "Programma elettorale Impegno Civico",
-  "source_slug": "programma-elettorale-impegno-civico",
+  "source": "Programma Impegno Civico presso Ministero Interno",
+  "source_slug": "programma-impegno-civico-presso-ministero-interno",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "I giovani universitari devono poter contare, oltre che sulle borse di studio, su un sostegno per i fuori sede."
 }
 ,{
   "id": 1448,

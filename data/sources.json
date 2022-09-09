@@ -305,4 +305,13 @@
   "list": "Fratelli d'Italia",
   "list_id": 1
 }
+,{
+  "id": 35,
+  "title": "Programma Impegno Civico presso Ministero Interno",
+  "slug": "programma-impegno-civico-presso-ministero-interno",
+  "type": "programma",
+  "url": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/54/(54_progr_2_)-programma_impegno_civico-ldm-cd_autenticato.docx.pdf",
+  "list": "Impegno Civico",
+  "list_id": 8
+}
 ]
