@@ -141,7 +141,7 @@
   "url": "https://it.wikipedia.org/wiki/Energia_nucleare",
   "source": "Wikipedia",
   "title": "Energia nucleare",
-  "description": "L'energia nucleare, o energia atomica, è l'energia liberata dalle reazioni nucleari e dal decadimento radioattivo sotto forma di energia elettromagnetica e cinetica. Questa energia è sfruttata da numerose tecnologie nucleari e ha una particolare rilevanza nel settore energetico, infatti comunemente ci si riferisce all'energia nucleare come a quella liberata in modo controllato nelle centrali nucleari per la produzione di energia elettrica. In una centrale, l'energia nucleare viene liberata dalla fissione del combustibile (isotopi di uranio e plutonio) nel reattore e qui convertita in energia termica sfruttabile per la produzione di energia elettrica. È in fase di ricerca la possibilità di sfruttare per scopi energetici anche le reazioni di fusione nucleare."
+  "description": "L'energia nucleare, o energia atomica, è l'energia liberata dalle reazioni nucleari. Questa energia è sfruttata da numerose tecnologie e ha una particolare rilevanza nel settore energetico, infatti comunemente ci si riferisce all'energia nucleare come a quella liberata in modo controllato nelle centrali nucleari per la produzione di energia elettrica."
 }
 ,{
   "id": 17,
@@ -159,7 +159,7 @@
   "url": "https://it.wikipedia.org/wiki/Repubblica_presidenziale",
   "source": "Wikipedia",
   "title": "Repubblica presidenziale",
-  "description": "La repubblica presidenziale (o presidenzialismo) è una forma di governo, che appartiene alle forme di democrazia rappresentativa, in cui il potere esecutivo si concentra nella figura del Presidente che è sia il capo dello Stato sia il capo del governo. Generalmente questo è democraticamente eletto direttamente dai cittadini e forma il suo governo. Essendo capo di Stato non ha bisogno di voto di fiducia parlamentare anche perché, avendo già ottenuto il voto della maggioranza dei cittadini, non ha bisogno della fiducia dei loro rappresentanti. La legittimazione attraverso il voto conferisce al presidente una chiara superiorità rispetto ai suoi ministri, non sempre rimarcata nei sistemi parlamentari."
+  "description": "La repubblica presidenziale (o presidenzialismo) è una forma di governo in cui il potere esecutivo si concentra nella figura del Presidente che è sia il capo dello Stato sia il capo del governo. Generalmente viene democraticamente eletto direttamente dai cittadini e forma il suo governo ed essendo capo di Stato non ha bisogno di voto di fiducia parlamentare, avendo già ottenuto il voto della maggioranza dei cittadini."
 }
 ,{
   "id": 19,
@@ -177,7 +177,7 @@
   "url": "https://it.wikipedia.org/wiki/Termovalorizzatore",
   "source": "Wikipedia",
   "title": "Termovalorizzatore",
-  "description": "Il termovalorizzatore è un inceneritore che converte il calore generato dalla combustione dei rifiuti in energia destinata ad altro uso. I termovalorizzatori possono svolgere la funzione di centrali elettriche, producendo energia elettrica tramite un impianto costituito da una turbina a vapore. Il vapore è generato dal riscaldamento, dovuto alla combustione dei rifiuti, di acqua contenuta in apposite caldaie. Oltre alla produzione di energia elettrica, al termovalorizzatore può essere associato un impianto cogenerazione per il teleriscaldamento o un impianto di gassificazione per la produzione del gas di sintesi."
+  "description": "Il termovalorizzatore è un inceneritore che converte il calore generato dalla combustione dei rifiuti in energia destinata ad altro uso. Può svolgere la funzione di centrali elettriche, producendo energia elettrica tramite un impianto costituito da una turbina a vapore. Oltre alla produzione di energia elettrica, al termovalorizzatore può essere associato un impianto cogenerazione per il teleriscaldamento o un impianto di gassificazione per la produzione del gas di sintesi."
 }
 ,{
   "id": 21,
@@ -276,7 +276,7 @@
   "url": "https://it.wikipedia.org/wiki/Evasione_fiscale",
   "source": "Wikipedia",
   "title": "Evasione fiscale",
-  "description": "La locuzione \"evasione fiscale\" indica tutti quei metodi volti a ridurre o eliminare il prelievo fiscale da parte di uno Stato sul cittadino o azienda contribuente attraverso la violazione di specifiche norme fiscali da parte di questi ultimi. Costituisce di fatto un fenomeno deleterio all'interno della politica fiscale attuata da un governo, che contribuisce a far perdere allo Stato una parte non trascurabile delle entrate a esso dovute (gettito fiscale), similmente all'elusione fiscale che persegue lo stesso fine con strategie legali o non normate."
+  "description": "La locuzione \"evasione fiscale\" indica tutti quei metodi volti a ridurre o eliminare il prelievo fiscale da parte di uno Stato sul cittadino o azienda contribuente attraverso la violazione di specifiche norme fiscali da parte di questi ultimi."
 }
 ,{
   "id": 32,
@@ -330,7 +330,7 @@
   "url": "https://it.wikipedia.org/wiki/Riforma_delle_pensioni_Fornero",
   "source": "Wikipedia",
   "title": "Riforma delle pensioni Fornero",
-  "description": "La riforma delle pensioni Fornero è il nome con cui viene comunemente indicato l'articolo 24 del decreto \nlegge 6 dicembre 2011, n. 201, intitolato \"Disposizioni in materia di trattamenti pensionistici\", che, su proposta del Ministro del lavoro e delle politiche sociali Elsa Fornero, ha modificato il funzionamento del sistema pensionistico italiano. Consistette nell'attuazione di un default dei sistemi pensionistici pubblici per ridurre la spesa pubblica legata alle prestazioni pensionistiche in un momento di crisi finanziaria: nel sistema pensionistico pubblico, detto anche previdenza di primo pilastro, le pensioni si pagano con le imposte. È quindi una riforma previdenziale del sistema pensionistico pubblico e delle assicurazioni sociali obbligatorie."
+  "description": "La riforma delle pensioni Fornero è il nome con cui viene comunemente indicato l'articolo 24 del decreto \nlegge 6 dicembre 2011, n. 201. Consistette nell'attuazione di un default dei sistemi pensionistici pubblici per ridurre la spesa pubblica legata alle prestazioni pensionistiche in un momento di crisi finanziaria. È quindi una riforma previdenziale del sistema pensionistico pubblico e delle assicurazioni sociali obbligatorie."
 }
 ,{
   "id": 38,
@@ -456,7 +456,7 @@
   "url": "https://it.wikipedia.org/wiki/Legalit%C3%A0_della_cannabis",
   "source": "Wikipedia",
   "title": "Legalità della cannabis",
-  "description": "La legalità della cannabis varia da paese a paese, dipendente dal suo possesso, distribuzione, coltivazioni, e (riguardante usi terapeutici) la modalità e il motivo di consumo. In Italia è illegale lo spaccio (anche a titolo gratuito), ma non il possesso per l'uso personale, il quale costituisce solo un illecito amministrativo punibile con sospensione della patente di guida da 1-3 mesi, sospensione del passaporto e della carta d'identità ai fini di espatrio per la medesima durata, ma che non sporca la fedina penale. Per determinare se il possesso sia a fini personali o per cessione a terzi il giudice valuta ogni singolo caso per decretare se esso possa rientrare nel criterio di \"uso personale\", tenendo in considerazione quantità trovata, eventuale presenza di denaro contante e strumenti atti al dosaggio e confezionamento della sostanza. È invece permessa la vendita di Cannabis light, con soglia massima di principio stupefacente (THC) fissata tra lo 0,2% e lo 0,5%"
+  "description": "La legalità della cannabis varia da paese a paese: in Italia è illegale lo spaccio (anche a titolo gratuito), ma non il possesso per l'uso personale, che costituisce solo un illecito amministrativo punibile con sospensione della patente di guida da 1-3 mesi, sospensione del passaporto e della carta d'identità ai fini di espatrio per la medesima durata, senza sporcare la fedina penale. È invece permessa la vendita di Cannabis light, con soglia massima di principio stupefacente (THC) fissata tra lo 0,2% e lo 0,5%."
 }
 ,{
   "id": 52,
@@ -465,7 +465,7 @@
   "url": "https://it.wikipedia.org/wiki/Educazione_sessuale",
   "source": "Wikipedia",
   "title": "Educazione sessuale",
-  "description": "L'educazione sessuale è un termine generale che comprende vari temi e varie discipline. In modo particolare: il rapporto tra i ragazzi e i coetanei (e anche con gli adulti) in periodo di maturazione sessuale, l'anatomia e la fisiologia dell'apparato genitale, i cambiamenti che avvengono durante la pubertà, la psicologia, le problematiche di tipo morale, la conoscenza delle abitudini legate all'ambiente di provenienza dei ragazzi oggetto di educazione, le curiosità dei ragazzi stessi (che abbracciano tutti gli aspetti del comportamento sessuale umano). In molti Paesi l'educazione sessuale è oggetto di animate discussioni. I punti che più generano controversia sono: se sia bene includere argomenti come la sessualità infantile, l'uso di anticoncezionali come il profilattico e la \"pillola\" e i loro possibili benefici nel limitare il numero di figli nati fuori del matrimonio, le ragazze madri e le malattie trasmesse sessualmente, come l'AIDS."
+  "description": "L'educazione sessuale è una tematica che in molti Paesi genera controversie soprattutto riguardo a: se sia bene includere argomenti come la sessualità infantile, l'uso di anticoncezionali come il profilattico e la \"pillola\" e i loro possibili benefici nel limitare il numero di figli nati fuori del matrimonio, le ragazze madri e le malattie trasmesse sessualmente, come l'AIDS."
 }
 ,{
   "id": 53,
@@ -474,7 +474,7 @@
   "url": "https://it.wikipedia.org/wiki/Ponte_sullo_stretto_di_Messina",
   "source": "Wikipedia",
   "title": "Ponte sullo stretto di Messina",
-  "description": "Il ponte sullo stretto di Messina è un'opera futuribile di cui si parla da tempo, oggetto di accesi dibattiti relativi a costi, utilità e fattibilità tecnica. Si tratta della realizzazione di un attraversamento stradale e ferroviario stabile dello stretto di Messina, nel quale è attualmente necessario il traghettamento dei mezzi, che collegherà la Sicilia con la Calabria e l'Italia con il continente europeo. Nel corso degli anni si è proposta la sua realizzazione con una serie di variegati progetti di ingegneria civile, approntati in tempi diversi e con soluzioni differenti."
+  "description": "Il ponte sullo stretto di Messina è un'opera futuribile di cui si parla da tempo, oggetto di accesi dibattiti relativi a costi, utilità e fattibilità tecnica. Si tratta della realizzazione di un attraversamento stradale e ferroviario stabile dello stretto di Messina, nel quale è attualmente necessario il traghettamento dei mezzi, che collegherà la Sicilia con la Calabria e l'Italia con il continente europeo."
 }
 ,{
   "id": 54,
@@ -555,7 +555,7 @@
   "url": "https://it.wikipedia.org/wiki/Apprendistato",
   "source": "Wikipedia",
   "title": "Apprendistato",
-  "description": "Per apprendistato si intende generalmente un percorso di apprendimento relativo ad un settore economico-professionale, finalizzato all'acquisizione di qualificazioni o di crediti professionali e caratterizzato da periodi svolti in contesto di lavoro, di durata significativa, e da periodi svolti presso istituzioni formative o scolastiche. L'apprendista svolge le attività in contesto lavorativo, prevalentemente con lo status di lavoratore, sulla base di un contratto. Nel processo di apprendimento sul lavoro l’apprendista è seguito da una figura tutoriale."
+  "description": "Per apprendistato si intende generalmente un percorso di apprendimento relativo ad un settore economico-professionale, finalizzato all'acquisizione di qualificazioni o di crediti professionali, durante il quale l'apprendista svolge le attività in contesto lavorativo, prevalentemente con lo status di lavoratore, sulla base di un contratto e seguito da una figura tutoriale."
 }
 ,{
   "id": 63,
@@ -609,7 +609,7 @@
   "url": "https://it.wikipedia.org/wiki/Obbligo_formativo_in_Italia",
   "source": "Wikipedia",
   "title": "Obbligo formativo in Italia",
-  "description": "L'istruzione obbligatoria è una misura introdotta in molti Paesi del mondo, al fine di garantire la scolarizzazione a tutti i cittadini, requisito necessario sia per la loro realizzazione personale e occupazionale, sia per la crescita economica di un Paese, data la correlazione messa in luce dagli studi economici tra livelli di istruzione e lo sviluppo. È inteso come obbligo di frequenza, non compatibile col lavoro minorile, e come obbligo di conseguire un titolo di studio. Gli oneri della scuola dell'obbligo sono totalmente o prevalentemente a carico dello Stato. Talora l'obbligo scolastico è associato a un'iscrizione gratuita agli istituti e a un sostegno economico per i ceti meno abbienti. Per la scuola dell'obbligo, il sostegno è in molti paesi basato esclusivamente sul reddito, non su criteri meritocratici, secondo il principio per il quale un'istruzione di base è un diritto fondamentale del cittadino. Nella maggior parte dei paesi l'obbligo dura 10 anni, quindi fino a 16 anni (es: Italia)."
+  "description": ""
 }
 ,{
   "id": 69,
@@ -636,7 +636,7 @@
   "url": "https://it.wikipedia.org/wiki/Psicologia_scolastica",
   "source": "Wikipedia",
   "title": "Psicologia scolastica",
-  "description": "La psicologia scolastica è un ramo applicativo della psicologia, che impiega i principi della psicologia dell'educazione, psicologia dello sviluppo, psicologia clinica e psicologia di comunità per soddisfare le esigenze di salute comportamentale e di apprendimento dei bambini e degli adolescenti nel contesto scolastico, in collaborazione con educatori e genitori. Gli psicologi scolastici sono istruiti in psicologia, sviluppo dell'infanzia e dell'adolescenza, psicopatologia dell'infanzia e dell'adolescenza, istruzione, pratiche familiari e genitoriali, teorie dell'apprendimento e teorie della personalità. Sono addestrati a svolgere test psicologici, valutazione e consulenza psicoeducativa, e nei codici etici, legali e amministrativi della loro professione.\nLa psicologia scolastica affronta una varietà di temi e di problematiche, come ad esempio i disturbi specifici di apprendimento, l'esclusione sociale, la violenza, il bullismo e la multiculturalità."
+  "description": "Gli psicologi scolastici sono addestrati a svolgere test psicologici, valutazione e consulenza psicoeducativa, e nei codici etici, legali e amministrativi della loro professione. La psicologia scolastica affronta una varietà di temi e di problematiche, come ad esempio i disturbi specifici di apprendimento, l'esclusione sociale, la violenza, il bullismo e la multiculturalità."
 }
 ,{
   "id": 72,
@@ -681,7 +681,7 @@
   "url": "https://it.wikipedia.org/wiki/Fuga_di_cervelli",
   "source": "Wikipedia",
   "title": "Fuga di cervelli",
-  "description": "L'espressione \"fuga dei cervelli\" indica l'emigrazione verso Paesi stranieri di persone di talento o alta specializzazione professionale formatesi in madrepatria. Tale termine, riferito al cosiddetto \"capitale umano\", rievoca quello della \"fuga dei capitali\", ovvero il disinvestimento economico da ambienti non favorevoli all'impresa. Il fenomeno è generalmente visto con preoccupazione perché rischia di rallentare il progresso culturale, tecnologico ed economico dei Paesi dai quali avviene la fuga, fino a rendere difficile lo stesso ricambio della classe docente. Molti giovani neolaureati interessati ad utilizzare e sviluppare le proprie capacità lasciano l'Italia poiché non riescono a trovarvi posizioni adatte alle loro capacità, ben remunerate e soprattutto con migliori prospettive di fare carriera."
+  "description": "Il fenomeno è generalmente visto con preoccupazione perché rischia di rallentare il progresso culturale, tecnologico ed economico dei Paesi dai quali avviene la fuga, fino a rendere difficile lo stesso ricambio della classe docente."
 }
 ,{
   "id": 77,
@@ -879,7 +879,7 @@
   "url": "https://it.wikipedia.org/wiki/Spesa_per_la_difesa_in_Italia",
   "source": "Wikipedia",
   "title": "Spesa per la difesa in Italia",
-  "description": "La spesa per la difesa in Italia indica la spesa per la difesa per le forze armate italiane. Per quanto riguarda la procedura di autorizzazione delle spese, la legge 4 ottobre 1988 n. 436 è successivamente confluita negli articoli 536 e seguenti del Codice dell'ordinamento militare. Il DPR 15 novembre 2012, n. 236 regolamenta la definizione del prezzo e delle condizioni di acquisto per appalti e forniture, ad affidamento diretto o con gara d'appalto pubblicata nella Gazzetta Ufficiale della Repubblica Italiana, con le procedure della NATO. Il criterio generale è quello dell'offerta al prezzo più basso (art. 33-34), salvo valutazione di congruità."
+  "description": "La spesa per la difesa in Italia indica la spesa per la difesa per le forze armate italiane. Il DPR 15 novembre 2012, n. 236, regolamenta la definizione del prezzo e delle condizioni di acquisto per appalti e forniture, ad affidamento diretto o con gara d'appalto pubblicata nella Gazzetta Ufficiale della Repubblica Italiana, con le procedure della NATO. Il criterio generale è quello dell'offerta al prezzo più basso (art. 33-34), salvo valutazione di congruità."
 }
 ,{
   "id": 99,
@@ -897,7 +897,7 @@
   "url": "https://it.wikipedia.org/wiki/Condono",
   "source": "Wikipedia",
   "title": "Condono",
-  "description": "Il condono, in diritto, è un provvedimento emanato dal legislatore o dal governo, tramite il quale i cittadini che vi aderiscono possono ottenere l'annullamento, totale o parziale, di una pena o di una sanzione (es. condono fiscale/tributario, condono edilizio ecc...). Condono fiscale (o \"condono tributario\"): è un dispositivo normativo che ha come oggetto principale le imposte e le tasse. Sana comportamenti illeciti o irregolari effettuati dal contribuente e riguarda, soprattutto, dichiarazioni dei redditi errate, infedeli o assenti. Talvolta può riferirsi solo ad alcune tipologie di violazioni. Quando, invece, sana per intero e in via definitiva la posizione del contribuente dinanzi al fisco, assume il nome di \"condono tombale\". Il condono edilizio, infine, previa autodenuncia, sana fenomeni di abusivismo nell'ambito delle regole di costruzione, di ampliamento o di modifica di natura edile."
+  "description": "Il condono è un provvedimento emanato dal legislatore o dal governo, tramite il quale i cittadini che vi aderiscono possono ottenere l'annullamento, totale o parziale, di una pena o di una sanzione. Il condono fiscale (o \"condono tributario\") è un dispositivo normativo che ha come oggetto principale le imposte e le tasse, soprattutto dichiarazioni dei redditi errate, infedeli o assenti. Il condono edilizio, invece, previa autodenuncia, sana fenomeni di abusivismo nell'ambito delle regole di costruzione, di ampliamento o di modifica di natura edile."
 }
 ,{
   "id": 101,
@@ -987,7 +987,7 @@
   "url": "https://it.wikipedia.org/wiki/Legge_Bossi-Fini",
   "source": "Wikipedia",
   "title": "Legge Bossi-Fini",
-  "description": "La legge 30 luglio 2002, n. 189, meglio nota come legge Bossi-Fini, è una normativa della Repubblica Italiana che disciplina l'immigrazione, detta così dai primi firmatari Gianfranco Fini e Umberto Bossi che nel governo Berlusconi II ricoprivano rispettivamente le cariche di vicepresidente del Consiglio dei ministri e di ministro per le riforme istituzionali e la devoluzione. Le principali novità della legge furono le seguenti: espulsioni con accompagnamento alla frontiera, permesso di soggiorno legato ad un lavoro effettivo, inasprimento delle pene per i trafficanti di esseri umani, sanatoria per colf, assistenti ad anziani, malati e diversamente abili, lavoratori con contratto di lavoro di almeno 1 anno, uso delle navi della Marina Militare per contrastare il traffico di clandestini."
+  "description": "La legge 30 luglio 2002, n. 189, meglio nota come legge Bossi-Fini, è una normativa della Repubblica Italiana che disciplina l'immigrazione. Le principali novità della legge furono: espulsioni con accompagnamento alla frontiera, permesso di soggiorno legato ad un lavoro effettivo, inasprimento delle pene per i trafficanti di esseri umani, sanatoria per colf, assistenti ad anziani, malati e diversamente abili, lavoratori con contratto di lavoro di almeno 1 anno, uso delle navi della Marina Militare per contrastare il traffico di clandestini."
 }
 ,{
   "id": 111,
@@ -1005,7 +1005,7 @@
   "url": "https://it.wikipedia.org/wiki/Convenzione_di_Dublino",
   "source": "Wikipedia",
   "title": "Convenzione di Dublino",
-  "description": "La Convenzione sulla determinazione dello Stato competente per l'esame di una domanda di asilo presentata in uno degli Stati membri della Comunità europea, comunemente conosciuta come Convenzione di Dublino, è un trattato internazionale multilaterale in tema di diritto di asilo. Il corrispondente regolamento di Dublino (formalmente chiamato \"Regolamento UE n. 604/2013\" oppure Regolamento di Dublino III) è un regolamento dell'Unione europea, che stabilisce \"i criteri e i meccanismi di determinazione dello Stato membro competente per l'esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione)\", nell'ambito della Convenzione relativa allo status dei rifugiati del 1951 e la relativa direttiva UE."
+  "description": "La Convenzione di Dublino è un trattato internazionale multilaterale in tema di diritto di asilo. Il corrispondente regolamento di Dublino è un regolamento dell'Unione europea, che stabilisce \"i criteri e i meccanismi di determinazione dello Stato membro competente per l'esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione)\", nell'ambito della Convenzione relativa allo status dei rifugiati del 1951 e la relativa direttiva UE."
 }
 ,{
   "id": 113,
@@ -1149,7 +1149,7 @@
   "url": "https://it.wikipedia.org/wiki/Prescrizione_(ordinamento_civile_italiano)",
   "source": "Wikipedia",
   "title": "Prescrizione (ordinamento civile italiano)",
-  "description": "La prescrizione del reato è l'istituto che risponde a un principio di economia dei sistemi giudiziari in base al quale lo Stato rinuncia a perseguire l'autore di un reato, quando dalla sua commissione sia trascorso un periodo di tempo giudicato eccessivamente lungo e solitamente proporzionale alla gravità dello stesso. In altre parole, si intende evitare che la macchina giudiziaria continui a impegnare risorse per la punizione di reati commessi troppo tempo prima e per i quali è socialmente meno sentita l'esigenza di una tutela giuridica penale, e ciò anche nell'ottica della funzione socialmente rieducativa della pena (art. 27 Cost.)."
+  "description": "La prescrizione del reato è l'istituto che risponde a un principio di economia dei sistemi giudiziari in base al quale lo Stato rinuncia a perseguire l'autore di un reato, quando dalla sua commissione sia trascorso un periodo di tempo giudicato eccessivamente lungo e solitamente proporzionale alla gravità dello stesso."
 }
 ,{
   "id": 129,
@@ -1185,7 +1185,7 @@
   "url": "https://it.wikipedia.org/wiki/Lavoro_nero",
   "source": "Wikipedia",
   "title": "Lavoro nero",
-  "description": "Con la locuzione lavoro nero, lavoro irregolare o lavoro in nero si intende un rapporto di lavoro nel quale un datore di lavoro, sia esso una persona fisica o giuridica, si avvale di prestazioni professionali e/o lavorative di un lavoratore senza riconoscere a questi alcuna copertura previdenziale, di garanzia, e di tutela previste dalla legge, e senza pagare le imposte previste dalla legge, in virtù di un'assenza di un contratto di lavoro ufficiale ovvero non registrato e dunque giuridicamente nullo/irregolare per le vigenti norme del diritto del lavoro. Il fenomeno ancora oggi non presenta una definizione giuridica univoca nei vari ordinamenti giuridici statali."
+  "description": "Con lavoro nero, lavoro irregolare o lavoro in nero si intende un rapporto di lavoro nel quale un datore di lavoro, sia esso una persona fisica o giuridica, si avvale di prestazioni professionali di un lavoratore senza riconoscere a questi alcuna copertura previdenziale, di garanzia, e di tutela previste dalla legge, e senza pagare le imposte previste dalla legge, in virtù di un'assenza di un contratto di lavoro ufficiale."
 }
 ,{
   "id": 133,
@@ -1249,5 +1249,14 @@
   "source": "Wikipedia",
   "title": "Servizio Sanitario Nazionale",
   "description": "Il Servizio sanitario nazionale non è un'unica amministrazione, ma un insieme di enti ed organi che concorrono al raggiungimento degli obiettivi di tutela della salute dei cittadini."
+}
+,{
+  "id": 140,
+  "subject": "Abolizione \"Jobs Act\"",
+  "slug": "abolizione-jobs-act",
+  "url": "https://it.wikipedia.org/wiki/Jobs_Act",
+  "source": "Wikipedia",
+  "title": "Jobs Act",
+  "description": "Jobs Act indica informalmente una riforma del diritto del lavoro in Italia (promossa e attuata in Italia dal governo Renzi, attraverso l'emanazione di diversi provvedimenti legislativi e completata nel 2016) volta a flessibilizzare il mercato del lavoro."
 }
 ]
