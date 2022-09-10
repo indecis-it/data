@@ -314,4 +314,13 @@
   "list": "Impegno Civico",
   "list_id": 8
 }
+,{
+  "id": 36,
+  "title": "Tweet Berlusconi 8 settembre 2022",
+  "slug": "tweet-berlusconi-8-settembre-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/berlusconi/status/1567815094188253185",
+  "list": "Forza Italia",
+  "list_id": 3
+}
 ]

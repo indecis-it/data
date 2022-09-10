@@ -2040,4 +2040,238 @@
   "subject_id": 6,
   "list_id": 9
 }
+,{
+  "id": 158,
+  "post_id": 134,
+  "url": "https://pagellapolitica.it/fact-checking/berlusconi-legge-severino-costituzionale",
+  "post_title": "Berlusconi sbaglia due volte nel criticare la legge Severino",
+  "post_subtitle": "«Sulla Severino è inammissibile – lo dice l’articolo 27 della Costituzione – che vi siano conseguenze sanzionatorie, come la decadenza per gli eletti, a fronte di sentenze non definitive»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Modifica della legge \"Severino\"",
+  "list": "Forza Italia",
+  "subject_id": 125,
+  "list_id": 3
+}
+,{
+  "id": 159,
+  "post_id": 135,
+  "url": "https://pagellapolitica.it/fact-checking/centrodestra-promette-flat-tax-trenta-anni",
+  "post_title": "Sì, il centrodestra promette la flat tax da quasi trent’anni",
+  "post_subtitle": "«Le forze di centrodestra sono vent’anni, trent’anni, che dicono che vogliono introdurre una flat tax»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Fratelli d'Italia",
+  "subject_id": 5,
+  "list_id": 1
+}
+,{
+  "id": 160,
+  "post_id": 135,
+  "url": "https://pagellapolitica.it/fact-checking/centrodestra-promette-flat-tax-trenta-anni",
+  "post_title": "Sì, il centrodestra promette la flat tax da quasi trent’anni",
+  "post_subtitle": "«Le forze di centrodestra sono vent’anni, trent’anni, che dicono che vogliono introdurre una flat tax»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Lega",
+  "subject_id": 5,
+  "list_id": 2
+}
+,{
+  "id": 161,
+  "post_id": 135,
+  "url": "https://pagellapolitica.it/fact-checking/centrodestra-promette-flat-tax-trenta-anni",
+  "post_title": "Sì, il centrodestra promette la flat tax da quasi trent’anni",
+  "post_subtitle": "«Le forze di centrodestra sono vent’anni, trent’anni, che dicono che vogliono introdurre una flat tax»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Forza Italia",
+  "subject_id": 5,
+  "list_id": 3
+}
+,{
+  "id": 162,
+  "post_id": 135,
+  "url": "https://pagellapolitica.it/fact-checking/centrodestra-promette-flat-tax-trenta-anni",
+  "post_title": "Sì, il centrodestra promette la flat tax da quasi trent’anni",
+  "post_subtitle": "«Le forze di centrodestra sono vent’anni, trent’anni, che dicono che vogliono introdurre una flat tax»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Noi moderati",
+  "subject_id": 5,
+  "list_id": 4
+}
+,{
+  "id": 163,
+  "post_id": 135,
+  "url": "https://pagellapolitica.it/fact-checking/centrodestra-promette-flat-tax-trenta-anni",
+  "post_title": "Sì, il centrodestra promette la flat tax da quasi trent’anni",
+  "post_subtitle": "«Le forze di centrodestra sono vent’anni, trent’anni, che dicono che vogliono introdurre una flat tax»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Movimento 5 Stelle",
+  "subject_id": 5,
+  "list_id": 9
+}
+,{
+  "id": 164,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Fratelli d'Italia",
+  "subject_id": 10,
+  "list_id": 1
+}
+,{
+  "id": 165,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Lega",
+  "subject_id": 10,
+  "list_id": 2
+}
+,{
+  "id": 166,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Forza Italia",
+  "subject_id": 10,
+  "list_id": 3
+}
+,{
+  "id": 167,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Noi moderati",
+  "subject_id": 10,
+  "list_id": 4
+}
+,{
+  "id": 168,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Partito Democratico",
+  "subject_id": 10,
+  "list_id": 5
+}
+,{
+  "id": 169,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Alleanza Verdi e Sinistra",
+  "subject_id": 10,
+  "list_id": 6
+}
+,{
+  "id": 170,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Movimento 5 Stelle",
+  "subject_id": 10,
+  "list_id": 9
+}
+,{
+  "id": 171,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": 10,
+  "list_id": 10
+}
+,{
+  "id": 172,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Italexit",
+  "subject_id": 10,
+  "list_id": 11
+}
+,{
+  "id": 173,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Alternativa Per l'Italia",
+  "subject_id": 10,
+  "list_id": 15
+}
+,{
+  "id": 174,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Italia Sovrana e Popolare",
+  "subject_id": 10,
+  "list_id": 12
+}
+,{
+  "id": 175,
+  "post_id": 136,
+  "url": "https://pagellapolitica.it/articoli/posizioni-partiti-sanzioni-russia",
+  "post_title": "Le posizioni dei partiti sulle sanzioni contro la Russia",
+  "post_subtitle": "In questa campagna elettorale c’è chi le difende, chi le mette in discussione e chi chiede di eliminarle",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "+Europa",
+  "subject_id": 10,
+  "list_id": 7
+}
 ]
