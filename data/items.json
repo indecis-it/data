@@ -33375,4 +33375,452 @@
   "endorsement": "green",
   "description": "Uscita dall'Euro e da questa Unione Europea."
 }
+,{
+  "id": 2385,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "Riforma complessiva del diritto di famiglia che, a partire dalla proposta di legge “per l’eguaglianza e la pari dignità familiare” di Famiglie Arcobaleno e Rete Lenford, includa, tra l’altro: l’introduzione del matrimonio egualitario, estensione dell’adozione alle coppie, sposate o meno, anche dello stesso sesso e alle persone single."
+}
+,{
+  "id": 2386,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "red",
+  "description": "Contro l’imposizione del pensiero unico e dell’ideologia gender."
+}
+,{
+  "id": 2387,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso."
+}
+,{
+  "id": 2388,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2389,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "red",
+  "description": "Contrasto a ogni discriminazione basata sulle scelte sessuali e\nsentimentali delle persone, mantenimento della legge sulle unioni civili,\nribadendo al contempo il divieto di adozioni omogenitoriali e la lotta ad\nogni forma di maternità surrogata, nell’interesse supremo del minore."
+}
+,{
+  "id": 2390,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2391,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2392,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2393,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2394,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "red",
+  "description": "La famiglia naturale, con una mamma e un papà, costituisce la cellula fondamentale\ndella società. È importante rivalutare il ruolo del nucleo familiare come primo punto\ndi solidarietà intergenerazionale, di sostegno e di alleanza tra uomo e donna. Molti\ngiovani, infatti, tendono a ritardare le proprie scelte familiari o a evitare di creare una\nfamiglia perché vista come luogo di privazione della libertà, di costi eccessivi e di responsabilità."
+}
+,{
+  "id": 2395,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2396,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2397,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "red",
+  "description": "Noi vogliamo\ndefinire procedure più semplici, rapide e meno costose per le adozioni\ninternazionali e facilitare l'iter di quelle nazionali, preservando la\nverifica dei requisiti necessari."
+}
+,{
+  "id": 2398,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2399,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "yellow",
+  "description": "Disciplina normativa conforme a Costituzione per i matrimoni e le unioni di persone dello stesso sesso e per i figli nati. Matrimonio egualitario, appunto, con riconoscimento alla nascita dei figli e delle figlie delle coppie omogenitoriali."
+}
+,{
+  "id": 2400,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_slug": "adozione-per-coppie-dello-stesso-sesso",
+  "subject_id": 142,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "red",
+  "description": "Stop ai programmi d’indottrinamento gender, corpo neutro e transumano."
+}
+,{
+  "id": 2401,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "Riforma complessiva del diritto di famiglia che, a partire dalla proposta di legge “per l’eguaglianza e la pari dignità familiare” di Famiglie Arcobaleno e Rete Lenford, includa, tra l’altro: l’introduzione del matrimonio egualitario, estensione dell’adozione alle coppie, sposate o meno, anche dello stesso sesso e alle persone single."
+}
+,{
+  "id": 2402,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2403,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Una legge che preveda l’estensione dei diritti e dei doveri delle coppie eterosessuali anche alle coppie dello stesso sesso: matrimonio egualitario, accesso alle adozioni per persone single e per le coppie dello stesso sesso, accesso ai percorsi di procreazione medicalmente assistita per donne e coppie di donne, riconoscimento di pari diritti per i figli e le figlie con genitori dello stesso sesso."
+}
+,{
+  "id": 2404,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2405,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2406,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2407,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2408,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2409,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2410,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "red",
+  "description": "Il minore deve essere sempre al centro del dibattito, come soggetto più indifeso e vulnerabile. In\ncostanza di divorzi e separazioni è fondamentale la realizzazione del principio di bigenitorialità,\naffinché nessun figlio possa diventare \"orfano di genitore in vita\"."
+}
+,{
+  "id": 2411,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2412,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2413,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "red",
+  "description": "Noi vogliamo\ndefinire procedure più semplici, rapide e meno costose per le adozioni\ninternazionali e facilitare l'iter di quelle nazionali, preservando la\nverifica dei requisiti necessari."
+}
+,{
+  "id": 2414,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2415,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2416,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Adozione per persone single",
+  "subject_slug": "adozione-per-persone-single",
+  "subject_id": 143,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
 ]

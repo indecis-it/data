@@ -893,4 +893,16 @@
   "category": "Esteri e difesa",
   "category_id": 2
 }
+,{
+  "subject": "Adozione per coppie dello stesso sesso",
+  "subject_id": 142,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9
+}
+,{
+  "subject": "Adozione per persone single",
+  "subject_id": 143,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9
+}
 ]
