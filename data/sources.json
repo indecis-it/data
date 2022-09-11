@@ -55,15 +55,6 @@
 }
 ,{
   "id": 7,
-  "title": "Le proposte per il turismo di Fratelli d’Italia",
-  "slug": "le-proposte-per-il-turismo-di-fratelli-ditalia",
-  "type": "programma",
-  "url": "https://www.fratelli-italia.it/wp-content/uploads/2022/08/Patto-per-il-turismo-2022-Il-Programma-elettorale-per-il-Turismo-di-Fratelli-DItalia.pdf",
-  "list": "Fratelli d'Italia",
-  "list_id": 1
-}
-,{
-  "id": 8,
   "title": "Post Berlusconi 21 agosto 2022",
   "slug": "post-berlusconi-21-agosto-2022",
   "type": "post",
@@ -72,7 +63,7 @@
   "list_id": 3
 }
 ,{
-  "id": 9,
+  "id": 8,
   "title": "Programma elettorale +Europa",
   "slug": "programma-elettorale-europa",
   "type": "programma",
@@ -81,7 +72,7 @@
   "list_id": 7
 }
 ,{
-  "id": 10,
+  "id": 9,
   "title": "Programma elettorale Alternativa Per l'Italia",
   "slug": "programma-elettorale-alternativa-per-litalia",
   "type": "programma",
@@ -90,7 +81,7 @@
   "list_id": 15
 }
 ,{
-  "id": 11,
+  "id": 10,
   "title": "Programma elettorale AVS",
   "slug": "programma-elettorale-avs",
   "type": "programma",
@@ -99,7 +90,7 @@
   "list_id": 6
 }
 ,{
-  "id": 12,
+  "id": 11,
   "title": "Programma elettorale Azione Italia Viva",
   "slug": "programma-elettorale-azione-italia-viva",
   "type": "programma",
@@ -108,7 +99,7 @@
   "list_id": 10
 }
 ,{
-  "id": 13,
+  "id": 12,
   "title": "Programma elettorale Forza Italia",
   "slug": "programma-elettorale-forza-italia",
   "type": "programma",
@@ -117,7 +108,7 @@
   "list_id": 3
 }
 ,{
-  "id": 14,
+  "id": 13,
   "title": "Programma elettorale Fratelli d'Italia",
   "slug": "programma-elettorale-fratelli-ditalia",
   "type": "programma",
@@ -126,7 +117,7 @@
   "list_id": 1
 }
 ,{
-  "id": 15,
+  "id": 14,
   "title": "Programma elettorale Impegno Civico",
   "slug": "programma-elettorale-impegno-civico",
   "type": "programma",
@@ -135,7 +126,7 @@
   "list_id": 8
 }
 ,{
-  "id": 16,
+  "id": 15,
   "title": "Programma elettorale Italexit",
   "slug": "programma-elettorale-italexit",
   "type": "programma",
@@ -144,7 +135,7 @@
   "list_id": 11
 }
 ,{
-  "id": 17,
+  "id": 16,
   "title": "Programma elettorale Italia Sovrana e Popolare",
   "slug": "programma-elettorale-italia-sovrana-e-popolare",
   "type": "programma",
@@ -153,7 +144,7 @@
   "list_id": 12
 }
 ,{
-  "id": 18,
+  "id": 17,
   "title": "Programma elettorale Lega",
   "slug": "programma-elettorale-lega",
   "type": "programma",
@@ -162,7 +153,7 @@
   "list_id": 2
 }
 ,{
-  "id": 19,
+  "id": 18,
   "title": "Programma elettorale M5S",
   "slug": "programma-elettorale-m5s",
   "type": "programma",
@@ -171,7 +162,7 @@
   "list_id": 9
 }
 ,{
-  "id": 20,
+  "id": 19,
   "title": "Programma elettorale Noi di Centro-Europeisti",
   "slug": "programma-elettorale-noi-di-centroeuropeisti",
   "type": "programma",
@@ -180,7 +171,7 @@
   "list_id": 16
 }
 ,{
-  "id": 21,
+  "id": 20,
   "title": "Programma elettorale Noi Moderati",
   "slug": "programma-elettorale-noi-moderati",
   "type": "programma",
@@ -189,7 +180,7 @@
   "list_id": 4
 }
 ,{
-  "id": 22,
+  "id": 21,
   "title": "Programma elettorale PD",
   "slug": "programma-elettorale-pd",
   "type": "programma",
@@ -198,7 +189,7 @@
   "list_id": 5
 }
 ,{
-  "id": 23,
+  "id": 22,
   "title": "Programma elettorale Unione Popolare",
   "slug": "programma-elettorale-unione-popolare",
   "type": "programma",
@@ -207,7 +198,7 @@
   "list_id": 13
 }
 ,{
-  "id": 24,
+  "id": 23,
   "title": "Programma elettorale Vita",
   "slug": "programma-elettorale-vita",
   "type": "programma",
@@ -216,7 +207,7 @@
   "list_id": 14
 }
 ,{
-  "id": 25,
+  "id": 24,
   "title": "Tweet Adinolfi 24 agosto 2022",
   "slug": "tweet-adinolfi-24-agosto-2022",
   "type": "tweet",
@@ -225,7 +216,7 @@
   "list_id": 15
 }
 ,{
-  "id": 26,
+  "id": 25,
   "title": "Tweet Adinolfi 30 agosto 2022",
   "slug": "tweet-adinolfi-30-agosto-2022",
   "type": "programma",
@@ -234,7 +225,7 @@
   "list_id": 15
 }
 ,{
-  "id": 27,
+  "id": 26,
   "title": "Tweet APLI 13 agosto 2022",
   "slug": "tweet-apli-13-agosto-2022",
   "type": "tweet",
@@ -243,7 +234,7 @@
   "list_id": 15
 }
 ,{
-  "id": 28,
+  "id": 27,
   "title": "Tweet APLI 25 agosto 2022",
   "slug": "tweet-apli-25-agosto-2022",
   "type": "tweet",
@@ -252,7 +243,7 @@
   "list_id": 15
 }
 ,{
-  "id": 29,
+  "id": 28,
   "title": "Tweet Toti 26 agosto 2022",
   "slug": "tweet-toti-26-agosto-2022",
   "type": "tweet",
@@ -261,7 +252,7 @@
   "list_id": 4
 }
 ,{
-  "id": 30,
+  "id": 29,
   "title": "Tweet Adinolfi 4 settembre 2022",
   "slug": "tweet-adinolfi-4-settembre-2022",
   "type": "tweet",
@@ -270,7 +261,7 @@
   "list_id": 15
 }
 ,{
-  "id": 31,
+  "id": 30,
   "title": "Tweet Partito Democratico 5 settembre 2022",
   "slug": "tweet-partito-democratico-5-settembre-2022",
   "type": "tweet",
@@ -279,7 +270,7 @@
   "list_id": 5
 }
 ,{
-  "id": 32,
+  "id": 31,
   "title": "Tweet Letta 4 settembre 2022",
   "slug": "tweet-letta-4-settembre-2022",
   "type": "tweet",
@@ -288,7 +279,7 @@
   "list_id": 5
 }
 ,{
-  "id": 33,
+  "id": 32,
   "title": "Programma giovani AVS",
   "slug": "programma-giovani-avs",
   "type": "programma",
@@ -297,7 +288,7 @@
   "list_id": 6
 }
 ,{
-  "id": 34,
+  "id": 33,
   "title": "Programma turismo Fratelli d'Italia",
   "slug": "programma-turismo-fratelli-ditalia",
   "type": "programma",
@@ -306,7 +297,7 @@
   "list_id": 1
 }
 ,{
-  "id": 35,
+  "id": 34,
   "title": "Programma Impegno Civico presso Ministero Interno",
   "slug": "programma-impegno-civico-presso-ministero-interno",
   "type": "programma",
@@ -315,12 +306,21 @@
   "list_id": 8
 }
 ,{
-  "id": 36,
+  "id": 35,
   "title": "Tweet Berlusconi 8 settembre 2022",
   "slug": "tweet-berlusconi-8-settembre-2022",
   "type": "tweet",
   "url": "https://twitter.com/berlusconi/status/1567815094188253185",
   "list": "Forza Italia",
   "list_id": 3
+}
+,{
+  "id": 36,
+  "title": "Tweet M5S 10 settembre 2022",
+  "slug": "tweet-m5s-10-settembre-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/Mov5Stelle/status/1568675709308248064?s=20&t=Oj3EeiQmC3cMUN8XGbqqFw",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9
 }
 ]
