@@ -4178,12 +4178,12 @@
   "subject": "Aumento delle spese militari",
   "subject_slug": "aumento-delle-spese-militari",
   "subject_id": 98,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Tweet Conte 10 settembre 2022",
+  "source_slug": "tweet-conte-10-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "\"Altri miliardi per le spese militari mentre famiglie e imprese non ce la fanno? La risposta è NO! \""
 }
 ,{
   "id": 300,
@@ -4402,12 +4402,12 @@
   "subject": "Aumento delle spese militari",
   "subject_slug": "aumento-delle-spese-militari",
   "subject_id": 98,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Tweet Conte 10 settembre 2022",
+  "source_slug": "tweet-conte-10-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "\"Altri miliardi per le spese militari mentre famiglie e imprese non ce la fanno? La risposta è NO! \""
 }
 ,{
   "id": 316,
@@ -8210,12 +8210,12 @@
   "subject": "Favorire la creazione delle comunità energetiche",
   "subject_slug": "favorire-la-creazione-delle-comunit-energetiche",
   "subject_id": 78,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Tweet M5S 9 settembre 2022",
+  "source_slug": "tweet-m5s-9-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "\"Come aiutiamo i cittadini a risparmiare? Con le comunità energetiche.\nIl M5S ha dato modo a tanti cittadini di mettersi insieme per abbattere i costi delle bollette e allo stesso tempo tutelare l’ambiente.\""
 }
 ,{
   "id": 588,
@@ -17174,8 +17174,8 @@
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Contrasto al carobollette: Revisione del sistema di formazione del prezzo del gas favorendone lo sganciamento dal mercato\nolandese TTF, caratterizzato da fenomeni speculativi."
 }
 ,{
   "id": 1228,
