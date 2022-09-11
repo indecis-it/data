@@ -2300,4 +2300,95 @@
   "subject_id": 64,
   "list_id": 11
 }
+,{
+  "id": 178,
+  "post_id": 139,
+  "url": "https://pagellapolitica.it/fact-checking/boschi-jobs-act",
+  "post_title": "Boschi esagera il numero di posti di lavoro creati dal Jobs Act",
+  "post_subtitle": "«Il Jobs Act ha portato più di un milione di posti di lavoro in più nel nostro Paese»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Abolizione del \"Jobs Act\"",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": 140,
+  "list_id": 10
+}
+,{
+  "id": 179,
+  "post_id": 140,
+  "url": "https://pagellapolitica.it/fact-checking/stipendio-meloni-abolizione-reddito-cittadinanza",
+  "post_title": "È vero che Meloni guadagna 500 euro al giorno e vuole togliere i 500 euro al mese del reddito di cittadinanza?",
+  "post_subtitle": "«Giorgia Meloni da anni guadagna 500 euro al giorno pagati dai cittadini. Oggi vuole togliere 500 euro al mese del reddito di cittadinanza a chi non ha di che mangiare»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Reddito di cittadinanza",
+  "list": "Movimento 5 Stelle",
+  "subject_id": 11,
+  "list_id": 9
+}
+,{
+  "id": 180,
+  "post_id": 140,
+  "url": "https://pagellapolitica.it/fact-checking/stipendio-meloni-abolizione-reddito-cittadinanza",
+  "post_title": "È vero che Meloni guadagna 500 euro al giorno e vuole togliere i 500 euro al mese del reddito di cittadinanza?",
+  "post_subtitle": "«Giorgia Meloni da anni guadagna 500 euro al giorno pagati dai cittadini. Oggi vuole togliere 500 euro al mese del reddito di cittadinanza a chi non ha di che mangiare»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Reddito di cittadinanza",
+  "list": "Fratelli d'Italia",
+  "subject_id": 11,
+  "list_id": 1
+}
+,{
+  "id": 181,
+  "post_id": 85,
+  "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
+  "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
+  "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Sanzioni contro la Russia",
+  "list": "Fratelli d'Italia",
+  "subject_id": 10,
+  "list_id": 1
+}
+,{
+  "id": 182,
+  "post_id": 85,
+  "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
+  "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
+  "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Uscita dall'Euro",
+  "list": "Fratelli d'Italia",
+  "subject_id": 14,
+  "list_id": 1
+}
+,{
+  "id": 183,
+  "post_id": 85,
+  "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
+  "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
+  "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Matrimonio egualitario",
+  "list": "Fratelli d'Italia",
+  "subject_id": 50,
+  "list_id": 1
+}
+,{
+  "id": 184,
+  "post_id": 85,
+  "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
+  "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
+  "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Trivelle",
+  "list": "Fratelli d'Italia",
+  "subject_id": 15,
+  "list_id": 1
+}
 ]
