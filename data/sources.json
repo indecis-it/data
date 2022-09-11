@@ -341,4 +341,13 @@
   "list": "Movimento 5 Stelle",
   "list_id": 9
 }
+,{
+  "id": 39,
+  "title": "Tweet Impegno Civico 8 settembre 2022",
+  "slug": "tweet-impegno-civico-8-settembre-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/impegno_civico/status/1567783677504921600",
+  "list": "Impegno Civico",
+  "list_id": 8
+}
 ]
