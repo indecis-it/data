@@ -350,4 +350,31 @@
   "list": "Impegno Civico",
   "list_id": 8
 }
+,{
+  "id": 40,
+  "title": "Tweet Paragone 31 agosto 2022",
+  "slug": "tweet-paragone-31-agosto-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/gparagone/status/1565050983453003776",
+  "list": "Italexit",
+  "list_id": 11
+}
+,{
+  "id": 41,
+  "title": "Post M5S 5 settembre 2022",
+  "slug": "post-m5s-5-settembre-2022",
+  "type": "post",
+  "url": "https://www.facebook.com/photo.php?fbid=617325986430661",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9
+}
+,{
+  "id": 42,
+  "title": "Tweet M5S 28 luglio 2022",
+  "slug": "tweet-m5s-28-luglio-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/Mov5Stelle/status/1552694631548293127",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9
+}
 ]

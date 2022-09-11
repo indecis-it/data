@@ -17394,12 +17394,12 @@
   "subject": "Riduzione dell'IVA",
   "subject_slug": "riduzione-delliva",
   "subject_id": 4,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Tweet M5S 28 luglio 2022",
+  "source_slug": "tweet-m5s-28-luglio-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "\"Siamo stati i primi a mettere nero su bianco l'azzeramento dell'Iva sui beni di prima necessità come pane, pasta, carne, latte.\""
 }
 ,{
   "id": 1244,
@@ -22294,12 +22294,12 @@
   "subject": "Tetto al prezzo del gas",
   "subject_slug": "tetto-al-prezzo-del-gas",
   "subject_id": 1,
-  "source": "Programma elettorale Italexit",
-  "source_slug": "programma-elettorale-italexit",
+  "source": "Tweet Paragone 31 agosto 2022",
+  "source_slug": "tweet-paragone-31-agosto-2022",
   "list": "Italexit",
   "list_id": 11,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "\"Il tetto al prezzo del #gas è una stupidaggine.\n\nGli speculatori sono stati lasciati liberi di muoversi e continuano a fare grandi business.\""
 }
 ,{
   "id": 1594,
@@ -26130,12 +26130,12 @@
   "subject": "Allargamento dei corridoi umanitari",
   "subject_slug": "allargamento-dei-corridoi-umanitari",
   "subject_id": 111,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Post M5S 5 settembre 2022",
+  "source_slug": "post-m5s-5-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "\"Il MoVimento 5 Stelle ha sempre sostenuto la necessità del superamento del sistema del regolamento di Dublino. Riteniamo fondamentale istituire delle vie legali di accesso europee per salvare vite umane e contrastare la rete dei trafficanti e la tratta di essere umani, anche attraverso l’istituzione e il potenziamento di corridoi umanitari europei.\""
 }
 ,{
   "id": 1868,
