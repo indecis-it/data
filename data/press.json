@@ -2456,4 +2456,30 @@
   "subject_id": 24,
   "list_id": 5
 }
+,{
+  "id": 190,
+  "post_id": 144,
+  "url": "https://www.indecis.it/argomenti/legalizzazione-della-cannabis",
+  "post_title": "Legalizzazione della cannabis",
+  "post_subtitle": "",
+  "type": "articolo",
+  "source": "indecis.it",
+  "subject": "Coltivazione della cannabis per uso personale",
+  "list": "",
+  "subject_id": 144,
+  "list_id": ""
+}
+,{
+  "id": 191,
+  "post_id": 145,
+  "url": "https://www.indecis.it/argomenti/coltivazione-della-cannabis-per-uso-personale",
+  "post_title": "Coltivazione della cannabis per uso personale",
+  "post_subtitle": "",
+  "type": "articolo",
+  "source": "indecis.it",
+  "subject": "Legalizzazione della cannabis",
+  "list": "",
+  "subject_id": 51,
+  "list_id": ""
+}
 ]
