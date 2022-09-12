@@ -1938,12 +1938,12 @@
   "subject": "Aiuti militari all'Ucraina",
   "subject_slug": "aiuti-militari-allucraina",
   "subject_id": 8,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Post M5S 12 settembre 2022",
+  "source_slug": "post-m5s-12-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "yellow",
+  "description": "«I progressi delle forze ucraine sono un'ottima notizia e dimostrano che Kiev - grazie all'enorme afflusso di armi dall'Europa e dagli Stati Uniti - è in grado di respingere l'invasore russo. Per questo abbiamo acconsentito agli aiuti. Adesso la priorità è la pace»."
 }
 ,{
   "id": 140,
@@ -18738,12 +18738,12 @@
   "subject": "Sanzioni contro la Russia",
   "subject_slug": "sanzioni-contro-la-russia",
   "subject_id": 10,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Post M5S 12 settembre 2022",
+  "source_slug": "post-m5s-12-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "\"Abbiamo, invece, sempre sostenuto con forza le sanzioni e, oltre a volerle rendere più efficaci contro la Russia, vanno rese più sostenibili con l'Energy Recovery Fund.\""
 }
 ,{
   "id": 1340,

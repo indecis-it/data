@@ -1411,9 +1411,9 @@
   "post_subtitle": "«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ",
   "type": "fact-checking",
   "source": "Pagella Politica",
-  "subject": "Aumento delle pensioni",
+  "subject": "Abrogazione della \"legge Fornero\"",
   "list": "Lega",
-  "subject_id": 12,
+  "subject_id": 37,
   "list_id": 2
 }
 ,{
@@ -1424,9 +1424,9 @@
   "post_subtitle": "«La proposta della Lega di “quota 41” costa 65 miliardi di euro» ",
   "type": "fact-checking",
   "source": "Pagella Politica",
-  "subject": "Aumento delle pensioni",
+  "subject": "Abrogazione della \"legge Fornero\"",
   "list": "Azione-Italia Viva-Calenda",
-  "subject_id": 12,
+  "subject_id": 37,
   "list_id": 10
 }
 ,{
@@ -2390,5 +2390,70 @@
   "list": "Fratelli d'Italia",
   "subject_id": 15,
   "list_id": 1
+}
+,{
+  "id": 185,
+  "post_id": 141,
+  "url": "https://pagellapolitica.it/fact-checking/flat-tax-partite-iva-coperture",
+  "post_title": "No, la flat tax per le partite Iva non «si paga da sola»",
+  "post_subtitle": "«La flat tax si paga da sola, perché la flat tax al 15 per cento, stamattina, funziona per 2 milioni di partite Iva»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Lega",
+  "subject_id": 5,
+  "list_id": 2
+}
+,{
+  "id": 186,
+  "post_id": 142,
+  "url": "https://pagellapolitica.it/articoli/aumento-spese-militari-programmi-elezioni-2022",
+  "post_title": "I fatti dietro la promessa: l’aumento delle spese militari e Azione-Italia viva",
+  "post_subtitle": "Per rispettare l’impegno, non vincolante, con la Nato, entro il 2025 il nostro Paese dovrebbe aumentare le risorse in difesa di circa 8 miliardi di euro. Ma le coperture economiche scarseggiano",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle spese militari",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": 98,
+  "list_id": 10
+}
+,{
+  "id": 187,
+  "post_id": 143,
+  "url": "https://pagellapolitica.it/fact-checking/lega-fratelli-italia-voti-pnrr",
+  "post_title": "No, Lega e Fratelli d’Italia non hanno votato «sempre» contro il Pnrr",
+  "post_subtitle": "«La Lega ha sempre votato contro il Pnrr in Europa, Fratelli d'Italia ha votato contro anche in Italia»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Revisione del PNRR",
+  "list": "Lega",
+  "subject_id": 24,
+  "list_id": 2
+}
+,{
+  "id": 188,
+  "post_id": 143,
+  "url": "https://pagellapolitica.it/fact-checking/lega-fratelli-italia-voti-pnrr",
+  "post_title": "No, Lega e Fratelli d’Italia non hanno votato «sempre» contro il Pnrr",
+  "post_subtitle": "«La Lega ha sempre votato contro il Pnrr in Europa, Fratelli d'Italia ha votato contro anche in Italia»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Revisione del PNRR",
+  "list": "Fratelli d'Italia",
+  "subject_id": 24,
+  "list_id": 1
+}
+,{
+  "id": 189,
+  "post_id": 143,
+  "url": "https://pagellapolitica.it/fact-checking/lega-fratelli-italia-voti-pnrr",
+  "post_title": "No, Lega e Fratelli d’Italia non hanno votato «sempre» contro il Pnrr",
+  "post_subtitle": "«La Lega ha sempre votato contro il Pnrr in Europa, Fratelli d'Italia ha votato contro anche in Italia»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Revisione del PNRR",
+  "list": "Partito Democratico",
+  "subject_id": 24,
+  "list_id": 5
 }
 ]
