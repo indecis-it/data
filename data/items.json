@@ -10044,12 +10044,12 @@
   "subject": "Investimenti per il Mezzogiorno",
   "subject_slug": "investimenti-per-il-mezzogiorno",
   "subject_id": 22,
-  "source": "Programma elettorale PD",
-  "source_slug": "programma-elettorale-pd",
+  "source": "Carta di Taranto (PD)",
+  "source_slug": "carta-di-taranto-pd",
   "list": "Partito Democratico",
   "list_id": 5,
   "endorsement": "green",
-  "description": "Vogliamo colmare le disuguaglianze territoriali investendo nel Mezzogiorno e nelle aree interne, perché è tutto il Paese a rallentare se alcune aree rimangono indietro. C’è una profonda interdipendenza economica che lega le aree del Paese. È tempo di liberare il potenziale di tutte le persone in tutti i luoghi."
+  "description": "Il Piano Sud 2030 – Sviluppo e coesione per l’Italia, presentato nel febbraio 2020, ha anticipato la novità intervenuta nelle politiche europee: individuando le risorse da attivare\ne le missioni da perseguire per una rinnovata azione pubblica di investimento ordinaria e\naggiuntiva per le aree in ritardo; programmando gli interventi che sono poi confluiti nel\nPNRR (il rafforzamento della Strategia nazionale per le aree interne, gli ecosistemi per\nl’innovazione al Sud e nei contesti urbani marginalizzati, la lotta alla povertà educativa\nminorile, la valorizzazione dei beni confiscati alle mafie, la riforma della governance e gli\ninvestimenti nelle Zone economiche speciali del Mezzogiorno); indicando la necessità\ndi “attrezzare” la macchina pubblica con un programma di rigenerazione amministrativa\nbasato sull’inserimento di giovani laureati.\nCon queste premesse e ribadendo la volontà di assumere nella politica ordinaria nazionale gli obiettivi complementari della crescita e della coesione economica, sociale e territoriale proponiamo 7 linee di azione per il Mezzogiorno, su cui intervenire con i fondi del PNRR e con le politiche ordinarie."
 }
 ,{
   "id": 719,
@@ -11015,7 +11015,7 @@
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 6,
   "endorsement": "green",
-  "description": "Una legge che legalizzi la coltivazione della cannabis per uso personale per dare una risposta concreta a chi ne ha bisogno e una sferzata reale agli interessi della criminalità organizzata."
+  "description": "Una legge che regolamenti legalmente produzione, distribuzione e vendita di cannabis per gli adulti, che permetta la coltivazione per uso personale e favorisca la nascita di ambiti non profit di condivisione collettiva (Cannabis Social Club). Una legge che rimuova lo stigma e ripari ai danni del proibizionismo, a partire dalla cancellazione delle sanzioni penali e amministrative; che favorisca la nascita di una filiera di piccole imprese locali; che restituisca risorse al bilancio dello stato e le sottragga alle narcomafie, investendole nella prevenzione degli usi problematici delle sostanze, nel trattamento e nel reinserimento sociale, oltre che nell’informazione e nell’educazione; che garantisca la sostenibilità anche ambientale della produzione, la qualità e la tracciatura del prodotto; che liberi risorse delle forze dell’ordine dalla repressione dell’uso di cannabis alla prevenzione e repressione dei reati di rilevante allarme sociale."
 }
 ,{
   "id": 788,
@@ -11052,12 +11052,12 @@
   "subject": "Legalizzazione della cannabis",
   "subject_slug": "legalizzazione-della-cannabis",
   "subject_id": 51,
-  "source": "Programma elettorale Forza Italia",
-  "source_slug": "programma-elettorale-forza-italia",
+  "source": "Accordo quadro di programma per un Governo di centrodestra (FI)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi",
   "list": "Forza Italia",
   "list_id": 3,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "Combattere lo spaccio e la diffusione delle droghe con ogni mezzo, anche\nattraverso campagne di prevenzione e informazione."
 }
 ,{
   "id": 791,
@@ -11126,8 +11126,8 @@
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "green",
-  "description": "Regolamentazione della coltivazione della cannabis per uso personale, al fine di\ncontrastare il business della criminalità organizzata e superare le criticità connesse alla\nproduzione limitata di cannabis per uso terapeutico."
+  "endorsement": "grey",
+  "description": ""
 }
 ,{
   "id": 796,
@@ -11154,8 +11154,8 @@
   "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
   "list": "Noi moderati",
   "list_id": 4,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "Combattere lo spaccio e la diffusione delle droghe con ogni mezzo, anche\nattraverso campagne di prevenzione e informazione."
 }
 ,{
   "id": 798,
@@ -11168,8 +11168,8 @@
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
   "list_id": 5,
-  "endorsement": "green",
-  "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
+  "endorsement": "grey",
+  "description": ""
 }
 ,{
   "id": 799,
@@ -33816,6 +33816,230 @@
   "subject": "Adozione per persone single",
   "subject_slug": "adozione-per-persone-single",
   "subject_id": 143,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2417,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "La legalizzazione e regolamentazione della Cannabis, in nome della libertà individuale, della lotta alla criminalità e del contrasto ai profitti delle narco-mafie, dell’efficienza del sistema giudiziario, della tutela della salute pubblica, della libertà di accesso alle cure dei malati e della ricerca scientifica, nonchè del recupero di risorse per le finanze pubbliche. In primo luogo, intendiamo impegnarci per la diffusione di politiche di riduzione del danno come il drug checking e per l’approvazione definitiva della Proposta di Legge Magi, che prevede la legalizzazione della coltivazione domestica per uso personale di quattro piante di Cannabis, come primo passo verso un processo di completa legalizzazione."
+}
+,{
+  "id": 2418,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2419,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Una legge che legalizzi la coltivazione della cannabis per uso personale per dare una risposta concreta a chi ne ha bisogno e una sferzata reale agli interessi della criminalità organizzata."
+}
+,{
+  "id": 2420,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2421,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "red",
+  "description": "Combattere lo spaccio e la diffusione delle droghe con ogni mezzo, anche attraverso campagne\ndi prevenzione e informazione."
+}
+,{
+  "id": 2422,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (FI)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "red",
+  "description": "Combattere lo spaccio e la diffusione delle droghe con ogni mezzo, anche\nattraverso campagne di prevenzione e informazione."
+}
+,{
+  "id": 2423,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2424,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2425,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2426,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "red",
+  "description": "Protezione dei giovani: stop a qualsiasi proposta di liberalizzazione o di legalizzazione della droga, indipendentemente dalla falsa distinzione tra leggera e pesante.\nCampagne di sensibilizzazione verso i minori e i loro genitori sui pericoli della \"cultura della droga’\" con particolare attenzione alle conseguenze sullo sviluppo cognitivo dei giovani derivanti dall’uso abituale di cannabis."
+}
+,{
+  "id": 2427,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Regolamentazione della coltivazione della cannabis per uso personale, al fine di\ncontrastare il business della criminalità organizzata e superare le criticità connesse alla\nproduzione limitata di cannabis per uso terapeutico."
+}
+,{
+  "id": 2428,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2429,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (NoiM)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "red",
+  "description": "Combattere lo spaccio e la diffusione delle droghe con ogni mezzo, anche\nattraverso campagne di prevenzione e informazione."
+}
+,{
+  "id": 2430,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Nell’ambito delle politiche di contrasto alle mafie e alla criminalità organizzata, riteniamo sia arrivato il momento di legalizzare l’autoproduzione di cannabis per uso personale e fare in modo che la cannabis terapeutica sia effettivamente garantita ai pazienti che ne hanno bisogno. Contestualmente proponiamo di rafforzare le iniziative di prevenzione e informazione nelle scuole e nell’informazione pubblica per accrescere la consapevolezza dei rischi legati a ogni forma di abuso e dipendenza (tabagismo, alcolismo, sostanze psicotiche)."
+}
+,{
+  "id": 2431,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Legalizzare cannabis e droghe leggere anche per togliere alle mafie un mercato redditizio.\nInvestimento in politiche sociali, sanitarie e educative per la riduzione della domanda di\ndroghe pesanti (finanziato con una percentuale sui beni sequestrati)."
+}
+,{
+  "id": 2432,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9,
+  "subject": "Coltivazione della cannabis per uso personale",
+  "subject_slug": "coltivazione-della-cannabis-per-uso-personale",
+  "subject_id": 144,
   "source": "Programma elettorale Vita",
   "source_slug": "programma-elettorale-vita",
   "list": "Vita",

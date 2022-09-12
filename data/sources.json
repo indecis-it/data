@@ -386,4 +386,13 @@
   "list": "Movimento 5 Stelle",
   "list_id": 9
 }
+,{
+  "id": 44,
+  "title": "Carta di Taranto (PD)",
+  "slug": "carta-di-taranto-pd",
+  "type": "programma",
+  "url": "https://www.partitodemocratico.it/wp-content/uploads/Carta-di-Taranto.pdf",
+  "list": "Partito Democratico",
+  "list_id": 5
+}
 ]
