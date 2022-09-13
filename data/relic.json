@@ -953,4 +953,16 @@
   "category": "Economia e fisco",
   "category_id": 4
 }
+,{
+  "subject": "Investimenti per la ricerca",
+  "subject_id": 23,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10
+}
+,{
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_id": 193,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1
+}
 ]

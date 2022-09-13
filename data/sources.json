@@ -395,4 +395,13 @@
   "list": "Partito Democratico",
   "list_id": 5
 }
+,{
+  "id": 45,
+  "title": "Post M5S 13 settembre 2022",
+  "slug": "post-m5s-13-settembre-2022",
+  "type": "post",
+  "url": "https://www.facebook.com/photo/?fbid=623380572491869",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9
+}
 ]

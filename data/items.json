@@ -27138,12 +27138,12 @@
   "subject": "Riforma della legge elettorale",
   "subject_slug": "riforma-della-legge-elettorale",
   "subject_id": 116,
-  "source": "Programma giovani AVS",
-  "source_slug": "programma-giovani-avs",
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
   "list": "Alleanza Verdi e Sinistra",
   "list_id": 6,
-  "endorsement": "green",
-  "description": "Voto ai sedicenni: Crediamo sia fondamentale coinvolgere nelle decisioni di carattere politico generazioni di giovani cittadini che già attivamente partecipano alle dinamiche della società civile. Inoltre, secondo l’articolo 2 del codice civile un sedicenne può esercitare diritti e doveri collegati al lavoro, quindi perché non dovrebbe anche essere titolare del dovere civico del voto?\n18 anni per l’esercizio dell’elettorato passivo alla Camera: Con la riduzione a 18 anni, si permette l’ingresso nelle istituzioni dei giovani e delle giovani, permettendogli così di lottare attivamente anche in ambiti come l’istruzione, il lavoro, l’università, la ricerca.\n30 anni per l’esercizio dell’elettorato passivo al Senato: Riducendo a 30 anni l’età minima per accedere al Senato, si permette a un gran numero di cittadine e cittadini di introdurre nel dibattito di Palazzo Madama, in maniera diretta, le proprie istanze. Si tratta di quella fetta di popolazione che, molto spesso, affronta non poche diﬃcoltà legate al mercato del lavoro."
+  "endorsement": "grey",
+  "description": ""
 }
 ,{
   "id": 1940,
@@ -35608,6 +35608,454 @@
   "subject": "Ricorso al Golden Power",
   "subject_slug": "ricorso-al-golden-power",
   "subject_id": 150,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2545,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "Maggiore flessibilità nella formazione del livello terziario e investimento sulla ricerca aperta e ibrida tra università, centri di ricerca, incubatori e imprese attraverso un forte aumento degli investimenti di università e istituzioni pubbliche in ricerca di base e applicata fino a raggiungere l’1,5% del PIL (ad oggi è allo 0,5%) da ripartirsi su finanziamento a progetti e ricerca di base e applicata, finanziamento a strutture di ricerca e promozione dei dottorati di ricerca."
+}
+,{
+  "id": 2546,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2547,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Rilanciare l’investimento in ricerca, formazione, cultura, orientare questo investimento all’utilità sociale. Mentre si è scelto, irresponsabilmente, l’aumento delle spese militari fino al 2% del PIL, in nome di una richiesta di impegno della NATO, è bene ricordare l’obiettivo sancito nel Trattato Europeo di Lisbona che impegnava tutti gli stati membri a raggiungere il 3% di investimenti in formazione e ricerca. L’Europa aveva scelto di essere la società più dinamica al mondo, basata sulla conoscenza, ma le politiche neoliberiste e di austerity hanno tagliato risorse alla scuola, all’università e alla ricerca. Quell’impegno, scritto nei trattati, non è mai stato rispettato. Va riaperta una stagione di investimento pubblico in ricerca e alta formazione capace di individuare priorità e finalità."
+}
+,{
+  "id": 2548,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Proponiamo (in linea con il Piano Amaldi) di aumentare gli investimenti in ricerca di base e applicata fino al raggiungimento di un ulteriore punto percentuale di spesa del PIL dedicata alla ricerca per allinearci alle percentuali europee."
+}
+,{
+  "id": 2549,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Maggiori investimenti in ricerca, digitalizzazione e trasferimento tecnologico. Favorire la sinergia tra università e privati in ambito di ricerca e brevetti."
+}
+,{
+  "id": 2550,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Investimenti sulla ricerca sanitaria."
+}
+,{
+  "id": 2551,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "green",
+  "description": "Accanto alla ricerca di base, finanziata con le risorse pubbliche che fluiscono in maggior parte a università ed enti di ricerca, va incentivata, attraverso la leva fiscale, la ricerca applicata svolta da aziende private e consorzi di queste."
+}
+,{
+  "id": 2552,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2553,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "green",
+  "description": "Per garantire l’autonomia delle università e la libertà di ricerca dei singoli docenti resta\nimprescindibile il ruolo centrale dello Stato, che deve stanziare per l’Università almeno\nquanto fanno gli altri paesi europei."
+}
+,{
+  "id": 2554,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Aumento degli investimenti in R&S prevedendo maggiori risorse pubbliche, anche per la ricerca di base, e agevolando gli investimenti privati. Il criterio dell’eccellenza sarà contemperato con un parziale ritorno a un finanziamento \"diffuso” attraverso un “budget della ricerca nazionale”, istituito per finanziare direttamente i laboratori di ricerca."
+}
+,{
+  "id": 2555,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Aumento dei fondi per università e ricerca a favore di studenti, ricercatori e personale\ntecnico e amministrativo."
+}
+,{
+  "id": 2556,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2557,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (NoiM)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2558,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Vogliamo rafforzare la ricerca e ridisegnare le politiche collegano ricerca, innovazione e imprese, nonché l’accesso alla conoscenza come bene pubblico."
+}
+,{
+  "id": 2559,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Investimenti nell’università per superare una situazione in cui l’Italia è agli ultimi posti dei\npaesi OCSE per numero di persone laureate e per numero di professori e ricercatori. Aumento\ndi 500 milioni di euro annui al diritto allo studio (es. abbassamento tasse universitarie per i\nredditi bassi e aiuto per gli affitti dei fuori sede)."
+}
+,{
+  "id": 2560,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Investimenti per la ricerca",
+  "subject_slug": "investimenti-per-la-ricerca",
+  "subject_id": 23,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2561,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2562,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2563,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma giovani AVS",
+  "source_slug": "programma-giovani-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Voto ai sedicenni: Crediamo sia fondamentale coinvolgere nelle decisioni di carattere politico generazioni di giovani cittadini che già attivamente partecipano alle dinamiche della società civile. Inoltre, secondo l’articolo 2 del codice civile un sedicenne può esercitare diritti e doveri collegati al lavoro, quindi perché non dovrebbe anche essere titolare del dovere civico del voto?\n18 anni per l’esercizio dell’elettorato passivo alla Camera: Con la riduzione a 18 anni, si permette l’ingresso nelle istituzioni dei giovani e delle giovani, permettendogli così di lottare attivamente anche in ambiti come l’istruzione, il lavoro, l’università, la ricerca.\n30 anni per l’esercizio dell’elettorato passivo al Senato: Riducendo a 30 anni l’età minima per accedere al Senato, si permette a un gran numero di cittadine e cittadini di introdurre nel dibattito di Palazzo Madama, in maniera diretta, le proprie istanze. Si tratta di quella fetta di popolazione che, molto spesso, affronta non poche diﬃcoltà legate al mercato del lavoro."
+}
+,{
+  "id": 2564,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2565,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2566,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2567,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2568,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2569,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2570,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2571,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Post M5S 13 settembre 2022",
+  "source_slug": "post-m5s-13-settembre-2022",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "\"Il 25 settembre per la prima volta i diciottenni voteranno anche per eleggere i senatori, oltre che i deputati. È una riforma che abbiamo fortemente voluto insieme al taglio del numero dei parlamentari. Ma a noi non basta, vogliamo che il diritto di voto sia esteso a partire dai 16 anni. \nAllargare gli spazi di partecipazione politica è un imperativo. Se i cittadini, soprattutto i giovani, chiedono di voler incidere di più e lo Stato si fa trovare impreparato è un fallimento per tutti. \nNoi siamo la forza politica più innovatrice e vogliamo fare questo salto nel futuro.\""
+}
+,{
+  "id": 2572,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2573,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2574,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2575,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2576,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Estensione del diritto di voto ai sedicenni",
+  "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
+  "subject_id": 193,
   "source": "Programma elettorale Vita",
   "source_slug": "programma-elettorale-vita",
   "list": "Vita",
