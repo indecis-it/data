@@ -1567,9 +1567,9 @@
   "post_subtitle": "«Nell’America di Reagan, negli anni Ottanta il gettito fiscale è quasi \nraddoppiato, a fronte di un taglio delle tasse ben superiore a quello che \nproponiamo noi»",
   "type": "fact-checking",
   "source": "Pagella Politica",
-  "subject": "",
+  "subject": "Flat tax",
   "list": "Forza Italia",
-  "subject_id": "",
+  "subject_id": 5,
   "list_id": 3
 }
 ,{
@@ -1697,9 +1697,9 @@
   "post_subtitle": "«Il tasso di incremento demografico in Ungheria è il più avanzato d’Europa»",
   "type": "fact-checking",
   "source": "Pagella Politica",
-  "subject": "",
+  "subject": "Supporto alla maternità",
   "list": "Lega",
-  "subject_id": "",
+  "subject_id": 47,
   "list_id": 2
 }
 ,{
@@ -1736,9 +1736,9 @@
   "post_subtitle": "«[Con me ministro] abbiamo azzerato gli sbarchi»",
   "type": "fact-checking",
   "source": "Pagella Politica",
-  "subject": "Blocco navale",
+  "subject": "Ripristino dei decreti Sicurezza",
   "list": "Lega",
-  "subject_id": 105,
+  "subject_id": 103,
   "list_id": 2
 }
 ,{
@@ -1958,9 +1958,9 @@
   "type": "fact-checking",
   "source": "Pagella Politica",
   "subject": "",
-  "list": "",
+  "list": "Partito Democratico",
   "subject_id": "",
-  "list_id": ""
+  "list_id": 5
 }
 ,{
   "id": 152,

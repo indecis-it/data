@@ -911,4 +911,46 @@
   "category": "Diritti civili e bioetica",
   "category_id": 9
 }
+,{
+  "subject": "Procreazione assisitita per coppie dello stesso sesso o single",
+  "subject_id": 145,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9
+}
+,{
+  "subject": "Eliminazione delle barriere architettoniche",
+  "subject_id": 146,
+  "category": "Diritti civili e bioetica",
+  "category_id": 9
+}
+,{
+  "subject": "Istituzione dello psicologo di base",
+  "subject_id": 147,
+  "category": "Sanità e sport",
+  "category_id": 6
+}
+,{
+  "subject": "Obbligo di discussione per le proposte di legge di iniziativa popolare",
+  "subject_id": 148,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1
+}
+,{
+  "subject": "Potenziamento della firma digitale",
+  "subject_id": 149,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1
+}
+,{
+  "subject": "Potenziamento della firma digitale",
+  "subject_id": 149,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10
+}
+,{
+  "subject": "Ricorso al Golden Power",
+  "subject_id": 150,
+  "category": "Economia e fisco",
+  "category_id": 4
+}
 ]

@@ -286,7 +286,7 @@ preso il 19,8 per cento»",fact-checking,Pagella Politica,,Azione-Italia Viva-Ca
 120,104,https://pagellapolitica.it/fact-checking/segretari-cgil-partito-democratico,Vero: tre degli ultimi quattro segretari della Cgil «sono finiti nel Pd»,«Tre degli ultimi quattro segretari generali della Cgil sono finiti nel Pd»,fact-checking,Pagella Politica,,Partito Democratico,,5
 121,105,https://pagellapolitica.it/fact-checking/berlusconi-taglio-tasse-reagan,Berlusconi sbaglia sugli effetti del taglio delle tasse di Reagan,"«Nell’America di Reagan, negli anni Ottanta il gettito fiscale è quasi 
 raddoppiato, a fronte di un taglio delle tasse ben superiore a quello che 
-proponiamo noi»",fact-checking,Pagella Politica,,Forza Italia,,3
+proponiamo noi»",fact-checking,Pagella Politica,Flat tax,Forza Italia,5,3
 122,106,https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari,Salvini sbaglia: con la flat tax i milionari pagherebbero meno tasse,"«Con la flat tax i milionari continueranno a pagare quello che stanno 
 pagando ovviamente»",fact-checking,Pagella Politica,Flat tax,Lega,5,2
 123,107,https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7,Vero: l’Italia è l’unico Paese del G7 senza nucleare,«L’Italia è l’unico Paese del G7 a non utilizzare il nucleare»,fact-checking,Pagella Politica,Nucleare,Azione-Italia Viva-Calenda,16,10
@@ -303,13 +303,13 @@ programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione 
 programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Lega,31,2
 130,110,https://pagellapolitica.it/fact-checking/evasione-fiscale-programma-centrodestra,Vero: la lotta all’evasione non c’è nel programma del centrodestra,"«La parola “evasione fiscale” non compare neanche una volta in tutto il 
 programma del centrodestra»",fact-checking,Pagella Politica,Lotta all'evasione fiscale,Fratelli d'Italia,31,1
-131,111,https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria,"No, l’Ungheria non ha la crescita demografica più alta d’Europa",«Il tasso di incremento demografico in Ungheria è il più avanzato d’Europa»,fact-checking,Pagella Politica,,Lega,,2
+131,111,https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria,"No, l’Ungheria non ha la crescita demografica più alta d’Europa",«Il tasso di incremento demografico in Ungheria è il più avanzato d’Europa»,fact-checking,Pagella Politica,Supporto alla maternità,Lega,47,2
 132,112,https://pagellapolitica.it/fact-checking/carfagna-pd-asilo,"Carfagna ha ragione sui pochi asili nido, ma non c’entrano con la proposta del Pd","«Al Sud l’offerta di asili nido non arriva al 15 per cento dei bambini 
 residenti»",fact-checking,Pagella Politica,Aumento degli asili nido,Azione-Italia Viva-Calenda,48,10
 133,113,https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia,I dati di Salvini sull’avanzo commerciale della Russia sono corretti," «Da gennaio a luglio di quest’anno l’avanzo commerciale in Russia, dopo le 
 sanzioni, tra esportazioni e importazioni, presenta un +192 miliardi di 
 dollari»",fact-checking,Pagella Politica,Sanzioni contro la Russia,Lega,10,2
-134,114,https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati,Salvini esagera sugli sbarchi «azzerati» quando era ministro,«[Con me ministro] abbiamo azzerato gli sbarchi»,fact-checking,Pagella Politica,Blocco navale,Lega,105,2
+134,114,https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati,Salvini esagera sugli sbarchi «azzerati» quando era ministro,«[Con me ministro] abbiamo azzerato gli sbarchi»,fact-checking,Pagella Politica,Ripristino dei decreti Sicurezza,Lega,103,2
 135,115,https://pagellapolitica.it/fact-checking/studenti-its-italiani-germania,"È vero che gli studenti degli Its in Germania sono 50 volte quelli in 
 Italia?","«Il nostro Paese ha meno di 20 mila studenti agli Its mentre la Germania ne 
 ha un milione»",fact-checking,Pagella Politica,Promozione degli Istituti tecnici superiori,Partito Democratico,81,5
@@ -344,7 +344,7 @@ più alta della nostra»",fact-checking,Pagella Politica,Sanzioni contro la Russ
 sulla flat tax, quello che la Lega ha proposto, ha realizzato» (min. 5:20)",fact-checking,Pagella Politica,Flat tax,,5,
 150,126,https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico,Meloni ha ragione: in 15 mesi il debito pubblico è cresciuto di 116 miliardi di euro,"«Negli ultimi 15 mesi il debito pubblico italiano è cresciuto di 116 
 miliardi»",fact-checking,Pagella Politica,,Fratelli d'Italia,,1
-151,127,https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia,È vero che la povertà in Italia è triplicata negli ultimi 15 anni?,«In Italia la povertà assoluta è triplicata negli ultimi 15 anni»,fact-checking,Pagella Politica,,,,
+151,127,https://pagellapolitica.it/fact-checking/crescita-poverta-assoluta-italia,È vero che la povertà in Italia è triplicata negli ultimi 15 anni?,«In Italia la povertà assoluta è triplicata negli ultimi 15 anni»,fact-checking,Pagella Politica,,Partito Democratico,,5
 152,128,https://pagellapolitica.it/fact-checking/importazioni-gas-russia-berlusconi,Davvero Berlusconi importava meno gas russo di Letta e Conte?,"«Con il mio ultimo governo, all’inizio del 2011, avevamo ridotto la quota 
 del gas russo al 19,9 per cento. Tre anni dopo, all’inizio del 2014, con il 
 governo Letta la dipendenza dalla Russia era salita al 45,3 per cento: più 
