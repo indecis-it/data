@@ -1198,14 +1198,14 @@
 ,{
   "id": 93,
   "post_id": 85,
-  "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
-  "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
-  "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si \npresenta come una leader moderata, ma negli anni ha cambiato posizione su \ndiversi argomenti di stretta attualità, dalla Russia al gas",
-  "type": "articolo",
+  "url": "https://pagellapolitica.it/fact-checking/meloni-export-italia-russia",
+  "post_title": "Vero: l’1,5 per cento dell’export italiano va in Russia, l’80 per cento in Occidente",
+  "post_subtitle": "«Volume di esportazione dell’Italia con la Russia: 1,5 per cento. Volume di esportazione dell’Italia con l’Occidente: circa l’80 per cento»",
+  "type": "fact-checking",
   "source": "Pagella Politica",
-  "subject": "",
+  "subject": "Sanzioni contro la Russia",
   "list": "Fratelli d'Italia",
-  "subject_id": "",
+  "subject_id": 10,
   "list_id": 1
 }
 ,{
@@ -2341,7 +2341,7 @@
 }
 ,{
   "id": 181,
-  "post_id": 85,
+  "post_id": 141,
   "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
   "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
   "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
@@ -2354,7 +2354,7 @@
 }
 ,{
   "id": 182,
-  "post_id": 85,
+  "post_id": 141,
   "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
   "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
   "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
@@ -2367,7 +2367,7 @@
 }
 ,{
   "id": 183,
-  "post_id": 85,
+  "post_id": 141,
   "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
   "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
   "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
@@ -2380,7 +2380,7 @@
 }
 ,{
   "id": 184,
-  "post_id": 85,
+  "post_id": 141,
   "url": "https://pagellapolitica.it/articoli/meloni-russia-euro-unioni-civili",
   "post_title": "Quattro temi (più uno) su cui Meloni ha cambiato idea",
   "post_subtitle": "In questa campagna elettorale la presidente di Fratelli d’Italia si presenta come una leader moderata, ma negli anni ha cambiato posizione su diversi argomenti di stretta attualità, dalla Russia al gas",
@@ -2393,7 +2393,7 @@
 }
 ,{
   "id": 185,
-  "post_id": 141,
+  "post_id": 142,
   "url": "https://pagellapolitica.it/fact-checking/flat-tax-partite-iva-coperture",
   "post_title": "No, la flat tax per le partite Iva non «si paga da sola»",
   "post_subtitle": "«La flat tax si paga da sola, perché la flat tax al 15 per cento, stamattina, funziona per 2 milioni di partite Iva»",
@@ -2406,7 +2406,7 @@
 }
 ,{
   "id": 186,
-  "post_id": 142,
+  "post_id": 143,
   "url": "https://pagellapolitica.it/articoli/aumento-spese-militari-programmi-elezioni-2022",
   "post_title": "I fatti dietro la promessa: l’aumento delle spese militari e Azione-Italia viva",
   "post_subtitle": "Per rispettare l’impegno, non vincolante, con la Nato, entro il 2025 il nostro Paese dovrebbe aumentare le risorse in difesa di circa 8 miliardi di euro. Ma le coperture economiche scarseggiano",
@@ -2419,7 +2419,7 @@
 }
 ,{
   "id": 187,
-  "post_id": 143,
+  "post_id": 144,
   "url": "https://pagellapolitica.it/fact-checking/lega-fratelli-italia-voti-pnrr",
   "post_title": "No, Lega e Fratelli d’Italia non hanno votato «sempre» contro il Pnrr",
   "post_subtitle": "«La Lega ha sempre votato contro il Pnrr in Europa, Fratelli d'Italia ha votato contro anche in Italia»",
@@ -2432,7 +2432,7 @@
 }
 ,{
   "id": 188,
-  "post_id": 143,
+  "post_id": 144,
   "url": "https://pagellapolitica.it/fact-checking/lega-fratelli-italia-voti-pnrr",
   "post_title": "No, Lega e Fratelli d’Italia non hanno votato «sempre» contro il Pnrr",
   "post_subtitle": "«La Lega ha sempre votato contro il Pnrr in Europa, Fratelli d'Italia ha votato contro anche in Italia»",
@@ -2445,7 +2445,7 @@
 }
 ,{
   "id": 189,
-  "post_id": 143,
+  "post_id": 144,
   "url": "https://pagellapolitica.it/fact-checking/lega-fratelli-italia-voti-pnrr",
   "post_title": "No, Lega e Fratelli d’Italia non hanno votato «sempre» contro il Pnrr",
   "post_subtitle": "«La Lega ha sempre votato contro il Pnrr in Europa, Fratelli d'Italia ha votato contro anche in Italia»",
@@ -2458,7 +2458,7 @@
 }
 ,{
   "id": 190,
-  "post_id": 144,
+  "post_id": 145,
   "url": "https://www.indecis.it/argomenti/legalizzazione-della-cannabis",
   "post_title": "Legalizzazione della cannabis",
   "post_subtitle": "",
@@ -2471,7 +2471,7 @@
 }
 ,{
   "id": 191,
-  "post_id": 145,
+  "post_id": 146,
   "url": "https://www.indecis.it/argomenti/coltivazione-della-cannabis-per-uso-personale",
   "post_title": "Coltivazione della cannabis per uso personale",
   "post_subtitle": "",
@@ -2481,5 +2481,135 @@
   "list": "",
   "subject_id": 51,
   "list_id": ""
+}
+,{
+  "id": 192,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Fratelli d'Italia",
+  "subject_id": 12,
+  "list_id": 1
+}
+,{
+  "id": 193,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Lega",
+  "subject_id": 12,
+  "list_id": 2
+}
+,{
+  "id": 194,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Forza Italia",
+  "subject_id": 12,
+  "list_id": 3
+}
+,{
+  "id": 195,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Noi moderati",
+  "subject_id": 12,
+  "list_id": 4
+}
+,{
+  "id": 196,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Partito Democratico",
+  "subject_id": 12,
+  "list_id": 5
+}
+,{
+  "id": 197,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Alleanza Verdi e Sinistra",
+  "subject_id": 12,
+  "list_id": 6
+}
+,{
+  "id": 198,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "+Europa",
+  "subject_id": 12,
+  "list_id": 7
+}
+,{
+  "id": 199,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Movimento 5 Stelle",
+  "subject_id": 12,
+  "list_id": 9
+}
+,{
+  "id": 200,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": 12,
+  "list_id": 10
+}
+,{
+  "id": 201,
+  "post_id": 147,
+  "url": "https://www.pagellapolitica.it/articoli/pensioni-confronto-programmi-elezioni-2022",
+  "post_title": "Pensioni: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle pensioni dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Italexit",
+  "subject_id": 12,
+  "list_id": 11
 }
 ]
