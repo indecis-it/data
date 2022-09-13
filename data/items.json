@@ -13310,8 +13310,8 @@
   "source_slug": "programma-elettorale-impegno-civico",
   "list": "Impegno Civico",
   "list_id": 8,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "yellow",
+  "description": "Revisionare la politica europea per la transizione energetica alla luce della nuova tassonomia che riconosce il nucleare come fonte sostenibile di energia."
 }
 ,{
   "id": 952,
@@ -13366,7 +13366,7 @@
   "source_slug": "tweet-m5s-10-settembre-2022",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "yellow",
+  "endorsement": "red",
   "description": "Sul Nucleare il popolo italiano ha già detto No! La tecnologia di quarta generazione non esiste ancora. Quando arriverà - non prima di 15/20, anni ci dicono gli scienziati, ne discuteremo tutti insieme."
 }
 ,{
@@ -33345,7 +33345,7 @@
   "list": "Partito Democratico",
   "list_id": 5,
   "endorsement": "green",
-  "description": "L’Unione europea è insostituibile, ma è una costruzione fragile, spesso bloccata dalla politica dei veti\nincrociati degli Stati membri. Per questo va riformata e resa all’altezza delle aspettative e dei bisogni dei\nsuoi cittadini. L’attuale architettura istituzionale europea limita l’azione dell’Unione in settori determinanti\nquali energia, difesa, politica estera, salute, immigrazione, politiche sociali. È tempo di una riforma dei\nTrattati che permetta un salto in avanti istituzionale (a partire dall’abolizione del diritto di veto) per\nrendere l’Ue vera potenza di valori nel mondo di oggi e, soprattutto, di domani."
+  "description": "L’Unione europea è insostituibile, ma è una costruzione fragile, spesso bloccata dalla politica dei veti incrociati degli Stati membri. Per questo va riformata e resa all’altezza delle aspettative e dei bisogni dei\nsuoi cittadini. L’attuale architettura istituzionale europea limita l’azione dell’Unione in settori determinanti quali energia, difesa, politica estera, salute, immigrazione, politiche sociali. È tempo di una riforma dei\nTrattati che permetta un salto in avanti istituzionale (a partire dall’abolizione del diritto di veto) per rendere l’Ue vera potenza di valori nel mondo di oggi e, soprattutto, di domani."
 }
 ,{
   "id": 2383,
@@ -35402,7 +35402,7 @@
   "source_slug": "programma-elettorale-europa",
   "list": "+Europa",
   "list_id": 7,
-  "endorsement": "red",
+  "endorsement": "yellow",
   "description": "Rivedere la normativa sulla Golden Power, strumento che non deve essere esteso in modo abnorme a operazioni intra-europee ed addirittura tra imprese nazionali."
 }
 ,{
