@@ -1369,8 +1369,8 @@
 }
 ,{
   "id": 153,
-  "subject": "Incentivi alle attività culturali",
-  "slug": "incentivi-alle-attivit-culturali",
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
   "url": "",
   "source": "",
   "title": "",
@@ -1380,10 +1380,10 @@
   "id": 154,
   "subject": "Digitalizzazione del settore culturale",
   "slug": "digitalizzazione-del-settore-culturale",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
+  "url": "https://it.wikipedia.org/wiki/Digitalizzazione",
+  "source": "Wikipedia",
+  "title": "Digitalizzazione",
+  "description": "La digitalizzazione è il processo di conversione che, applicato alla misurazione di un fenomeno fisico, ne determina il passaggio dal campo dei valori continui a quello dei valori discreti. Tale processo viene oggi comunemente sintetizzato nei termini di passaggio dall'analogico al digitale nell'audio, video, immagini e testo."
 }
 ,{
   "id": 155,
@@ -1432,33 +1432,6 @@
 }
 ,{
   "id": 160,
-  "subject": "Aumento fondi manutenzione dei beni culturali",
-  "slug": "aumento-fondi-manutenzione-dei-beni-culturali",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
-}
-,{
-  "id": 161,
-  "subject": "Sostegno alle associazioni culturali",
-  "slug": "sostegno-alle-associazioni-culturali",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
-}
-,{
-  "id": 162,
-  "subject": "Agevolazioni ingressi musei per i ragazzi",
-  "slug": "agevolazioni-ingressi-musei-per-i-ragazzi",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
-}
-,{
-  "id": 163,
   "subject": "Rafforzamento operazione strade sicure",
   "slug": "rafforzamento-operazione-strade-sicure",
   "url": "",
@@ -1467,7 +1440,7 @@
   "description": ""
 }
 ,{
-  "id": 164,
+  "id": 161,
   "subject": "Riqualificazione periferie",
   "slug": "riqualificazione-periferie",
   "url": "",
@@ -1476,7 +1449,7 @@
   "description": ""
 }
 ,{
-  "id": 165,
+  "id": 162,
   "subject": "Regolamentazione lobby",
   "slug": "regolamentazione-lobby",
   "url": "",
@@ -1485,7 +1458,7 @@
   "description": ""
 }
 ,{
-  "id": 166,
+  "id": 163,
   "subject": "Maggiore formazione in ambito alberghiero",
   "slug": "maggiore-formazione-in-ambito-alberghiero",
   "url": "",
@@ -1494,7 +1467,7 @@
   "description": ""
 }
 ,{
-  "id": 167,
+  "id": 164,
   "subject": "Tassazione extraprofitti",
   "slug": "tassazione-extraprofitti",
   "url": "",
@@ -1503,7 +1476,7 @@
   "description": ""
 }
 ,{
-  "id": 168,
+  "id": 165,
   "subject": "Riduzione debito pubblico",
   "slug": "riduzione-debito-pubblico",
   "url": "",
@@ -1512,7 +1485,7 @@
   "description": ""
 }
 ,{
-  "id": 169,
+  "id": 166,
   "subject": "Ricerca sulle cellule embrionali",
   "slug": "ricerca-sulle-cellule-embrionali",
   "url": "",
@@ -1521,7 +1494,7 @@
   "description": ""
 }
 ,{
-  "id": 170,
+  "id": 167,
   "subject": "Sovranità tecnologica",
   "slug": "sovranit-tecnologica",
   "url": "",
@@ -1530,7 +1503,7 @@
   "description": ""
 }
 ,{
-  "id": 171,
+  "id": 168,
   "subject": "Strategia cloud",
   "slug": "strategia-cloud",
   "url": "",
@@ -1539,7 +1512,7 @@
   "description": ""
 }
 ,{
-  "id": 172,
+  "id": 169,
   "subject": "Strategia per la limitazione delle emissioni (contrasto al cambiamento climatico)",
   "slug": "strategia-per-la-limitazione-delle-emissioni-contrasto-al-cambiamento-climatico",
   "url": "",
@@ -1548,7 +1521,7 @@
   "description": ""
 }
 ,{
-  "id": 173,
+  "id": 170,
   "subject": "Promozione della cultura scientifica",
   "slug": "promozione-della-cultura-scientifica",
   "url": "",
@@ -1557,7 +1530,7 @@
   "description": ""
 }
 ,{
-  "id": 174,
+  "id": 171,
   "subject": "Azioni contro i medici obiettori",
   "slug": "azioni-contro-i-medici-obiettori",
   "url": "",
@@ -1566,7 +1539,7 @@
   "description": ""
 }
 ,{
-  "id": 175,
+  "id": 172,
   "subject": "Difesa della laicità dello Stato",
   "slug": "difesa-della-laicit-dello-stato",
   "url": "",
@@ -1575,7 +1548,7 @@
   "description": ""
 }
 ,{
-  "id": 176,
+  "id": 173,
   "subject": "Rinegoziazione del Concordato",
   "slug": "rinegoziazione-del-concordato",
   "url": "",
@@ -1584,7 +1557,7 @@
   "description": ""
 }
 ,{
-  "id": 177,
+  "id": 174,
   "subject": "Liberalizzazione delle concessioni balneari e delle licenze taxi",
   "slug": "liberalizzazione-delle-concessioni-balneari-e-delle-licenze-taxi",
   "url": "",
@@ -1593,7 +1566,7 @@
   "description": ""
 }
 ,{
-  "id": 178,
+  "id": 175,
   "subject": "Vendita di ILVA, ITA e MPS",
   "slug": "vendita-di-ilva-ita-e-mps",
   "url": "",
@@ -1602,7 +1575,7 @@
   "description": ""
 }
 ,{
-  "id": 179,
+  "id": 176,
   "subject": "Miglioramento della rete idrica",
   "slug": "miglioramento-della-rete-idrica",
   "url": "",
@@ -1611,7 +1584,7 @@
   "description": ""
 }
 ,{
-  "id": 180,
+  "id": 177,
   "subject": "Protezione del territorio da rischi idro/geologici, creazione di bacini di stoccaggio",
   "slug": "protezione-del-territorio-da-rischi-idrogeologici-creazione-di-bacini-di-stoccaggio",
   "url": "",
@@ -1620,7 +1593,7 @@
   "description": ""
 }
 ,{
-  "id": 181,
+  "id": 178,
   "subject": "Bilancio unico federale europeo",
   "slug": "bilancio-unico-federale-europeo",
   "url": "",
@@ -1629,7 +1602,7 @@
   "description": ""
 }
 ,{
-  "id": 182,
+  "id": 179,
   "subject": "Tasse a livello federale europeo",
   "slug": "tasse-a-livello-federale-europeo",
   "url": "",
@@ -1638,7 +1611,7 @@
   "description": ""
 }
 ,{
-  "id": 183,
+  "id": 180,
   "subject": "Stati uniti d'europa",
   "slug": "stati-uniti-deuropa",
   "url": "",
@@ -1647,7 +1620,7 @@
   "description": ""
 }
 ,{
-  "id": 184,
+  "id": 181,
   "subject": "Riforma della dirigenza pubblica",
   "slug": "riforma-della-dirigenza-pubblica",
   "url": "",
@@ -1656,7 +1629,7 @@
   "description": ""
 }
 ,{
-  "id": 185,
+  "id": 182,
   "subject": "Incentivi per l'acquisto di auto elettriche elettriche pure e/o ibride plug-in",
   "slug": "incentivi-per-lacquisto-di-auto-elettriche-elettriche-pure-eo-ibride-plugin",
   "url": "",
@@ -1665,7 +1638,7 @@
   "description": ""
 }
 ,{
-  "id": 186,
+  "id": 183,
   "subject": "Divieto veicoli a combustione interna",
   "slug": "divieto-veicoli-a-combustione-interna",
   "url": "",
@@ -1674,7 +1647,7 @@
   "description": ""
 }
 ,{
-  "id": 187,
+  "id": 184,
   "subject": "Potenziamento della rete ferroviaria",
   "slug": "potenziamento-della-rete-ferroviaria",
   "url": "",
@@ -1683,7 +1656,7 @@
   "description": ""
 }
 ,{
-  "id": 188,
+  "id": 185,
   "subject": "Maggiori connessioni ferroviare con Stati confinanti",
   "slug": "maggiori-connessioni-ferroviare-con-stati-confinanti",
   "url": "",
@@ -1692,7 +1665,7 @@
   "description": ""
 }
 ,{
-  "id": 189,
+  "id": 186,
   "subject": "Spesa pubblica per l'infrastruttura di ricarica delle auto elettriche",
   "slug": "spesa-pubblica-per-linfrastruttura-di-ricarica-delle-auto-elettriche",
   "url": "",
@@ -1701,7 +1674,7 @@
   "description": ""
 }
 ,{
-  "id": 190,
+  "id": 187,
   "subject": "Politiche per attrarre la produzione di batterie nel nostro Paese",
   "slug": "politiche-per-attrarre-la-produzione-di-batterie-nel-nostro-paese",
   "url": "",
@@ -1710,7 +1683,7 @@
   "description": ""
 }
 ,{
-  "id": 191,
+  "id": 188,
   "subject": "Incentivo all'utilizzo di car sharing and bike sharing",
   "slug": "incentivo-allutilizzo-di-car-sharing-and-bike-sharing",
   "url": "",
@@ -1719,7 +1692,7 @@
   "description": ""
 }
 ,{
-  "id": 192,
+  "id": 189,
   "subject": "Riconversione dell'industria di assemblaggio auto/componentistica del mondo auto tradizionale per il futuro elettrico",
   "slug": "riconversione-dellindustria-di-assemblaggio-autocomponentistica-del-mondo-auto-tradizionale-per-il-futuro-elettrico",
   "url": "",
@@ -1728,7 +1701,7 @@
   "description": ""
 }
 ,{
-  "id": 193,
+  "id": 190,
   "subject": "Estensione del diritto di voto ai sedicenni",
   "slug": "estensione-del-diritto-di-voto-ai-sedicenni",
   "url": "https://it.wikipedia.org/wiki/Diritto_di_voto",
