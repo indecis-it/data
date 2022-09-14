@@ -1353,19 +1353,19 @@
   "id": 151,
   "subject": "Aumento fondi per la manutenzione dei beni culturali",
   "slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
+  "url": "https://it.wikipedia.org/wiki/Beni_culturali",
+  "source": "Wikipedia",
+  "title": "Beni culturali",
+  "description": "I beni culturali sono tutti i beni designati da ciascuno Stato importanti per l'archeologia, la letteratura, l'arte, la scienza, la demologia, l'etnologia o l'antropologia. Si contrappongono, per definizione, ai \"beni naturali\" in quanto questi ultimi ci sono offerti dalla natura, mentre i primi sono il prodotto della cultura."
 }
 ,{
   "id": 152,
-  "subject": "Sostegno alle associazioni culturali (FAI, Borghi d’Italia ecc.)",
-  "slug": "sostegno-alle-associazioni-culturali-fai-borghi-ditalia-ecc",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
+  "subject": "Sostegno alle associazioni culturali",
+  "slug": "sostegno-alle-associazioni-culturali",
+  "url": "https://it.wikipedia.org/wiki/Associazionismo_culturale",
+  "source": "Wikipedia",
+  "title": "Associazionismo culturale",
+  "description": "L'associazione culturale è un ente privato senza finalità di lucro, costituita da un gruppo di persone coese per il raggiungimento di un determinato scopo di interesse collettivo che utilizza le proprie risorse finanziarie per scopi culturali, di insegnamento e educativi."
 }
 ,{
   "id": 153,
@@ -1459,8 +1459,8 @@
 }
 ,{
   "id": 163,
-  "subject": "Maggiore formazione in ambito alberghiero",
-  "slug": "maggiore-formazione-in-ambito-alberghiero",
+  "subject": "Maggiore formazione nel settore turistico- alberghiero",
+  "slug": "maggiore-formazione-nel-settore-turistico-alberghiero",
   "url": "",
   "source": "",
   "title": "",

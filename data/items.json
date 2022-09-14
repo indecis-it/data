@@ -15648,8 +15648,8 @@
   "source_slug": "programma-elettorale-pd",
   "list": "Partito Democratico",
   "list_id": 5,
-  "endorsement": "yellow",
-  "description": "Approveremo una legge sulla co-genitorialità, per introdurre totale parità nei congedi di maternità e paternità e un nuovo congedo parentale anch’esso pienamente paritario, da affiancare a strumenti di flessibilità, come part time e lavoro agile di coppia agevolati."
+  "endorsement": "green",
+  "description": "Promozione dello smart working, anche ai fini di favorire le esigenze di conciliazione dei\ntempi di vita e lavoro, di ridurre le emissioni di agenti inquinanti e di migliorare, nel contempo, la\nvivibilità dei centri urbani e rivitalizzare i piccoli borghi sempre più spopolat"
 }
 ,{
   "id": 1119,
@@ -36056,6 +36056,2022 @@
   "subject": "Estensione del diritto di voto ai sedicenni",
   "subject_slug": "estensione-del-diritto-di-voto-ai-sedicenni",
   "subject_id": 190,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2577,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2578,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2579,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2580,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2581,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Innovazione digitale per i beni culturali, così da renderli pienamente fruibili anche attraverso social e piattaforme multimediali."
+}
+,{
+  "id": 2582,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (FI)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Supporto alla digitalizzazione dell'intera filiera del settore turistico e della cultura"
+}
+,{
+  "id": 2583,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2584,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2585,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "green",
+  "description": "La tecnologia non potrà mai sostituire l’esperienza fornita da una guida turistica,\r\ntuttavia, con l’importanza acquisita dai cellulari smartphone nell’uso quotidiano, si\r\npossono pensare una miriade di applicazioni ad integrazioni dell’offerta turistica. Un\r\nbuon esempio può essere massificare l’utilizzo dei QR code di fronte ai punti di\r\ninteresse(un percorso iniziato anni fa) che semplicemente riportino le informazioni del\r\nmonumento visitato o di un albero secolare in un paesaggio naturalistico, o financo\r\nprogettare ricostruzioni virtuali dei fori romani o del parco archeologico di Vulci in\r\nrealtàà aumentata per far vivere al turista un’esperienza unica"
+}
+,{
+  "id": 2586,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Digitalizzazione del patrimonio culturale\r\nUtilizzo NFT e nuove tecnologie per tutelare, promuovere e valorizzare il patrimonio\r\nsia materiale che immateriale, sia il più conosciuto che quello, ancora ad oggi, chiuso\r\nnei depositi. Regole chiare su Metaverso e qualunque altro strumento tecnologico,\r\nper trarne il massimo vantaggio e non mettere a rischio immagine e proprietà"
+}
+,{
+  "id": 2587,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2588,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2589,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (NoiM)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Supporto alla digitalizzazione dell'intera filiera del settore turistico e della cultura"
+}
+,{
+  "id": 2590,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Vogliamo promuovere la completa\r\ndigitalizzazione del patrimonio culturale."
+}
+,{
+  "id": 2591,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2592,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2593,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2594,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2595,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2596,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Raddoppiare ogni donazione per la cultura effettuata dai privati con fondi pubblici\r\nProponiamo un sistema di doppio finanziamento: ogni donazione fatta da un privato ad un ente culturale sarà\r\nreplicata dal pubblico. Questo sistema dà un incentivo concreto ai luoghi della cultura per attrarre nuovi\r\nfinanziamenti privati in quanto i loro singoli contributi avrebbero un impatto doppio."
+}
+,{
+  "id": 2597,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2598,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2599,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2600,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2601,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2602,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2603,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2604,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2605,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2606,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Sull’arte e l’architettura contemporanea proponiamo il potenziamento del Piano per l’arte\ncontemporanea, sostegno per l’acquisizione, la produzione e la valorizzazione delle opere e l’incremento delle collezioni pubbliche, il riconoscimento giuridico delle professionalità delle arti visive, il sostegno alla committenza artistica anche attraverso nuovi incentivi fiscali e un Piano nazionale per l’architettura contemporanea, oltre a una nuova legge di settore."
+}
+,{
+  "id": 2607,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Finanziare opere pubbliche di cura e messa in sicurezza del territorio nazionale, da un\r\npunto di vista idrogeologico, della rigenerazione urbana, dei paesi e borghi, degli edifici\r\npubblici e privati e soprattutto dell’immenso patrimonio artistico-culturale."
+}
+,{
+  "id": 2608,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_slug": "aumento-fondi-per-la-manutenzione-dei-beni-culturali",
+  "subject_id": 151,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2609,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2610,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2611,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2612,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2613,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Sussidiarietà e nuovo rapporto pubblico-privato soprattutto per permettere\r\nl’apertura dei beni culturali oggi chiusi al pubblico."
+}
+,{
+  "id": 2614,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2615,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2616,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2617,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2618,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2619,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2620,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2621,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Promuovere nuove partnership pubblico-privato per facilitare la\r\nfrequentazione del nostro patrimonio artistico e culturale. Noi vogliamo che le istituzioni coinvolgano imprese, associazioni e cittadini con strumenti di collaborazione rapidi, sul modello delle partnership pubblico privato, palinsesti di iniziative aperte al pubblico all’interno dei grandi luoghi d’arte e di cultura, soprattutto per avvicinare le nuove generazioni."
+}
+,{
+  "id": 2622,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Proponiamo la reintroduzione strutturale del 2x1000\r\nall’associazionismo culturale."
+}
+,{
+  "id": 2623,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2624,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_slug": "sostegno-alle-associazioni-culturali",
+  "subject_id": 152,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2625,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2626,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2627,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2628,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Facilitare l’accesso ai luoghi della cultura tramite un carnet con 10 ingressi gratuiti\r\nLa popolazione con ISEE inferiore ai 15.000 euro avrà accesso ad un carnet di 10 ingressi gratuiti per teatri,\r\nmostre, gallerie d’arte, musei, siti archeologici e altri luoghi di arte."
+}
+,{
+  "id": 2629,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Introduzione della detrazione fiscale dei consumi culturali individuali."
+}
+,{
+  "id": 2630,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2631,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2632,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2633,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "green",
+  "description": "Italextit per l'Italia propone (tematica in parte già affrontata anche nella sezione economia) di partire da queste fasce deboli nella ristrutturazione della società, lo Stato italiano deve erogare gratuitamente tutti i servizi necessari, sanità scuola, cultura sport, spettacolo, attività ricreative, e compensare la perdita del lavoro del genitore con una forma di sostentamento che tenga conto di ogni singola situazione, che generi anche la contribuzione INPS, perché per i genitori che hanno avuto la sfortuna di dover crescere ragazzi o adulti meno fortunati sono da equiparare al lavoro usurante con l’aggravante delle spese normalmente enormemente più alte."
+}
+,{
+  "id": 2634,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Detrazione spese culturali\r\nIn una prima fase biglietti dei cinema, dei teatri e dei musei deducibili dalle tasse\r\ncome oggi si fa con quelle mediche, per incentivare l'accesso ai luoghi di cultura.\r\nSuccessivamente allargare, previa valutazione dei costi di copertura, anche alle altre\r\nspese culturali (concerti, strumenti musicali, materiale artistico, ecc…)"
+}
+,{
+  "id": 2635,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2636,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2637,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Noi vogliamo che le istituzioni coinvolgano\r\nimprese, associazioni e cittadini con strumenti di collaborazione\r\nrapidi, sul modello delle partnership pubblico privato, palinsesti di\r\niniziative aperte al pubblico all’interno dei grandi luoghi d’arte e di\r\ncultura, soprattutto per avvicinare le nuove generazioni"
+}
+,{
+  "id": 2638,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Proponiamo forme di detraibilità delle spese sostenute per la partecipazione alle attività culturali,\r\nl’abbattimento dell’IVA per i prodotti culturali e un sostegno economico ai consumi culturali dei giovani\r\noltre alla conferma del bonus cultura 18App"
+}
+,{
+  "id": 2639,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2640,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_slug": "incentivi-per-la-partecipazione-ad-attivit-culturali",
+  "subject_id": 153,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2641,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2642,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2643,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2644,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2645,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Innovazione digitale per i beni culturali, così da renderli pienamente fruibili anche attraverso social e piattaforme multimediali."
+}
+,{
+  "id": 2646,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (FI)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Supporto alla digitalizzazione dell'intera filiera del settore turistico e della cultura"
+}
+,{
+  "id": 2647,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2648,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2649,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "green",
+  "description": "La tecnologia non potrà mai sostituire l’esperienza fornita da una guida turistica,\r\ntuttavia, con l’importanza acquisita dai cellulari smartphone nell’uso quotidiano, si\r\npossono pensare una miriade di applicazioni ad integrazioni dell’offerta turistica. Un\r\nbuon esempio può essere massificare l’utilizzo dei QR code di fronte ai punti di\r\ninteresse(un percorso iniziato anni fa) che semplicemente riportino le informazioni del\r\nmonumento visitato o di un albero secolare in un paesaggio naturalistico, o financo\r\nprogettare ricostruzioni virtuali dei fori romani o del parco archeologico di Vulci in\r\nrealtàà aumentata per far vivere al turista un’esperienza unica"
+}
+,{
+  "id": 2650,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Digitalizzazione del patrimonio culturale\r\nUtilizzo NFT e nuove tecnologie per tutelare, promuovere e valorizzare il patrimonio\r\nsia materiale che immateriale, sia il più conosciuto che quello, ancora ad oggi, chiuso\r\nnei depositi. Regole chiare su Metaverso e qualunque altro strumento tecnologico,\r\nper trarne il massimo vantaggio e non mettere a rischio immagine e proprietà"
+}
+,{
+  "id": 2651,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2652,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2653,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (NoiM)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Supporto alla digitalizzazione dell'intera filiera del settore turistico e della cultura"
+}
+,{
+  "id": 2654,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Vogliamo promuovere la completa\r\ndigitalizzazione del patrimonio culturale."
+}
+,{
+  "id": 2655,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2656,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_slug": "digitalizzazione-del-settore-culturale",
+  "subject_id": 154,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2657,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2658,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2659,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2660,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2661,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (FdI)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fdi",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Tutela e promozione del patrimonio culturale, artistico, archeologico, materiale e\nimmateriale, e valorizzazione delle professionalità culturali che costituiscono il\nvolano economico e identitario italiano"
+}
+,{
+  "id": 2662,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Valorizzazione del patrimonio culturale pubblico, attraverso una\nmappatura degli interventi necessari sui siti di interesse culturale ed un\npiano assunzionale del personale necessario a garantirne la fruibilità\nal pubblico."
+}
+,{
+  "id": 2663,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2664,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2665,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2666,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Implementazione del programma Scuola-Lavoro, valorizzando nuove figure professionali turistiche"
+}
+,{
+  "id": 2667,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "INTRODUZIONE DI UNA ‘SCUOLA DEI MESTIERI’ per valorizzare e recuperare la tradizione\r\ndell’artigianato italiano"
+}
+,{
+  "id": 2668,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2669,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2670,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2671,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2672,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_slug": "valorizzazione-delle-professionalit-culturali",
+  "subject_id": 155,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "green",
+  "description": "Scuola, Università e Alta Formazione Artistica e Musicale come luogo di formazione e crescita basata sui modelli pedagogici di libertà, non violenza e sviluppo dei talenti."
+}
+,{
+  "id": 2673,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "Incentivare l’affidamento anche a soggetti privati della gestione di siti\r\nculturali (musei, aree archeologiche, ecc) nell’ottica di una diminuzione della spesa\r\ne di una maggiore attrattività e tutela del patrimonio culturale, soprattutto\r\nper le aree attualmente dismesse."
+}
+,{
+  "id": 2674,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2675,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2676,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Intendiamo favorire l’ingresso dei giovani nel mondo del lavoro culturale attraverso una politica di detrazioni fiscali per gli under 40 che puntano a creare nuove realtà imprenditoriali nel comparto. Generare un sistema che tuteli il lavoro delle nuove leve, favorendone le idee, la sperimentazione e l’innovazione tecnologica."
+}
+,{
+  "id": 2677,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Sussidiarietà e nuovo rapporto pubblico-privato soprattutto per permettere\nl’apertura dei beni culturali oggi chiusi al pubblico."
+}
+,{
+  "id": 2678,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Valorizzazione del patrimonio culturale pubblico, attraverso una\r\nmappatura degli interventi necessari sui siti di interesse culturale ed un\r\npiano assunzionale del personale necessario a garantirne la fruibilità\r\nal pubblico."
+}
+,{
+  "id": 2679,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2680,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2681,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "yellow",
+  "description": "Servizio di sorveglianza e guida c/o musei, biblioteche, siti di interesse storico e artistico (non privati) se attualmente privi di presidio e non fruibili al pubblico del tutto o parzialmente."
+}
+,{
+  "id": 2682,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Il MiC non è solo il Ministero per la tutela, la salvaguardia e la valorizzazione del patrimonio, ma deve essere sempre più uno dei principali motori trainanti dell'economia italiana. La Direzione Generale Creatività Contemporanea deve essere dotata di un budget adeguato per sostenere le imprese culturali e creative, motore non solo culturale, ma anche economico del nostro Paese"
+}
+,{
+  "id": 2683,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Piano pubblico di assunzioni per superare il grave sottodimensionamento del ministero dei beni culturali e delle sue istituzioni periferiche"
+}
+,{
+  "id": 2684,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2685,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Riformare le modalità di selezione del personale dei musei per\r\nvalorizzare le nuove professionalità richieste: anche i poli museali\r\nhanno bisogno oggi di figure professionali in grado di portare\r\nall’interno nuove competenze digitali, comunicative e organizzative.\r\nNoi vogliamo modificare le procedure di selezione del personale e\r\npromuovere procedure di concorso in grado di individuare le\r\ncompetenze specifiche richieste dal settore, garantendo maggiore\r\nflessibilità in entrata e in uscita"
+}
+,{
+  "id": 2686,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Vogliamo sostenere il settore dello spettacolo dal vivo e l’industria cinematografica e audiovisiva italiana attraverso il rafforzamento del sistema di finanziamento pubblico dei comparti e forti incentivi per i giovani autori e le nuove produzioni, il potenziamento del tax credit, il sostegno alle coproduzioni internazionali, la salvaguardia e rilancio delle sale cinematografiche e teatrali, il riconoscimento della funzione culturale dei locali di musica live. Vogliamo ampliare e\r\npotenziare l’Art Bonus."
+}
+,{
+  "id": 2687,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Riconoscimento dei diritti dei lavoratori di tutti i settori dei beni e della produzione culturale e\r\nartistica: ammortizzatori sociali, malattie professionali, infortuni sul lavoro, maternità, diritto\r\nalla pensione."
+}
+,{
+  "id": 2688,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2689,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "yellow",
+  "description": "Istituire un portale unico destinato agli operatori turistici, agli alberghi e a chi opera nel settore degli affitti brevi (case vacanze) per le comunicazioni destinate a comuni, regioni, forze dell’ordine e altri enti interessati."
+}
+,{
+  "id": 2690,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2691,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2692,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Ridurre la pressione fiscale in capo alle imprese del settore turistico."
+}
+,{
+  "id": 2693,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma turismo Fratelli d'Italia",
+  "source_slug": "programma-turismo-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Fratelli d’Italia ha l’obiettivo di sviluppare il sistema turistico italiano rigenerando tutte quelle risorse che prima erano degradate o mal utilizzate, incrementando l’artigianato, l’industria creativa , l’innovazione ma\nsoprattutto dando ai territori una guida sicura e efficace dove poter ricevere risposte."
+}
+,{
+  "id": 2694,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2695,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2696,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2697,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "green",
+  "description": "A completare l'offerta formativa, occasioni di confronto nelle quali dialogare sugli scenari del turismo del futuro a partire dai valori chiave del patrimonio storico e culturale italiano: la promozione del turismo, la salvaguardia dell'ambiente e la diffusione delle conoscenze e di una cultura consapevole e responsabile del viaggio grazie ad itinerari chiari che raccolgano anche l'avvicinamento al tessuto produttivo ed agricolo del luogo stesso. É  necessario prevedere la riduzione di oneri fiscali, burocratici e regolamentari per le imprese, anche attraverso una razionalizzazione del quadro normativo. Quasi tutte le imprese del turismo hanno un intrinseco carattere stagionale e, anche al fine di far emergere il lavoro sommerso, si rende imprescindibile un intervento della NASPI e di politiche attive di ricollocamento per far fronte ai mesi di inattività."
+}
+,{
+  "id": 2698,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Non esiste il turismo a una dimensione, esistono invece tante prospettive dell’offerta turistica,\nciascuna delle quali dovrà essere in grado di soddisfare le esigenze differenti di una domanda\nsempre più ampia e variegata. In questo senso, vanno confermati e potenziati tutti gli incentivi, anche di carattere amministrativo, in grado di ampliare la gamma delle esperienze messe a disposizione dell’offerta turistica.\nTurismo sportivo o città d’arte; mare, montagna o laghi; crociere o turismo termale; riscoperta di\nborghi e cammini; vacanze per giovani e parchi tematici; contatto con la natura offerto dall’agriturismo,\ndal turismo all’aria aperta e dai grandi eventi; turismo religioso e il Giubileo 2025, ma\nanche turismo enogastronomico e tour organizzati, sono tante facce di un’unica medaglia.\nNessuna di queste dimensioni deve essere compressa, dimenticata o sottovalutata. Ciascuna di\nesse deve essere posta al centro di un’offerta turistica di qualità, consapevole, al passo con le\nesigenze della domanda. Solo così è possibile garantire un turismo tutto l’anno, ampliando il periodo\ncomplessivo di fruizione, ed evitare gli effetti di over-tourism, soprattutto nelle città d’arte\ne nelle località di maggiore richiamo."
+}
+,{
+  "id": 2699,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Istituzione di una piattaforma per l'incontro tra i bisogni dei turisti e l'offerta del territorio italiano, utile a incrementare la capacità di vendita di prodotti e servizi anche delle PMI agricole e artigiane."
+}
+,{
+  "id": 2700,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "yellow",
+  "description": "Propizieremo il rafforzamento dell'economia privata anche attraverso la internazionalizzazione delle imprese, l'attrazione di investimenti e capitali dall'estero, lo sviluppo del turismo."
+}
+,{
+  "id": 2701,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (NoiM)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Costituzione di reti di impresa del comparto turistico, per la promozione e\ncommercializzazione del settore, anche a livello internazionale. Sostegno al settore\ndello spettacolo e incentivi per l'organizzazione di eventi a livello nazionale."
+}
+,{
+  "id": 2702,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Vogliamo sostenere un Piano nazionale per il recupero e il rilancio dei Borghi italiani, contrastando lo spopolamento delle aree interne e prevedendo: esenzioni fiscali per le attività commerciali nei piccoli comuni; riqualificazione in chiave sostenibile dell’edilizia rurale storica; potenziamento del Piano nazionale Grandi progetti beni culturali; promozione internazionale della Capitale italiana della Cultura. Questo permetterà di arricchire l’offerta di turismo culturale, la promozione di forme di turismo lento in chiave sostenibile, favorendo esperienze di viaggio innovative, come nel caso dei treni storici ad alta panoramicità. Rientra in questa logica anche il potenziamento dell’offerta culturale nelle periferie delle città metropolitane con progetti di inclusione sociale, riequilibrio territoriale e tutela occupazionale e di valorizzazione del patrimonio culturale materiale e immateriale attraverso le arti performative e le arti visive."
+}
+,{
+  "id": 2703,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2704,
+  "category": "Cultura e turismo",
+  "category_id": 11,
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_slug": "sostegno-alle-imprese-turistiche",
+  "subject_id": 101,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2705,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "Incentivare l’affidamento anche a soggetti privati della gestione di siti\r\nculturali (musei, aree archeologiche, ecc) nell’ottica di una diminuzione della spesa\r\ne di una maggiore attrattività e tutela del patrimonio culturale, soprattutto\r\nper le aree attualmente dismesse."
+}
+,{
+  "id": 2706,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2707,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2708,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Intendiamo favorire l’ingresso dei giovani nel mondo del lavoro culturale attraverso una politica di detrazioni fiscali per gli under 40 che puntano a creare nuove realtà imprenditoriali nel comparto. Generare un sistema che tuteli il lavoro delle nuove leve, favorendone le idee, la sperimentazione e l’innovazione tecnologica."
+}
+,{
+  "id": 2709,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Sussidiarietà e nuovo rapporto pubblico-privato soprattutto per permettere\nl’apertura dei beni culturali oggi chiusi al pubblico."
+}
+,{
+  "id": 2710,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Valorizzazione del patrimonio culturale pubblico, attraverso una\r\nmappatura degli interventi necessari sui siti di interesse culturale ed un\r\npiano assunzionale del personale necessario a garantirne la fruibilità\r\nal pubblico."
+}
+,{
+  "id": 2711,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2712,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2713,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "yellow",
+  "description": "Servizio di sorveglianza e guida c/o musei, biblioteche, siti di interesse storico e artistico (non privati) se attualmente privi di presidio e non fruibili al pubblico del tutto o parzialmente."
+}
+,{
+  "id": 2714,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Il MiC non è solo il Ministero per la tutela, la salvaguardia e la valorizzazione del patrimonio, ma deve essere sempre più uno dei principali motori trainanti dell'economia italiana. La Direzione Generale Creatività Contemporanea deve essere dotata di un budget adeguato per sostenere le imprese culturali e creative, motore non solo culturale, ma anche economico del nostro Paese"
+}
+,{
+  "id": 2715,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Piano pubblico di assunzioni per superare il grave sottodimensionamento del ministero dei beni culturali e delle sue istituzioni periferiche"
+}
+,{
+  "id": 2716,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2717,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Riformare le modalità di selezione del personale dei musei per\r\nvalorizzare le nuove professionalità richieste: anche i poli museali\r\nhanno bisogno oggi di figure professionali in grado di portare\r\nall’interno nuove competenze digitali, comunicative e organizzative.\r\nNoi vogliamo modificare le procedure di selezione del personale e\r\npromuovere procedure di concorso in grado di individuare le\r\ncompetenze specifiche richieste dal settore, garantendo maggiore\r\nflessibilità in entrata e in uscita"
+}
+,{
+  "id": 2718,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Vogliamo sostenere il settore dello spettacolo dal vivo e l’industria cinematografica e audiovisiva italiana attraverso il rafforzamento del sistema di finanziamento pubblico dei comparti e forti incentivi per i giovani autori e le nuove produzioni, il potenziamento del tax credit, il sostegno alle coproduzioni internazionali, la salvaguardia e rilancio delle sale cinematografiche e teatrali, il riconoscimento della funzione culturale dei locali di musica live. Vogliamo ampliare e\r\npotenziare l’Art Bonus."
+}
+,{
+  "id": 2719,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Riconoscimento dei diritti dei lavoratori di tutti i settori dei beni e della produzione culturale e\r\nartistica: ammortizzatori sociali, malattie professionali, infortuni sul lavoro, maternità, diritto\r\nalla pensione."
+}
+,{
+  "id": 2720,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8,
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_slug": "sostegno-ai-lavoratori-nel-settore-artisticoculturale",
+  "subject_id": 156,
   "source": "Programma elettorale Vita",
   "source_slug": "programma-elettorale-vita",
   "list": "Vita",

@@ -2625,4 +2625,82 @@
   "subject_id": 98,
   "list_id": ""
 }
+,{
+  "id": 203,
+  "post_id": 149,
+  "url": "https://pagellapolitica.it/fact-checking/chi-ha-introdotto-flat-tax-partite-iva",
+  "post_title": "No, non è stato Salvini a introdurre la flat tax per le partite Iva",
+  "post_subtitle": "«Cinque anni fa non c’era la flat tax per le partite Iva […] Siamo partiti da zero e siamo arrivati a 2 milioni di lavoratori autonomi»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Flat tax",
+  "list": "Lega",
+  "subject_id": 5,
+  "list_id": 2
+}
+,{
+  "id": 204,
+  "post_id": 150,
+  "url": "https://pagellapolitica.it/articoli/trasporti-infrastrutture-confronto-programmi-elezioni-2022",
+  "post_title": "Trasporti e infrastrutture: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle infrastrutture e la mobilità dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Realizzazione delle grandi opere",
+  "list": "",
+  "subject_id": 54,
+  "list_id": ""
+}
+,{
+  "id": 205,
+  "post_id": 150,
+  "url": "https://pagellapolitica.it/articoli/trasporti-infrastrutture-confronto-programmi-elezioni-2022",
+  "post_title": "Trasporti e infrastrutture: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle infrastrutture e la mobilità dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Incentivare il trasporto pubblico",
+  "list": "",
+  "subject_id": 135,
+  "list_id": ""
+}
+,{
+  "id": 206,
+  "post_id": 150,
+  "url": "https://pagellapolitica.it/articoli/trasporti-infrastrutture-confronto-programmi-elezioni-2022",
+  "post_title": "Trasporti e infrastrutture: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle infrastrutture e la mobilità dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Ponte sullo Stretto",
+  "list": "",
+  "subject_id": 53,
+  "list_id": ""
+}
+,{
+  "id": 207,
+  "post_id": 150,
+  "url": "https://pagellapolitica.it/articoli/trasporti-infrastrutture-confronto-programmi-elezioni-2022",
+  "post_title": "Trasporti e infrastrutture: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sulle infrastrutture e la mobilità dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Connessione ad alta velocità",
+  "list": "",
+  "subject_id": 136,
+  "list_id": ""
+}
+,{
+  "id": 208,
+  "post_id": 151,
+  "url": "https://pagellapolitica.it/articoli/ambiente-confronto-programmi-elezioni-2022",
+  "post_title": "Ambiente: i programmi dei partiti a confronto",
+  "post_subtitle": "Abbiamo raccolto le proposte sull’ambiente dei principali schieramenti in vista delle elezioni politiche del 25 settembre, indicando quali sono prive di coperture economiche",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Tutela dell'ambiente e del paesaggio",
+  "list": "",
+  "subject_id": 89,
+  "list_id": ""
+}
 ]

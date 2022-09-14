@@ -965,4 +965,58 @@
   "category": "Istituzioni e giustizia",
   "category_id": 1
 }
+,{
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_id": 154,
+  "category": "Innovazione e tecnologia",
+  "category_id": 10
+}
+,{
+  "subject": "Aumento fondi per la manutenzione dei beni culturali",
+  "subject_id": 151,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Sostegno alle associazioni culturali",
+  "subject_id": 152,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Incentivi per la partecipazione ad attività culturali",
+  "subject_id": 153,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Digitalizzazione del settore culturale",
+  "subject_id": 154,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Valorizzazione delle professionalità culturali",
+  "subject_id": 155,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_id": 156,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Sostegno alle imprese turistiche",
+  "subject_id": 101,
+  "category": "Cultura e turismo",
+  "category_id": 11
+}
+,{
+  "subject": "Sostegno ai lavoratori nel settore artistico-culturale",
+  "subject_id": 156,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8
+}
 ]

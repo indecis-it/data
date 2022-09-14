@@ -57,6 +57,12 @@
   "id": 10,
   "slug": "innovazione-e-tecnologia",
   "name": "Innovazione e tecnologia",
-  "description": "Politiche relative alla transizione digitale e nuove tecnologie"
+  "description": "Politiche relative alla transizione digitale e nuove tecnologie."
+}
+,{
+  "id": 11,
+  "slug": "cultura-e-turismo",
+  "name": "Cultura e turismo",
+  "description": "Valorizzazione del patrimonio culturale e artistico, servizi culturali e turistici."
 }
 ]
