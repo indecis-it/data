@@ -888,7 +888,7 @@
   "category_id": 8
 }
 ,{
-  "subject": "Riforma del funzionamento dell'UE",
+  "subject": "Abolizione diritto di veto nell'UE",
   "subject_id": 141,
   "category": "Esteri e difesa",
   "category_id": 2
@@ -1018,5 +1018,11 @@
   "subject_id": 156,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
+}
+,{
+  "subject": "Maggiore centralità del Parlamento europeo",
+  "subject_id": 191,
+  "category": "Esteri e difesa",
+  "category_id": 2
 }
 ]

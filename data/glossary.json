@@ -1261,8 +1261,8 @@
 }
 ,{
   "id": 141,
-  "subject": "Riforma del funzionamento dell'UE",
-  "slug": "riforma-del-funzionamento-dellue",
+  "subject": "Abolizione diritto di veto nell'UE",
+  "slug": "abolizione-diritto-di-veto-nellue",
   "url": "https://it.wikipedia.org/wiki/Maggioranza_qualificata_nell%27Unione_europea",
   "source": "Wikipedia",
   "title": "Maggioranza qualificata nell'Unione europea",
@@ -1707,6 +1707,15 @@
   "url": "https://it.wikipedia.org/wiki/Diritto_di_voto",
   "source": "Wikipedia",
   "title": "Diritto di voto",
-  "description": "Il diritto di voto è il diritto che assicura a un individuo la possibilità di manifestare la propria volontà durante un'elezione. In molti Stati del mondo è un diritto costituzionale."
+  "description": "Il diritto di voto è il diritto che assicura a un individuo la possibilità di manifestare la propria volontà durante un'elezione. In molti Stati del mondo è un diritto costituzionale. Attualmente in Italia il voto è un diritto di tutti i cittadini con almeno 18 anni d'età. Pertanto, chiunque abbia compiuto la maggiore età può votare sia per la Camera dei Deputati che per il Senato della Repubblica."
+}
+,{
+  "id": 191,
+  "subject": "Maggiore centralità del Parlamento europeo",
+  "slug": "maggiore-centralit-del-parlamento-europeo",
+  "url": "https://it.wikipedia.org/wiki/Parlamento_europeo",
+  "source": "Wikipedia",
+  "title": "Parlamento europeo",
+  "description": "Il Parlamento europeo (anche noto come Europarlamento) è un'istituzione di tipo parlamentare che rappresenta i popoli dell'Unione europea, ed è l'unica istituzione europea ad essere eletta direttamente dai cittadini dell'Unione. Esercita la funzione legislativa dell'Unione europea assieme al Consiglio dell'Unione europea e in alcuni casi stabiliti dai trattati ha il potere di iniziativa legislativa, che generalmente spetta alla Commissione europea."
 }
 ]
