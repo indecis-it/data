@@ -413,4 +413,13 @@
   "list": "Movimento 5 Stelle",
   "list_id": 9
 }
+,{
+  "id": 47,
+  "title": "Tweet Letta 15 settembre 2022",
+  "slug": "tweet-letta-15-settembre-2022",
+  "type": "tweet",
+  "url": "https://twitter.com/EnricoLetta/status/1570135249736339456",
+  "list": "Partito Democratico",
+  "list_id": 5
+}
 ]
