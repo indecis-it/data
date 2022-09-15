@@ -3282,12 +3282,12 @@
   "subject": "Aumento dell'assegno unico universale",
   "subject_slug": "aumento-dellassegno-unico-universale",
   "subject_id": 29,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Incremento assegno unico universale e politiche fiscali\nL'assegno unico universale introdotto ha senza dubbio favorito un sostegno alla\ngenitorialità e un incentivo alla natalità. Naturalmente, è necessario creare servizi alle\nfamiglie che affianchino l’erogazione dell’assegno.\nCome noto, tale misura (legata all’ISEE) assegna una somma variabile per ogni figlio (con un\ntetto massimo di 250 euro); ciò penalizza le famiglie numerose, nelle quali spesso lavorano\nentrambi i genitori.\nOccorre pertanto aumentarne gli importi eliminando il tetto massimo e allargando quindi la\nplatea dei beneficiari. I nuclei familiari con due redditi sarebbero pienamente coinvolti\ndalla misura (incentivando così il lavoro femminile) e si garantirebbero importi di assegno\nunico più alti alle famiglie per i figli fino ai 18 anni di età."
 }
 ,{
   "id": 236,
@@ -3510,8 +3510,8 @@
   "source_slug": "programma-elettorale-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Occorre invertire il processo di riduzione del numero di medici e di infermieri del Servizio\nSanitario Nazionale in rapporto alla popolazione e il progressivo invecchiamento del\npersonale medico e sanitario."
 }
 ,{
   "id": 252,
@@ -3730,12 +3730,12 @@
   "subject": "Aumento degli asili nido",
   "subject_slug": "aumento-degli-asili-nido",
   "subject_id": 48,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "La scuola dell'infanzia va garantita per tutti non solo per il supporto che rappresenta per le\nfamiglie) ma anche per la valenza educativa che studi consolidati hanno dimostrato in\nmaniera univoca:\no nido per il 50% dei bambini entro i prossimi 5 anni, rimborsi per asili nido, pannolini e\nbaby sitter;\no piano di allineamento dei posti negli asili nido immediato al target del 33% in tutte le\nRegioni;\no perequazione del sistema delle rette degli asili comunali."
 }
 ,{
   "id": 268,
@@ -4626,8 +4626,8 @@
   "subject": "Aumento dello stipendio dei docenti",
   "subject_slug": "aumento-dello-stipendio-dei-docenti",
   "subject_id": 60,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
   "endorsement": "green",
@@ -4850,8 +4850,8 @@
   "subject": "Aumento dello stipendio dei docenti",
   "subject_slug": "aumento-dello-stipendio-dei-docenti",
   "subject_id": 60,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
   "endorsement": "green",
@@ -5074,12 +5074,12 @@
   "subject": "Autonomia differenziata",
   "subject_slug": "autonomia-differenziata",
   "subject_id": 70,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "In merito all'autonomia differenziata, la posizione del M5S è chiara: nessuna nuova\nfunzione potrà essere delegata alle Regioni se prima non si siano definiti, con le adeguate\ncoperture, i Livelli Essenziali delle Prestazioni. Dovrà comunque essere il Parlamento a\ndefinire le regole d'ingaggio con una legge quadro che tenga in massima considerazione le\nvarie commissioni parlamentari coinvolte."
 }
 ,{
   "id": 364,
@@ -6418,12 +6418,12 @@
   "subject": "Contributi per l'edilizia scolastica",
   "subject_slug": "contributi-per-ledilizia-scolastica",
   "subject_id": 61,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Bisogna ripensare l’edilizia scolastica, ipotizzando un piano quinquennale di intervento,\nanche con l’obiettivo di contrastare il sovraffollamento delle classi, senza far decrescere\nl’organico anzi rafforzandolo (sia nella componente docente che ATA). Il piano dovrà\nprevedere interventi realizzati con nuovi materiali e nuovi sistemi energetici utilizzando\nper questo, per esempio, i 2,2 miliardi del PNRR e i fondi del RePower EU per costituire\ncomunità energetiche (sfruttando gli oltre 8000 tetti degli istituti scolastici).\nGli edifici scolastici dovrebbero diventare strutture di prossimità, soprattutto nelle grandi\ncittà, dando così la possibilità agli studenti di recarsi a piedi a scuola in tempi contenuti e,\nin caso di necessità, avere a disposizione trasporti dedicati: car sharing che coinvolga\ngruppi di famiglia, bus riservati, valorizzazione delle reti e dei mezzi pubblici e privati.\n"
 }
 ,{
   "id": 460,
@@ -7762,12 +7762,12 @@
   "subject": "Eliminazione del precariato",
   "subject_slug": "eliminazione-del-precariato",
   "subject_id": 65,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": "Contrasto al precariato\nRafforzamento delle misure del decreto dignità per mettere i lavoratori, in particolare i giovani,\nin condizione di sviluppare progetti di vita agevolando i contratti a tempo indeterminato."
+  "endorsement": "green",
+  "description": "Le procedure per assumere il personale docente devono essere sottratte da logiche di\nemergenza (necessità di eliminare il precariato); occorre accelerare le assunzioni dei\nprecari con procedure selettive e rendere più lineare l’ingresso di giovani insegnanti nella\nscuola."
 }
 ,{
   "id": 556,
@@ -8210,12 +8210,12 @@
   "subject": "Favorire la creazione delle comunità energetiche",
   "subject_slug": "favorire-la-creazione-delle-comunit-energetiche",
   "subject_id": 78,
-  "source": "Tweet M5S 9 settembre 2022",
-  "source_slug": "tweet-m5s-9-settembre-2022",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
   "endorsement": "green",
-  "description": "\"Come aiutiamo i cittadini a risparmiare? Con le comunità energetiche.\nIl M5S ha dato modo a tanti cittadini di mettersi insieme per abbattere i costi delle bollette e allo stesso tempo tutelare l’ambiente.\""
+  "description": "Determinanti stanno risultando il “Superbonus” edilizio e le Comunità\nEnergetiche, che meritano di diventare strutturali."
 }
 ,{
   "id": 588,
@@ -10450,12 +10450,12 @@
   "subject": "Investimenti per le politiche sportive",
   "subject_slug": "investimenti-per-le-politiche-sportive",
   "subject_id": 73,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "La sfida della medicina di domani è la prevenzione. Per questo occorre implementare\nprogrammi e iniziative di prevenzione primaria, di promozione di stili di vita salutari\n(educazione alimentare, diffusione dello sport di base e dilettantistico e aumento\ndell’attività sportiva nelle scuole), oltre che di prevenzione secondaria, attraverso\nprogrammi e attività di screening, con particolare attenzione al rischio oncologico e alle\nmalattie croniche."
 }
 ,{
   "id": 748,
@@ -11570,12 +11570,12 @@
   "subject": "Libri di testo gratuiti",
   "subject_slug": "libri-di-testo-gratuiti",
   "subject_id": 79,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "yellow",
+  "description": "Incentivare le case editrici a realizzare versioni digitali dei testi necessari allo studio e alla\nformazione e fornire agli istituti i formati eBook dei testi scolastici ed universitari\nattraverso la formula del prestito digitale.\nBisognerebbe concedere un contributo ad ogni studente per l’acquisto di dispositivi ereader.\nOccorrono, inoltre, investimenti per dotare le biblioteche universitarie di testi digitali in\nversione ebook dei libri di esame. L’ebook potrebbe rappresentare una soluzione per tutti\nquegli studenti e studentesse in difficoltà nell’acquisto dei testi.\nQuesta proposta si inserisce perfettamente in un contesto di digitalizzazione, di diritto allo\nstudio, risparmio energetico e tutela dell’ambiente, inoltre rappresenta uno strumento\nnecessario a chi è portatore di disabilità che impedisce la fruibilità di testi cartacei."
 }
 ,{
   "id": 828,
@@ -12466,12 +12466,12 @@
   "subject": "Sostegno ai disabili nelle scuole",
   "subject_slug": "sostegno-ai-disabili-nelle-scuole",
   "subject_id": 74,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Tutelare le forme di apprendimento scolastico per tutti gli ordini e gradi scolastici\nincluse le Università, con programmi specifici e personale di alto profilo\nprofessionale che permetta l’inclusione delle persone con disabilità."
 }
 ,{
   "id": 892,
@@ -13138,12 +13138,12 @@
   "subject": "Mense scolastiche gratuite",
   "subject_slug": "mense-scolastiche-gratuite",
   "subject_id": 77,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "yellow",
+  "description": "Oltre all’efficace implementazione dell’assegno unico, occorre potenziare tutti quei servizi\n- ancora purtroppo drammaticamente carenti soprattutto in alcune aree del Paese - che\nconsentano di conciliare lavoro e cura dei figli, a partire dal potenziamento dei servizi\ndell’infanzia (asili nido, scuola dell’infanzia, tempo pieno nella scuola primaria e servizi\nmensa di qualità ed economicamente sostenibili per tutte le famiglie)."
 }
 ,{
   "id": 940,
@@ -15602,12 +15602,12 @@
   "subject": "Lavoro agile",
   "subject_slug": "lavoro-agile",
   "subject_id": 55,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Il massiccio ricorso al lavoro agile dovuto alle restrizioni sanitarie ha evidenziato una nuova\nnormalità del lavoro che deve essere messa a sistema attraverso un intervento regolativo\nnel lavoro pubblico e privato. Lavoro agile non vuol dire lavoro domestico, ma ricerca di\nnuovi equilibri tra presenza e distanza, assenza di vincoli orari e spaziali e\nun’organizzazione per obiettivi, una modalità che aiuta il lavoratore a conciliare i tempi di\nvita e lavoro e, al contempo, a favorire la crescita della sua produttività. Il ricorso allo smart\nworking è ancora più conveniente e utile per i giovani che possono accettare un lavoro\ndistante dal loro domicilio e risparmiare i costi dell’affitto o che possono decidere di\nspostarsi per rivitalizzare i piccoli borghi e piccoli comuni italiani che stanno andando\nincontro a fenomeni di spopolamento."
 }
 ,{
   "id": 1116,
@@ -18290,12 +18290,12 @@
   "subject": "Rigassificatori",
   "subject_slug": "rigassificatori",
   "subject_id": 17,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "red",
+  "description": "Il più forte motivo di preoccupazione, in questo momento, è la nostra forte dipendenza dal\ngas russo. A febbraio 2022 il gas importato dalla Russia era circa il 40% del fabbisogno\nnazionale e questo ha indotto il Governo a interventi straordinari, quali la riattivazione di\nvecchie centrali a carbone e di rigassificatori, oltreché il rafforzamento dell’intensità di\nestrazione da tradizionali giacimenti fossili del nostro patrimonio naturale.\nSono operazioni che però segnano un brusco ritorno al passato, senza nessuna visione\naperta al futuro. In questo modo ci illudiamo di “tamponare” un fabbisogno immediato, ma\nfiniremo per buttare via ingenti risorse finanziarie che invece si rivelerebbero \npreziosissime per traghettarci, con maggiore rapidità, verso un futuro interamente\ndisegnato sulla sostenibilità energetica e ambientale."
 }
 ,{
   "id": 1308,
@@ -18962,12 +18962,12 @@
   "subject": "Scuola infanzia gratuita",
   "subject_slug": "scuola-infanzia-gratuita",
   "subject_id": 85,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "Ci impegniamo con la massima determinazione a tenere aperte le scuole anche con un\nnumero ridotto di alunni e a garantire la gratuità dell’intero percorso scolastico (da 0 a 18\nanni)."
 }
 ,{
   "id": 1356,
@@ -20306,12 +20306,12 @@
   "subject": "Sostegno per gli universitari fuorisede",
   "subject_slug": "sostegno-per-gli-universitari-fuorisede",
   "subject_id": 75,
-  "source": "Programma elettorale M5S",
-  "source_slug": "programma-elettorale-m5s",
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
   "list": "Movimento 5 Stelle",
   "list_id": 9,
-  "endorsement": "grey",
-  "description": ""
+  "endorsement": "green",
+  "description": "L’accesso all’università in Italia per chi non ha il sostegno della famiglia rimane\nproblematico. Le tasse universitarie italiane sono divenute sempre più impegnative per le\nfamiglie italiane, soprattutto se si pensa che solo una parte minoritaria (il 14%) degli\nstudenti e delle studentesse ha accesso a una borsa di studio. Anche gli importi minimi\nsono inadeguati a un sostentamento dignitoso: 1.981 euro per gli studenti in sede, 2.898\neuro per i pendolari e 5.257 per i fuorisede. Inoltre, per ciascuno degli ultimi tre anni\nmediamente 7.000 studenti meritevoli, i cosiddetti “idonei senza borsa” non hanno ricevuto\nalcun supporto semplicemente perché “erano terminati i fondi”. Incrementare la\ndisponibilità finanziaria per il settore universitario consente, tra l’altro, di estendere la “notax area”, cioè la platea di coloro che sono esonerati dalle tasse universitarie."
 }
 ,{
   "id": 1452,
