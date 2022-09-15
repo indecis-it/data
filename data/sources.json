@@ -404,4 +404,13 @@
   "list": "Movimento 5 Stelle",
   "list_id": 9
 }
+,{
+  "id": 46,
+  "title": "Programma esteso M5S",
+  "slug": "programma-esteso-m5s",
+  "type": "programma",
+  "url": "https://www.movimento5stelle.eu/wp-content/uploads/2022/09/Programma-M5S-completo-2022-09-12.pdf",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9
+}
 ]
