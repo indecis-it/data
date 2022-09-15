@@ -2703,4 +2703,17 @@
   "subject_id": 89,
   "list_id": ""
 }
+,{
+  "id": 209,
+  "post_id": 152,
+  "url": "https://www.pagellapolitica.it/fact-checking/calenda-spesa-pensioni-sanita-istruzione",
+  "post_title": "È vero che la spesa in pensioni dell’Italia vale il doppio di quelle in sanità e istruzione messe insieme?",
+  "post_subtitle": "«In Italia la spesa pensionistica, tra le più alte d’Europa, vale insieme l’istruzione e la sanità: il doppio»",
+  "type": "articolo",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle pensioni",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": 12,
+  "list_id": 10
+}
 ]
