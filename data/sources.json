@@ -422,4 +422,13 @@
   "list": "Partito Democratico",
   "list_id": 5
 }
+,{
+  "id": 48,
+  "title": "Comunicato Unione Popolare 14 settembre 2022",
+  "slug": "comunicato-unione-popolare-14-settembre-2022",
+  "type": "comunicato",
+  "url": "https://unionepopolare.blog/2022/09/14/per-lambiente-e-la-democrazia-economica/",
+  "list": "Unione Popolare",
+  "list_id": 13
+}
 ]
