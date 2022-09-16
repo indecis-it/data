@@ -1980,12 +1980,12 @@
   "subject": "Aiuti militari all'Ucraina",
   "subject_slug": "aiuti-militari-allucraina",
   "subject_id": 8,
-  "source": "Programma elettorale PD",
-  "source_slug": "programma-elettorale-pd",
+  "source": "Dichiarazione Letta 15 settembre 2022",
+  "source_slug": "dichiarazione-letta-15-settembre-2022",
   "list": "Partito Democratico",
   "list_id": 5,
-  "endorsement": "yellow",
-  "description": "Deve inoltre continuare il sostegno all’Ucraina, insieme all’iniziativa politico-diplomatica congiunta di Germania, Francia e Italia per la fine dell’aggressione e l’avvio di negoziati di pace."
+  "endorsement": "green",
+  "description": "\"Domanda: Continuare a mandare le armi [all'Ucraina], sì o no?\nLetta: Finché continua l'aggressione russa sì.\""
 }
 ,{
   "id": 143,
