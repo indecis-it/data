@@ -440,4 +440,13 @@
   "list": "Partito Democratico",
   "list_id": 5
 }
+,{
+  "id": 50,
+  "title": "Dichiarazione Salvini 18 settembre 2022",
+  "slug": "dichiarazione-salvini-18-settembre-2022",
+  "type": "dichiarazione",
+  "url": "https://www.facebook.com/watch/?v=1680261209033881",
+  "list": "Lega",
+  "list_id": 2
+}
 ]
