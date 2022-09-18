@@ -1558,15 +1558,6 @@
 }
 ,{
   "id": 174,
-  "subject": "Liberalizzazione delle concessioni balneari e delle licenze taxi",
-  "slug": "liberalizzazione-delle-concessioni-balneari-e-delle-licenze-taxi",
-  "url": "",
-  "source": "",
-  "title": "",
-  "description": ""
-}
-,{
-  "id": 175,
   "subject": "Vendita di ILVA, ITA e MPS",
   "slug": "vendita-di-ilva-ita-e-mps",
   "url": "",
@@ -1575,7 +1566,7 @@
   "description": ""
 }
 ,{
-  "id": 176,
+  "id": 175,
   "subject": "Miglioramento della rete idrica",
   "slug": "miglioramento-della-rete-idrica",
   "url": "",
@@ -1584,7 +1575,7 @@
   "description": ""
 }
 ,{
-  "id": 177,
+  "id": 176,
   "subject": "Protezione del territorio da rischi idro/geologici, creazione di bacini di stoccaggio",
   "slug": "protezione-del-territorio-da-rischi-idrogeologici-creazione-di-bacini-di-stoccaggio",
   "url": "",
@@ -1593,7 +1584,7 @@
   "description": ""
 }
 ,{
-  "id": 178,
+  "id": 177,
   "subject": "Bilancio unico federale europeo",
   "slug": "bilancio-unico-federale-europeo",
   "url": "",
@@ -1602,7 +1593,7 @@
   "description": ""
 }
 ,{
-  "id": 179,
+  "id": 178,
   "subject": "Tasse a livello federale europeo",
   "slug": "tasse-a-livello-federale-europeo",
   "url": "",
@@ -1611,7 +1602,7 @@
   "description": ""
 }
 ,{
-  "id": 180,
+  "id": 179,
   "subject": "Stati uniti d'europa",
   "slug": "stati-uniti-deuropa",
   "url": "",
@@ -1620,7 +1611,7 @@
   "description": ""
 }
 ,{
-  "id": 181,
+  "id": 180,
   "subject": "Riforma della dirigenza pubblica",
   "slug": "riforma-della-dirigenza-pubblica",
   "url": "",
@@ -1629,7 +1620,7 @@
   "description": ""
 }
 ,{
-  "id": 182,
+  "id": 181,
   "subject": "Incentivi per l'acquisto di auto elettriche elettriche pure e/o ibride plug-in",
   "slug": "incentivi-per-lacquisto-di-auto-elettriche-elettriche-pure-eo-ibride-plugin",
   "url": "",
@@ -1638,7 +1629,7 @@
   "description": ""
 }
 ,{
-  "id": 183,
+  "id": 182,
   "subject": "Divieto veicoli a combustione interna",
   "slug": "divieto-veicoli-a-combustione-interna",
   "url": "",
@@ -1647,7 +1638,7 @@
   "description": ""
 }
 ,{
-  "id": 184,
+  "id": 183,
   "subject": "Potenziamento della rete ferroviaria",
   "slug": "potenziamento-della-rete-ferroviaria",
   "url": "",
@@ -1656,7 +1647,7 @@
   "description": ""
 }
 ,{
-  "id": 185,
+  "id": 184,
   "subject": "Maggiori connessioni ferroviare con Stati confinanti",
   "slug": "maggiori-connessioni-ferroviare-con-stati-confinanti",
   "url": "",
@@ -1665,7 +1656,7 @@
   "description": ""
 }
 ,{
-  "id": 186,
+  "id": 185,
   "subject": "Spesa pubblica per l'infrastruttura di ricarica delle auto elettriche",
   "slug": "spesa-pubblica-per-linfrastruttura-di-ricarica-delle-auto-elettriche",
   "url": "",
@@ -1674,7 +1665,7 @@
   "description": ""
 }
 ,{
-  "id": 187,
+  "id": 186,
   "subject": "Politiche per attrarre la produzione di batterie nel nostro Paese",
   "slug": "politiche-per-attrarre-la-produzione-di-batterie-nel-nostro-paese",
   "url": "",
@@ -1683,7 +1674,7 @@
   "description": ""
 }
 ,{
-  "id": 188,
+  "id": 187,
   "subject": "Incentivo all'utilizzo di car sharing and bike sharing",
   "slug": "incentivo-allutilizzo-di-car-sharing-and-bike-sharing",
   "url": "",
@@ -1692,7 +1683,7 @@
   "description": ""
 }
 ,{
-  "id": 189,
+  "id": 188,
   "subject": "Riconversione dell'industria di assemblaggio auto/componentistica del mondo auto tradizionale per il futuro elettrico",
   "slug": "riconversione-dellindustria-di-assemblaggio-autocomponentistica-del-mondo-auto-tradizionale-per-il-futuro-elettrico",
   "url": "",
@@ -1701,7 +1692,7 @@
   "description": ""
 }
 ,{
-  "id": 190,
+  "id": 189,
   "subject": "Estensione del diritto di voto ai sedicenni",
   "slug": "estensione-del-diritto-di-voto-ai-sedicenni",
   "url": "https://it.wikipedia.org/wiki/Diritto_di_voto",
@@ -1710,12 +1701,30 @@
   "description": "Il diritto di voto è il diritto che assicura a un individuo la possibilità di manifestare la propria volontà durante un'elezione. In molti Stati del mondo è un diritto costituzionale. Attualmente in Italia il voto è un diritto di tutti i cittadini con almeno 18 anni d'età. Pertanto, chiunque abbia compiuto la maggiore età può votare sia per la Camera dei Deputati che per il Senato della Repubblica."
 }
 ,{
-  "id": 191,
+  "id": 190,
   "subject": "Maggiore centralità del Parlamento europeo",
   "slug": "maggiore-centralit-del-parlamento-europeo",
   "url": "https://it.wikipedia.org/wiki/Parlamento_europeo",
   "source": "Wikipedia",
   "title": "Parlamento europeo",
   "description": "Il Parlamento europeo (anche noto come Europarlamento) è un'istituzione di tipo parlamentare che rappresenta i popoli dell'Unione europea, ed è l'unica istituzione europea ad essere eletta direttamente dai cittadini dell'Unione. Esercita la funzione legislativa dell'Unione europea assieme al Consiglio dell'Unione europea e in alcuni casi stabiliti dai trattati ha il potere di iniziativa legislativa, che generalmente spetta alla Commissione europea."
+}
+,{
+  "id": 191,
+  "subject": "Riforma delle concessioni balneari",
+  "slug": "riforma-delle-concessioni-balneari",
+  "url": "",
+  "source": "",
+  "title": "",
+  "description": ""
+}
+,{
+  "id": 192,
+  "subject": "Liberalizzazione del trasporto pubblico non di linea",
+  "slug": "liberalizzazione-del-trasporto-pubblico-non-di-linea",
+  "url": "",
+  "source": "",
+  "title": "",
+  "description": ""
 }
 ]
