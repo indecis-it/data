@@ -1031,4 +1031,28 @@
   "category": "Diritti civili e bioetica",
   "category_id": 9
 }
+,{
+  "subject": "Riforma delle concessioni balneari",
+  "subject_id": 191,
+  "category": "Economia e fisco",
+  "category_id": 4
+}
+,{
+  "subject": "Liberalizzazione del trasporto pubblico non di linea",
+  "subject_id": 192,
+  "category": "Economia e fisco",
+  "category_id": 4
+}
+,{
+  "subject": "Riforma delle concessioni balneari",
+  "subject_id": 191,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8
+}
+,{
+  "subject": "Liberalizzazione del trasporto pubblico non di linea",
+  "subject_id": 192,
+  "category": "Lavoro e politiche sociali",
+  "category_id": 8
+}
 ]
