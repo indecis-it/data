@@ -39500,12 +39500,12 @@
   "subject": "Miglioramento della rete idrica",
   "subject_slug": "miglioramento-della-rete-idrica",
   "subject_id": 175,
-  "source": "Accordo quadro di programma per un Governo di centrodestra (FI)",
-  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-fi",
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
   "list": "Forza Italia",
   "list_id": 3,
   "endorsement": "green",
-  "description": "Piano straordinario per la tutela e la salvaguardia della qualità delle acque\nmarittime e interne ed efficientamento delle reti idriche per limitare il fenomeno\ndella dispersione delle acque"
+  "description": "Interventi strutturali per la manutenzione e il potenziamento del\nsistema idrico integrato."
 }
 ,{
   "id": 2823,
@@ -39603,7 +39603,7 @@
   "list": "Noi moderati",
   "list_id": 4,
   "endorsement": "green",
-  "description": "Piano straordinario per la tutela e la salvaguardia della qualità delle acque\nmarittime e interne ed efficientamento delle reti idriche per limitare il fenomeno\ndella dispersione delle acque"
+  "description": "Piano straordinario per la tutela e la salvaguardia della qualità delle acque\nmarittime e interne ed efficientamento delle reti idriche per limitare il fenomeno\ndella dispersione delle acque."
 }
 ,{
   "id": 2830,
@@ -39640,6 +39640,230 @@
   "subject": "Miglioramento della rete idrica",
   "subject_slug": "miglioramento-della-rete-idrica",
   "subject_id": 175,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2833,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "yellow",
+  "description": "Non consentire più alcun condono sulle difformità edilizie (quindi in\ncontrasto con le vigenti norme urbanistiche), impattanti per il territorio, contrastando\ncosì, in maniera netta, il consumo di suolo e prevenendo il dissesto idrogeologico;"
+}
+,{
+  "id": 2834,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2835,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "L’Italia è uno dei punti caldi della crisi climatica globale e dei suoi effetti. L’estate 2022 ci ha mostrato impatti crescenti sotto forma di ondate di calore, siccità prolungate e collassi glaciali. Diversi incendi hanno già colpito i boschi italiani, minacciando la sicurezza delle comunità. Gli eventi estremi che colpiscono le foreste minacciano non solo la loro stabilità ecologica, ma soprattutto i benefici che offrono alla società, come la mitigazione climatica, il contrasto al dissesto idrogeologico, la fornitura di materiali rinnovabili, la regolazione della qualità dell’acqua e dell’aria, il benessere fisico e spirituale. Pertanto proponiamo di: Incrementare e finanziare la pianificazione forestale e la certificazione di gestione sostenibile, investire nell’adattamento delle foreste agli stress climatici e nella prevenzione dei danni alle foreste dovuti agli incendi e agli eventi climatici estremi, che riducono o interrompono i benefici che le foreste forniscono alla società, progettare il ripristino delle foreste danneggiate; formare professionisti e tecnici sulle misure da attuare; lottare contro l’erosione e il dissesto idrogeologico nei bacini idrografici forestali e tutelare le foreste che proteggono e alimentano le risorse idriche; dare attuazione al collegato ambientale del 2015 e avviare forme di remunerazione economica per i servizi ecosistemici di regolazione delle foreste. Promuovere la connettività ecologica e funzionale dei paesaggi agrari e forestali a scala nazionale; rilanciare la dignità degli operatori forestali per la cura del territorio. Supportare l’impianto e la cura degli alberi nelle aree urbane (non solo città metropolitane); riattivare la filiera nazionale del legno per diminuire la dipendenza dalle importazioni e evitare di delocalizzare impatti negativi sulle foreste di altri Paesi; sostenere filiere produttive ad elevato valore aggiunto nel settore della bioeconomia forestale (tessili, medicinali, chimiche); incentivare l’impiego di legno locale e l’uso “a cascata” del legno, privilegiando gli impieghi a lunga durata come quelli nel settore edilizio e strutturale."
+}
+,{
+  "id": 2836,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Approvare un piano per la gestione del dissesto idrogeologico e aumentare gli investimenti Siamo tra i primi paesi al Mondo per danni causati dal dissesto idrogeologico, e impieghiamo in media circa 3,5 miliardi l'anno dal 1945 per contrastare i dissesti. Oltre alla redazione di un appo- sito piano e di un framework normativo per il cambiamento climatico, riteniamo quindi necessario aumentare gli investimenti in prevenzione e in infrastrutture di contenimento. Inoltre, bisogna rendere obbligatoria l'assicurazione contro i danni da calamità naturali (oggi solo il 2% delle abi- tazioni ne sono coperte). Infine, risulta altresì necessario ripristinare l'unità di missione contro il dissesto idrogeologico."
+}
+,{
+  "id": 2837,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "green",
+  "description": "Programmare e realizzare opere e interventi in grado di affrontare e\nrisolvere importanti emergenze come quelle ambientali, il dissesto\nidrogeologico, la siccità."
+}
+,{
+  "id": 2838,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Realizzazione del “piano dighe” e del piano strategico contro il dissesto\nidrogeologico e la fragilità del territorio per passare da una politica\ndell’emergenza ad un attento programma di prevenzione e di governo dei\nprocessi di degrado."
+}
+,{
+  "id": 2839,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2840,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2841,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "green",
+  "description": "A livello Regionale vanno istituite apposite Cabine di Regia sul dissesto\nIdrogeologico, che affianchino operativamente e programmaticamente gli eventuali\ncommissari contro il dissesto. Lo scopo è programmare e attuare gli interventi di messa\nin sicurezza del territorio avvalendosi anche dei fondi messi a disposizione degli Accordi\ndi Programma, avviare un sistema articolato di ricognizione del territorio e presidio\navvalendosi anche dell'attività dei consorzi di bonifica, coordinandone il lavoro.\nIstituzione di Uffici Geologici Comunali, messi tra di loro in rete e in stretta\nconnessione, coordinati dalla Cabina di Regia Regionale, al fine di avviare il monitoraggio\ndel territorio e supportare gli uffici tecnici dei comuni nella programmazione e\nattuazione degli interventi di mitigazione del rischio idrogeologico a scala locale, nella\npianificazione urbanistica.\nDefinizione di una scala di priorità degli interventi:\nInterventi urgenti di mitigazione del rischio idrogeologico, attuati prevalentemente con\ninterventi strutturali;\ninterventi di difesa del suolo attuati prioritariamente con interventi non strutturali,\nmanutenzioni e in ultima istanza con interventi strutturali, come peraltro rileva anche la direttiva europea sulla gestione del rischio alluvioni."
+}
+,{
+  "id": 2842,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "green",
+  "description": "Destinare maggiori risorse per interventi per la prevenzione del dissesto idrogeologico (rifacimento argini di fiumi, prevenzione erosione zone costiere, prevenzione frane,\nsmottamenti, incendi) e l’ampliamento delle reti idriche e per la riduzione dello spreco\nd’acqua."
+}
+,{
+  "id": 2843,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Nel febbraio 2019 è stato varato dal governo Conte 1 un Piano nazionale contro il dissesto\nidrogeologico, per la messa in sicurezza del territorio e per opere di prevenzione del rischio\n(\"ProteggItalia\"). Serve dare attuazione agli interventi strategici per la tutela del territorio e\ndell’ambiente.\n\nBisogna, inoltre, defiscalizzare la trasformazione dei boschi cedui in boschi di alto fusto\nnelle aree collinari e montane per favorire il controllo del dissesto idrogeologico, la\nregimazione delle acque e la biodiversità animale e vegetale."
+}
+,{
+  "id": 2844,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2845,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "green",
+  "description": "Investire nella prevenzione del dissesto idrogeologico: vogliamo\naumentare gli investimenti rivolti alla messa in sicurezza dei territori\nsotto il profilo del rischio idrogeologico ricorrendo alle modalità\ncommissariali per garantire lo svolgimento dei lavori in velocità."
+}
+,{
+  "id": 2846,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Approveremo una legge sul consumo di suolo e introdurremo una serie di interventi per la difesa dell'uso del suolo agricolo, con un Piano nazionale per l'acqua, la siccità e il dissesto idrogeologico che metta al centro la costruzione e dislocazione strategica territoriale di nuovi invasi e investimenti volti a ridurre della dispersione idrica."
+}
+,{
+  "id": 2847,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "green",
+  "description": "Finanziare invece opere pubbliche di cura e messa in sicurezza del territorio nazionale, da un\npunto di vista idrogeologico, della rigenerazione urbana, dei paesi e borghi, degli edifici\npubblici e privati e soprattutto dell’immenso patrimonio artistico-culturale.\n"
+}
+,{
+  "id": 2848,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
+  "subject_slug": "investimenti-nella-prevenzione-del-dissesto-idrogeologico",
+  "subject_id": 176,
   "source": "Programma elettorale Vita",
   "source_slug": "programma-elettorale-vita",
   "list": "Vita",
