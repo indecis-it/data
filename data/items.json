@@ -39871,4 +39871,228 @@
   "endorsement": "grey",
   "description": ""
 }
+,{
+  "id": 2849,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "green",
+  "description": "Garantire concretamente il diritto di voto anche ai lavoratori e agli studenti cd. fuori sede – che attualmente sono circa cinque milioni di italiani – innanzitutto prevedendo la possibilità che gli stessi possano votare per i candidati dei collegi nei quali si trovano, in armonia con quanto già previsto dalla normativa vigente in determinate circostanze, tra le quali quelle che riguardano i militari, i marittimi e i degenti in ospedali e case di cura."
+}
+,{
+  "id": 2850,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2851,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma giovani AVS",
+  "source_slug": "programma-giovani-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Crediamo non si possa più aspettare, e vogliamo urgentemente l’adozione di un disegno di legge che preveda la possibilità di esercitare il diritto di voto in un comune diverso da quello di residenza, e la sperimentazione del voto elettronico, in modo così da consentire a studenti, studentesse, giovani lavoratori e lavoratrici di risparmiare il tempo degli spostamenti e il costo dei viaggi, nonché ridurre superflue procedure burocratiche."
+}
+,{
+  "id": 2852,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "green",
+  "description": "Proponiamo che venga consentito l’esercizio del diritto di voto da parte dei cittadini domiciliati, per motivi di studio universitario o di lavoro, fuori della regione di residenza."
+}
+,{
+  "id": 2853,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2854,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "green",
+  "description": "Garanzia del diritto di voto ai fuori sede."
+}
+,{
+  "id": 2855,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "green",
+  "description": "Molto spesso lavoratori e studenti sono impossibilitati ad esercitare i loro diritti politici, poiché non possono votare, trovandosi in altre città rispetto a quella di residenza. Si potrebbe favorire il voto presso il Tribunale locale della città in cui si trovano temporaneamente per motivi di studio, lavoro o salute. E nel contempo accelerare la sperimentazione in ambito di voto della tecnologia blockchain garantendo trasparenza ed immutabilità dei dati."
+}
+,{
+  "id": 2856,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2857,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2858,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2859,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma esteso M5S",
+  "source_slug": "programma-esteso-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Per tutti questi motivi il M5S nel corso della legislatura si è fatto promotore di una\nserie di proposte di legge sul tema, l’ultima elaborata dai costituzionalisti Roberto Bin\ne Salvatore Curreri e formulata su impulso di un comitato di ragazzi calabresi, il\nCollettivo Peppe Valarioti (A.C. n. 3007), ma intendiamo anche dare seguito alle\nproposte avanzate dalla Commissione sull’astensionismo istituita dal Ministero per i\nrapporti col parlamento su impulso del M5s, introducendo il cosiddetto voto\nanticipato presidiato per tutti i cittadini, senza che ne facciano richiesta, munendoli\ndi certificato elettorale digitale e accorpando in un’unica tornata elettorale tutte le\nelezioni per i rinnovi annui dei consigli elettivi.\nIn parallelo occorre dare seguito alla simulazione del voto elettronico già finanziata\nnella legge di bilancio del 2020 da un nostro emendamento."
+}
+,{
+  "id": 2860,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2861,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Accordo quadro di programma per un Governo di centrodestra (NoiM)",
+  "source_slug": "accordo-quadro-di-programma-per-un-governo-di-centrodestra-noim",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2862,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "green",
+  "description": "Rafforzeremo la partecipazione delle ragazze e dei ragazzi alla vita politica del Paese, abbassando l'età del voto a 16 anni e istituendo una nuova legge per il voto fuorisede, rispettando i principi di integrità, segretezza e libertà del voto."
+}
+,{
+  "id": 2863,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2864,
+  "category": "Istituzioni e giustizia",
+  "category_id": 1,
+  "subject": "Voto per i fuorisede",
+  "subject_slug": "voto-per-i-fuorisede",
+  "subject_id": 45,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
 ]
