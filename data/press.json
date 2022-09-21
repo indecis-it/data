@@ -4315,4 +4315,17 @@
   "subject_id": 86,
   "list_id": ""
 }
+,{
+  "id": 333,
+  "post_id": 165,
+  "url": "https://pagellapolitica.it/fact-checking/fratelli-italia-spese-difesa-programma",
+  "post_title": "Meloni sbaglia: Fratelli d’Italia non propone più spese in difesa dal 2013",
+  "post_subtitle": "«La maggiore spesa in difesa ce l’ho nel programma dal 2013»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Aumento delle spese militari",
+  "list": "Fratelli d'Italia",
+  "subject_id": 98,
+  "list_id": 1
+}
 ]
