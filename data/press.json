@@ -4328,4 +4328,56 @@
   "subject_id": 98,
   "list_id": 1
 }
+,{
+  "id": 334,
+  "post_id": 166,
+  "url": "https://pagellapolitica.it/fact-checking/emissioni-co2-jet-privato-renzi",
+  "post_title": "Conte esagera di sei zero le emissioni di CO2 del jet di Renzi",
+  "post_subtitle": "«Il jet privato di Renzi emette 4 milioni e 800 mila tonnellate di CO2 per una tratta soltanto»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "",
+  "list": "Movimento 5 Stelle",
+  "subject_id": "",
+  "list_id": 9
+}
+,{
+  "id": 335,
+  "post_id": 166,
+  "url": "https://pagellapolitica.it/fact-checking/emissioni-co2-jet-privato-renzi",
+  "post_title": "Conte esagera di sei zero le emissioni di CO2 del jet di Renzi",
+  "post_subtitle": "«Il jet privato di Renzi emette 4 milioni e 800 mila tonnellate di CO2 per una tratta soltanto»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": "",
+  "list_id": 10
+}
+,{
+  "id": 336,
+  "post_id": 167,
+  "url": "https://pagellapolitica.it/fact-checking/aborto-numero-obiettori",
+  "post_title": "Circa sette ginecologi su dieci in Italia sono obiettori di coscienza",
+  "post_subtitle": "«In Italia sette ginecologi su dieci sono obiettori»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Diritto all'aborto",
+  "list": "Partito Democratico",
+  "subject_id": 46,
+  "list_id": 5
+}
+,{
+  "id": 337,
+  "post_id": 168,
+  "url": "https://pagellapolitica.it/fact-checking/quanti-studenti-fuorisede-italia",
+  "post_title": "No, gli studenti fuorisede in Italia non sono 5 milioni",
+  "post_subtitle": "«In Italia ci sono 5 milioni di studenti fuorisede»",
+  "type": "fact-checking",
+  "source": "Pagella Politica",
+  "subject": "Voto per i fuorisede",
+  "list": "Azione-Italia Viva-Calenda",
+  "subject_id": 45,
+  "list_id": 10
+}
 ]
