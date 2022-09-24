@@ -40095,4 +40095,228 @@
   "endorsement": "grey",
   "description": ""
 }
+,{
+  "id": 2865,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale +Europa",
+  "source_slug": "programma-elettorale-europa",
+  "list": "+Europa",
+  "list_id": 7,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2866,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Alternativa Per l'Italia",
+  "source_slug": "programma-elettorale-alternativa-per-litalia",
+  "list": "Alternativa Per l'Italia",
+  "list_id": 15,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2867,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale AVS",
+  "source_slug": "programma-elettorale-avs",
+  "list": "Alleanza Verdi e Sinistra",
+  "list_id": 6,
+  "endorsement": "green",
+  "description": "Crediamo inoltre che sia necessario adottare al più presto l'abolizione della caccia."
+}
+,{
+  "id": 2868,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Azione Italia Viva",
+  "source_slug": "programma-elettorale-azione-italia-viva",
+  "list": "Azione-Italia Viva-Calenda",
+  "list_id": 10,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2869,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Fratelli d'Italia",
+  "source_slug": "programma-elettorale-fratelli-ditalia",
+  "list": "Fratelli d'Italia",
+  "list_id": 1,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2870,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Forza Italia",
+  "source_slug": "programma-elettorale-forza-italia",
+  "list": "Forza Italia",
+  "list_id": 3,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2871,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Impegno Civico",
+  "source_slug": "programma-elettorale-impegno-civico",
+  "list": "Impegno Civico",
+  "list_id": 8,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2872,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Italia Sovrana e Popolare",
+  "source_slug": "programma-elettorale-italia-sovrana-e-popolare",
+  "list": "Italia Sovrana e Popolare",
+  "list_id": 12,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2873,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Italexit",
+  "source_slug": "programma-elettorale-italexit",
+  "list": "Italexit",
+  "list_id": 11,
+  "endorsement": "yellow",
+  "description": "Chiediamo che la caccia sia sospesa nelle zone colpite da calamità naturali e incendi che provocano il depauperamento della fauna e della flora almeno fino a che quegli stessi territori siano tornati alla normalità. che la caccia sia sospesa nelle zone colpite da calamità naturali e incendi che provocano il depauperamento della fauna e della flora almeno fino a che quegli stessi territori siano tornati alla normalità."
+}
+,{
+  "id": 2874,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Lega",
+  "source_slug": "programma-elettorale-lega",
+  "list": "Lega",
+  "list_id": 2,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2875,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale M5S",
+  "source_slug": "programma-elettorale-m5s",
+  "list": "Movimento 5 Stelle",
+  "list_id": 9,
+  "endorsement": "green",
+  "description": "Progressiva abolizione della caccia a partire dal divieto di accesso al terreni privati, contrasto al bracconaggio."
+}
+,{
+  "id": 2876,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Noi di Centro-Europeisti",
+  "source_slug": "programma-elettorale-noi-di-centroeuropeisti",
+  "list": "Noi Di Centro-Europeisti",
+  "list_id": 16,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2877,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Noi Moderati",
+  "source_slug": "programma-elettorale-noi-moderati",
+  "list": "Noi moderati",
+  "list_id": 4,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2878,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale PD",
+  "source_slug": "programma-elettorale-pd",
+  "list": "Partito Democratico",
+  "list_id": 5,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2879,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Unione Popolare",
+  "source_slug": "programma-elettorale-unione-popolare",
+  "list": "Unione Popolare",
+  "list_id": 13,
+  "endorsement": "grey",
+  "description": ""
+}
+,{
+  "id": 2880,
+  "category": "Ambiente ed energia",
+  "category_id": 5,
+  "subject": "Abolizione della caccia",
+  "subject_slug": "abolizione-della-caccia",
+  "subject_id": 196,
+  "source": "Programma elettorale Vita",
+  "source_slug": "programma-elettorale-vita",
+  "list": "Vita",
+  "list_id": 14,
+  "endorsement": "grey",
+  "description": ""
+}
 ]
