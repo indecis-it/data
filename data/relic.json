@@ -961,7 +961,7 @@
 }
 ,{
   "subject": "Estensione del diritto di voto ai sedicenni",
-  "subject_id": 189,
+  "subject_id": 159,
   "category": "Istituzioni e giustizia",
   "category_id": 1
 }
@@ -1021,7 +1021,7 @@
 }
 ,{
   "subject": "Maggiore centralità del Parlamento europeo",
-  "subject_id": 190,
+  "subject_id": 160,
   "category": "Esteri e difesa",
   "category_id": 2
 }
@@ -1033,37 +1033,37 @@
 }
 ,{
   "subject": "Riforma delle concessioni balneari",
-  "subject_id": 191,
+  "subject_id": 161,
   "category": "Economia e fisco",
   "category_id": 4
 }
 ,{
   "subject": "Liberalizzazione del trasporto pubblico non di linea",
-  "subject_id": 192,
+  "subject_id": 162,
   "category": "Economia e fisco",
   "category_id": 4
 }
 ,{
   "subject": "Riforma delle concessioni balneari",
-  "subject_id": 191,
+  "subject_id": 161,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
 }
 ,{
   "subject": "Liberalizzazione del trasporto pubblico non di linea",
-  "subject_id": 192,
+  "subject_id": 162,
   "category": "Lavoro e politiche sociali",
   "category_id": 8
 }
 ,{
   "subject": "Miglioramento della rete idrica",
-  "subject_id": 175,
+  "subject_id": 157,
   "category": "Ambiente ed energia",
   "category_id": 5
 }
 ,{
   "subject": "Investimenti nella prevenzione del dissesto idrogeologico",
-  "subject_id": 176,
+  "subject_id": 158,
   "category": "Ambiente ed energia",
   "category_id": 5
 }
@@ -1075,7 +1075,7 @@
 }
 ,{
   "subject": "Abolizione della caccia",
-  "subject_id": 196,
+  "subject_id": 163,
   "category": "Ambiente ed energia",
   "category_id": 5
 }
