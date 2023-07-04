@@ -148,8 +148,11 @@ field | type | description | example
 -- | -- | -- | --
 id | integer | Subject ID | 1
 subject | string | Subject name | Alloggi popolari
-subject_slug | string | Subject slug | alloggi-popolari
-url | URL | URL of an external reference | https://www.indecis.it
+slug | string | Subject slug | alloggi-popolari
+url | URL | URL of an external reference | https://it.wikipedia.org/wiki/Tariffe_del_gas
+source | string | External source name | Wikipedia
+title | string | Title of the web page | Tariffe del gas
+description | string | Explanation of the subject | Lorem ipsum
 
 ### [📄 endorsements.csv](https://github.com/indecis-it/data/blob/main/data/endorsements.csv)
 
@@ -180,6 +183,7 @@ url | string | Post URL | https://indecis.it
 post_title | string | Post title | Lorem ipsum
 post_subtitle | string | Post subtitle | Lorem ipsum
 type | string | Post type | articolo
+source | string | Post source | Lorem ipsum
 subject | string | Subject name | Nucleare
 list | string | Electoral list name | Partito Democratico
 subject_id | integer | Subject ID | 1
