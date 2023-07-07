@@ -397,8 +397,10 @@ resources:
           format: uri
         - name: post_title
           type: string
+          title: Post title
         - name: post_subtitle
           type: string
+          title: Post subtitle
         - name: type
           title: Post type
           type: string
@@ -411,12 +413,16 @@ resources:
           title: Post source
         - name: subject
           type: string
+          title: Subject name
         - name: list
           type: string
+          title: Electoral list name
         - name: subject_id
           type: integer
+          title: Subject ID
         - name: list_id
           type: integer
+          title: Electoral list ID
       foreignKeys:
         - fields:
             - subject
