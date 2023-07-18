@@ -1,5 +1,5 @@
 # indecis.it data
-[![Frictionless](https://github.com/indecis-it/data/actions/workflows/main.yml/badge.svg)](https://repository.frictionlessdata.io/report?user=indecis-it&repo=data&flow=update) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> 
+[![Frictionless](https://github.com/indecis-it/data/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/pages/dashboard.html?user=indecis-it&repo=data&flow=frictionless) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> 
 
 This dataset was created during the italian election campaign of 2022. [indecis.it](https://www.indecis.it) website fetches and display these data in order to highlight differences in electoral programs.
 
